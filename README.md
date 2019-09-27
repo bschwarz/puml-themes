@@ -1,2 +1,2 @@
 # puml-themes
-Plantuml Themese
+Plantuml Themes
