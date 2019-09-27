@@ -1,0 +1,71 @@
+@startuml
+!include puml-theme-cerulean.cfg
+autonumber "<b>[000]"
+
+header Page Header
+footer Page %page% of %lastpage%
+
+title Example Title
+
+actor Foo1
+boundary Foo2
+control Foo3
+entity Foo4
+database Foo5
+collections Foo6
+participant Bob
+participant Alice << (C,#ADD1B2) Testable >>
+
+box "Internal Service"
+	participant Bob
+	participant Alice
+end box
+
+== Initialization ==
+Foo1 -> Foo2 : To boundary
+|||
+Foo2 -> Foo3 ++: To control
+ref over Foo4, Foo5
+  This can be on
+  several lines
+end ref
+Foo3 -> Foo4 : To entity
+
+Foo4 -> Foo5 : To database
+Foo5 --> Foo3 -- : return
+Foo3 --> Foo2 --: return
+... Some ~~long delay~~ ...
+Foo1 -> Foo6 : To collections
+Foo6 --> Foo4: $success("success")
+
+
+alt successful case
+
+Foo1 -> Alice: Authentication Accepted
+Alice --> Foo1: success
+
+note left of Alice: this is a first note
+
+else some kind of failure
+
+	Foo1 -> Alice: Authentication Failure
+    Alice --> Foo1: $failure("Bad request")
+	group My own label
+	    loop 1000 times
+	        Alice -> Foo1: DNS Attack
+	    end
+	end
+	
+else Just a Warning
+
+   Foo1 -> Alice: $warning("Please repeat")
+   
+end
+
+note over Foo1, Foo2
+this is a second note
+that is really
+long
+end note
+
+@enduml
