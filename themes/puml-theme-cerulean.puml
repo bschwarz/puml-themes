@@ -223,20 +223,15 @@ skinparam actor {
 }
 
 skinparam class {
-	BackgroundColor #ffffff-#f2f2f2
-	BorderColor #d2d2d2
-	ArrowColor #d2d2d2
-  ArrowThickness 2
-  FontName Verdana
-  StereotypeFontName Verdana
-  StereotypeFontColor #333333
-  AttributeFontName Verdana
-  Shadowing 0.0
-  FontStyle bold
-  LineThickness 4
-  BorderThickness 1
-  FontColor #0568ae
-  AttributeFontColor #333333
+	FontColor $PRIMARY
+	BackgroundColor $WHITE-$SECONDARY_TINT
+	BorderColor $SECONDARY
+	ArrowColor $SECONDARY_SHADE
+	ArrowThickness 2
+	StereotypeFontColor $DARK
+	LineThickness 4
+	BorderThickness 1
+	AttributeFontColor $DARK
 }
 
 skinparam usecase {
