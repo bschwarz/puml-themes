@@ -1,22 +1,11 @@
-'
-' Global Default Values
-'
-skinparam defaultFontName       "Open Sans"
-skinparam defaultFontSize       12
-skinparam LegendBackgroundColor #eeeeee
-skinparam dpi                   100
-skinparam shadowing             false
-skinparam roundcorner           8
-skinparam ParticipantPadding    10
-skinparam BoxPadding            2
-skinparam Padding               2
+''
+'' Cerulean theme based off of the bootstrap theme of the same name
+'' https://bootswatch.com/cerulean/
+''
 
-' first color is a tint of the second color of 80% (lighter - darker)
-!$PRIMARYCLR = "#59B6EC-#2FA4E7"
-!$PRIMARYCLRALT = "#44ADE9"
-!$PRIAMRYTEXT = "#ffffff"
-!$SECONDARYCLR = "#EDF0F2-#e9ecef"
-!$SECONDARYTEXT = "#212529"
+''
+'' Colors taken from the css file of the BS theme
+''
 !$BLUE = "#033C73"
 !$INDIGO = "#6610F2"
 !$PURPLE = "#6F42C1"
@@ -28,7 +17,7 @@ skinparam Padding               2
 !$TEAL = "#20C997"
 !$CYAN = "#2FA4E7"
 !$WHITE = "#FFF"
-!$GRAYDARK = "#343A40"
+!$GRAY_DARK = "#343A40"
 !$GRAY = "#868E96"
 !$PRIMARY = "#2FA4E7"
 !$SECONDARY = "#E9ECEF"
@@ -38,40 +27,51 @@ skinparam Padding               2
 !$DANGER = "#C71C22"
 !$LIGHT = "#F8F9FA"
 !$DARK = "#343A40"
-!$POST = '<color #007a3e>POST</color>'
+
+'' *_TINT = tint (lighter) of the main color of 80%
+''          where TINT is calculated by clr + (255-clr) * tint_factor
+'' *_SHADE = shade (darker) of the main color of 80%
+''          and SHADE is calculated by clr * (1 - shade_factor)
+''
+!$PRIMARY_TINT = "#59B6EC"
+!$PRIMARY_SHADE = "#2A94D0"
+!$PRIMARY_TEXT = $WHITE
+!$SECONDARY_TINT = "#EDF0F2"
+!$SECONDARY_SHADE = "#D2D4D7"
+!$SECONDARY_TEXT = $DARK
+!$INFO_TINT = "#1C5081"
+!$INFO_TEXT = $WHITE
+
 !function $success($msg)
- <font color=$SUCCESS><b>$msg
+  <font color=$SUCCESS><b>$msg
 !endfunction
 
 !function $failure($msg)
- <font color=$DANGER><b>$msg
+  <font color=$DANGER><b>$msg
 !endfunction
 
 !function $warning($msg)
- <font color=$WARNING><b>$msg
+  <font color=$WARNING><b>$msg
 !endfunction
 
-!define _PUT <color #ea7400>PUT</color>
-!define _DELETE <color #cf2a2a>DELETE</color>
-!define _GET <color $PRIMARYCLR>GET</color>
-!define _PATCH <color #b5bd00>PATCH</color>
-!define _HEAD <color #9012fe>HEAD</color>
 
-' for status codes
-!define OK(x) <color green>x</color>
-!define ERROR(x) <color red>x</color>
-!define COND(x) <color orange>x</color>
-
-' For marking parameters as optionally or required
-!define REDSTAR <color red>*</color>
-!define REQ(x) <b>x</b>
-!define OPT(x) <color #555>x</color>
-
-
+''
+'' Global Default Values
+''
+skinparam defaultFontName       "Arial"
+skinparam defaultFontSize       12
+skinparam LegendBackgroundColor $LIGHT
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    10
+skinparam BoxPadding            2
+skinparam Padding               2
+skinparam TitleFontColor	    red
 
 skinparam activity {
-    ParticipantBackgroundColor $PRIMARYCLR
-    ParticipantBorderColor $PRIMARYCLR
+    ParticipantBackgroundColor $PRIMARY_TINT-$PRIMARY
+    ParticipantBorderColor $PRIMARY
 	ParticipantFontSize 10
 	ParticipantFontColor white
     BorderColor #d2d2d2
@@ -84,36 +84,49 @@ skinparam activity {
 }
 	
 skinparam sequence {
-    ParticipantBackgroundColor $PRIMARYCLR
-    ParticipantBorderColor $PRIMARYCLRCLR
-	ParticipantBorderThickness 0
-	ParticipantFontColor $PRIAMRYTEXT
-	'ParticipantFontStyle bold
-	ActorBackgroundColor transparent
-    ActorBorderColor $PRIMARYCLR
-	ActorFontColor $PRIMARYCLR
-    BorderColor $PRIMARYCLR
+	BorderColor $PRIMARY
 	TitleFontSize 14
-	BackgroundColor white
-	ArrowColor #959595
+	TitleFontColor $DARK
+	BackgroundColor transparent
+	StartColor $PRIMARY
+	EndColor $PRIMARY
+	''
+    ParticipantBackgroundColor $PRIMARY_TINT-$PRIMARY
+    ParticipantBorderColor $PRIMARY
+	ParticipantBorderThickness 0
+	ParticipantFontColor $PRIMARY_TEXT
+	''ParticipantFontStyle bold
+	''
+	ActorBackgroundColor transparent
+    ActorBorderColor $PRIMARY
+	ActorFontColor $PRIMARY
+	''
+	ArrowColor $LIGHT
 	ArrowThickness 4
-	'ArrowColor #bbbbbb
-	StartColor $PRIMARYCLR
-	EndColor $PRIMARYCLR
-	BoxBackgroundColor $PRIMARYCLR
-	'LifeLineBorderColor #959595
-	LifeLineBorderColor #d2d2d2
-	LifeLineBorderThickness 3
-	LifeLineBackgroundColor #f2f2f2
+	''
+	BoxBackgroundColor $LIGHT
+	BoxBorderColor $GRAY
+	BoxFontColor $DARk
+	''
+	LifeLineBorderColor $SECONDARY
+	LifeLineBorderThickness 4
+	LifeLineBackgroundColor $SECONDARY_TINT
+	''
+	''GroupBorderStyle dashed
 	GroupBorderColor #959595
-	'GroupBorderStyle dashed
 	GroupFontColor #666666
-	GroupTitleFontColor #666666
+	GroupHeaderFontColor #666666
 	GroupHeaderFontSize 11
-	DividerBackgroundColor white-#f2f2f2
-    DividerBorderColor #bbbbbb
-    DividerBorderThickness 1
-    DividerFontColor #666666
+	''
+	DividerBackgroundColor $WHITE-$LIGHT
+    DividerBorderColor $GRAY
+    DividerBorderThickness 2
+    DividerFontColor $DARK
+	''
+	ReferenceBorderColor #959595
+	ReferenceFontColor #666666
+	ReferenceHeaderFontColor #666666
+	ReferenceHeaderFontSize 11
 }
 
 skinparam partition {
@@ -130,42 +143,56 @@ skinparam partition {
 	GroupFontColor #666666
 	GroupTitleFontColor #666666
 }
-	
 
-skinparam note {
-	BorderThickness 1
-	BackgroundColor white-#fdfdfd
-	BorderColor #e0e0e0
-	FontColor #333333
+skinparam collections {
+	BackgroundColor $PRIMARY_TINT-$PRIMARY
+	BorderColor $PRIMARY
 }
 
-skinparam artifact {
-	BackgroundColor white-#f8f8f8
-	BorderColor #cccccc
-	FontColor $PRIMARYCLR
+skinparam control {
+	BackgroundColor  $PRIMARY_TINT-$PRIMARY
+	BorderColor $PRIMARY_SHADE
+	FontColor $DARK
 }
+
+skinparam entity {
+	BackgroundColor  $PRIMARY_TINT-$PRIMARY
+	BorderColor $PRIMARY_SHADE
+	FontColor $DARK
+}
+
+skinparam boundary {
+	BackgroundColor  $PRIMARY_TINT-$PRIMARY
+	BorderColor $PRIMARY_SHADE
+	FontColor $DARK
+}
+
 skinparam agent {
 	BackgroundColor #orange
 	BorderColor #999999
 	FontColor #333333
 }
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor $INFO_TINT-$INFO
+	BorderColor $INFO
+	FontColor $WHITE
+}
+
+skinparam artifact {
+	BackgroundColor white-#f8f8f8
+	BorderColor #cccccc
+	FontColor $PRIMARY
+}
+
 skinparam component {
 	BackgroundColor  #d6eaf8-#aed6f1
 	BorderColor  #aed6f1
 	FontColor #333333
 }
 
-skinparam control {
-	BackgroundColor #yellowgreen
-	BorderColor #green
-	FontColor #333333
-}
 
-skinparam entity {
-	BackgroundColor lightskyblue-lightblue
-	BorderColor lightskyblue
-	FontColor #333333
-}
 
 skinparam storage {
 	BackgroundColor #eeeeee
@@ -186,9 +213,9 @@ skinparam cloud {
 }
 
 skinparam database {
-	BackgroundColor  #f8c471-#f5b041
-	BorderColor #f5b041
-	FontColor #333333
+	BackgroundColor  $PRIMARY_TINT-$PRIMARY
+	BorderColor $PRIMARY_SHADE
+	FontColor $DARK
 }
 
 skinparam actor {
@@ -212,3 +239,17 @@ skinparam class {
   AttributeFontColor #333333
 }
 
+skinparam usecase {
+	BackgroundColor $SECONDARY_TINT-$SECONDARY
+	BorderColor $SECONDARY
+	BorderThickness 2
+	FontColor $DARK
+	StereotypeFontColor $PRIMARY
+}
+
+skinparam rectangle {
+	BackgroundColor $LIGHT
+	BorderColor $PRIMARY_SHADE
+	BorderThickness 2
+
+}
