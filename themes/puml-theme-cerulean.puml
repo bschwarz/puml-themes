@@ -2,6 +2,7 @@
 '' Cerulean theme based off of the bootstrap theme of the same name
 '' https://bootswatch.com/cerulean/
 ''
+'' Author: Brett Schwarz
 
 ''
 '' Colors taken from the css file of the BS theme
@@ -64,7 +65,7 @@
 ''
 '' Global Default Values
 ''
-skinparam defaultFontName       "Arial"
+skinparam defaultFontName       "Tahoma"
 skinparam defaultFontSize       12
 skinparam LegendBackgroundColor $LIGHT
 skinparam dpi                   100
