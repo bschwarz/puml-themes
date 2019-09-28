@@ -34,13 +34,19 @@
 ''          and SHADE is calculated by clr * (1 - shade_factor)
 ''
 !$PRIMARY_TINT = "#59B6EC"
-!$PRIMARY_SHADE = "#2A94D0"
+!$PRIMARY_SHADE = "#2683B9"
 !$PRIMARY_TEXT = $WHITE
 !$SECONDARY_TINT = "#EDF0F2"
-!$SECONDARY_SHADE = "#D2D4D7"
+!$SECONDARY_SHADE = "#BABDBF"
 !$SECONDARY_TEXT = $DARK
-!$INFO_TINT = "#1C5081"
+!$INFO_TINT = "#35638F"
 !$INFO_TEXT = $WHITE
+!$SUCCESS_TINT = "#8FB961"
+!$SUCCESS_TEXT = $WHITE
+!$WARNING_TINT = "#E47833"
+!$WARNING_TEXT = $WHITE
+!$DANGER_TINT = "#D2494E"
+!$DANGER_TEXT = $WHITE
 
 !function $success($msg)
   <font color=$SUCCESS><b>$msg
@@ -180,23 +186,27 @@ skinparam note {
 }
 
 skinparam artifact {
-	BackgroundColor white-#f8f8f8
-	BorderColor #cccccc
-	FontColor $PRIMARY
+	BackgroundColor $WHITE-$LIGHT
+	BorderColor $GRAY
+	FontColor $DARK
 }
 
 skinparam component {
-	BackgroundColor  #d6eaf8-#aed6f1
-	BorderColor  #aed6f1
-	FontColor #333333
+	BackgroundColor  $SUCCESS_TINT-$SUCCESS
+	BorderColor  $SUCCESS
+	FontColor $SUCCESS_TEXT
 }
 
-
+skinparam interface {
+	BackgroundColor  $DANGER_TINT
+	BorderColor  $DANGER
+	FontColor $DARK
+}
 
 skinparam storage {
-	BackgroundColor #eeeeee
-	BorderColor #0077A4
-	FontColor #333333
+	BackgroundColor $WARNING_TINT-$WARNING
+  	BorderColor $WARNING
+	FontColor $WARNING_TEXT
 }
 
 skinparam node {
@@ -206,9 +216,9 @@ skinparam node {
 }
 
 skinparam cloud {
-	BackgroundColor white-#f2f2f2
-	BorderColor #cccccc
-	FontColor #333333
+	BackgroundColor white-$PRIMARY_TINT
+	BorderColor $LIGHT
+	FontColor $DARK
 }
 
 skinparam database {
@@ -218,7 +228,7 @@ skinparam database {
 }
 
 skinparam actor {
-	FontColor #333333
+	FontColor $DARK
 }
 
 skinparam class {
@@ -246,5 +256,25 @@ skinparam rectangle {
 	BackgroundColor $LIGHT
 	BorderColor $PRIMARY_SHADE
 	BorderThickness 2
+}
 
+skinparam package {
+	BackgroundColor $WHITE-$SECONDARY_TINT
+  	BorderColor $PRIMARY
+	FontColor $PRIMARY
+	BorderThickness 2
+}
+
+skinparam folder {
+	BackgroundColor $WHITE-$SECONDARY_TINT
+  	BorderColor $SECONDARY_SHADE
+	FontColor $DARK
+	BorderThickness 2
+}
+
+skinparam frame {
+	BackgroundColor $WHITE-$SECONDARY
+  	BorderColor $SECONDARY_SHADE
+	FontColor $DARK
+	BorderThickness 2
 }
