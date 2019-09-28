@@ -118,20 +118,18 @@ skinparam sequence {
 	LifeLineBackgroundColor $SECONDARY_TINT
 	''
 	''GroupBorderStyle dashed
-	GroupBorderColor #959595
-	GroupFontColor #666666
-	GroupHeaderFontColor #666666
-	GroupHeaderFontSize 11
+	GroupBorderColor $GRAY
+	GroupFontColor $DARK
+	GroupHeaderFontColor $INFO
 	''
 	DividerBackgroundColor $WHITE-$LIGHT
     DividerBorderColor $GRAY
     DividerBorderThickness 2
     DividerFontColor $DARK
 	''
-	ReferenceBorderColor #959595
-	ReferenceFontColor #666666
-	ReferenceHeaderFontColor #666666
-	ReferenceHeaderFontSize 11
+	ReferenceBorderColor $GRAY
+	ReferenceFontColor $DARK
+	ReferenceHeaderFontColor $INFO
 }
 
 skinparam partition {
@@ -210,9 +208,9 @@ skinparam storage {
 }
 
 skinparam node {
-	BackgroundColor  #f2f3f4-#e5e7e9
-	BorderColor #e5e7e9
-	FontColor #333333
+	BackgroundColor  $WHITE-$LIGHT
+	BorderColor $INFO_TINT
+	FontColor $INFO_TINT
 }
 
 skinparam cloud {
@@ -224,7 +222,7 @@ skinparam cloud {
 skinparam database {
 	BackgroundColor  $PRIMARY_TINT-$PRIMARY
 	BorderColor $PRIMARY_SHADE
-	FontColor $DARK
+	FontColor $PRIMARY_TEXT
 }
 
 skinparam actor {
