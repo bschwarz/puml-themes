@@ -70,17 +70,16 @@ skinparam Padding               2
 skinparam TitleFontColor	    red
 
 skinparam activity {
-    ParticipantBackgroundColor $PRIMARY_TINT-$PRIMARY
-    ParticipantBorderColor $PRIMARY
-	ParticipantFontSize 10
-	ParticipantFontColor white
-    BorderColor #d2d2d2
 	TitleFontSize 14
-	BackgroundColor white-#f2f2f2
-	DiamondBackgroundColor #f8f8f8-#d8d8d8
-  	DiamondBorderColor #cccccc
-	ArrowColor #bbbbbb
-	BoxBackgroundColor blue
+	FontColor $PRIMARY_TEXT
+	BorderColor $PRIMARY
+	BackgroundColor $PRIMARY_TINT-$PRIMARY
+	BarColor $GRAY
+	StartColor $INFO
+	EndColor $INFO
+	''
+	DiamondBackgroundColor $WHITE-$SECONDARY_TINT
+  	DiamondBorderColor $SECONDARY
 }
 	
 skinparam sequence {
@@ -241,6 +240,7 @@ skinparam usecase {
 	FontColor $DARK
 	StereotypeFontColor $PRIMARY
 }
+
 
 skinparam rectangle {
 	BackgroundColor $LIGHT
