@@ -1,5 +1,5 @@
 @startuml
-!include puml-theme-cerulean.puml
+'!include puml-theme-cerulean.puml
 
 start
  :start;
