@@ -4,8 +4,10 @@
 start
  :start;
  fork
+  partition "My Partition" {
    :foo1;
    :foo2;
+  }
  fork again
    :foo3;
    detach
