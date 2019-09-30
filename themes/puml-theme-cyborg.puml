@@ -80,13 +80,14 @@ skinparam activity {
 	TitleFontSize 14
 	FontColor $PRIMARY_TEXT
 	BorderColor $PRIMARY
-	BackgroundColor $PRIMARY_TINT-$PRIMARY
-	BarColor $GRAY
+	BackgroundColor $PRIMARY
+	BarColor $SUCCESS
 	StartColor $INFO
 	EndColor $INFO
 	''
-	DiamondBackgroundColor $WHITE-$SECONDARY_TINT
-  	DiamondBorderColor $SECONDARY
+	DiamondBackgroundColor $SECONDARY_TINT
+  	DiamondBorderColor $SECONDARY_TINT
+  	DiamondFontColor $SECONDARY_TEXT
 }
 	
 skinparam sequence {
@@ -97,7 +98,7 @@ skinparam sequence {
 	StartColor $PRIMARY
 	EndColor $PRIMARY
 	''
-    ParticipantBackgroundColor $PRIMARY_TINT-$PRIMARY
+    ParticipantBackgroundColor $PRIMARY
     ParticipantBorderColor $PRIMARY
 	ParticipantBorderThickness 0
 	ParticipantFontColor $PRIMARY_TEXT
@@ -110,42 +111,37 @@ skinparam sequence {
 	ArrowColor $LIGHT
 	ArrowThickness 4
 	''
-	BoxBackgroundColor $LIGHT
-	BoxBorderColor $GRAY
+	BoxBackgroundColor transparent
+	BoxBorderColor $DARK
 	BoxFontColor $DARk
 	''
-	LifeLineBorderColor $SECONDARY
+	LifeLineBorderColor $DARK
 	LifeLineBorderThickness 4
-	LifeLineBackgroundColor $SECONDARY_TINT
+	LifeLineBackgroundColor $SECONDARY
 	''
 	''GroupBorderStyle dashed
-	GroupBorderColor $GRAY
+	GroupBorderColor $DARK
 	GroupFontColor $DARK
 	GroupHeaderFontColor $INFO
 	''
-	DividerBackgroundColor $WHITE-$LIGHT
-    DividerBorderColor $GRAY
+	DividerBackgroundColor $DARK
+    DividerBorderColor $DARK
     DividerBorderThickness 2
-    DividerFontColor $DARK
+    DividerFontColor $LIGHT
 	''
-	ReferenceBorderColor $GRAY
+	ReferenceBorderColor $DARK
 	ReferenceFontColor $DARK
 	ReferenceHeaderFontColor $INFO
 }
 
 skinparam partition {
-  BorderColor #959595
-  FontColor #959595
-	BackgroundColor white
-	ArrowColor #959595
-	'ArrowColor #bbbbbb
-	GroupTitleBackgroundColor #959595
-	'LifeLineBorderColor #959595
-	LifeLineBorderColor #bbbbbb
-	GroupBorderColor #959595
-	'GroupBorderStyle dashed
-	GroupFontColor #666666
-	GroupTitleFontColor #666666
+	BorderColor $PRIMARY
+	FontColor $PRIMARY
+	BackgroundColor transparent
+	'GroupTitleBackgroundColor transparent
+	'GroupBorderColor $SECONDARY
+	'GroupFontColor $SECONDARY
+	'GroupTitleFontColor $SECONDARY
 }
 
 skinparam collections {
@@ -154,44 +150,44 @@ skinparam collections {
 }
 
 skinparam control {
-	BackgroundColor  $PRIMARY_TINT-$PRIMARY
+	BackgroundColor  $PRIMARY
 	BorderColor $PRIMARY_SHADE
 	FontColor $DARK
 }
 
 skinparam entity {
-	BackgroundColor  $PRIMARY_TINT-$PRIMARY
+	BackgroundColor  $PRIMARY
 	BorderColor $PRIMARY_SHADE
 	FontColor $DARK
 }
 
 skinparam boundary {
-	BackgroundColor  $PRIMARY_TINT-$PRIMARY
+	BackgroundColor  $PRIMARY
 	BorderColor $PRIMARY_SHADE
 	FontColor $DARK
 }
 
 skinparam agent {
-	BackgroundColor #orange
-	BorderColor #999999
-	FontColor #333333
+	BackgroundColor $WARNINIG
+	BorderColor $WARNING_SHADE
+	FontColor $DARK
 }
 
 skinparam note {
 	BorderThickness 1
-	BackgroundColor $INFO_TINT-$INFO
+	BackgroundColor $INFO
 	BorderColor $INFO
 	FontColor $WHITE
 }
 
 skinparam artifact {
-	BackgroundColor $WHITE-$LIGHT
+	BackgroundColor $SECONDARY
 	BorderColor $GRAY
 	FontColor $DARK
 }
 
 skinparam component {
-	BackgroundColor  $SUCCESS_TINT-$SUCCESS
+	BackgroundColor  $SUCCESS
 	BorderColor  $SUCCESS
 	FontColor $SUCCESS_TEXT
 }
@@ -203,13 +199,13 @@ skinparam interface {
 }
 
 skinparam storage {
-	BackgroundColor $WARNING_TINT-$WARNING
+	BackgroundColor $WARNING
   	BorderColor $WARNING
 	FontColor $WARNING_TEXT
 }
 
 skinparam node {
-	BackgroundColor  $WHITE-$LIGHT
+	BackgroundColor  $DARK
 	BorderColor $INFO_TINT
 	FontColor $INFO_TINT
 }
@@ -221,7 +217,7 @@ skinparam cloud {
 }
 
 skinparam database {
-	BackgroundColor  $PRIMARY_TINT-$PRIMARY
+	BackgroundColor  $PRIMARY
 	BorderColor $PRIMARY_SHADE
 	FontColor $PRIMARY_TEXT
 }
@@ -243,7 +239,7 @@ skinparam class {
 }
 
 skinparam usecase {
-	BackgroundColor $SECONDARY_TINT-$SECONDARY
+	BackgroundColor $SECONDARY
 	BorderColor $SECONDARY
 	BorderThickness 2
 	FontColor $DARK
@@ -258,21 +254,21 @@ skinparam rectangle {
 }
 
 skinparam package {
-	BackgroundColor $WHITE-$SECONDARY_TINT
+	BackgroundColor $SECONDARY_TINT
   	BorderColor $PRIMARY
 	FontColor $PRIMARY
 	BorderThickness 2
 }
 
 skinparam folder {
-	BackgroundColor $WHITE-$SECONDARY_TINT
+	BackgroundColor $SECONDARY_TINT
   	BorderColor $SECONDARY_SHADE
 	FontColor $DARK
 	BorderThickness 2
 }
 
 skinparam frame {
-	BackgroundColor $WHITE-$SECONDARY
+	BackgroundColor $SECONDARY
   	BorderColor $SECONDARY_SHADE
 	FontColor $DARK
 	BorderThickness 2
