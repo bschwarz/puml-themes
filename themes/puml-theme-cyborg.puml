@@ -43,11 +43,16 @@
 !$INFO_TINT = "#AD5CD6"
 !$INFO_TEXT = $WHITE
 !$SUCCESS_TINT = "#92C233"
+!$SUCCESS_SHADE = "#5F8F00"
 !$SUCCESS_TEXT = $WHITE
 !$WARNING_TINT = "#FFA033"
 !$WARNING_TEXT = $WHITE
 !$DANGER_TINT = "#D63333"
 !$DANGER_TEXT = $WHITE
+!$DARK_TINT = "#BDBFBE"
+!$DARK_SHADE = "#8A8C8B"
+!$LIGHT_TINT = "#4E4E4E"
+!$LIGHT_SHADE = "#1B1B1B"
 
 !function $success($msg)
   <font color=$SUCCESS><b>$msg
@@ -75,6 +80,7 @@ skinparam ParticipantPadding    10
 skinparam BoxPadding            2
 skinparam Padding               2
 skinparam TitleFontColor	    red
+skinparam ArrowColor            $DARK
 
 skinparam activity {
 	TitleFontSize 14
@@ -108,8 +114,7 @@ skinparam sequence {
     ActorBorderColor $PRIMARY
 	ActorFontColor $PRIMARY
 	''
-	ArrowColor $LIGHT
-	ArrowThickness 4
+	ArrowThickness 2
 	''
 	BoxBackgroundColor transparent
 	BoxBorderColor $DARK
@@ -176,19 +181,19 @@ skinparam agent {
 skinparam note {
 	BorderThickness 1
 	BackgroundColor $INFO
-	BorderColor $INFO
+	BorderColor $INFO_TINT
 	FontColor $WHITE
 }
 
 skinparam artifact {
-	BackgroundColor $SECONDARY
-	BorderColor $GRAY
-	FontColor $DARK
+	BackgroundColor $DARK
+	BorderColor $DARK_TINT
+	FontColor $LIGHT
 }
 
 skinparam component {
 	BackgroundColor  $SUCCESS
-	BorderColor  $SUCCESS
+	BorderColor  $SUCCESS_TINT
 	FontColor $SUCCESS_TEXT
 }
 
@@ -200,26 +205,26 @@ skinparam interface {
 
 skinparam storage {
 	BackgroundColor $WARNING
-  	BorderColor $WARNING
+  	BorderColor $WARNING_TINT
 	FontColor $WARNING_TEXT
 }
 
 skinparam node {
-	BackgroundColor  $DARK
-	BorderColor $INFO_TINT
-	FontColor $INFO_TINT
+	BackgroundColor  $SECONDARY
+	BorderColor $DARK
+	FontColor $DARK
 }
 
 skinparam cloud {
 	BackgroundColor white-$PRIMARY_TINT
-	BorderColor $LIGHT
+	BorderColor transparent
 	FontColor $DARK
 }
 
 skinparam database {
 	BackgroundColor  $PRIMARY
 	BorderColor $PRIMARY_SHADE
-	FontColor $PRIMARY_TEXT
+	FontColor $DARK
 }
 
 skinparam actor {
@@ -230,7 +235,7 @@ skinparam class {
 	FontColor $PRIMARY
 	BackgroundColor $WHITE-$SECONDARY_TINT
 	BorderColor $SECONDARY
-	ArrowColor $SECONDARY_SHADE
+	'ArrowColor $SECONDARY_SHADE
 	ArrowThickness 2
 	StereotypeFontColor $DARK
 	LineThickness 4
@@ -254,22 +259,22 @@ skinparam rectangle {
 }
 
 skinparam package {
-	BackgroundColor $SECONDARY_TINT
+	BackgroundColor $SECONDARY
   	BorderColor $PRIMARY
-	FontColor $PRIMARY
+	FontColor $DARK
 	BorderThickness 2
 }
 
 skinparam folder {
-	BackgroundColor $SECONDARY_TINT
-  	BorderColor $SECONDARY_SHADE
+	BackgroundColor $SECONDARY_SHADE
+  	BorderColor $WARNING
 	FontColor $DARK
 	BorderThickness 2
 }
 
 skinparam frame {
-	BackgroundColor $SECONDARY
-  	BorderColor $SECONDARY_SHADE
+	BackgroundColor $SECONDARY_SHADE
+  	BorderColor $INFO
 	FontColor $DARK
 	BorderThickness 2
 }

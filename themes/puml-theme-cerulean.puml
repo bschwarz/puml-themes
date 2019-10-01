@@ -75,6 +75,7 @@ skinparam ParticipantPadding    10
 skinparam BoxPadding            2
 skinparam Padding               2
 skinparam TitleFontColor	    red
+skinparam ArrowColor            $GRAY
 
 skinparam activity {
 	TitleFontSize 14
@@ -107,16 +108,15 @@ skinparam sequence {
     ActorBorderColor $PRIMARY
 	ActorFontColor $PRIMARY
 	''
-	ArrowColor $LIGHT
-	ArrowThickness 4
+	ArrowThickness 2
 	''
 	BoxBackgroundColor $LIGHT
 	BoxBorderColor $GRAY
 	BoxFontColor $DARk
 	''
-	LifeLineBorderColor $SECONDARY
+	LifeLineBorderColor $SECONDARY_SHADE
 	LifeLineBorderThickness 4
-	LifeLineBackgroundColor $SECONDARY_TINT
+	LifeLineBackgroundColor $SECONDARY
 	''
 	''GroupBorderStyle dashed
 	GroupBorderColor $GRAY
@@ -216,14 +216,14 @@ skinparam node {
 
 skinparam cloud {
 	BackgroundColor white-$PRIMARY_TINT
-	BorderColor $LIGHT
+	BorderColor transparent
 	FontColor $DARK
 }
 
 skinparam database {
 	BackgroundColor  $PRIMARY_TINT-$PRIMARY
 	BorderColor $PRIMARY_SHADE
-	FontColor $PRIMARY_TEXT
+	FontColor $DARK
 }
 
 skinparam actor {
@@ -234,8 +234,6 @@ skinparam class {
 	FontColor $PRIMARY
 	BackgroundColor $WHITE-$SECONDARY_TINT
 	BorderColor $SECONDARY
-	ArrowColor $SECONDARY_SHADE
-	ArrowThickness 2
 	StereotypeFontColor $DARK
 	LineThickness 4
 	BorderThickness 1
