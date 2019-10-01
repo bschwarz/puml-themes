@@ -1,12 +1,12 @@
 @startuml
 '!include puml-theme-cyborg.puml
 
-package "Some Group" {
+package "My Package" {
   HTTP - [First Component]
   [Another Component]
 }
  
-node "Other Groups" {
+node "My Node" {
   FTP - [Second Component]
   [First Component] --> FTP
 } 
@@ -16,17 +16,17 @@ cloud "My Cloud" {
 }
 
 
-database "MySql" {
-  folder "This is my folder" {
+database "My Database" {
+  folder "My folder" {
 	[Folder 3]
   }
-  frame "Foo" {
+  frame "My Frame" {
 	[Frame 4]
   }
 }
 
-artifact "An Artifact"
-storage "A Storage"
+artifact "My Artifact"
+storage "My Storage"
 
 [Another Component] --> [Example 1]
 [Example 1] --> [Folder 3]
