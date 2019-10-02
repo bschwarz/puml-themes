@@ -3,20 +3,18 @@
 PLANT=~/devcontent/bin/plantuml-1-2019-08.jar
 
 ##
-## Loop over the examples for each type of diagram
+## examples for each type of diagram
 ##
-for E in examples/*.puml; do
+EX=examples/*.puml
 
-	##
-	## Loop over each theme
-	##
-	for D in themes/*; do
-		for C in $D/*.puml; do
-			if [ -f $C ]; then
-				##puml.sh $E -tsvg -config C 
-				java -Djava.awt.headless=true -jar $PLANT $E -tsvg -config $C -o ${PWD}/$D
-				echo "$D -> $E"
-			fi
-		done
-	done
+##
+## Loop over each theme
+##
+for D in themes/*; do
+	C=$D/puml-theme-*.puml
+	if [ -f $C ]; then
+		##puml.sh $E -tsvg -config C 
+		java -Djava.awt.headless=true -jar $PLANT $EX -tsvg -config $C -o ${PWD}/$D
+		echo "Theme: $D"
+	fi
 done
