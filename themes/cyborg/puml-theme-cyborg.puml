@@ -68,12 +68,20 @@
 
 !$TITLE = "Cyborg Theme"
 
+!if %variable_exists("BGCLR")
+skinparam BackgroundColor BGCLR
+!else
+skinparam BackgroundColor transparent
+!endif
+'skinparam BackgroundColor black
+'skinparam TitleBackgroundColor black
+
 ''
 '' Global Default Values
 ''
 skinparam defaultFontName       "Verdana"
 skinparam defaultFontSize       12
-skinparam LegendBackgroundColor $LIGHT
+'skinparam LegendBackgroundColor $LIGHT
 skinparam dpi                   100
 skinparam shadowing             false
 skinparam roundcorner           8
@@ -147,11 +155,7 @@ skinparam sequence {
 skinparam partition {
 	BorderColor $PRIMARY
 	FontColor $PRIMARY
-	BackgroundColor transparent
-	'GroupTitleBackgroundColor transparent
-	'GroupBorderColor $SECONDARY
-	'GroupFontColor $SECONDARY
-	'GroupTitleFontColor $SECONDARY
+	'BackgroundColor transparent
 }
 
 skinparam collections {

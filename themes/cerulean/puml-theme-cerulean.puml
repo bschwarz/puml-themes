@@ -68,7 +68,7 @@
 ''
 skinparam defaultFontName       "Verdana"
 skinparam defaultFontSize       12
-skinparam LegendBackgroundColor $LIGHT
+'skinparam LegendBackgroundColor $LIGHT
 skinparam dpi                   100
 skinparam shadowing             false
 skinparam roundcorner           8
