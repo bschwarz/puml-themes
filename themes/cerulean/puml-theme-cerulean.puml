@@ -7,52 +7,47 @@
 ''
 '' Colors taken from the css file of the BS theme
 ''
-!$BLUE = "#2A9FD6"
-!$INDIGO = "#6610f2"
-!$PURPLE = "#6f42c1"
-!$PINK = "#e83e8c"
-!$RED = "#CC0000"
-!$ORANGE = "#fd7e14"
-!$YELLOW = "#FF8800"
-!$GREEN = "#77B300"
-!$TEAL = "#20c997"
-!$CYAN = "#9933CC"
+!$BLUE = "#033C73"
+!$INDIGO = "#6610F2"
+!$PURPLE = "#6F42C1"
+!$PINK = "#E83E8C"
+!$RED = "#C71C22"
+!$ORANGE = "#FD7E14"
+!$YELLOW = "#DD5600"
+!$GREEN = "#73A839"
+!$TEAL = "#20C997"
+!$CYAN = "#2FA4E7"
 !$WHITE = "#FFF"
-!$GRAY_DARK = "#222"
-!$GRAY = "#555"
-!$PRIMARY = "#2A9FD6"
-!$SECONDARY = "#555"
-!$SUCCESS = "#77B300"
-!$INFO = "#9933CC"
-!$WARNING = "#FF8800"
-!$DANGER = "#CC0000"
-!$LIGHT = "#222"
-!$DARK = "#ADAFAE"
+!$GRAY_DARK = "#343A40"
+!$GRAY = "#868E96"
+!$PRIMARY = "#2FA4E7"
+!$SECONDARY = "#E9ECEF"
+!$SUCCESS = "#73A839"
+!$INFO = "#033C73"
+!$WARNING = "#DD5600"
+!$DANGER = "#C71C22"
+!$LIGHT = "#F8F9FA"
+!$DARK = "#343A40"
 
 '' *_TINT = tint (lighter) of the main color of 80%
 ''          where TINT is calculated by clr + (255-clr) * tint_factor
 '' *_SHADE = shade (darker) of the main color of 80%
 ''          and SHADE is calculated by clr * (1 - shade_factor)
 ''
-!$PRIMARY_TINT = "#55B2DE"
-!$PRIMARY_SHADE = "#227FAB"
+!$PRIMARY_TINT = "#59B6EC"
+!$PRIMARY_SHADE = "#2683B9"
 !$PRIMARY_TEXT = $WHITE
-!$SECONDARY_TINT = "#777777"
-!$SECONDARY_SHADE = "#444444"
-!$SECONDARY_TEXT = $WHITE
-!$INFO_TINT = "#AD5CD6"
+!$SECONDARY_TINT = "#EDF0F2"
+!$SECONDARY_SHADE = "#BABDBF"
+!$SECONDARY_TEXT = $DARK
+!$INFO_TINT = "#35638F"
 !$INFO_TEXT = $WHITE
-!$SUCCESS_TINT = "#92C233"
-!$SUCCESS_SHADE = "#5F8F00"
+!$SUCCESS_TINT = "#8FB961"
 !$SUCCESS_TEXT = $WHITE
-!$WARNING_TINT = "#FFA033"
+!$WARNING_TINT = "#E47833"
 !$WARNING_TEXT = $WHITE
-!$DANGER_TINT = "#D63333"
+!$DANGER_TINT = "#D2494E"
 !$DANGER_TEXT = $WHITE
-!$DARK_TINT = "#BDBFBE"
-!$DARK_SHADE = "#8A8C8B"
-!$LIGHT_TINT = "#4E4E4E"
-!$LIGHT_SHADE = "#1B1B1B"
 
 !function $success($msg)
   <font color=$SUCCESS><b>$msg
@@ -66,6 +61,7 @@
   <font color=$WARNING><b>$msg
 !endfunction
 
+!$TITLE = "Cerulean Theme"
 
 ''
 '' Global Default Values
@@ -79,21 +75,22 @@ skinparam roundcorner           8
 skinparam ParticipantPadding    10
 skinparam BoxPadding            2
 skinparam Padding               2
-skinparam TitleFontColor	    red
-skinparam ArrowColor            $DARK
+skinparam TitleFontColor	    $DARK
+skinparam TitleFontSize	    	20
+skinparam TitleBorderColor	 	transparent
+skinparam ArrowColor            $GRAY
 
 skinparam activity {
 	TitleFontSize 14
 	FontColor $PRIMARY_TEXT
 	BorderColor $PRIMARY
-	BackgroundColor $PRIMARY
-	BarColor $SUCCESS
+	BackgroundColor $PRIMARY_TINT-$PRIMARY
+	BarColor $GRAY
 	StartColor $INFO
 	EndColor $INFO
 	''
-	DiamondBackgroundColor $SECONDARY_TINT
-  	DiamondBorderColor $SECONDARY_TINT
-  	DiamondFontColor $SECONDARY_TEXT
+	DiamondBackgroundColor $WHITE-$SECONDARY_TINT
+  	DiamondBorderColor $SECONDARY
 }
 	
 skinparam sequence {
@@ -104,7 +101,7 @@ skinparam sequence {
 	StartColor $PRIMARY
 	EndColor $PRIMARY
 	''
-    ParticipantBackgroundColor $PRIMARY
+    ParticipantBackgroundColor $PRIMARY_TINT-$PRIMARY
     ParticipantBorderColor $PRIMARY
 	ParticipantBorderThickness 0
 	ParticipantFontColor $PRIMARY_TEXT
@@ -116,8 +113,8 @@ skinparam sequence {
 	''
 	ArrowThickness 2
 	''
-	BoxBackgroundColor transparent
-	BoxBorderColor $DARK
+	BoxBackgroundColor $LIGHT
+	BoxBorderColor $GRAY
 	BoxFontColor $DARk
 	''
 	LifeLineBorderColor $PRIMARY
@@ -125,75 +122,80 @@ skinparam sequence {
 	LifeLineBackgroundColor $SECONDARY
 	''
 	''GroupBorderStyle dashed
-	GroupBorderColor $DARK
+	GroupBorderColor $GRAY
 	GroupFontColor $DARK
 	GroupHeaderFontColor $INFO
 	''
-	DividerBackgroundColor $DARK
-    DividerBorderColor $DARK
+	DividerBackgroundColor $WHITE-$LIGHT
+    DividerBorderColor $GRAY
     DividerBorderThickness 2
-    DividerFontColor $LIGHT
+    DividerFontColor $DARK
 	''
-	ReferenceBorderColor $DARK
+	ReferenceBorderColor $GRAY
 	ReferenceFontColor $DARK
 	ReferenceHeaderFontColor $INFO
 }
 
 skinparam partition {
-	BorderColor $PRIMARY
-	FontColor $PRIMARY
-	BackgroundColor transparent
-	'GroupTitleBackgroundColor transparent
-	'GroupBorderColor $SECONDARY
-	'GroupFontColor $SECONDARY
-	'GroupTitleFontColor $SECONDARY
+  BorderColor #959595
+  FontColor #959595
+	BackgroundColor white
+	ArrowColor #959595
+	'ArrowColor #bbbbbb
+	GroupTitleBackgroundColor #959595
+	'LifeLineBorderColor #959595
+	LifeLineBorderColor #bbbbbb
+	GroupBorderColor #959595
+	'GroupBorderStyle dashed
+	GroupFontColor #666666
+	GroupTitleFontColor #666666
 }
 
 skinparam collections {
-	BackgroundColor $PRIMARY
-	BorderColor $PRIMARY_TINT
+	BackgroundColor $PRIMARY_TINT-$PRIMARY
+	BorderColor $PRIMARY
 }
 
 skinparam control {
-	BackgroundColor  $PRIMARY
-	BorderColor $PRIMARY_TINT
+	BackgroundColor  $PRIMARY_TINT-$PRIMARY
+	BorderColor $PRIMARY_SHADE
 	FontColor $DARK
 }
 
 skinparam entity {
-	BackgroundColor  $PRIMARY
-	BorderColor $PRIMARY_TINT
+	BackgroundColor  $PRIMARY_TINT-$PRIMARY
+	BorderColor $PRIMARY_SHADE
 	FontColor $DARK
 }
 
 skinparam boundary {
-	BackgroundColor  $PRIMARY
-	BorderColor $PRIMARY_TINT
+	BackgroundColor  $PRIMARY_TINT-$PRIMARY
+	BorderColor $PRIMARY_SHADE
 	FontColor $DARK
 }
 
 skinparam agent {
-	BackgroundColor $WARNINIG
-	BorderColor $WARNING_SHADE
-	FontColor $DARK
+	BackgroundColor #orange
+	BorderColor #999999
+	FontColor #333333
 }
 
 skinparam note {
 	BorderThickness 1
-	BackgroundColor $INFO
-	BorderColor $INFO_TINT
+	BackgroundColor $INFO_TINT-$INFO
+	BorderColor $INFO
 	FontColor $WHITE
 }
 
 skinparam artifact {
-	BackgroundColor $DARK
-	BorderColor $DARK_TINT
-	FontColor $LIGHT
+	BackgroundColor $WHITE-$LIGHT
+	BorderColor $GRAY
+	FontColor $DARK
 }
 
 skinparam component {
-	BackgroundColor  $SUCCESS
-	BorderColor  $SUCCESS_TINT
+	BackgroundColor  $SUCCESS_TINT-$SUCCESS
+	BorderColor  $SUCCESS
 	FontColor $SUCCESS_TEXT
 }
 
@@ -204,15 +206,15 @@ skinparam interface {
 }
 
 skinparam storage {
-	BackgroundColor $WARNING
-  	BorderColor $WARNING_TINT
+	BackgroundColor $WARNING_TINT-$WARNING
+  	BorderColor $WARNING
 	FontColor $WARNING_TEXT
 }
 
 skinparam node {
-	BackgroundColor  $SECONDARY
-	BorderColor $DARK
-	FontColor $DARK
+	BackgroundColor  $WHITE-$LIGHT
+	BorderColor $INFO_TINT
+	FontColor $INFO_TINT
 }
 
 skinparam cloud {
@@ -222,8 +224,8 @@ skinparam cloud {
 }
 
 skinparam database {
-	BackgroundColor  $PRIMARY
-	BorderColor $PRIMARY_TINT
+	BackgroundColor  $PRIMARY_TINT-$PRIMARY
+	BorderColor $PRIMARY_SHADE
 	FontColor $DARK
 }
 
@@ -235,8 +237,6 @@ skinparam class {
 	FontColor $PRIMARY
 	BackgroundColor $WHITE-$SECONDARY_TINT
 	BorderColor $SECONDARY
-	'ArrowColor $SECONDARY_SHADE
-	ArrowThickness 2
 	StereotypeFontColor $DARK
 	LineThickness 4
 	BorderThickness 1
@@ -244,7 +244,7 @@ skinparam class {
 }
 
 skinparam usecase {
-	BackgroundColor $SECONDARY
+	BackgroundColor $SECONDARY_TINT-$SECONDARY
 	BorderColor $SECONDARY
 	BorderThickness 2
 	FontColor $DARK
@@ -259,22 +259,22 @@ skinparam rectangle {
 }
 
 skinparam package {
-	BackgroundColor $SECONDARY
+	BackgroundColor $WHITE-$SECONDARY_TINT
   	BorderColor $PRIMARY
-	FontColor $DARK
+	FontColor $PRIMARY
 	BorderThickness 2
 }
 
 skinparam folder {
-	BackgroundColor $SECONDARY_SHADE
-  	BorderColor $WARNING
+	BackgroundColor $WHITE-$SECONDARY_TINT
+  	BorderColor $SECONDARY_SHADE
 	FontColor $DARK
 	BorderThickness 2
 }
 
 skinparam frame {
-	BackgroundColor $SECONDARY_SHADE
-  	BorderColor $INFO
+	BackgroundColor $WHITE-$SECONDARY
+  	BorderColor $SECONDARY_SHADE
 	FontColor $DARK
 	BorderThickness 2
 }
