@@ -120,7 +120,7 @@ skinparam sequence {
 	BoxBorderColor $DARK
 	BoxFontColor $DARk
 	''
-	LifeLineBorderColor $DARK
+	LifeLineBorderColor $PRIMARY
 	LifeLineBorderThickness 4
 	LifeLineBackgroundColor $SECONDARY
 	''
@@ -150,25 +150,25 @@ skinparam partition {
 }
 
 skinparam collections {
-	BackgroundColor $PRIMARY_TINT-$PRIMARY
-	BorderColor $PRIMARY
+	BackgroundColor $PRIMARY
+	BorderColor $PRIMARY_TINT
 }
 
 skinparam control {
 	BackgroundColor  $PRIMARY
-	BorderColor $PRIMARY_SHADE
+	BorderColor $PRIMARY_TINT
 	FontColor $DARK
 }
 
 skinparam entity {
 	BackgroundColor  $PRIMARY
-	BorderColor $PRIMARY_SHADE
+	BorderColor $PRIMARY_TINT
 	FontColor $DARK
 }
 
 skinparam boundary {
 	BackgroundColor  $PRIMARY
-	BorderColor $PRIMARY_SHADE
+	BorderColor $PRIMARY_TINT
 	FontColor $DARK
 }
 
@@ -223,7 +223,7 @@ skinparam cloud {
 
 skinparam database {
 	BackgroundColor  $PRIMARY
-	BorderColor $PRIMARY_SHADE
+	BorderColor $PRIMARY_TINT
 	FontColor $DARK
 }
 
