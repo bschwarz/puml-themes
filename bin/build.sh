@@ -7,7 +7,7 @@ fi
 
 FLAGS=""
 if [ $# -eq 2 ]; then
-	FLAGS=-DBGCLR=$2
+	FLAGS="-DBGCLR=$2"
 	echo $FLAGS
 fi
 
@@ -22,6 +22,6 @@ FILE=themes/$THEME/puml-theme-*.puml
 EX=examples/*.puml
 if [ -f $FILE ]; then
 	java -Djava.awt.headless=true -jar $PLANT $EX $FLAGS -tsvg -config $FILE -o ${PWD}/themes/$THEME/
-	echo "$THEME -> $E"
+	echo "$THEME"
 fi
 
