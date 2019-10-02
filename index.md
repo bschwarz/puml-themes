@@ -8,3 +8,8 @@
 The out of the box color scheme for <code>plantuml</code> is not very pleasing to the eyes (at least to me). That and the fact you may want to match your diagrams with the rest of your documentation (as in my case) lead me to put together some themes.
 
 Below you can browse what the different themes look like.
+
+{% for theme in site.data.themes.themes %}
+#### {{ theme.name }}
+{{ theme.description }}
+{% endfor %}
