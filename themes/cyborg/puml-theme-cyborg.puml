@@ -71,7 +71,7 @@
 ''
 '' Global Default Values
 ''
-skinparam defaultFontName       "Tahoma"
+skinparam defaultFontName       "Verdana"
 skinparam defaultFontSize       12
 skinparam LegendBackgroundColor $LIGHT
 skinparam dpi                   100
@@ -87,7 +87,8 @@ skinparam TitleBorderColor	 	transparent
 skinparam ArrowColor            $DARK
 
 skinparam activity {
-	TitleFontSize 14
+	TitleFontSize 20
+	TitleFontColor $DARK
 	FontColor $PRIMARY_TEXT
 	BorderColor $PRIMARY
 	BackgroundColor $PRIMARY
@@ -236,15 +237,14 @@ skinparam actor {
 }
 
 skinparam class {
-	FontColor $PRIMARY
-	BackgroundColor $WHITE-$SECONDARY_TINT
-	BorderColor $SECONDARY
-	'ArrowColor $SECONDARY_SHADE
-	ArrowThickness 2
+	HeaderBackgroundColor $PRIMARY_SHADE
+	FontColor $PRIMARY_TEXT
+	BackgroundColor $PRIMARY
+	BorderColor $PRIMARY_TINT
 	StereotypeFontColor $DARK
 	LineThickness 4
 	BorderThickness 1
-	AttributeFontColor $DARK
+	AttributeFontColor $LIGHT
 }
 
 skinparam usecase {
@@ -260,6 +260,8 @@ skinparam rectangle {
 	BackgroundColor $LIGHT
 	BorderColor $PRIMARY_SHADE
 	BorderThickness 2
+	FontColor $PRIMARY
+	StereotypeFontColor $PRIMARY
 }
 
 skinparam package {
