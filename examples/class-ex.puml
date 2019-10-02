@@ -1,5 +1,10 @@
 @startuml
-'!include puml-theme-cerulean.puml
+
+!if %variable_exists("$TITLE")
+title $TITLE
+!else
+title "Class"
+!endif
 
 abstract class AbstractList
 abstract AbstractCollection

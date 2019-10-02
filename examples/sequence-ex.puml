@@ -1,5 +1,11 @@
 @startuml
-'!include puml-theme-cerulean.puml
+
+!if %variable_exists("$TITLE")
+title $TITLE
+!else
+title "Sequence"
+!endif
+
 autonumber "<b>[000]"
 
 header Page Header
