@@ -7,7 +7,7 @@
         },
         {
             "name": "cyborg",
-            "description":"Blue based theme based off of the Cerulean theme at [bootswatch](https://bootswatch.com/cerulean)",
+            "description":"Blue based theme based off of the Cerulean theme at [bootswatch](https://bootswatch.com/cyborg)",
             "background": "black"
         }
     ]
