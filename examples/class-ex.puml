@@ -3,7 +3,7 @@
 !if %variable_exists("$TITLE")
 title $TITLE
 !else
-title "Class"
+title "Class Diagram"
 !endif
 
 abstract class AbstractList

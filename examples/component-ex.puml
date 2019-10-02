@@ -3,7 +3,7 @@
 !if %variable_exists("$TITLE")
 title $TITLE
 !else
-title "Component"
+title "Component Diagram"
 !endif
 
 package "My Package" {

@@ -3,7 +3,7 @@
 !if %variable_exists("$TITLE")
 title $TITLE
 !else
-title "Activity"
+title "Activity Diagram"
 !endif
 
 start

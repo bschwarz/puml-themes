@@ -3,15 +3,13 @@
 !if %variable_exists("$TITLE")
 title $TITLE
 !else
-title "Sequence"
+title "Sequence Diagram"
 !endif
 
 autonumber "<b>[000]"
 
 header Page Header
 footer Page %page% of %lastpage%
-
-title Example Title
 
 actor Foo1
 boundary Foo2

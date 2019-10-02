@@ -3,7 +3,7 @@
 !if %variable_exists("$TITLE")
 title $TITLE
 !else
-title "Usecase"
+title "Usecase Diagram"
 !endif
 
 left to right direction
