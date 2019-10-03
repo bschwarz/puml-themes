@@ -12,4 +12,6 @@ Below you can browse what the different themes look like.
 {% for theme in site.data.themes.themes %}
 #### {{ theme.name }}
 {{ theme.description }}
+
+<a href="themes/{{ theme.name }}"><img src="themes/{{ theme.name }}/sequence-ex.svg" width="82" height="86" title="Sequence Diagram" alt="Sequence Diagram"></a>
 {% endfor %}
