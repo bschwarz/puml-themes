@@ -1,3 +1,9 @@
 theme: jekyll-theme-architect
 title: [Puml Themes]
 description: [Themes for plantuml]
+
+defaults:
+  - scope:
+      path: "themes/cerulean"
+    values:
+      image: true
