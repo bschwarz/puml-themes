@@ -29,30 +29,30 @@
 !$LIGHT = "#222"
 !$DARK = "#ADAFAE"
 
-'' *_TINT = tint (lighter) of the main color of 80%
+'' *_LIGHT = tint (lighter) of the main color of 80%
 ''          where TINT is calculated by clr + (255-clr) * tint_factor
-'' *_SHADE = shade (darker) of the main color of 80%
+'' *_DARK = shade (darker) of the main color of 80%
 ''          and SHADE is calculated by clr * (1 - shade_factor)
 ''
-!$PRIMARY_TINT = "#55B2DE"
-!$PRIMARY_SHADE = "#227FAB"
+!$PRIMARY_LIGHT = "#55B2DE"
+!$PRIMARY_DARK = "#227FAB"
 !$PRIMARY_TEXT = $WHITE
-!$SECONDARY_TINT = "#777777"
-!$SECONDARY_SHADE = "#444444"
+!$SECONDARY_LIGHT = "#777777"
+!$SECONDARY_DARK = "#444444"
 !$SECONDARY_TEXT = $WHITE
-!$INFO_TINT = "#AD5CD6"
+!$INFO_LIGHT = "#AD5CD6"
 !$INFO_TEXT = $WHITE
-!$SUCCESS_TINT = "#92C233"
-!$SUCCESS_SHADE = "#5F8F00"
+!$SUCCESS_LIGHT = "#92C233"
+!$SUCCESS_DARK = "#5F8F00"
 !$SUCCESS_TEXT = $WHITE
-!$WARNING_TINT = "#FFA033"
+!$WARNING_LIGHT = "#FFA033"
 !$WARNING_TEXT = $WHITE
-!$DANGER_TINT = "#D63333"
+!$DANGER_LIGHT = "#D63333"
 !$DANGER_TEXT = $WHITE
-!$DARK_TINT = "#BDBFBE"
-!$DARK_SHADE = "#8A8C8B"
-!$LIGHT_TINT = "#4E4E4E"
-!$LIGHT_SHADE = "#1B1B1B"
+!$DARK_LIGHT = "#BDBFBE"
+!$DARK_DARK = "#8A8C8B"
+!$LIGHT_LIGHT = "#4E4E4E"
+!$LIGHT_DARK = "#1B1B1B"
 
 !function $success($msg)
   <font color=$SUCCESS><b>$msg
@@ -89,7 +89,7 @@ skinparam ArrowColor            $DARK
 
 skinparam legend {
 	BackgroundColor $SECONDARY
-	BorderColor $SECONDARY_SHADE
+	BorderColor $SECONDARY_DARK
 	FontColor $DARK
 }
 
@@ -103,8 +103,8 @@ skinparam activity {
 	StartColor $INFO
 	EndColor $INFO
 	''
-	DiamondBackgroundColor $SECONDARY_TINT
-  	DiamondBorderColor $SECONDARY_TINT
+	DiamondBackgroundColor $SECONDARY_LIGHT
+  	DiamondBorderColor $SECONDARY_LIGHT
   	DiamondFontColor $SECONDARY_TEXT
 }
 	
@@ -160,61 +160,61 @@ skinparam partition {
 
 skinparam collections {
 	BackgroundColor $PRIMARY
-	BorderColor $PRIMARY_TINT
+	BorderColor $PRIMARY_LIGHT
 }
 
 skinparam control {
 	BackgroundColor  $PRIMARY
-	BorderColor $PRIMARY_TINT
+	BorderColor $PRIMARY_LIGHT
 	FontColor $DARK
 }
 
 skinparam entity {
 	BackgroundColor  $PRIMARY
-	BorderColor $PRIMARY_TINT
+	BorderColor $PRIMARY_LIGHT
 	FontColor $DARK
 }
 
 skinparam boundary {
 	BackgroundColor  $PRIMARY
-	BorderColor $PRIMARY_TINT
+	BorderColor $PRIMARY_LIGHT
 	FontColor $DARK
 }
 
 skinparam agent {
 	BackgroundColor $WARNINIG
-	BorderColor $WARNING_SHADE
+	BorderColor $WARNING_DARK
 	FontColor $DARK
 }
 
 skinparam note {
 	BorderThickness 1
 	BackgroundColor $INFO
-	BorderColor $INFO_TINT
+	BorderColor $INFO_LIGHT
 	FontColor $WHITE
 }
 
 skinparam artifact {
 	BackgroundColor $DARK
-	BorderColor $DARK_TINT
+	BorderColor $DARK_LIGHT
 	FontColor $LIGHT
 }
 
 skinparam component {
 	BackgroundColor  $SUCCESS
-	BorderColor  $SUCCESS_TINT
+	BorderColor  $SUCCESS_LIGHT
 	FontColor $SUCCESS_TEXT
 }
 
 skinparam interface {
-	BackgroundColor  $DANGER_TINT
+	BackgroundColor  $DANGER_LIGHT
 	BorderColor  $DANGER
 	FontColor $DARK
 }
 
 skinparam storage {
 	BackgroundColor $WARNING
-  	BorderColor $WARNING_TINT
+  	BorderColor $WARNING_LIGHT
 	FontColor $WARNING_TEXT
 }
 
@@ -225,14 +225,14 @@ skinparam node {
 }
 
 skinparam cloud {
-	BackgroundColor white-$PRIMARY_TINT
+	BackgroundColor white-$PRIMARY_LIGHT
 	BorderColor transparent
 	FontColor $DARK
 }
 
 skinparam database {
 	BackgroundColor  $PRIMARY
-	BorderColor $PRIMARY_TINT
+	BorderColor $PRIMARY_LIGHT
 	FontColor $DARK
 }
 
@@ -241,10 +241,10 @@ skinparam actor {
 }
 
 skinparam class {
-	HeaderBackgroundColor $PRIMARY_SHADE
+	HeaderBackgroundColor $PRIMARY_DARK
 	FontColor $PRIMARY_TEXT
 	BackgroundColor $PRIMARY
-	BorderColor $PRIMARY_TINT
+	BorderColor $PRIMARY_LIGHT
 	StereotypeFontColor $DARK
 	LineThickness 4
 	BorderThickness 1
@@ -262,7 +262,7 @@ skinparam usecase {
 
 skinparam rectangle {
 	BackgroundColor $LIGHT
-	BorderColor $PRIMARY_SHADE
+	BorderColor $PRIMARY_DARK
 	BorderThickness 2
 	FontColor $PRIMARY
 	StereotypeFontColor $PRIMARY
@@ -276,14 +276,14 @@ skinparam package {
 }
 
 skinparam folder {
-	BackgroundColor $SECONDARY_SHADE
+	BackgroundColor $SECONDARY_DARK
   	BorderColor $WARNING
 	FontColor $DARK
 	BorderThickness 2
 }
 
 skinparam frame {
-	BackgroundColor $SECONDARY_SHADE
+	BackgroundColor $SECONDARY_DARK
   	BorderColor $INFO
 	FontColor $DARK
 	BorderThickness 2
