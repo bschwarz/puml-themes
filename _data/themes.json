@@ -2,12 +2,12 @@
     "themes": [
         {
             "name": "cerulean",
-            "description":"Blue based theme based off of the Cerulean theme at [bootswatch](https://bootswatch.com/cerulean)",
+            "description":"Blue based theme based off of the Cerulean theme at <a href='https://bootswatch.com/cerulean'>bootswatch</a>",
             "background": "white"
         },
         {
             "name": "cyborg",
-            "description":"Blue based theme based off of the Cerulean theme at [bootswatch](https://bootswatch.com/cyborg)",
+            "description":"Dark theme meant for dark backgrounds based off of the Cyborg theme at <a href='https://bootswatch.com/cyborg'>bootswatch</a>",
             "background": "black"
         }
     ]
