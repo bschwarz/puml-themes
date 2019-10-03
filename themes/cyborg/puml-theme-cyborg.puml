@@ -66,7 +66,7 @@
   <font color=$WARNING><b>$msg
 !endfunction
 
-!$THEME = "cyborg"
+!$THEME = cyborg
 
 ''
 '' Global Default Values
@@ -85,6 +85,13 @@ skinparam TitleFontSize	    	20
 skinparam TitleBorderThickness 	20
 skinparam TitleBorderColor	 	transparent
 skinparam ArrowColor            $DARK
+
+
+skinparam legend {
+	BackgroundColor $SECONDARY
+	BorderColor $SECONDARY_SHADE
+	FontColor $DARK
+}
 
 skinparam activity {
 	TitleFontSize 20
