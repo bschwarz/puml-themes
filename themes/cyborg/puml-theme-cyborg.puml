@@ -34,25 +34,25 @@
 '' *_DARK = shade (darker) of the main color of 80%
 ''          and SHADE is calculated by clr * (1 - shade_factor)
 ''
-!$PRIMARY_LIGHT = "#55B2DE"
-!$PRIMARY_DARK = "#227FAB"
+!$PRIMARY_DARK = "#55B2DE"
+!$PRIMARY_LIGHT = "#227FAB"
 !$PRIMARY_TEXT = $WHITE
-!$SECONDARY_LIGHT = "#777777"
-!$SECONDARY_DARK = "#444444"
+!$SECONDARY_DARK = "#777777"
+!$SECONDARY_LIGHT = "#444444"
 !$SECONDARY_TEXT = $WHITE
-!$INFO_LIGHT = "#AD5CD6"
+!$INFO_DARK = "#AD5CD6"
 !$INFO_TEXT = $WHITE
-!$SUCCESS_LIGHT = "#92C233"
-!$SUCCESS_DARK = "#5F8F00"
+!$SUCCESS_DARK = "#92C233"
+!$SUCCESS_LIGHT = "#5F8F00"
 !$SUCCESS_TEXT = $WHITE
-!$WARNING_LIGHT = "#FFA033"
+!$WARNING_DARK = "#FFA033"
 !$WARNING_TEXT = $WHITE
-!$DANGER_LIGHT = "#D63333"
+!$DANGER_DARK = "#D63333"
 !$DANGER_TEXT = $WHITE
-!$DARK_LIGHT = "#BDBFBE"
-!$DARK_DARK = "#8A8C8B"
-!$LIGHT_LIGHT = "#4E4E4E"
-!$LIGHT_DARK = "#1B1B1B"
+!$DARK_DARK = "#BDBFBE"
+!$DARK_LIGHT = "#8A8C8B"
+!$LIGHT_DARK = "#4E4E4E"
+!$LIGHT_LIGHT = "#1B1B1B"
 
 !function $success($msg)
   <font color=$SUCCESS><b>$msg
@@ -66,7 +66,7 @@
   <font color=$WARNING><b>$msg
 !endfunction
 
-!$THEME = cyborg
+!$THEME = "cyborg"
 
 ''
 '' Global Default Values
@@ -242,6 +242,7 @@ skinparam actor {
 
 skinparam class {
 	HeaderBackgroundColor $PRIMARY_DARK
+	AttributeFontSize 10
 	FontColor $PRIMARY_TEXT
 	BackgroundColor $PRIMARY
 	BorderColor $PRIMARY_LIGHT

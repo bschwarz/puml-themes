@@ -61,7 +61,7 @@
   <font color=$WARNING><b>$msg
 !endfunction
 
-!$THEME = cerulean
+!$THEME = "cerulean"
 
 ''
 '' Global Default Values
@@ -234,6 +234,7 @@ skinparam actor {
 
 skinparam class {
 	HeaderBackgroundColor $PRIMARY_DARK
+	AttributeFontSize 10
 	FontColor $PRIMARY_TEXT
 	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
 	BorderColor $PRIMARY_DARK
