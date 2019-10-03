@@ -1,3 +1,8 @@
+---
+layout: default
+title: home
+---
+
 ## Introduction
 
 <code>puml-themes</code> holds some themes for the wonderful [plantuml](https://plantuml.com) diagraming tool. It takes a markdown type text file and converts it into an image of a diagram. This is useful for several reasons:
@@ -13,5 +18,5 @@ Below you can browse what the different themes look like.
 #### {{ theme.name }}
 {{ theme.description }}
 
-<a href="themes/{{ theme.name }}"><img src="themes/{{ theme.name }}/sequence-ex.svg" width="82" height="86" title="Sequence Diagram" alt="Sequence Diagram"></a>
+<a href="themes/{{ theme.name }}"><img src="themes/{{ theme.name }}/sequence-ex.svg" width="300" height="300" title="Sequence Diagram" alt="Sequence Diagram"></a>
 {% endfor %}
