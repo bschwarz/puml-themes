@@ -66,15 +66,7 @@
   <font color=$WARNING><b>$msg
 !endfunction
 
-!$TITLE = "Cyborg Theme"
-
-!if %variable_exists("BGCLR")
-skinparam BackgroundColor BGCLR
-!else
-skinparam BackgroundColor transparent
-!endif
-'skinparam BackgroundColor black
-'skinparam TitleBackgroundColor black
+!$THEME = "cyborg"
 
 ''
 '' Global Default Values
@@ -111,7 +103,7 @@ skinparam activity {
 	
 skinparam sequence {
 	BorderColor $PRIMARY
-	TitleFontSize 14
+	TitleFontSize 20
 	TitleFontColor $DARK
 	BackgroundColor transparent
 	StartColor $PRIMARY
@@ -127,7 +119,8 @@ skinparam sequence {
     ActorBorderColor $PRIMARY
 	ActorFontColor $PRIMARY
 	''
-	ArrowThickness 2
+	ArrowThickness 3
+	ArrowColor $SECONDARY
 	''
 	BoxBackgroundColor transparent
 	BoxBorderColor $DARK

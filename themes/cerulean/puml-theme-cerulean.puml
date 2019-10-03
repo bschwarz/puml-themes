@@ -61,7 +61,7 @@
   <font color=$WARNING><b>$msg
 !endfunction
 
-!$TITLE = "Cerulean Theme"
+!$THEME = "cerulean"
 
 ''
 '' Global Default Values
@@ -80,6 +80,13 @@ skinparam TitleFontSize	    	20
 skinparam TitleBorderColor	 	transparent
 skinparam ArrowColor            $GRAY
 
+
+skinparam legend {
+	BackgroundColor $SECONDARY
+	BorderColor $SECONDARY_SHADE
+	FontColor $DARK
+}
+
 skinparam activity {
 	TitleFontSize 20
 	TitleFontColor $DARK
@@ -96,7 +103,7 @@ skinparam activity {
 	
 skinparam sequence {
 	BorderColor $PRIMARY
-	TitleFontSize 14
+	TitleFontSize 20
 	TitleFontColor $DARK
 	BackgroundColor transparent
 	StartColor $PRIMARY
@@ -113,14 +120,15 @@ skinparam sequence {
 	ActorFontColor $PRIMARY
 	''
 	ArrowThickness 2
+	ArrowColor $PRIMARY
 	''
 	BoxBackgroundColor $LIGHT
 	BoxBorderColor $GRAY
-	BoxFontColor $DARk
+	BoxFontColor $DARK
 	''
-	LifeLineBorderColor $PRIMARY
-	LifeLineBorderThickness 4
-	LifeLineBackgroundColor $SECONDARY
+	LifeLineBorderColor $SECONDARY
+	LifeLineBorderThickness 5
+	LifeLineBackgroundColor $SECONDARY_TINT
 	''
 	''GroupBorderStyle dashed
 	GroupBorderColor $GRAY
@@ -138,18 +146,8 @@ skinparam sequence {
 }
 
 skinparam partition {
-  BorderColor #959595
-  FontColor #959595
-	BackgroundColor white
-	ArrowColor #959595
-	'ArrowColor #bbbbbb
-	GroupTitleBackgroundColor #959595
-	'LifeLineBorderColor #959595
-	LifeLineBorderColor #bbbbbb
-	GroupBorderColor #959595
-	'GroupBorderStyle dashed
-	GroupFontColor #666666
-	GroupTitleFontColor #666666
+	BorderColor $PRIMARY
+	FontColor $PRIMARY
 }
 
 skinparam collections {
