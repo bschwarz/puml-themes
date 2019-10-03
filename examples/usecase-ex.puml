@@ -3,7 +3,7 @@
 !if %variable_exists("$THEME")
 title $THEME theme
 !else
-title Sequence Diagram
+title Usecase Diagram
 !endif
 
 legend
