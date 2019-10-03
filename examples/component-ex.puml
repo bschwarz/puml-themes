@@ -3,8 +3,10 @@
 !if %variable_exists("$TITLE")
 title $TITLE
 !else
-title "Component Diagram"
+title Component Diagram
 !endif
+
+skinparam BackgroundColor transparent
 
 package "My Package" {
   HTTP - [First Component]

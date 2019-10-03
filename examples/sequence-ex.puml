@@ -1,10 +1,12 @@
 @startuml
 
-!if %variable_exists("$TITLE")
-title $TITLE
+!if %variable_exists("$THEME")
+title $THEME theme
 !else
-title "Sequence Diagram"
+title Sequence Diagram
 !endif
+
+skinparam BackgroundColor transparent
 
 autonumber "<b>[000]"
 

@@ -3,8 +3,10 @@
 !if %variable_exists("$TITLE")
 title $TITLE
 !else
-title "Class Diagram"
+title Class Diagram
 !endif
+
+skinparam BackgroundColor transparent
 
 abstract class AbstractList
 abstract AbstractCollection

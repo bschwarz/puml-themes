@@ -1,13 +1,24 @@
 @startuml
 
+!if %variable_exists("$THEME")
+title $THEME theme
+!else
+title Sequence Diagram
+!endif
+
+legend
+This is my legend
+endlegend
+
 !if %variable_exists("$TITLE")
 title $TITLE
 !else
-title "Usecase Diagram"
+title Usecase Diagram
 !endif
 
+skinparam BackgroundColor transparent
+
 left to right direction
-'skinparam packageStyle rectangle
 actor customer
 actor clerk
 rectangle checkout {

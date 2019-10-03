@@ -3,8 +3,10 @@
 !if %variable_exists("$TITLE")
 title $TITLE
 !else
-title "Activity Diagram"
+title Activity Diagram
 !endif
+
+skinparam BackgroundColor transparent
 
 start
  :start;
