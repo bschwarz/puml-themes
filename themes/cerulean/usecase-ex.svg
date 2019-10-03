@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="346.875px" preserveAspectRatio="none" style="width:329px;height:346px;" version="1.1" viewBox="0 0 329 346" width="329.1667px" zoomAndPan="magnify"><defs><linearGradient id="g1wr3dvkk042x00" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#EDF0F2"/><stop offset="100%" stop-color="#E9ECEF"/></linearGradient></defs><g><rect fill="none" height="46.1528" rx="4.1667" ry="4.1667" style="stroke: #FFFFFF; stroke-width: 1.5625;" width="200" x="69.7917" y="2.0833"/><text fill="#343A40" font-family="Verdana" font-size="20.8333" lengthAdjust="spacingAndGlyphs" textLength="172.9167" x="83.3333" y="33.4452">Cerulean Theme</text><!--cluster checkout--><rect fill="#F8F9FA" height="267.7083" rx="4.1667" ry="4.1667" style="stroke: #2683B9; stroke-width: 2.0833333333333335;" width="93.75" x="132.2917" y="68.0278"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="61.4583" x="148.4375" y="87.8866">checkout</text><ellipse cx="179.3385" cy="217.2214" fill="url(#g1wr3dvkk042x00)" rx="38.7135" ry="16.3812" style="stroke: #E9ECEF; stroke-width: 2.0833333333333335;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="58.3333" x="150.1718" y="221.1714">checkout</text><ellipse cx="179.2555" cy="121.3636" fill="url(#g1wr3dvkk042x00)" rx="38.1096" ry="16.3567" style="stroke: #E9ECEF; stroke-width: 2.0833333333333335;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="57.2917" x="150.6096" y="125.3136">payment</text><ellipse cx="179.0606" cy="311.8401" fill="url(#g1wr3dvkk042x00)" rx="21.2481" ry="15.1666" style="stroke: #E9ECEF; stroke-width: 2.0833333333333335;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="28.125" x="164.9981" y="315.7901">help</text><!--entity customer--><ellipse cx="41.6667" cy="181.5694" fill="#FFFFFF" rx="8.3333" ry="8.3333" style="stroke: #2FA4E7; stroke-width: 2.0833333333333335;"/><path d="M41.6667,189.9028 L41.6667,218.0278 M28.125,198.2361 L55.2083,198.2361 M41.6667,218.0278 L28.125,233.6528 M41.6667,218.0278 L55.2083,233.6528 " fill="none" style="stroke: #2FA4E7; stroke-width: 2.0833333333333335;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="60.4167" x="11.4583" y="254.5532">customer</text><!--entity clerk--><ellipse cx="301.5625" cy="181.5694" fill="#FFFFFF" rx="8.3333" ry="8.3333" style="stroke: #2FA4E7; stroke-width: 2.0833333333333335;"/><path d="M301.5625,189.9028 L301.5625,218.0278 M288.0208,198.2361 L315.1042,198.2361 M301.5625,218.0278 L288.0208,233.6528 M301.5625,218.0278 L315.1042,233.6528 " fill="none" style="stroke: #2FA4E7; stroke-width: 2.0833333333333335;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="30.2083" x="286.4583" y="254.5532">clerk</text><!--link customer to checkout--><path d="M77.4343,216.9861 C96.6905,216.9861 120.471,216.9861 140.1971,216.9861 " fill="none" id="customer-checkout" style="stroke: #868E96; stroke-width: 2.0833333333333335;"/><!--link checkout to payment--><path d="M179.1667,200.7293 C179.1667,184.7588 179.1667,160.2954 179.1667,142.7092 " fill="none" id="checkout-payment" style="stroke: #868E96; stroke-width: 2.0833333333333335; stroke-dasharray: 7.0,7.0;"/><polygon fill="#868E96" points="179.1667,137.4893,175,146.8643,179.1667,142.6976,183.3333,146.8643,179.1667,137.4893" style="stroke: #868E96; stroke-width: 2.0833333333333335;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="45.8333" x="139.5833" y="174.3449">include</text><!--link help to checkout--><path d="M179.1667,296.5479 C179.1667,280.8965 179.1667,256.3843 179.1667,238.7026 " fill="none" id="help-checkout" style="stroke: #868E96; stroke-width: 2.0833333333333335; stroke-dasharray: 7.0,7.0;"/><polygon fill="#868E96" points="179.1667,233.4518,175,242.8268,179.1667,238.6601,183.3333,242.8268,179.1667,233.4518" style="stroke: #868E96; stroke-width: 2.0833333333333335;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="53.125" x="135.9375" y="270.1782">extends</text><!--link checkout to clerk--><path d="M217.8934,216.9861 C238.9041,216.9861 264.0184,216.9861 281.214,216.9861 " fill="none" id="checkout-clerk" style="stroke: #868E96; stroke-width: 2.0833333333333335;"/><!--
+@startuml
+
+
+
+
+
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    10
+skinparam BoxPadding            5
+skinparam Padding               5
+skinparam TitleFontColor	    #343A40
+skinparam TitleFontSize	    	20
+skinparam TitleBorderColor	 	transparent
+skinparam ArrowColor            #868E96
+
+skinparam activity {
+	TitleFontSize 20
+	TitleFontColor #343A40
+	FontColor #FFF
+	BorderColor #2FA4E7
+	BackgroundColor #59B6EC-#2FA4E7
+	BarColor #868E96
+	StartColor #033C73
+	EndColor #033C73
+	DiamondBackgroundColor #FFF-#EDF0F2
+  	DiamondBorderColor #E9ECEF
+}
+	
+skinparam sequence {
+	BorderColor #2FA4E7
+	TitleFontSize 14
+	TitleFontColor #343A40
+	BackgroundColor transparent
+	StartColor #2FA4E7
+	EndColor #2FA4E7
+    ParticipantBackgroundColor #59B6EC-#2FA4E7
+    ParticipantBorderColor #2FA4E7
+	ParticipantBorderThickness 0
+	ParticipantFontColor #FFF
+	ActorBackgroundColor transparent
+    ActorBorderColor #2FA4E7
+	ActorFontColor #2FA4E7
+	ArrowThickness 2
+	BoxBackgroundColor #F8F9FA
+	BoxBorderColor #868E96
+	BoxFontColor $DARk
+	LifeLineBorderColor #2FA4E7
+	LifeLineBorderThickness 4
+	LifeLineBackgroundColor #E9ECEF
+	GroupBorderColor #868E96
+	GroupFontColor #343A40
+	GroupHeaderFontColor #033C73
+	DividerBackgroundColor #FFF-#F8F9FA
+    DividerBorderColor #868E96
+    DividerBorderThickness 2
+    DividerFontColor #343A40
+	ReferenceBorderColor #868E96
+	ReferenceFontColor #343A40
+	ReferenceHeaderFontColor #033C73
+}
+
+skinparam partition {
+  BorderColor #959595
+  FontColor #959595
+	BackgroundColor white
+	ArrowColor #959595
+	GroupTitleBackgroundColor #959595
+	LifeLineBorderColor #bbbbbb
+	GroupBorderColor #959595
+	GroupFontColor #666666
+	GroupTitleFontColor #666666
+}
+
+skinparam collections {
+	BackgroundColor #59B6EC-#2FA4E7
+	BorderColor #2FA4E7
+}
+
+skinparam control {
+	BackgroundColor  #59B6EC-#2FA4E7
+	BorderColor #2683B9
+	FontColor #343A40
+}
+
+skinparam entity {
+	BackgroundColor  #59B6EC-#2FA4E7
+	BorderColor #2683B9
+	FontColor #343A40
+}
+
+skinparam boundary {
+	BackgroundColor  #59B6EC-#2FA4E7
+	BorderColor #2683B9
+	FontColor #343A40
+}
+
+skinparam agent {
+	BackgroundColor #orange
+	BorderColor #999999
+	FontColor #333333
+}
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #35638F-#033C73
+	BorderColor #033C73
+	FontColor #FFF
+}
+
+skinparam artifact {
+	BackgroundColor #FFF-#F8F9FA
+	BorderColor #868E96
+	FontColor #343A40
+}
+
+skinparam component {
+	BackgroundColor  #8FB961-#73A839
+	BorderColor  #73A839
+	FontColor #FFF
+}
+
+skinparam interface {
+	BackgroundColor  #D2494E
+	BorderColor  #C71C22
+	FontColor #343A40
+}
+
+skinparam storage {
+	BackgroundColor #E47833-#DD5600
+  	BorderColor #DD5600
+	FontColor #FFF
+}
+
+skinparam node {
+	BackgroundColor  #FFF-#F8F9FA
+	BorderColor #35638F
+	FontColor #35638F
+}
+
+skinparam cloud {
+	BackgroundColor white-#59B6EC
+	BorderColor transparent
+	FontColor #343A40
+}
+
+skinparam database {
+	BackgroundColor  #59B6EC-#2FA4E7
+	BorderColor #2683B9
+	FontColor #343A40
+}
+
+skinparam actor {
+	FontColor #343A40
+}
+
+skinparam class {
+	HeaderBackgroundColor #2683B9
+	FontColor #FFF
+	BackgroundColor #59B6EC-#2FA4E7
+	BorderColor #2683B9
+	StereotypeFontColor #343A40
+	LineThickness 4
+	BorderThickness 1
+	AttributeFontColor #343A40
+}
+
+skinparam usecase {
+	BackgroundColor #EDF0F2-#E9ECEF
+	BorderColor #E9ECEF
+	BorderThickness 2
+	FontColor #343A40
+	StereotypeFontColor #2FA4E7
+}
+
+
+skinparam rectangle {
+	BackgroundColor #F8F9FA
+	BorderColor #2683B9
+	BorderThickness 2
+}
+
+skinparam package {
+	BackgroundColor #FFF-#EDF0F2
+  	BorderColor #2FA4E7
+	FontColor #2FA4E7
+	BorderThickness 2
+}
+
+skinparam folder {
+	BackgroundColor #FFF-#EDF0F2
+  	BorderColor #BABDBF
+	FontColor #343A40
+	BorderThickness 2
+}
+
+skinparam frame {
+	BackgroundColor #FFF-#E9ECEF
+  	BorderColor #BABDBF
+	FontColor #343A40
+	BorderThickness 2
+}
+
+title Cerulean Theme
+
+left to right direction
+actor customer
+actor clerk
+rectangle checkout {
+  customer - - (checkout)
+  (checkout) .> (payment) : include
+  (help) .> (checkout) : extends
+  (checkout) - - clerk
+}
+@enduml
+
+PlantUML version 1.2019.08(Sat Jul 13 12:25:14 PDT 2019)
+(MIT source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.4+11-post-Ubuntu-1ubuntu218.04.3
+Operating System: Linux
+OS Version: 4.15.0-64-lowlatency
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
