@@ -150,6 +150,7 @@ skinparam sequence {
 skinparam partition {
 	BorderColor $PRIMARY
 	FontColor $PRIMARY
+	BackgroundColor transparent
 }
 
 skinparam collections {
