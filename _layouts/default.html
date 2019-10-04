@@ -51,8 +51,9 @@
           <div style="width: "90%">
             <h3> Themes </h3> 
             {% for theme in site.data.themes.themes %}
-            <h4> {{ theme.name }} </h4> <a href={{ theme.url }}>go</a>
+            <h4> {{ theme.name }} </h4>
               {{ theme.description }}
+                                  <br>
               <a href={{ theme.url }}check it out</a>
             {% endfor %}
           </div>
