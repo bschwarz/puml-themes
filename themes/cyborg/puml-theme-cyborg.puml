@@ -82,9 +82,9 @@ skinparam BoxPadding            2
 skinparam Padding               2
 skinparam TitleFontColor	    $DARK
 skinparam TitleFontSize	    	20
-skinparam TitleBorderThickness 	1
+skinparam TitleBorderThickness 	0
 'skinparam TitleBorderColor	 	transparent
-skinparam TitleBackgroundColor	transparent
+'skinparam TitleBackgroundColor	transparent
 skinparam ArrowColor            $DARK
 
 
