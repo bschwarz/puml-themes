@@ -54,7 +54,7 @@
             <h4> {{ theme.name }} </h4>
               {{ theme.description }}
                                   <br>
-              {% capture url %}"https://bschwarz.github.io/puml-themes/themes/"{{ theme.url }}{% endcapture %}
+              {% capture url %}"https://bschwarz.github.io/puml-themes/themes/"{{ theme.name }}{% endcapture %}
               <a href={{ url }}>check it out</a>
             {% endfor %}
           </div>
