@@ -2,13 +2,13 @@
     "themes": [
         {
             "name": "cerulean",
-            "description":"Blue based theme based off of the Cerulean theme at <a href='https://bootswatch.com/cerulean'>bootswatch</a>",
+            "description":"Blue based theme based off of the <a href='https://bootswatch.com/cerulean'>Cerulean theme</a> at bootswatch",
             "url": "https://bschwarz.github.io/puml-themes/themes/cerulean/",
             "background": "white"
         },
         {
             "name": "cyborg",
-            "description":"Dark theme meant for dark backgrounds based off of the Cyborg theme at <a href='https://bootswatch.com/cyborg'>bootswatch</a>",
+            "description":"Dark theme meant for dark backgrounds based off of the <a href='https://bootswatch.com/cyborg'>Cyborg theme</a> at bootswatch",
             "url": "https://bschwarz.github.io/puml-themes/themes/cerulean/",
             "background": "black"
         }
