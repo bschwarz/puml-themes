@@ -216,7 +216,7 @@ skinparam node {
 }
 
 skinparam cloud {
-	BackgroundColor white-$PRIMARY_LIGHT
+	BackgroundColor white-lightskyblue
 	BorderColor transparent
 	FontColor $DARK
 }
@@ -239,6 +239,7 @@ skinparam class {
 	StereotypeFontColor $DARK
 	BorderThickness 1
 	AttributeFontColor $DARK
+	AttributeFontSize 11
 }
 
 skinparam object {
