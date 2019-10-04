@@ -283,3 +283,11 @@ skinparam frame {
 	FontColor $DARK
 	BorderThickness 2
 }
+
+skinparam state {
+  StartColor $INFO
+  EndColor $INFO
+  BackgroundColor $SECONDARY
+  BorderColor $SECONDARY_DARK
+  FontColor $SECONDARY_TEXT
+}
