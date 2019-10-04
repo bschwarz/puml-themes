@@ -66,15 +66,7 @@
   <font color=$WARNING><b>$msg
 !endfunction
 
-!$TITLE = "Cyborg Theme"
-
-!if %variable_exists("BGCLR")
-skinparam BackgroundColor BGCLR
-!else
-skinparam BackgroundColor transparent
-!endif
-'skinparam BackgroundColor black
-'skinparam TitleBackgroundColor black
+!$THEME = "cyborg"
 
 ''
 '' Global Default Values

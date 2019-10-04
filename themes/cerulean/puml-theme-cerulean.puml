@@ -61,7 +61,7 @@
   <font color=$WARNING><b>$msg
 !endfunction
 
-!$TITLE = "Cerulean Theme"
+!$THEME = "cerulean"
 
 ''
 '' Global Default Values
