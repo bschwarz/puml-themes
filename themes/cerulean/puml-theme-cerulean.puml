@@ -249,6 +249,7 @@ skinparam object {
 	StereotypeFontColor $DARK
 	BorderThickness 1
 	AttributeFontColor $DARK
+	AttributeFontSize 11
 }
 
 skinparam usecase {
