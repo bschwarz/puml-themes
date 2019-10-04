@@ -1,6 +1,7 @@
 ---
 layout: default
 title: cerulean
+published: true
 ---
 
 <table style="width: 100%">
@@ -31,7 +32,12 @@ title: cerulean
     </tr>
     <tr>
         <td>
-            <!-- <img src="sequence-ex.svg"> -->
+            <img src="state-ex.svg">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="object-ex.svg">
         </td>
     </tr>
 </table>
