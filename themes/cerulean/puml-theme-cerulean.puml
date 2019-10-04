@@ -77,7 +77,7 @@ skinparam BoxPadding            2
 skinparam Padding               2
 skinparam TitleFontColor	    $DARK
 skinparam TitleFontSize	    	20
-skinparam TitleBorderColor	 	transparent
+'skinparam TitleBorderColor	 	transparent
 skinparam ArrowColor            $GRAY
 
 
@@ -93,12 +93,13 @@ skinparam activity {
 	FontColor $PRIMARY_TEXT
 	BorderColor $PRIMARY
 	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
-	BarColor $GRAY
+	BarColor $SUCCESS
 	StartColor $INFO
 	EndColor $INFO
 	''
 	DiamondBackgroundColor $WHITE-$SECONDARY_LIGHT
-  	DiamondBorderColor $SECONDARY
+  	DiamondBorderColor $SECONDARY_DARK
+	DiamondFontColor $SECONDARY_TEXT
 }
 	
 skinparam sequence {
@@ -119,7 +120,7 @@ skinparam sequence {
     ActorBorderColor $PRIMARY
 	ActorFontColor $PRIMARY
 	''
-	ArrowThickness 2
+	ArrowThickness 3
 	ArrowColor $PRIMARY
 	''
 	BoxBackgroundColor $LIGHT
@@ -127,7 +128,7 @@ skinparam sequence {
 	BoxFontColor $DARK
 	''
 	LifeLineBorderColor $SECONDARY
-	LifeLineBorderThickness 5
+	LifeLineBorderThickness 0
 	LifeLineBackgroundColor $SECONDARY_LIGHT
 	''
 	''GroupBorderStyle dashed
@@ -234,7 +235,6 @@ skinparam actor {
 
 skinparam class {
 	HeaderBackgroundColor $PRIMARY_DARK
-	AttributeFontSize 10
 	FontColor $PRIMARY_TEXT
 	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
 	BorderColor $PRIMARY_DARK
@@ -248,15 +248,17 @@ skinparam usecase {
 	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
 	BorderColor $SECONDARY
 	BorderThickness 2
-	FontColor $DARK
+	FontColor $SECONDARY_TEXT
 	StereotypeFontColor $PRIMARY
 }
 
 
 skinparam rectangle {
-	BackgroundColor $LIGHT
+	BackgroundColor $SECONDARY_DARK
 	BorderColor $PRIMARY_DARK
 	BorderThickness 2
+	FontColor $PRIMARY
+	StereotypeFontColor $PRIMARY
 }
 
 skinparam package {
