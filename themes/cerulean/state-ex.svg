@@ -148,7 +148,7 @@ skinparam node {
 }
 
 skinparam cloud {
-	BackgroundColor white-#59B6EC
+	BackgroundColor white-lightskyblue
 	BorderColor transparent
 	FontColor #343A40
 }
@@ -156,7 +156,7 @@ skinparam cloud {
 skinparam database {
 	BackgroundColor  #59B6EC-#2FA4E7
 	BorderColor #2683B9
-	FontColor $PRIAMRY_TEXT
+	FontColor #FFF
 }
 
 skinparam actor {
@@ -169,9 +169,9 @@ skinparam class {
 	BackgroundColor #59B6EC-#2683B9
 	BorderColor #2683B9
 	StereotypeFontColor #343A40
-	LineThickness 4
 	BorderThickness 1
 	AttributeFontColor #343A40
+	AttributeFontSize 11
 }
 
 skinparam object {
@@ -181,6 +181,7 @@ skinparam object {
 	StereotypeFontColor #343A40
 	BorderThickness 1
 	AttributeFontColor #343A40
+	AttributeFontSize 11
 }
 
 skinparam usecase {
