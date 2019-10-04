@@ -213,9 +213,9 @@ skinparam storage {
 }
 
 skinparam node {
-	BackgroundColor  $WHITE-$LIGHT
-	BorderColor $INFO_LIGHT
-	FontColor $INFO_LIGHT
+	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
+	BorderColor $DARK
+	FontColor $DARK
 }
 
 skinparam cloud {
@@ -227,7 +227,7 @@ skinparam cloud {
 skinparam database {
 	BackgroundColor  $PRIMARY_LIGHT-$PRIMARY
 	BorderColor $PRIMARY_DARK
-	FontColor $DARK
+	FontColor $PRIAMRY_TEXT
 }
 
 skinparam actor {
@@ -263,7 +263,7 @@ skinparam rectangle {
 }
 
 skinparam package {
-	BackgroundColor $WHITE-$SECONDARY_LIGHT
+	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
   	BorderColor $PRIMARY
 	FontColor $PRIMARY
 	BorderThickness 2
@@ -271,14 +271,14 @@ skinparam package {
 
 skinparam folder {
 	BackgroundColor $WHITE-$SECONDARY_LIGHT
-  	BorderColor $SECONDARY_DARK
+  	BorderColor $WARNING
 	FontColor $DARK
 	BorderThickness 2
 }
 
 skinparam frame {
-	BackgroundColor $WHITE-$SECONDARY
-  	BorderColor $SECONDARY_DARK
+	BackgroundColor $WHITE-$SECONDARY_LIGHT
+  	BorderColor $INFO
 	FontColor $DARK
 	BorderThickness 2
 }

@@ -234,7 +234,7 @@ skinparam cloud {
 skinparam database {
 	BackgroundColor  $PRIMARY
 	BorderColor $PRIMARY_DARK
-	FontColor $DARK
+	FontColor $PRIAMRY_TEXT
 }
 
 skinparam actor {
@@ -272,7 +272,7 @@ skinparam rectangle {
 skinparam package {
 	BackgroundColor $SECONDARY
   	BorderColor $PRIMARY
-	FontColor $DARK
+	FontColor $PRIMARY
 	BorderThickness 2
 }
 
