@@ -4,6 +4,8 @@
 ''
 '' Author: Brett Schwarz
 
+!$THEME = "cerulean"
+
 ''
 '' Colors taken from the css file of the BS theme
 ''
@@ -61,14 +63,11 @@
   <font color=$WARNING><b>$msg
 !endfunction
 
-!$THEME = "cerulean"
-
 ''
 '' Global Default Values
 ''
 skinparam defaultFontName       "Verdana"
 skinparam defaultFontSize       12
-'skinparam LegendBackgroundColor $LIGHT
 skinparam dpi                   100
 skinparam shadowing             false
 skinparam roundcorner           8
@@ -78,7 +77,6 @@ skinparam Padding               2
 skinparam TitleFontColor	    $DARK
 skinparam TitleFontSize	    	20
 skinparam TitleBorderThickness 	0
-'skinparam TitleBorderColor	 	transparent
 skinparam ArrowColor            $GRAY
 
 
@@ -115,7 +113,6 @@ skinparam sequence {
     ParticipantBorderColor $PRIMARY
 	ParticipantBorderThickness 0
 	ParticipantFontColor $PRIMARY_TEXT
-	''ParticipantFontStyle bold
 	''
 	ActorBackgroundColor transparent
     ActorBorderColor $PRIMARY
@@ -132,7 +129,6 @@ skinparam sequence {
 	LifeLineBorderThickness 0
 	LifeLineBackgroundColor $SECONDARY_LIGHT
 	''
-	''GroupBorderStyle dashed
 	GroupBorderColor $GRAY
 	GroupFontColor $DARK
 	GroupHeaderFontColor $INFO
@@ -241,7 +237,6 @@ skinparam class {
 	BackgroundColor $PRIMARY_LIGHT-$PRIMARY_DARK
 	BorderColor $PRIMARY_DARK
 	StereotypeFontColor $DARK
-	LineThickness 4
 	BorderThickness 1
 	AttributeFontColor $DARK
 }
