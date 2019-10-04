@@ -1,5 +1,13 @@
 @startuml
 
+!if %variable_exists("$THEME")
+title $THEME
+!else
+title Object Diagram
+!endif
+
+skinparam BackgroundColor transparent
+
 object Object01
 object Object02
 object Object03

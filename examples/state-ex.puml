@@ -1,5 +1,11 @@
 @startuml
 
+!if %variable_exists("$THEME")
+title $THEME
+!else
+title State Diagram
+!endif
+
 skinparam BackgroundColor transparent
 
 state fork_state <<fork>>

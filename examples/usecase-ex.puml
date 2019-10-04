@@ -10,12 +10,6 @@ legend
 This is my legend
 endlegend
 
-!if %variable_exists("$TITLE")
-title $TITLE
-!else
-title Usecase Diagram
-!endif
-
 skinparam BackgroundColor transparent
 
 left to right direction
