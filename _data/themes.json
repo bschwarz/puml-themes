@@ -3,11 +3,13 @@
         {
             "name": "cerulean",
             "description":"Blue based theme based off of the Cerulean theme at <a href='https://bootswatch.com/cerulean'>bootswatch</a>",
+            "url": "https://bschwarz.github.io/puml-themes/themes/cerulean/",
             "background": "white"
         },
         {
             "name": "cyborg",
             "description":"Dark theme meant for dark backgrounds based off of the Cyborg theme at <a href='https://bootswatch.com/cyborg'>bootswatch</a>",
+            "url": "https://bschwarz.github.io/puml-themes/themes/cerulean/",
             "background": "black"
         }
     ]
