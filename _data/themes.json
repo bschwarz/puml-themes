@@ -9,7 +9,7 @@
         {
             "name": "cyborg",
             "description":"Dark theme meant for dark backgrounds based off of the <a href='https://bootswatch.com/cyborg'>Cyborg theme</a> at bootswatch",
-            "url": "https://bschwarz.github.io/puml-themes/themes/cerulean/",
+            "url": "https://bschwarz.github.io/puml-themes/themes/cyborg/",
             "background": "black"
         }
     ]
