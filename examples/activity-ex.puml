@@ -1,7 +1,7 @@
 @startuml
 
 !if %variable_exists("$THEME")
-title $TITLE theme
+title $THEME theme
 !else
 title Activity Diagram
 !endif

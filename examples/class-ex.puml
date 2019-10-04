@@ -1,9 +1,9 @@
 @startuml
 
-!if %variable_exists("$TITLE")
-title $TITLE
+!if %variable_exists("$THEME")
+title $THEME theme
 !else
-title "Class Diagram"
+title Class Diagram
 !endif
 
 abstract class AbstractList
