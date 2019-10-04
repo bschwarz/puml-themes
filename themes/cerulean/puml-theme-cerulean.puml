@@ -238,10 +238,19 @@ skinparam actor {
 skinparam class {
 	HeaderBackgroundColor $PRIMARY_DARK
 	FontColor $PRIMARY_TEXT
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY_DARK
 	BorderColor $PRIMARY_DARK
 	StereotypeFontColor $DARK
 	LineThickness 4
+	BorderThickness 1
+	AttributeFontColor $DARK
+}
+
+skinparam object {
+	FontColor $SUCCESS
+	BackgroundColor $SECONDARY_LIGHT-$SECONDARY_DARK
+	BorderColor $SECONDARY_DARK
+	StereotypeFontColor $DARK
 	BorderThickness 1
 	AttributeFontColor $DARK
 }

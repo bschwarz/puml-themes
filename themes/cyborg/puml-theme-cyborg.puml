@@ -252,6 +252,15 @@ skinparam class {
 	AttributeFontColor $LIGHT
 }
 
+skinparam object {
+	FontColor $SUCCESS
+	BackgroundColor $SECONDARY
+	BorderColor $SECONDARY_DARK
+	StereotypeFontColor $DARK
+	BorderThickness 1
+	AttributeFontColor $DARK
+}
+
 skinparam usecase {
 	BackgroundColor $SECONDARY
 	BorderColor $SECONDARY
