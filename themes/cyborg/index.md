@@ -1,6 +1,7 @@
 ---
 layout: default
 title: cyborg
+published: true
 ---
 
 <table style="background: black; width: 100%">
@@ -32,6 +33,16 @@ title: cyborg
     <tr>
         <td>
             <!-- <img src="sequence-ex.svg"> -->
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="state-ex.svg">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="object-ex.svg">
         </td>
     </tr>
 </table>
