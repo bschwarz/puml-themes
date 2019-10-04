@@ -18,7 +18,7 @@
 !$TEAL = "#20c997"
 !$CYAN = "#9933CC"
 !$WHITE = "#FFF"
-!$GRAY_DARK = "#222"
+!$GRAY_LIGHT = "#222"
 !$GRAY = "#555"
 !$PRIMARY = "#2A9FD6"
 !$SECONDARY = "#555"
@@ -29,30 +29,30 @@
 !$LIGHT = "#222"
 !$DARK = "#ADAFAE"
 
-'' *_TINT = tint (lighter) of the main color of 80%
+'' *_DARK = tint (lighter) of the main color of 80%
 ''          where TINT is calculated by clr + (255-clr) * tint_factor
-'' *_SHADE = shade (darker) of the main color of 80%
+'' *_LIGHT = shade (darker) of the main color of 80%
 ''          and SHADE is calculated by clr * (1 - shade_factor)
 ''
-!$PRIMARY_TINT = "#55B2DE"
-!$PRIMARY_SHADE = "#227FAB"
+!$PRIMARY_DARK = "#55B2DE"
+!$PRIMARY_LIGHT = "#227FAB"
 !$PRIMARY_TEXT = $WHITE
-!$SECONDARY_TINT = "#777777"
-!$SECONDARY_SHADE = "#444444"
+!$SECONDARY_DARK = "#777777"
+!$SECONDARY_LIGHT = "#444444"
 !$SECONDARY_TEXT = $WHITE
-!$INFO_TINT = "#AD5CD6"
+!$INFO_DARK = "#AD5CD6"
 !$INFO_TEXT = $WHITE
-!$SUCCESS_TINT = "#92C233"
-!$SUCCESS_SHADE = "#5F8F00"
+!$SUCCESS_DARK = "#92C233"
+!$SUCCESS_LIGHT = "#5F8F00"
 !$SUCCESS_TEXT = $WHITE
-!$WARNING_TINT = "#FFA033"
+!$WARNING_DARK = "#FFA033"
 !$WARNING_TEXT = $WHITE
-!$DANGER_TINT = "#D63333"
+!$DANGER_DARK = "#D63333"
 !$DANGER_TEXT = $WHITE
-!$DARK_TINT = "#BDBFBE"
-!$DARK_SHADE = "#8A8C8B"
-!$LIGHT_TINT = "#4E4E4E"
-!$LIGHT_SHADE = "#1B1B1B"
+!$DARK_DARK = "#BDBFBE"
+!$DARK_LIGHT = "#8A8C8B"
+!$LIGHT_DARK = "#4E4E4E"
+!$LIGHT_LIGHT = "#1B1B1B"
 
 !function $success($msg)
   <font color=$SUCCESS><b>$msg
@@ -91,7 +91,8 @@ skinparam Padding               2
 skinparam TitleFontColor	    $DARK
 skinparam TitleFontSize	    	20
 skinparam TitleBorderThickness 	20
-skinparam TitleBorderColor	 	transparent
+'skinparam TitleBorderColor	 	transparent
+skinparam TitleBackgroundColor	transparent
 skinparam ArrowColor            $DARK
 
 skinparam activity {
@@ -104,8 +105,8 @@ skinparam activity {
 	StartColor $INFO
 	EndColor $INFO
 	''
-	DiamondBackgroundColor $SECONDARY_TINT
-  	DiamondBorderColor $SECONDARY_TINT
+	DiamondBackgroundColor $SECONDARY_LIGHT
+  	DiamondBorderColor $SECONDARY_DARK
   	DiamondFontColor $SECONDARY_TEXT
 }
 	
@@ -127,15 +128,16 @@ skinparam sequence {
     ActorBorderColor $PRIMARY
 	ActorFontColor $PRIMARY
 	''
-	ArrowThickness 2
+	ArrowThickness 3
+	ArrowColor $PRIMARY
 	''
 	BoxBackgroundColor transparent
 	BoxBorderColor $DARK
 	BoxFontColor $DARk
 	''
-	LifeLineBorderColor $PRIMARY
-	LifeLineBorderThickness 4
-	LifeLineBackgroundColor $SECONDARY
+	LifeLineBorderColor $SECONDARY
+	LifeLineBorderThickness 0
+	LifeLineBackgroundColor $SECONDARY_DARK
 	''
 	''GroupBorderStyle dashed
 	GroupBorderColor $DARK
@@ -160,61 +162,61 @@ skinparam partition {
 
 skinparam collections {
 	BackgroundColor $PRIMARY
-	BorderColor $PRIMARY_TINT
+	BorderColor $PRIMARY_DARK
 }
 
 skinparam control {
 	BackgroundColor  $PRIMARY
-	BorderColor $PRIMARY_TINT
+	BorderColor $PRIMARY_DARK
 	FontColor $DARK
 }
 
 skinparam entity {
 	BackgroundColor  $PRIMARY
-	BorderColor $PRIMARY_TINT
+	BorderColor $PRIMARY_DARK
 	FontColor $DARK
 }
 
 skinparam boundary {
 	BackgroundColor  $PRIMARY
-	BorderColor $PRIMARY_TINT
+	BorderColor $PRIMARY_DARK
 	FontColor $DARK
 }
 
 skinparam agent {
 	BackgroundColor $WARNINIG
-	BorderColor $WARNING_SHADE
+	BorderColor $WARNING_LIGHT
 	FontColor $DARK
 }
 
 skinparam note {
 	BorderThickness 1
 	BackgroundColor $INFO
-	BorderColor $INFO_TINT
+	BorderColor $INFO_DARK
 	FontColor $WHITE
 }
 
 skinparam artifact {
 	BackgroundColor $DARK
-	BorderColor $DARK_TINT
+	BorderColor $DARK_DARK
 	FontColor $LIGHT
 }
 
 skinparam component {
 	BackgroundColor  $SUCCESS
-	BorderColor  $SUCCESS_TINT
+	BorderColor  $SUCCESS_DARK
 	FontColor $SUCCESS_TEXT
 }
 
 skinparam interface {
-	BackgroundColor  $DANGER_TINT
+	BackgroundColor  $DANGER_DARK
 	BorderColor  $DANGER
 	FontColor $DARK
 }
 
 skinparam storage {
 	BackgroundColor $WARNING
-  	BorderColor $WARNING_TINT
+  	BorderColor $WARNING_DARK
 	FontColor $WARNING_TEXT
 }
 
@@ -225,14 +227,14 @@ skinparam node {
 }
 
 skinparam cloud {
-	BackgroundColor white-$PRIMARY_TINT
+	BackgroundColor white-$PRIMARY_DARK
 	BorderColor transparent
 	FontColor $DARK
 }
 
 skinparam database {
 	BackgroundColor  $PRIMARY
-	BorderColor $PRIMARY_TINT
+	BorderColor $PRIMARY_DARK
 	FontColor $DARK
 }
 
@@ -241,10 +243,10 @@ skinparam actor {
 }
 
 skinparam class {
-	HeaderBackgroundColor $PRIMARY_SHADE
+	HeaderBackgroundColor $PRIMARY_LIGHT
 	FontColor $PRIMARY_TEXT
 	BackgroundColor $PRIMARY
-	BorderColor $PRIMARY_TINT
+	BorderColor $PRIMARY_DARK
 	StereotypeFontColor $DARK
 	LineThickness 4
 	BorderThickness 1
@@ -255,14 +257,14 @@ skinparam usecase {
 	BackgroundColor $SECONDARY
 	BorderColor $SECONDARY
 	BorderThickness 2
-	FontColor $DARK
+	FontColor $SECONDARY_TEXT
 	StereotypeFontColor $PRIMARY
 }
 
 
 skinparam rectangle {
-	BackgroundColor $LIGHT
-	BorderColor $PRIMARY_SHADE
+	BackgroundColor $SECONDARY_LIGHT
+	BorderColor $PRIMARY_LIGHT
 	BorderThickness 2
 	FontColor $PRIMARY
 	StereotypeFontColor $PRIMARY
@@ -276,14 +278,14 @@ skinparam package {
 }
 
 skinparam folder {
-	BackgroundColor $SECONDARY_SHADE
+	BackgroundColor $SECONDARY_LIGHT
   	BorderColor $WARNING
 	FontColor $DARK
 	BorderThickness 2
 }
 
 skinparam frame {
-	BackgroundColor $SECONDARY_SHADE
+	BackgroundColor $SECONDARY_LIGHT
   	BorderColor $INFO
 	FontColor $DARK
 	BorderThickness 2
