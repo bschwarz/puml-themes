@@ -228,7 +228,7 @@ skinparam cloud {
 skinparam database {
 	BackgroundColor  $PRIMARY_LIGHT-$PRIMARY
 	BorderColor $PRIMARY_DARK
-	FontColor $PRIAMRY_TEXT
+	FontColor $PRIMARY_TEXT
 }
 
 skinparam actor {
