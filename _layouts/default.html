@@ -49,9 +49,9 @@
           {% endif %}
 
           <div style="width: "90%">
-            <h3> Themes </h3>
+            <h3> Themes </h3> 
             {% for theme in site.data.themes.themes %}
-            <h4> {{ theme.name }} </h4>
+            <h4> {{ theme.name }} </h4> <a href={{ theme.url }}>go</a>
               {{ theme.description }}
             {% endfor %}
           </div>
