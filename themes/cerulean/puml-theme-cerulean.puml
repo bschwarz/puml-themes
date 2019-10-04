@@ -77,6 +77,7 @@ skinparam BoxPadding            2
 skinparam Padding               2
 skinparam TitleFontColor	    $DARK
 skinparam TitleFontSize	    	20
+skinparam TitleBorderThickness 	0
 'skinparam TitleBorderColor	 	transparent
 skinparam ArrowColor            $GRAY
 
@@ -97,7 +98,7 @@ skinparam activity {
 	
 skinparam sequence {
 	BorderColor $PRIMARY
-	TitleFontSize 14
+	TitleFontSize 20
 	TitleFontColor $DARK
 	BackgroundColor transparent
 	StartColor $PRIMARY
