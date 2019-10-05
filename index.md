@@ -12,7 +12,19 @@ title: home
 
 The out of the box color scheme for <code>plantuml</code> is not very pleasing to the eyes (at least to me). That and the fact you may want to match your diagrams with the rest of your documentation (as in my case) lead me to put together some themes.
 
-Below you can browse what the different themes look like.
+## Usage
+
+There are a few ways you can use these themes:
+1. Clone repo
+	You can clone this repo, and then use the files on your local machine
+2. Download file from the repo. If you don't want the whole repo, you can just download individual theme files. There is one file per theme, so you don't have to worry about copying many files.
+3. Use the themes from a URL. Plantuml allows you to include files on the internet with this syntax:
+	<code>!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/<THEME NAME>/puml-theme-<THEME NAME>.puml</code>
+    
+    All themes have this same format, you can just substitute the name of the theme. For example if I wanted the cerulean theme, then it would look like:
+    <code>!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/cerulean/puml-theme-cerulean.puml</code>
+  
+    **Note** in previous versions of plantuml you had to use <code>!includeurl http://...</code> syntax.
 
 {% for theme in site.data.themes.themes %}
 #### {{ theme.name }}
