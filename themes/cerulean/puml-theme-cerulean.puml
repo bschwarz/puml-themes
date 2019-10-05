@@ -79,13 +79,13 @@ skinparam TitleFontSize	    	20
 skinparam TitleBorderThickness 	0
 skinparam ArrowColor            $GRAY
 
-
 skinparam legend {
 	BackgroundColor $SECONDARY
 	BorderColor $SECONDARY_DARK
 	FontColor $DARK
 }
 
+!startsub activity
 skinparam activity {
 	TitleFontSize 20
 	TitleFontColor $DARK
@@ -100,7 +100,9 @@ skinparam activity {
   	DiamondBorderColor $SECONDARY_DARK
 	DiamondFontColor $SECONDARY_TEXT
 }
-	
+!endsub
+
+
 skinparam sequence {
 	BorderColor $PRIMARY
 	TitleFontSize 20
