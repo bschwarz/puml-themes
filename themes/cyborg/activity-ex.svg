@@ -40,7 +40,7 @@ skinparam activity {
   	DiamondBorderColor #777777
   	DiamondFontColor #FFF
 }
-	
+
 skinparam sequence {
 	BorderColor #2A9FD6
 	TitleFontSize 20
@@ -191,7 +191,6 @@ skinparam usecase {
 	FontColor #FFF
 	StereotypeFontColor #2A9FD6
 }
-
 
 skinparam rectangle {
 	BackgroundColor #444444
