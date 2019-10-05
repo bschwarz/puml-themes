@@ -102,7 +102,7 @@ skinparam activity {
 }
 !endsub
 
-
+!startsub sequence
 skinparam sequence {
 	BorderColor $PRIMARY
 	TitleFontSize 20
@@ -144,95 +144,127 @@ skinparam sequence {
 	ReferenceFontColor $DARK
 	ReferenceHeaderFontColor $INFO
 }
+!endsub
 
+!startsub partition
 skinparam partition {
 	BorderColor $PRIMARY
 	FontColor $PRIMARY
 	BackgroundColor transparent
 }
+!endsub
 
+!startsub collections
 skinparam collections {
 	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
 	BorderColor $PRIMARY
 }
+!endsub
 
+!startsub control
 skinparam control {
 	BackgroundColor  $PRIMARY_LIGHT-$PRIMARY
 	BorderColor $PRIMARY_DARK
 	FontColor $DARK
 }
+!endsub
 
+!startsub entity
 skinparam entity {
 	BackgroundColor  $PRIMARY_LIGHT-$PRIMARY
 	BorderColor $PRIMARY_DARK
 	FontColor $DARK
 }
+!endsub
 
+!startsub boundary
 skinparam boundary {
 	BackgroundColor  $PRIMARY_LIGHT-$PRIMARY
 	BorderColor $PRIMARY_DARK
 	FontColor $DARK
 }
+!endsub
 
+!startsub agent
 skinparam agent {
 	BackgroundColor #orange
 	BorderColor #999999
 	FontColor #333333
 }
+!endsub
 
+!startsub note
 skinparam note {
 	BorderThickness 1
 	BackgroundColor $INFO_LIGHT-$INFO
 	BorderColor $INFO
 	FontColor $WHITE
 }
+!endsub
 
+!startsub artifact
 skinparam artifact {
 	BackgroundColor $WHITE-$LIGHT
 	BorderColor $GRAY
 	FontColor $DARK
 }
+!endsub
 
+!startsub component
 skinparam component {
 	BackgroundColor  $SUCCESS_LIGHT-$SUCCESS
 	BorderColor  $SUCCESS
 	FontColor $SUCCESS_TEXT
 }
+!endsub
 
+!startsub interface
 skinparam interface {
 	BackgroundColor  $DANGER_LIGHT
 	BorderColor  $DANGER
 	FontColor $DARK
 }
+!endsub
 
+!startsub storage
 skinparam storage {
 	BackgroundColor $WARNING_LIGHT-$WARNING
   	BorderColor $WARNING
 	FontColor $WARNING_TEXT
 }
+!endsub
 
+!startsub node
 skinparam node {
 	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
 	BorderColor $DARK
 	FontColor $DARK
 }
+!endsub
 
+!startsub cloud
 skinparam cloud {
 	BackgroundColor white-lightskyblue
 	BorderColor transparent
 	FontColor $DARK
 }
+!endsub
 
+!startsub database
 skinparam database {
 	BackgroundColor  $PRIMARY_LIGHT-$PRIMARY
 	BorderColor $PRIMARY_DARK
 	FontColor $PRIMARY_TEXT
 }
+!endsub
 
+!startsub actor
 skinparam actor {
 	FontColor $DARK
 }
+!endsub
 
+!startsub class
 skinparam class {
 	HeaderBackgroundColor $PRIMARY_DARK
 	FontColor $PRIMARY_TEXT
@@ -243,7 +275,9 @@ skinparam class {
 	AttributeFontColor $DARK
 	AttributeFontSize 11
 }
+!endsub
 
+!startsub object
 skinparam object {
 	FontColor $SUCCESS
 	BackgroundColor $SECONDARY_LIGHT-$SECONDARY_DARK
@@ -253,7 +287,9 @@ skinparam object {
 	AttributeFontColor $DARK
 	AttributeFontSize 11
 }
+!endsub
 
+!startsub usecase
 skinparam usecase {
 	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
 	BorderColor $SECONDARY
@@ -261,8 +297,9 @@ skinparam usecase {
 	FontColor $SECONDARY_TEXT
 	StereotypeFontColor $PRIMARY
 }
+!endsub
 
-
+!startsub rectangle
 skinparam rectangle {
 	BackgroundColor $SECONDARY-$SECONDARY_DARK
 	BorderColor $PRIMARY_DARK
@@ -270,28 +307,36 @@ skinparam rectangle {
 	FontColor $PRIMARY
 	StereotypeFontColor $PRIMARY
 }
+!endsub
 
+!startsub package
 skinparam package {
 	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
   	BorderColor $PRIMARY
 	FontColor $PRIMARY
 	BorderThickness 2
 }
+!endsub
 
+!startsub folder
 skinparam folder {
 	BackgroundColor $WHITE-$SECONDARY_LIGHT
   	BorderColor $WARNING
 	FontColor $DARK
 	BorderThickness 2
 }
+!endsub
 
+!startsub frame
 skinparam frame {
 	BackgroundColor $WHITE-$SECONDARY_LIGHT
   	BorderColor $INFO
 	FontColor $DARK
 	BorderThickness 2
 }
+!endsub
 
+!startsub state
 skinparam state {
   StartColor $INFO
   EndColor $INFO
@@ -299,3 +344,4 @@ skinparam state {
   BorderColor $SECONDARY_DARK
   FontColor $SECONDARY_TEXT
 }
+!endsub
