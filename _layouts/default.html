@@ -36,7 +36,7 @@
           {{ content }}
         </section>
 
-        <aside id="sidebar">
+        <aside id="sidebar" style="margin: 20px;">
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="button">
               <small>Download</small>
@@ -51,11 +51,11 @@
           <div style="width: "90%">
             <h3> Themes </h3> 
             {% for theme in site.data.themes.themes %}
-            <h4> {{ theme.name }} </h4>
-              {{ theme.description }}
+            {{ theme.name }}
+              : {{ theme.description }}
                                   <br>
               {% capture url %}https://bschwarz.github.io/puml-themes/themes/{{ theme.name }}{% endcapture %}
-              <a href={{ url }}>check it out</a>
+              : <a href={{ url }}>check it out</a>
             {% endfor %}
           </div>
 
