@@ -50,13 +50,16 @@
 
           <div style="width: "90%">
             <h3> Themes </h3> 
+            <dl>
             {% for theme in site.data.themes.themes %}
-            {{ theme.name }}
-              : {{ theme.description }}
+            <dt>{{ theme.name }}</dt>
+             <dd> {{ theme.description }}
                                   <br>
               {% capture url %}https://bschwarz.github.io/puml-themes/themes/{{ theme.name }}{% endcapture %}
               : <a href={{ url }}>check it out</a>
+              </dd>
             {% endfor %}
+            </dl>
           </div>
 
           <div style="width: "90%">
