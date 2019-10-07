@@ -290,7 +290,7 @@ skinparam object {
 	BorderColor $SECONDARY_DARK
 	StereotypeFontColor $DARK
 	BorderThickness 1
-	AttributeFontColor $DARK
+	AttributeFontColor $SECONDARY_TEXT
 	AttributeFontSize 11
 }
 !endsub
@@ -328,7 +328,7 @@ skinparam package {
 skinparam folder {
 	BackgroundColor $SECONDARY_LIGHT
   	BorderColor $WARNING
-	FontColor $DARK
+	FontColor $WARNING
 	BorderThickness 2
 }
 !endsub
@@ -337,17 +337,19 @@ skinparam folder {
 skinparam frame {
 	BackgroundColor $SECONDARY_LIGHT
   	BorderColor $INFO
-	FontColor $DARK
+	FontColor $INFO
 	BorderThickness 2
 }
 !endsub
 
 !startsub state
 skinparam state {
-  StartColor $INFO
-  EndColor $INFO
-  BackgroundColor $SECONDARY
-  BorderColor $SECONDARY_DARK
-  FontColor $SECONDARY_TEXT
+	StartColor $INFO
+	EndColor $INFO
+	BackgroundColor $SECONDARY
+	BorderColor $SECONDARY_DARK
+	FontColor $INFO
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
 }
 !endsub
