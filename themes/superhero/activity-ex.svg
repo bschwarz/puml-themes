@@ -143,8 +143,8 @@ skinparam storage {
 
 skinparam node {
 	BackgroundColor  #4E5D6C
-	BorderColor #4E5D6C
-	FontColor #4E5D6C
+	BorderColor #abb6c2
+	FontColor #abb6c2
 }
 
 skinparam cloud {
@@ -180,7 +180,7 @@ skinparam object {
 	BorderColor #717d89
 	StereotypeFontColor #4E5D6C
 	BorderThickness 1
-	AttributeFontColor #abb6c2
+	AttributeFontColor #FFF
 	AttributeFontSize 11
 }
 
@@ -210,23 +210,25 @@ skinparam package {
 skinparam folder {
 	BackgroundColor #3e4a56
   	BorderColor #f0ad4e
-	FontColor #abb6c2
+	FontColor #f0ad4e
 	BorderThickness 2
 }
 
 skinparam frame {
 	BackgroundColor #3e4a56
   	BorderColor #5bc0de
-	FontColor #4E5D6C
+	FontColor #5bc0de
 	BorderThickness 2
 }
 
 skinparam state {
-  StartColor #5bc0de
-  EndColor #5bc0de
-  BackgroundColor #4E5D6C
-  BorderColor #717d89
-  FontColor #FFF
+	StartColor #5bc0de
+	EndColor #5bc0de
+	BackgroundColor #4E5D6C
+	BorderColor #717d89
+	FontColor #5bc0de
+	AttributeFontColor #FFF
+	AttributeFontSize 11
 }
 
 title cyborg theme
@@ -256,12 +258,12 @@ start
 
 PlantUML version 1.2019.08(Sat Jul 13 12:25:14 PDT 2019)
 (MIT source distribution)
-Java Runtime: OpenJDK Runtime Environment
-JVM: OpenJDK 64-Bit Server VM
-Java Version: 11.0.4+11-post-Ubuntu-1ubuntu218.04.3
-Operating System: Linux
-OS Version: 4.15.0-64-lowlatency
-Default Encoding: UTF-8
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_212-b32
+Operating System: Windows 10
+OS Version: 10.0
+Default Encoding: Cp1252
 Language: en
 Country: US
 --></g></svg>

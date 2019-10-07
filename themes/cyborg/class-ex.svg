@@ -180,7 +180,7 @@ skinparam object {
 	BorderColor #777777
 	StereotypeFontColor #ADAFAE
 	BorderThickness 1
-	AttributeFontColor #ADAFAE
+	AttributeFontColor #FFF
 	AttributeFontSize 11
 }
 
@@ -210,23 +210,25 @@ skinparam package {
 skinparam folder {
 	BackgroundColor #444444
   	BorderColor #FF8800
-	FontColor #ADAFAE
+	FontColor #FF8800
 	BorderThickness 2
 }
 
 skinparam frame {
 	BackgroundColor #444444
   	BorderColor #9933CC
-	FontColor #ADAFAE
+	FontColor #9933CC
 	BorderThickness 2
 }
 
 skinparam state {
-  StartColor #9933CC
-  EndColor #9933CC
-  BackgroundColor #555
-  BorderColor #777777
-  FontColor #FFF
+	StartColor #9933CC
+	EndColor #9933CC
+	BackgroundColor #555
+	BorderColor #777777
+	FontColor #9933CC
+	AttributeFontColor #FFF
+	AttributeFontSize 11
 }
 
 title cyborg theme

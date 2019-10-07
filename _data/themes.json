@@ -11,6 +11,18 @@
             "description":"Dark theme meant for dark backgrounds based off of the <a href='https://bootswatch.com/cyborg'>Cyborg theme</a> at bootswatch",
             "url": "https://bschwarz.github.io/puml-themes/themes/cyborg/",
             "background": "black"
-        }
+        },
+        {
+            "name": "materia",
+            "description":"Theme similar to Material based off of the <a href='https://bootswatch.com/materia'>Materia theme</a> at bootswatch",
+            "url": "https://bschwarz.github.io/puml-themes/themes/materia/",
+            "background": "white"
+        },
+        {
+            "name": "superhero",
+            "description":"Dark theme meant for dark backgrounds based off of the <a href='https://bootswatch.com/superhero'>Superhero theme</a> at bootswatch",
+            "url": "https://bschwarz.github.io/puml-themes/themes/superhero/",
+            "background": "black"
+        },
     ]
 }
