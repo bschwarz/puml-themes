@@ -32,7 +32,7 @@
 
     <div id="content-wrapper">
       <div class="inner clearfix">
-        <section id="main-content">
+        <section id="main-content" style="width: 90%">
           {{ content }}
         </section>
 
