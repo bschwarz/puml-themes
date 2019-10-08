@@ -3,7 +3,7 @@ layout: wide
 title: gallery
 published: true
 ---
-## Themes
+## Theme Gallery
 
 <table style="border:1px dotted #eeeeee; border-spacing: 10px 10px;">
 {% tablerow theme in site.data.themes.themes cols:2 %}
