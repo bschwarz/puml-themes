@@ -156,7 +156,7 @@ skinparam cloud {
 skinparam database {
 	BackgroundColor  #DF691A
 	BorderColor #e58748
-	FontColor #FFF
+	FontColor #4E5D6C
 }
 
 skinparam actor {
