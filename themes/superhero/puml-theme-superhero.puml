@@ -260,7 +260,7 @@ skinparam cloud {
 skinparam database {
 	BackgroundColor  $PRIMARY
 	BorderColor $PRIMARY_DARK
-	FontColor $PRIMARY_TEXT
+	FontColor $DARK
 }
 !endsub
 
