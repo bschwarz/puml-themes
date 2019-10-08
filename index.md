@@ -46,7 +46,7 @@ The <code>!sequence</code> at the end tells plantuml to only use that section of
 
 ## Themes
 
-{% for theme in site.data.themes.themes %}
+{% for theme in site.data.themes.themes limit:5 %}
 #### {{ theme.name }}
 {{ theme.description }}
 
