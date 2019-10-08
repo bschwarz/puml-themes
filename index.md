@@ -1,6 +1,7 @@
 ---
 layout: default
 title: home
+published: true
 ---
 
 ## Introduction
@@ -30,3 +31,5 @@ There are a few ways you can use these themes:
 
 <a href="themes/{{ theme.name }}"><img src="themes/{{ theme.name }}/sequence-ex.svg" width="350" height="350" title="Sequence Diagram" alt="Sequence Diagram"></a>
 {% endfor %}
+
+[See theme gallery for more themes]({{ site.baseurl }}{% link gallery.md %})
