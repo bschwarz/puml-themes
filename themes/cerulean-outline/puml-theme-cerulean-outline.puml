@@ -38,16 +38,16 @@
 ''
 !$PRIMARY_LIGHT = "#59B6EC"
 !$PRIMARY_DARK = "#2683B9"
-!$PRIMARY_TEXT = $WHITE
+!$PRIMARY_TEXT = $PRIMARY
 !$SECONDARY_LIGHT = "#EDF0F2"
 !$SECONDARY_DARK = "#BABDBF"
-!$SECONDARY_TEXT = $DARK
+!$SECONDARY_TEXT = $SECONDARY_DARK
 !$INFO_LIGHT = "#35638F"
 !$INFO_TEXT = $WHITE
 !$SUCCESS_LIGHT = "#8FB961"
-!$SUCCESS_TEXT = $WHITE
+!$SUCCESS_TEXT = $SUCCESS
 !$WARNING_LIGHT = "#E47833"
-!$WARNING_TEXT = $WHITE
+!$WARNING_TEXT = $WARNING
 !$DANGER_LIGHT = "#D2494E"
 !$DANGER_TEXT = $WHITE
 
@@ -96,7 +96,7 @@ skinparam activity {
 	StartColor $INFO
 	EndColor $INFO
 	''
-	DiamondBackgroundColor $WHITE-$SECONDARY_LIGHT
+	DiamondBackgroundColor transparent
   	DiamondBorderColor $SECONDARY_DARK
 	DiamondFontColor $SECONDARY_TEXT
 }
@@ -212,7 +212,7 @@ skinparam artifact {
 
 !startsub component
 skinparam component {
-	BackgroundColor  $SUCCESS_LIGHT-$SUCCESS
+	BackgroundColor transparent
 	BorderColor  $SUCCESS
 	FontColor $SUCCESS_TEXT
 }
@@ -228,7 +228,7 @@ skinparam interface {
 
 !startsub storage
 skinparam storage {
-	BackgroundColor $WARNING_LIGHT-$WARNING
+	BackgroundColor transparent
   	BorderColor $WARNING
 	FontColor $WARNING_TEXT
 }
@@ -236,7 +236,7 @@ skinparam storage {
 
 !startsub node
 skinparam node {
-	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
+	BackgroundColor transparent
 	BorderColor $DARK
 	FontColor $DARK
 }
@@ -244,15 +244,15 @@ skinparam node {
 
 !startsub cloud
 skinparam cloud {
-	BackgroundColor white-lightskyblue
-	BorderColor transparent
+	BackgroundColor transparent
+	BorderColor  lightskyblue
 	FontColor $DARK
 }
 !endsub
 
 !startsub database
 skinparam database {
-	BackgroundColor  $PRIMARY_LIGHT-$PRIMARY
+	BackgroundColor  transparent
 	BorderColor $PRIMARY_DARK
 	FontColor $DARK
 }
@@ -268,11 +268,11 @@ skinparam actor {
 skinparam class {
 	HeaderBackgroundColor $PRIMARY-$PRIMARY_DARK
 	FontColor $PRIMARY_TEXT
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	BackgroundColor transparent
 	BorderColor $PRIMARY_DARK
 	StereotypeFontColor $DARK
 	BorderThickness 1
-	AttributeFontColor $DARK
+	AttributeFontColor $SECONDARY_DARK
 	AttributeFontSize 11
 }
 !endsub
@@ -311,7 +311,7 @@ skinparam rectangle {
 
 !startsub package
 skinparam package {
-	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
+	BackgroundColor transparent
   	BorderColor $PRIMARY
 	FontColor $PRIMARY
 	BorderThickness 2
@@ -320,7 +320,7 @@ skinparam package {
 
 !startsub folder
 skinparam folder {
-	BackgroundColor $WHITE-$SECONDARY_LIGHT
+	BackgroundColor transparent
   	BorderColor $WARNING
 	FontColor $WARNING
 	BorderThickness 2
@@ -329,7 +329,7 @@ skinparam folder {
 
 !startsub frame
 skinparam frame {
-	BackgroundColor $WHITE-$SECONDARY_LIGHT
+	BackgroundColor transparent
   	BorderColor $INFO
 	FontColor $INFO
 	BorderThickness 2
