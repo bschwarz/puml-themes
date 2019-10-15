@@ -34,6 +34,11 @@ database "My Database" {
 
 artifact "My Artifact"
 storage "My Storage"
+queue "My Queue"
+interface "My Interface"
+card "My Card"
+file "My File"
+stack "My Stack"
 
 [Another Component] --> [Example 1]
 [Example 1] --> [Folder 3]
