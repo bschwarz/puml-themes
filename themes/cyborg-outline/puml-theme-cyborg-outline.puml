@@ -1,0 +1,355 @@
+''
+'' Cerulean theme based off of the bootstrap theme of the same name
+'' https://bootswatch.com/cerulean/
+''
+'' Author: Brett Schwarz
+
+!$THEME = "cyborg"
+
+''
+'' Colors taken from the css file of the BS theme
+''
+!$BLUE = "#2A9FD6"
+!$INDIGO = "#6610f2"
+!$PURPLE = "#6f42c1"
+!$PINK = "#e83e8c"
+!$RED = "#CC0000"
+!$ORANGE = "#fd7e14"
+!$YELLOW = "#FF8800"
+!$GREEN = "#77B300"
+!$TEAL = "#20c997"
+!$CYAN = "#9933CC"
+!$WHITE = "#FFF"
+!$GRAY_LIGHT = "#222"
+!$GRAY = "#555"
+!$PRIMARY = "#2A9FD6"
+!$SECONDARY = "#555"
+!$SUCCESS = "#77B300"
+!$INFO = "#9933CC"
+!$WARNING = "#FF8800"
+!$DANGER = "#CC0000"
+!$LIGHT = "#222"
+!$DARK = "#ADAFAE"
+
+'' *_DARK = tint (lighter) of the main color of 80%
+''          where TINT is calculated by clr + (255-clr) * tint_factor
+'' *_LIGHT = shade (darker) of the main color of 80%
+''          and SHADE is calculated by clr * (1 - shade_factor)
+''
+!$PRIMARY_DARK = "#55B2DE"
+!$PRIMARY_LIGHT = "#227FAB"
+!$PRIMARY_TEXT = $PRIMARY
+!$SECONDARY_DARK = "#777777"
+!$SECONDARY_LIGHT = "#444444"
+!$SECONDARY_TEXT = $WHITE
+!$INFO_DARK = "#AD5CD6"
+!$INFO_TEXT = $WHITE
+!$SUCCESS_DARK = "#92C233"
+!$SUCCESS_LIGHT = "#5F8F00"
+!$SUCCESS_TEXT = $SUCCESS
+!$WARNING_DARK = "#FFA033"
+!$WARNING_TEXT = $WARNING
+!$DANGER_DARK = "#D63333"
+!$DANGER_TEXT = $WHITE
+!$DARK_DARK = "#BDBFBE"
+!$DARK_LIGHT = "#8A8C8B"
+!$LIGHT_DARK = "#4E4E4E"
+!$LIGHT_LIGHT = "#1B1B1B"
+
+!function $success($msg)
+  <font color=$SUCCESS><b>$msg
+!endfunction
+
+!function $failure($msg)
+  <font color=$DANGER><b>$msg
+!endfunction
+
+!function $warning($msg)
+  <font color=$WARNING><b>$msg
+!endfunction
+
+''
+'' Global Default Values
+''
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    10
+skinparam BoxPadding            2
+skinparam Padding               2
+skinparam TitleFontColor	    $DARK
+skinparam TitleFontSize	    	20
+skinparam TitleBorderThickness 	0
+skinparam ArrowColor            $DARK
+
+
+skinparam legend {
+	BackgroundColor transparent
+	BorderColor $SECONDARY_DARK
+	FontColor $DARK
+}
+
+!startsub activity
+skinparam activity {
+	TitleFontSize 20
+	TitleFontColor $DARK
+	FontColor $PRIMARY_TEXT
+	BorderColor $PRIMARY
+	BackgroundColor transparent
+	BarColor $SUCCESS
+	StartColor $INFO
+	EndColor $INFO
+	''
+	DiamondBackgroundColor transparent
+  	DiamondBorderColor $SECONDARY_DARK
+  	DiamondFontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub sequence
+skinparam sequence {
+	BorderColor $PRIMARY
+	TitleFontSize 20
+	TitleFontColor $DARK
+	BackgroundColor transparent
+	StartColor $PRIMARY
+	EndColor $PRIMARY
+	''
+    ParticipantBackgroundColor transparent
+    ParticipantBorderColor $PRIMARY
+	ParticipantBorderThickness 0
+	ParticipantFontColor $PRIMARY_TEXT
+	''
+	ActorBackgroundColor transparent
+    ActorBorderColor $PRIMARY
+	ActorFontColor $PRIMARY
+	''
+	ArrowThickness 3
+	ArrowColor $PRIMARY
+	''
+	BoxBackgroundColor transparent
+	BoxBorderColor $DARK
+	BoxFontColor $DARk
+	''
+	LifeLineBorderColor $SECONDARY
+	LifeLineBorderThickness 0
+	LifeLineBackgroundColor transparent
+	''
+	GroupBorderColor $DARK
+	GroupFontColor $DARK
+	GroupHeaderFontColor $INFO
+	''
+	DividerBackgroundColor transparent
+    DividerBorderColor $DARK
+    DividerBorderThickness 2
+    DividerFontColor $LIGHT
+	''
+	ReferenceBorderColor $DARK
+	ReferenceFontColor $DARK
+	ReferenceHeaderFontColor $INFO
+}
+!endsub
+
+!startsub partition
+skinparam partition {
+	BorderColor $PRIMARY
+	FontColor $PRIMARY
+	BackgroundColor transparent
+}
+!endsub
+
+!startsub collections
+skinparam collections {
+	BackgroundColor transparent
+	BorderColor $PRIMARY_DARK
+}
+!endsub
+
+!startsub control
+skinparam control {
+	BackgroundColor  transparent
+	BorderColor $PRIMARY_DARK
+	FontColor $DARK
+}
+!endsub
+
+!startsub entity
+skinparam entity {
+	BackgroundColor  transparent
+	BorderColor $PRIMARY_DARK
+	FontColor $DARK
+}
+!endsub
+
+!startsub boundary
+skinparam boundary {
+	BackgroundColor  transparent
+	BorderColor $PRIMARY_DARK
+	FontColor $DARK
+}
+!endsub
+
+!startsub agent
+skinparam agent {
+	BackgroundColor transparent
+	BorderColor $WARNING_LIGHT
+	FontColor $DARK
+}
+!endsub
+
+!startsub note
+skinparam note {
+	BorderThickness 1
+	BackgroundColor transparent
+	BorderColor $INFO_DARK
+	FontColor $WHITE
+}
+!endsub
+
+!startsub artifact
+skinparam artifact {
+	BackgroundColor transparent
+	BorderColor $DARK_DARK
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub component
+skinparam component {
+	BackgroundColor  transparent
+	BorderColor  $SUCCESS_DARK
+	FontColor $SUCCESS_TEXT
+}
+!endsub
+
+!startsub interface
+skinparam interface {
+	BackgroundColor  transparent
+	BorderColor  $DANGER
+	FontColor $DARK
+}
+!endsub
+
+!startsub storage
+skinparam storage {
+	BackgroundColor transparent
+  	BorderColor $WARNING_DARK
+	FontColor $WARNING_TEXT
+}
+!endsub
+
+!startsub node
+skinparam node {
+	BackgroundColor  transparent
+	BorderColor $DARK
+	FontColor $DARK
+}
+!endsub
+
+!startsub cloud
+skinparam cloud {
+	BackgroundColor transparent
+	BorderColor lightskyblue
+	FontColor $DARK
+}
+!endsub
+
+!startsub database
+skinparam database {
+	BackgroundColor  transparent
+	BorderColor $PRIMARY_DARK
+	FontColor $DARK
+}
+!endsub
+
+!startsub actor
+skinparam actor {
+	FontColor $DARK
+}
+!endsub
+
+!startsub class
+skinparam class {
+	HeaderBackgroundColor $PRIMARY_LIGHT
+	FontColor $PRIMARY_TEXT
+	BackgroundColor transparent
+	BorderColor $PRIMARY_DARK
+	StereotypeFontColor $DARK
+	BorderThickness 1
+	AttributeFontColor $LIGHT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub object
+skinparam object {
+	FontColor $SUCCESS
+	BackgroundColor transparent
+	BorderColor $SECONDARY_DARK
+	StereotypeFontColor $DARK
+	BorderThickness 1
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub usecase
+skinparam usecase {
+	BackgroundColor transparent
+	BorderColor $SECONDARY
+	BorderThickness 2
+	FontColor $SECONDARY_TEXT
+	StereotypeFontColor $PRIMARY
+}
+!endsub
+
+!startsub rectangle
+skinparam rectangle {
+	BackgroundColor transparent
+	BorderColor $PRIMARY_LIGHT
+	BorderThickness 2
+	FontColor $PRIMARY
+	StereotypeFontColor $PRIMARY
+}
+!endsub
+
+!startsub package
+skinparam package {
+	BackgroundColor transparent
+  	BorderColor $PRIMARY
+	FontColor $PRIMARY
+	BorderThickness 2
+}
+!endsub
+
+!startsub folder
+skinparam folder {
+	BackgroundColor transparent
+  	BorderColor $WARNING
+	FontColor $WARNING
+	BorderThickness 2
+}
+!endsub
+
+!startsub frame
+skinparam frame {
+	BackgroundColor transparent
+  	BorderColor $INFO
+	FontColor $INFO
+	BorderThickness 2
+}
+!endsub
+
+!startsub state
+skinparam state {
+	StartColor $INFO
+	EndColor $INFO
+	BackgroundColor transparent
+	BorderColor $SECONDARY_DARK
+	FontColor $INFO
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
