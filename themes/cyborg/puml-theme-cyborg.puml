@@ -360,7 +360,7 @@ skinparam state {
 !startsub queue
 skinparam queue {
 	BackgroundColor $WARNING-$WARNING_DARK
-  	BorderColor $WARNING
+  	BorderColor $WARNING_DARK
 	FontColor $WARNING_TEXT
 }
 !endsub
@@ -368,7 +368,7 @@ skinparam queue {
 !startsub card
 skinparam card {
 	BackgroundColor $INFO_DARK-$INFO
-	BorderColor $INFO
+	BorderColor $INFO_DARK
 	FontColor $INFO_TEXT
 }
 !endsub
@@ -384,7 +384,7 @@ skinparam file {
 !startsub stack
 skinparam stack {
 	BackgroundColor $PRIMARY_DARK-$PRIMARY_LIGHT
-	BorderColor $PRIMARY
+	BorderColor $PRIMARY_DARK
 	FontColor $PRIMARY_TEXT
 }
 !endsub
