@@ -43,13 +43,16 @@
 !$SECONDARY_LIGHT = "#3e4a56"
 !$SECONDARY_TEXT = $WHITE
 !$INFO_DARK = "#7ccde5"
+!$INFO_LIGHT = "#499AB2"
 !$INFO_TEXT = $WHITE
 !$SUCCESS_DARK = "#4a934a"
 !$SUCCESS_LIGHT = "#5F8F00"
 !$SUCCESS_TEXT = $WHITE
 !$WARNING_DARK = "#f3bd71"
+!$WARNING_LIGHT = "#C08A3E"
 !$WARNING_TEXT = $WHITE
 !$DANGER_DARK = "#e17572"
+!$DANGER_LIGHT = "#AE423F"
 !$DANGER_TEXT = $WHITE
 !$DARK_DARK = "#717d89"
 !$DARK_LIGHT = "#3e4a56"
@@ -351,5 +354,37 @@ skinparam state {
 	FontColor $INFO
 	AttributeFontColor $SECONDARY_TEXT
 	AttributeFontSize 11
+}
+!endsub
+
+!startsub queue
+skinparam queue {
+	BackgroundColor $WARNING_LIGHT
+  	BorderColor $WARNING
+	FontColor $WARNING_TEXT
+}
+!endsub
+
+!startsub card
+skinparam card {
+	BackgroundColor $INFO
+	BorderColor $INFO_DARK
+	FontColor $INFO_TEXT
+}
+!endsub
+
+!startsub file
+skinparam file {
+	BackgroundColor $SECONDARY_DARK
+	BorderColor $LIGHT
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub stack
+skinparam stack {
+	BackgroundColor $PRIMARY_DARK-$PRIMARY_LIGHT
+	BorderColor $PRIMARY_DARK
+	FontColor $PRIMARY_TEXT
 }
 !endsub
