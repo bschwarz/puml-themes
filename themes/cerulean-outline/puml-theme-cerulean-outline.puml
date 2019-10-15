@@ -359,16 +359,16 @@ skinparam queue {
 !startsub card
 skinparam card {
 	BackgroundColor transparent
-	BorderColor $GRAY
-	FontColor $GRAY
+	BorderColor $INFO
+	FontColor $INFO
 }
 !endsub
 
 !startsub file
 skinparam file {
 	BackgroundColor transparent
-	BorderColor $INFO
-	FontColor $INFO
+	BorderColor $GRAY
+	FontColor $GRAY
 }
 !endsub
 
