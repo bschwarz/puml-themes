@@ -1,7 +1,7 @@
 @startuml
 
 !if %variable_exists("$THEME")
-title $THEME theme
+title Class Diagram - $THEME theme
 !else
 title Class Diagram
 !endif
