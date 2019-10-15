@@ -41,7 +41,7 @@
 !$PRIMARY_TEXT = $PRIMARY
 !$SECONDARY_DARK = "#777777"
 !$SECONDARY_LIGHT = "#444444"
-!$SECONDARY_TEXT = $WHITE
+!$SECONDARY_TEXT = $SECONDARY_DARK
 !$INFO_DARK = "#AD5CD6"
 !$INFO_TEXT = $WHITE
 !$SUCCESS_DARK = "#92C233"
@@ -119,7 +119,7 @@ skinparam sequence {
 	''
     ParticipantBackgroundColor transparent
     ParticipantBorderColor $PRIMARY
-	ParticipantBorderThickness 0
+	ParticipantBorderThickness 1
 	ParticipantFontColor $PRIMARY_TEXT
 	''
 	ActorBackgroundColor transparent
@@ -204,7 +204,7 @@ skinparam note {
 	BorderThickness 1
 	BackgroundColor transparent
 	BorderColor $INFO_DARK
-	FontColor $WHITE
+	FontColor $INFO_DARK
 }
 !endsub
 
@@ -290,7 +290,7 @@ skinparam object {
 	BorderColor $SECONDARY_DARK
 	StereotypeFontColor $DARK
 	BorderThickness 1
-	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontColor $SECONDARY_DARK
 	AttributeFontSize 11
 }
 !endsub
@@ -351,5 +351,37 @@ skinparam state {
 	FontColor $INFO
 	AttributeFontColor $SECONDARY_TEXT
 	AttributeFontSize 11
+}
+!endsub
+
+!startsub queue
+skinparam queue {
+	BackgroundColor transparent
+  	BorderColor $WARNING
+	FontColor $WARNING_TEXT
+}
+!endsub
+
+!startsub card
+skinparam card {
+	BackgroundColor transparent
+	BorderColor $INFO
+	FontColor $INFO
+}
+!endsub
+
+!startsub file
+skinparam file {
+	BackgroundColor transparent
+	BorderColor $GRAY
+	FontColor $GRAY
+}
+!endsub
+
+!startsub stack
+skinparam stack {
+	BackgroundColor transparent
+	BorderColor $PRIMARY
+	FontColor $PRIMARY
 }
 !endsub
