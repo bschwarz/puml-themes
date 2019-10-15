@@ -7,7 +7,7 @@
             "background": "white"
         },
         {
-            "name": "cerulean outline",
+            "name": "cerulean-outline",
             "description":"Blue based theme based off of the <a href='https://bootswatch.com/cerulean'>Cerulean theme</a> at bootswatch, but with only outline colors no fill",
             "url": "https://bschwarz.github.io/puml-themes/themes/cerulean-outline/",
             "background": "white"
@@ -19,7 +19,7 @@
             "background": "black"
         },
         {
-            "name": "cyborg outline",
+            "name": "cyborg-outline",
             "description":"Dark theme meant for dark backgrounds based off of the <a href='https://bootswatch.com/cyborg'>Cyborg theme</a> at bootswatch, but with only outline colors no fill",
             "url": "https://bschwarz.github.io/puml-themes/themes/cyborg-outline/",
             "background": "black"
