@@ -80,7 +80,7 @@ skinparam TitleBorderThickness 	0
 skinparam ArrowColor            $GRAY
 
 skinparam legend {
-	BackgroundColor $SECONDARY
+	BackgroundColor transparent
 	BorderColor $SECONDARY_DARK
 	FontColor $DARK
 }
@@ -111,9 +111,9 @@ skinparam sequence {
 	StartColor $PRIMARY
 	EndColor $PRIMARY
 	''
-    ParticipantBackgroundColor $PRIMARY_LIGHT-$PRIMARY
+    ParticipantBackgroundColor transparent
     ParticipantBorderColor $PRIMARY
-	ParticipantBorderThickness 0
+	ParticipantBorderThickness 1
 	ParticipantFontColor $PRIMARY_TEXT
 	''
 	ActorBackgroundColor transparent
@@ -123,19 +123,19 @@ skinparam sequence {
 	ArrowThickness 3
 	ArrowColor $PRIMARY
 	''
-	BoxBackgroundColor $LIGHT
+	BoxBackgroundColor transparent
 	BoxBorderColor $GRAY
 	BoxFontColor $DARK
 	''
 	LifeLineBorderColor $SECONDARY_DARK
 	LifeLineBorderThickness 0
-	LifeLineBackgroundColor $SECONDARY_LIGHT
+	LifeLineBackgroundColor transparent
 	''
 	GroupBorderColor $GRAY
 	GroupFontColor $DARK
 	GroupHeaderFontColor $INFO
 	''
-	DividerBackgroundColor $WHITE-$LIGHT
+	DividerBackgroundColor transparent
     DividerBorderColor $GRAY
     DividerBorderThickness 2
     DividerFontColor $DARK
@@ -156,14 +156,14 @@ skinparam partition {
 
 !startsub collections
 skinparam collections {
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	BackgroundColor transparent
 	BorderColor $PRIMARY
 }
 !endsub
 
 !startsub control
 skinparam control {
-	BackgroundColor  $PRIMARY_LIGHT-$PRIMARY
+	BackgroundColor transparent
 	BorderColor $PRIMARY_DARK
 	FontColor $DARK
 }
@@ -171,7 +171,7 @@ skinparam control {
 
 !startsub entity
 skinparam entity {
-	BackgroundColor  $PRIMARY_LIGHT-$PRIMARY
+	BackgroundColor  transparent
 	BorderColor $PRIMARY_DARK
 	FontColor $DARK
 }
@@ -179,7 +179,7 @@ skinparam entity {
 
 !startsub boundary
 skinparam boundary {
-	BackgroundColor  $PRIMARY_LIGHT-$PRIMARY
+	BackgroundColor  transparent
 	BorderColor $PRIMARY_DARK
 	FontColor $DARK
 }
@@ -187,7 +187,7 @@ skinparam boundary {
 
 !startsub agent
 skinparam agent {
-	BackgroundColor #orange
+	BackgroundColor transparent
 	BorderColor #999999
 	FontColor #333333
 }
@@ -196,15 +196,15 @@ skinparam agent {
 !startsub note
 skinparam note {
 	BorderThickness 1
-	BackgroundColor $INFO_LIGHT-$INFO
+	BackgroundColor transparent
 	BorderColor $INFO
-	FontColor $WHITE
+	FontColor $INFO
 }
 !endsub
 
 !startsub artifact
 skinparam artifact {
-	BackgroundColor $WHITE-$LIGHT
+	BackgroundColor transparent
 	BorderColor $GRAY
 	FontColor $GRAY
 }
@@ -220,7 +220,7 @@ skinparam component {
 
 !startsub interface
 skinparam interface {
-	BackgroundColor  $DANGER_LIGHT
+	BackgroundColor  transparent
 	BorderColor  $DANGER
 	FontColor $DARK
 }
@@ -280,18 +280,18 @@ skinparam class {
 !startsub object
 skinparam object {
 	FontColor $SUCCESS
-	BackgroundColor $SECONDARY-$SECONDARY_DARK
+	BackgroundColor transparent
 	BorderColor $SECONDARY_DARK
 	StereotypeFontColor $DARK
 	BorderThickness 1
-	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontColor $SECONDARY_DARK
 	AttributeFontSize 11
 }
 !endsub
 
 !startsub usecase
 skinparam usecase {
-	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
+	BackgroundColor transparent
 	BorderColor $SECONDARY
 	BorderThickness 2
 	FontColor $SECONDARY_TEXT
@@ -301,7 +301,7 @@ skinparam usecase {
 
 !startsub rectangle
 skinparam rectangle {
-	BackgroundColor $SECONDARY-$SECONDARY_DARK
+	BackgroundColor transparent
 	BorderColor $PRIMARY_DARK
 	BorderThickness 2
 	FontColor $PRIMARY
@@ -340,10 +340,42 @@ skinparam frame {
 skinparam state {
 	StartColor $INFO
 	EndColor $INFO
-	BackgroundColor $SECONDARY-$SECONDARY_DARK
+	BackgroundColor transparent 
 	BorderColor $SECONDARY_DARK
 	FontColor $INFO
 	AttributeFontColor $SECONDARY_TEXT
 	AttributeFontSize 11
+}
+!endsub
+
+!startsub queue
+skinparam queue {
+	BackgroundColor transparent
+  	BorderColor $WARNING
+	FontColor $WARNING_TEXT
+}
+!endsub
+
+!startsub card
+skinparam card {
+	BackgroundColor transparent
+	BorderColor $GRAY
+	FontColor $GRAY
+}
+!endsub
+
+!startsub file
+skinparam file {
+	BackgroundColor transparent
+	BorderColor $INFO
+	FontColor $INFO
+}
+!endsub
+
+!startsub stack
+skinparam stack {
+	BackgroundColor transparent
+	BorderColor $PRIMARY
+	FontColor $PRIMARY
 }
 !endsub
