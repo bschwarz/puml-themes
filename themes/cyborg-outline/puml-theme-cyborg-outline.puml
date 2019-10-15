@@ -43,7 +43,7 @@
 !$SECONDARY_LIGHT = "#444444"
 !$SECONDARY_TEXT = $SECONDARY_DARK
 !$INFO_DARK = "#AD5CD6"
-!$INFO_TEXT = $WHITE
+!$INFO_TEXT = $INFO
 !$SUCCESS_DARK = "#92C233"
 !$SUCCESS_LIGHT = "#5F8F00"
 !$SUCCESS_TEXT = $SUCCESS
@@ -139,7 +139,7 @@ skinparam sequence {
 	''
 	GroupBorderColor $DARK
 	GroupFontColor $DARK
-	GroupHeaderFontColor $INFO
+	GroupHeaderFontColor $INFO_TEXT
 	''
 	DividerBackgroundColor transparent
     DividerBorderColor $DARK
@@ -148,7 +148,7 @@ skinparam sequence {
 	''
 	ReferenceBorderColor $DARK
 	ReferenceFontColor $DARK
-	ReferenceHeaderFontColor $INFO
+	ReferenceHeaderFontColor $INFO_TEXT
 }
 !endsub
 
@@ -337,7 +337,7 @@ skinparam folder {
 skinparam frame {
 	BackgroundColor transparent
   	BorderColor $INFO
-	FontColor $INFO
+	FontColor $INFO_TEXT
 	BorderThickness 2
 }
 !endsub
@@ -348,7 +348,7 @@ skinparam state {
 	EndColor $INFO
 	BackgroundColor transparent
 	BorderColor $SECONDARY_DARK
-	FontColor $INFO
+	FontColor $INFO_TEXT
 	AttributeFontColor $SECONDARY_TEXT
 	AttributeFontSize 11
 }
@@ -366,7 +366,7 @@ skinparam queue {
 skinparam card {
 	BackgroundColor transparent
 	BorderColor $INFO
-	FontColor $INFO
+	FontColor $INFO_TEXT
 }
 !endsub
 
