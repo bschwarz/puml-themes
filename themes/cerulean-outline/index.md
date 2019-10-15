@@ -1,6 +1,6 @@
 ---
 layout: default
-title: cerulean outline
+title: cerulean-outline
 published: true
 ---
 
