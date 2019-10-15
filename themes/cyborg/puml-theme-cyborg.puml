@@ -375,7 +375,7 @@ skinparam card {
 
 !startsub file
 skinparam file {
-	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
+	BackgroundColor $SECONDARY_DARK-$SECONDARY
 	BorderColor $DARK
 	FontColor $DARK
 }
@@ -383,7 +383,7 @@ skinparam file {
 
 !startsub stack
 skinparam stack {
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY_DARK
+	BackgroundColor $PRIMARY_DARK-$PRIMARY_LIGHT
 	BorderColor $PRIMARY
 	FontColor $PRIMARY_TEXT
 }
