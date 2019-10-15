@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1218.75px" preserveAspectRatio="none" style="width:456px;height:1218px;" version="1.1" viewBox="0 0 456 1218" width="456.25px" zoomAndPan="magnify"><defs><filter height="300%" id="feehd2lsjhqrb" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0833333333333335"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.166666666666667" dy="4.166666666666667" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="none" height="48.2361" rx="4.1667" ry="4.1667" style="stroke: none; stroke-width: 1.0416666666666667;" width="442.7083" x="2.0833" y="2.0833"/><text fill="#222222" font-family="Verdana" font-size="20.8333" lengthAdjust="spacingAndGlyphs" textLength="413.5417" x="16.6667" y="34.4869">State Diagram - materia-outline theme</text><rect fill="#4CAF50" filter="url(#feehd2lsjhqrb)" height="8.3333" style="stroke: none; stroke-width: 1.0416666666666667;" width="83.3333" x="176.0417" y="145.1111"/><ellipse cx="217.7083" cy="72.1944" fill="#9C27B0" filter="url(#feehd2lsjhqrb)" rx="10.4167" ry="10.4167" style="stroke: none; stroke-width: 1.0416666666666667;"/><rect fill="#FFFFFF" filter="url(#feehd2lsjhqrb)" height="61.025" rx="13.0208" ry="13.0208" style="stroke: #CCCCCC; stroke-width: 1.5625;" width="77.0833" x="122.9167" y="215.9444"/><line style="stroke: #CCCCCC; stroke-width: 1.5625;" x1="122.9167" x2="200" y1="254.0527" y2="254.0527"/><text fill="#9C27B0" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="43.75" x="139.5833" y="239.9699">State2</text><rect fill="#FFFFFF" filter="url(#feehd2lsjhqrb)" height="61.025" rx="13.0208" ry="13.0208" style="stroke: #CCCCCC; stroke-width: 1.5625;" width="77.0833" x="236.4583" y="215.9444"/><line style="stroke: #CCCCCC; stroke-width: 1.5625;" x1="236.4583" x2="313.5417" y1="254.0527" y2="254.0527"/><text fill="#9C27B0" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="43.75" x="253.125" y="239.9699">State3</text><rect fill="#4CAF50" filter="url(#feehd2lsjhqrb)" height="8.3333" style="stroke: none; stroke-width: 1.0416666666666667;" width="83.3333" x="176.0417" y="339.9028"/><rect fill="#FFFFFF" filter="url(#feehd2lsjhqrb)" height="61.025" rx="13.0208" ry="13.0208" style="stroke: #CCCCCC; stroke-width: 1.5625;" width="77.0833" x="179.1667" y="410.7361"/><line style="stroke: #CCCCCC; stroke-width: 1.5625;" x1="179.1667" x2="256.25" y1="448.8444" y2="448.8444"/><text fill="#9C27B0" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="43.75" x="195.8333" y="434.7616">State4</text><rect fill="#FFFFFF" filter="url(#feehd2lsjhqrb)" height="673.525" rx="13.0208" ry="13.0208" style="stroke: #CCCCCC; stroke-width: 1.5625;" width="356.25" x="39.5833" y="534.6944"/><rect fill="#FFFFFF" height="629.1667" rx="13.0208" ry="13.0208" style="stroke: #FFFFFF; stroke-width: 1.0416666666666667;" width="350" x="42.7083" y="575.9277"/><line style="stroke: #CCCCCC; stroke-width: 1.5625;" x1="39.5833" x2="395.8333" y1="572.8027" y2="572.8027"/><text fill="#9C27B0" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="38.5417" x="198.4375" y="558.7199">Active</text><ellipse cx="61.4583" cy="617.0736" fill="#9C27B0" filter="url(#feehd2lsjhqrb)" rx="10.4167" ry="10.4167" style="stroke: none; stroke-width: 1.0416666666666667;"/><rect fill="#FFFFFF" filter="url(#feehd2lsjhqrb)" height="61.025" rx="13.0208" ry="13.0208" style="stroke: #CCCCCC; stroke-width: 1.5625;" width="110.4167" x="90.625" y="586.3444"/><line style="stroke: #CCCCCC; stroke-width: 1.5625;" x1="90.625" x2="201.0417" y1="624.4527" y2="624.4527"/><text fill="#9C27B0" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="77.0833" x="107.2917" y="610.3699">NumLockOff</text><rect fill="#FFFFFF" filter="url(#feehd2lsjhqrb)" height="61.025" rx="13.0208" ry="13.0208" style="stroke: #CCCCCC; stroke-width: 1.5625;" width="110.4167" x="89.5833" y="714.4694"/><line style="stroke: #CCCCCC; stroke-width: 1.5625;" x1="89.5833" x2="200" y1="752.5777" y2="752.5777"/><text fill="#9C27B0" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="77.0833" x="106.25" y="738.4949">NumLockOn</text><!--link *start*Active to NumLockOff--><path d="M72.0052,617.0736 C76.331,617.0736 80.657,617.0736 84.9828,617.0736 " fill="none" id="*start*Active-NumLockOff" style="stroke: #2196F3; stroke-width: 3.125;"/><polygon fill="#2196F3" points="90.4623,617.0736,81.0873,612.9069,85.254,617.0736,81.0873,621.2402,90.4623,617.0736" style="stroke: #2196F3; stroke-width: 3.125;"/><!--link NumLockOff to NumLockOn--><path d="M90.2742,645.3871 C77.7718,652.6934 67.1211,660.2923 63.5417,666.5527 C57.1074,677.8061 57.1389,684.448 63.5417,695.7194 C68.7698,704.9228 76.5156,712.5623 85.18,718.842 " fill="none" id="NumLockOff-NumLockOn" style="stroke: #2196F3; stroke-width: 3.125;"/><polygon fill="#2196F3" points="89.5002,721.8164,84.1411,713.0681,85.2103,718.8629,79.4155,719.932,89.5002,721.8164" style="stroke: #2196F3; stroke-width: 3.125;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="127.0833" x="70.8333" y="686.4115">EvNumLockPressed</text><!--link NumLockOn to NumLockOff--><path d="M191.5458,714.3775 C197.0583,708.8611 201.8927,702.6278 205.2083,695.7194 C210.8177,684.0329 210.7677,678.2629 205.2083,666.5527 C202.7188,661.3079 199.3521,656.4444 195.4802,651.9829 " fill="none" id="NumLockOn-NumLockOff" style="stroke: #2196F3; stroke-width: 3.125;"/><polygon fill="#2196F3" points="191.7927,648.0007,195.1053,657.7104,195.3315,651.8222,201.2197,652.0484,191.7927,648.0007" style="stroke: #2196F3; stroke-width: 3.125;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="127.0833" x="217.7083" y="686.4115">EvNumLockPressed</text><line style="stroke: #CCCCCC; stroke-width: 1.5625; stroke-dasharray: 8.0,10.0;" x1="44.7917" x2="388.5417" y1="786.3444" y2="786.3444"/><ellipse cx="61.4583" cy="825.4069" fill="#9C27B0" filter="url(#feehd2lsjhqrb)" rx="10.4167" ry="10.4167" style="stroke: none; stroke-width: 1.0416666666666667;"/><rect fill="#FFFFFF" filter="url(#feehd2lsjhqrb)" height="61.025" rx="13.0208" ry="13.0208" style="stroke: #CCCCCC; stroke-width: 1.5625;" width="114.5833" x="90.625" y="794.6777"/><line style="stroke: #CCCCCC; stroke-width: 1.5625;" x1="90.625" x2="205.2083" y1="832.7861" y2="832.7861"/><text fill="#9C27B0" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="81.25" x="107.2917" y="818.7032">CapsLockOff</text><rect fill="#FFFFFF" filter="url(#feehd2lsjhqrb)" height="61.025" rx="13.0208" ry="13.0208" style="stroke: #CCCCCC; stroke-width: 1.5625;" width="114.5833" x="89.5833" y="922.8027"/><line style="stroke: #CCCCCC; stroke-width: 1.5625;" x1="89.5833" x2="204.1667" y1="960.9111" y2="960.9111"/><text fill="#9C27B0" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="81.25" x="106.25" y="946.8282">CapsLockOn</text><!--link *start*CONC82 to CapsLockOff--><path d="M71.9279,825.4069 C76.2413,825.4069 80.5546,825.4069 84.8679,825.4069 " fill="none" id="*start*CONC82-CapsLockOff" style="stroke: #2196F3; stroke-width: 3.125;"/><polygon fill="#2196F3" points="90.3315,825.4069,80.9565,821.2402,85.1231,825.4069,80.9565,829.5736,90.3315,825.4069" style="stroke: #2196F3; stroke-width: 3.125;"/><!--link CapsLockOff to CapsLockOn--><path d="M90.5247,853.8444 C77.8971,861.0715 67.1808,868.6007 63.5417,874.8861 C57.0464,886.1043 57.0766,892.817 63.5417,904.0527 C68.6822,912.9865 76.1731,920.4252 84.5859,926.5713 " fill="none" id="CapsLockOff-CapsLockOn" style="stroke: #2196F3; stroke-width: 3.125;"/><polygon fill="#2196F3" points="89.3454,929.8541,83.9937,921.1013,85.058,926.897,79.2623,927.9613,89.3454,929.8541" style="stroke: #2196F3; stroke-width: 3.125;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="131.25" x="70.8333" y="894.7449">EvCapsLockPressed</text><!--link CapsLockOn to CapsLockOff--><path d="M195.5156,922.6318 C201.0979,917.1564 205.9917,910.9557 209.375,904.0527 C215.0802,892.4128 215.0333,886.5491 209.375,874.8861 C206.8323,869.6454 203.4177,864.8017 199.4948,860.3684 " fill="none" id="CapsLockOn-CapsLockOff" style="stroke: #2196F3; stroke-width: 3.125;"/><polygon fill="#2196F3" points="195.7594,856.4132,199.1699,866.0889,199.3366,860.1987,205.2268,860.3653,195.7594,856.4132" style="stroke: #2196F3; stroke-width: 3.125;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="131.25" x="221.875" y="894.7449">EvCapsLockPressed</text><line style="stroke: #CCCCCC; stroke-width: 1.5625; stroke-dasharray: 8.0,10.0;" x1="44.7917" x2="388.5417" y1="994.6777" y2="994.6777"/><ellipse cx="61.4583" cy="1033.7402" fill="#9C27B0" filter="url(#feehd2lsjhqrb)" rx="10.4167" ry="10.4167" style="stroke: none; stroke-width: 1.0416666666666667;"/><rect fill="#FFFFFF" filter="url(#feehd2lsjhqrb)" height="61.025" rx="13.0208" ry="13.0208" style="stroke: #CCCCCC; stroke-width: 1.5625;" width="115.625" x="91.1458" y="1003.0111"/><line style="stroke: #CCCCCC; stroke-width: 1.5625;" x1="91.1458" x2="206.7708" y1="1041.1194" y2="1041.1194"/><text fill="#9C27B0" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="82.2917" x="107.8125" y="1027.0365">ScrollLockOff</text><rect fill="#FFFFFF" filter="url(#feehd2lsjhqrb)" height="61.025" rx="13.0208" ry="13.0208" style="stroke: #CCCCCC; stroke-width: 1.5625;" width="115.625" x="91.1458" y="1131.1361"/><line style="stroke: #CCCCCC; stroke-width: 1.5625;" x1="91.1458" x2="206.7708" y1="1169.2444" y2="1169.2444"/><text fill="#9C27B0" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="82.2917" x="107.8125" y="1155.1615">ScrollLockOn</text><!--link *start*CONC90 to ScrollLockOff--><path d="M72.0541,1033.7402 C76.5883,1033.7402 81.1226,1033.7402 85.6569,1033.7402 " fill="none" id="*start*CONC90-ScrollLockOff" style="stroke: #2196F3; stroke-width: 3.125;"/><polygon fill="#2196F3" points="90.9797,1033.7402,81.6047,1029.5736,85.7714,1033.7402,81.6047,1037.9069,90.9797,1033.7402" style="stroke: #2196F3; stroke-width: 3.125;"/><!--link ScrollLockOff to ScrollLockOn--><path d="M91.0053,1057.6954 C80.8548,1064.3757 71.634,1072.7767 65.625,1083.2194 C59.1599,1094.4551 59.1599,1101.1503 65.625,1112.3861 C70.6951,1121.1974 78.0517,1128.5545 86.3241,1134.6514 " fill="none" id="ScrollLockOff-ScrollLockOn" style="stroke: #2196F3; stroke-width: 3.125;"/><polygon fill="#2196F3" points="91.0053,1137.91,85.6916,1129.1342,86.7307,1134.9344,80.9305,1135.9735,91.0053,1137.91" style="stroke: #2196F3; stroke-width: 3.125;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="131.25" x="72.9167" y="1103.0782">EvCapsLockPressed</text><!--link ScrollLockOn to ScrollLockOff--><path d="M197.599,1130.9651 C203.1813,1125.4897 208.075,1119.289 211.4583,1112.3861 C217.1635,1100.7462 217.1635,1094.8593 211.4583,1083.2194 C208.8677,1077.934 205.3917,1073.0611 201.4,1068.609 " fill="none" id="ScrollLockOn-ScrollLockOff" style="stroke: #2196F3; stroke-width: 3.125;"/><polygon fill="#2196F3" points="197.599,1064.6402,201.074,1074.293,201.2013,1068.4018,207.0925,1068.5292,197.599,1064.6402" style="stroke: #2196F3; stroke-width: 3.125;"/><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="131.25" x="222.9167" y="1103.0782">EvCapsLockPressed</text><!--link *start to fork_state--><path d="M217.7083,82.7361 C217.7083,97.3611 217.7083,125.2048 217.7083,139.4132 " fill="none" id="*start-fork_state" style="stroke: #2196F3; stroke-width: 3.125;"/><polygon fill="#2196F3" points="217.7083,144.8923,221.875,135.5173,217.7083,139.684,213.5417,135.5173,217.7083,144.8923" style="stroke: #2196F3; stroke-width: 3.125;"/><!--link fork_state to State2--><path d="M215.8365,153.4861 C210.5333,162.4757 194.9375,188.9038 181.801,211.1632 " fill="none" id="fork_state-State2" style="stroke: #2196F3; stroke-width: 3.125;"/><polygon fill="#2196F3" points="179.0396,215.8423,187.3932,209.8867,181.687,211.357,180.2167,205.6509,179.0396,215.8423" style="stroke: #2196F3; stroke-width: 3.125;"/><!--link fork_state to State3--><path d="M219.6146,153.4861 C225.0167,162.4757 240.901,188.9038 254.2813,211.1632 " fill="none" id="fork_state-State3" style="stroke: #2196F3; stroke-width: 3.125;"/><polygon fill="#2196F3" points="257.0938,215.8423,255.8358,205.6605,254.4108,211.3782,248.6931,209.9532,257.0938,215.8423" style="stroke: #2196F3; stroke-width: 3.125;"/><!--link State2 to join_state--><path d="M179.2563,277.8725 C190.9719,297.7246 205.4646,322.2809 212.8635,334.8194 " fill="none" id="State2-join_state" style="stroke: #2196F3; stroke-width: 3.125;"/><polygon fill="#2196F3" points="215.5719,339.408,214.3947,329.2165,212.9244,334.9227,207.2183,333.4524,215.5719,339.408" style="stroke: #2196F3; stroke-width: 3.125;"/><!--link State3 to join_state--><path d="M256.8729,277.8725 C244.9396,297.7246 230.1792,322.2809 222.6427,334.8194 " fill="none" id="State3-join_state" style="stroke: #2196F3; stroke-width: 3.125;"/><polygon fill="#2196F3" points="219.8844,339.408,228.285,333.5189,222.5673,334.9438,221.1424,329.2262,219.8844,339.408" style="stroke: #2196F3; stroke-width: 3.125;"/><!--link join_state to State4--><path d="M217.7083,348.2819 C217.7083,357.1934 217.7083,383.2538 217.7083,405.3955 " fill="none" id="join_state-State4" style="stroke: #2196F3; stroke-width: 3.125;"/><polygon fill="#2196F3" points="217.7083,410.634,221.875,401.259,217.7083,405.4257,213.5417,401.259,217.7083,410.634" style="stroke: #2196F3; stroke-width: 3.125;"/><!--link State4 to Active--><path d="M217.7083,472.2715 C217.7083,487.0184 217.7083,506.4757 217.7083,528.8715 " fill="none" id="State4-Active" style="stroke: #2196F3; stroke-width: 3.125;"/><polygon fill="#2196F3" points="217.7083,534.3132,221.875,524.9382,217.7083,529.1048,213.5417,524.9382,217.7083,534.3132" style="stroke: #2196F3; stroke-width: 3.125;"/><!--
+@startuml
+
+
+
+
+
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             true
+skinparam roundcorner           8
+skinparam ParticipantPadding    10
+skinparam BoxPadding            2
+skinparam Padding               6
+skinparam TitleFontColor	    #222
+skinparam TitleFontSize	    	20
+skinparam TitleBorderThickness 	0
+skinparam ArrowColor            #666
+
+skinparam legend {
+	BackgroundColor transparent
+	BorderColor #cccccc
+	FontColor #222
+}
+
+skinparam activity {
+	TitleFontSize 20
+	TitleFontColor #222
+	FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+	BarColor #4CAF50
+	StartColor #9C27B0
+	EndColor #9C27B0
+	DiamondBackgroundColor transparent
+  	DiamondBorderColor #cccccc
+	DiamondFontColor #cccccc
+}
+
+skinparam sequence {
+	BorderColor #2196F3
+	TitleFontSize 20
+	TitleFontColor #222
+	BackgroundColor transparent
+	StartColor #2196F3
+	EndColor #2196F3
+    ParticipantBackgroundColor transparent
+    ParticipantBorderColor #2196F3
+	ParticipantBorderThickness 1
+	ParticipantFontColor #2196F3
+	ActorBackgroundColor transparent
+    ActorBorderColor #2196F3
+	ActorFontColor #2196F3
+	ArrowThickness 3
+	ArrowColor #2196F3
+	BoxBackgroundColor transparent
+	BoxBorderColor #666
+	BoxFontColor #222
+	LifeLineBorderColor #cccccc
+	LifeLineBorderThickness 0
+	LifeLineBackgroundColor transparent
+	GroupBorderColor #666
+	GroupFontColor #222
+	GroupHeaderFontColor #9C27B0
+	DividerBackgroundColor transparent
+    DividerBorderColor #666
+    DividerBorderThickness 2
+    DividerFontColor #222
+	ReferenceBorderColor #666
+	ReferenceFontColor #222
+	ReferenceHeaderFontColor #9C27B0
+}
+
+skinparam partition {
+	BorderColor #2196F3
+	FontColor #2196F3
+	BackgroundColor transparent
+}
+
+skinparam collections {
+	BackgroundColor transparent
+	BorderColor #2196F3
+}
+
+skinparam control {
+	BackgroundColor  transparent
+	BorderColor #1a78c2
+	FontColor #222
+}
+
+skinparam entity {
+	BackgroundColor  transparent
+	BorderColor #1a78c2
+	FontColor #222
+}
+
+skinparam boundary {
+	BackgroundColor  transparent
+	BorderColor #1a78c2
+	FontColor #222
+}
+
+skinparam agent {
+	BackgroundColor transparent
+	BorderColor #999999
+	FontColor #333333
+}
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor transparent
+	BorderColor #9C27B0
+	FontColor #9C27B0
+}
+
+skinparam artifact {
+	BackgroundColor transparent
+	BorderColor #666
+	FontColor #666
+}
+
+skinparam component {
+	BackgroundColor  transparent
+	BorderColor  #4CAF50
+	FontColor #4CAF50
+}
+
+skinparam interface {
+	BackgroundColor  transparent
+	BorderColor  #e51c23
+	FontColor #222
+}
+
+skinparam storage {
+	BackgroundColor transparent
+  	BorderColor #ff9800
+	FontColor #ff9800
+}
+
+skinparam node {
+	BackgroundColor transparent
+	BorderColor #222
+	FontColor #222
+}
+
+skinparam cloud {
+	BackgroundColor transparent
+	BorderColor lightskyblue
+	FontColor #222
+}
+
+skinparam database {
+	BackgroundColor  transparent
+	BorderColor #1a78c2
+	FontColor #222
+}
+
+skinparam actor {
+	FontColor #222
+}
+
+skinparam class {
+	HeaderBackgroundColor #2196F3-#1a78c2
+	FontColor #2196F3
+	BackgroundColor transparent
+	BorderColor #1a78c2
+	StereotypeFontColor #222
+	BorderThickness 1
+	AttributeFontColor #222
+	AttributeFontSize 11
+}
+
+skinparam object {
+	FontColor #4CAF50
+	BackgroundColor transparent
+	BorderColor #cccccc
+	StereotypeFontColor #222
+	BorderThickness 1
+	AttributeFontColor #cccccc
+	AttributeFontSize 11
+}
+
+skinparam usecase {
+	BackgroundColor transparent
+	BorderColor #cccccc
+	BorderThickness 2
+	FontColor #cccccc
+	StereotypeFontColor #2196F3
+}
+
+skinparam rectangle {
+	BackgroundColor transparent
+	BorderColor #1a78c2
+	BorderThickness 2
+	FontColor #2196F3
+	StereotypeFontColor #2196F3
+}
+
+skinparam package {
+	BackgroundColor transparent
+  	BorderColor #2196F3
+	FontColor #2196F3
+	BorderThickness 2
+}
+
+skinparam folder {
+	BackgroundColor transparent
+  	BorderColor #ff9800
+	FontColor #ff9800
+	BorderThickness 2
+}
+
+skinparam frame {
+	BackgroundColor transparent
+  	BorderColor #9C27B0
+	FontColor #9C27B0
+	BorderThickness 2
+}
+
+skinparam state {
+	StartColor #9C27B0
+	EndColor #9C27B0
+	BackgroundColor transparent
+	BorderColor #cccccc
+	FontColor #9C27B0
+	AttributeFontColor #cccccc
+	AttributeFontSize 11
+}
+
+skinparam queue {
+	BackgroundColor transparent
+  	BorderColor #CC7A00
+	FontColor #ff9800
+}
+
+skinparam card {
+	BackgroundColor transparent
+	BorderColor #9C27B0
+	FontColor #9C27B0
+}
+
+skinparam file {
+	BackgroundColor transparent
+	BorderColor #666
+	FontColor #666
+
+}
+
+skinparam stack {
+	BackgroundColor transparent
+	BorderColor #2196F3
+	FontColor #2196F3
+}
+
+title State Diagram - materia-outline theme
+
+skinparam BackgroundColor transparent
+
+state fork_state <<fork>>
+[*] - -> fork_state
+fork_state - -> State2
+fork_state - -> State3
+
+state join_state <<join>>
+State2 - -> join_state
+State3 - -> join_state
+join_state - -> State4
+State4 - -> Active
+
+state Active {
+  [*] -> NumLockOff
+  NumLockOff - -> NumLockOn : EvNumLockPressed
+  NumLockOn - -> NumLockOff : EvNumLockPressed
+  - -
+  [*] -> CapsLockOff
+  CapsLockOff - -> CapsLockOn : EvCapsLockPressed
+  CapsLockOn - -> CapsLockOff : EvCapsLockPressed
+  - -
+  [*] -> ScrollLockOff
+  ScrollLockOff - -> ScrollLockOn : EvCapsLockPressed
+  ScrollLockOn - -> ScrollLockOff : EvCapsLockPressed
+}
+
+@enduml
+
+PlantUML version 1.2019.08(Sat Jul 13 12:25:14 PDT 2019)
+(MIT source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_212-b32
+Operating System: Windows 10
+OS Version: 10.0
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>
