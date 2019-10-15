@@ -4,7 +4,7 @@
 ''
 '' Author: Brett Schwarz
 
-!$THEME = "cerulean"
+!$THEME = "cerulean-outline"
 
 ''
 '' Colors taken from the css file of the BS theme
