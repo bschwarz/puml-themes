@@ -7,6 +7,7 @@
 
 
 
+
 skinparam defaultFontName       "Verdana"
 skinparam defaultFontSize       12
 skinparam dpi                   100
@@ -21,7 +22,7 @@ skinparam TitleBorderThickness 	0
 skinparam ArrowColor            #868E96
 
 skinparam legend {
-	BackgroundColor transparent
+	BackgroundColor white
 	BorderColor #BABDBF
 	FontColor #343A40
 }
@@ -31,11 +32,11 @@ skinparam activity {
 	TitleFontColor #343A40
 	FontColor #2FA4E7
 	BorderColor #2FA4E7
-	BackgroundColor transparent
+	BackgroundColor white
 	BarColor #73A839
 	StartColor #033C73
 	EndColor #033C73
-	DiamondBackgroundColor transparent
+	DiamondBackgroundColor white
   	DiamondBorderColor #BABDBF
 	DiamondFontColor #BABDBF
 }
@@ -44,28 +45,28 @@ skinparam sequence {
 	BorderColor #2FA4E7
 	TitleFontSize 20
 	TitleFontColor #343A40
-	BackgroundColor transparent
+	BackgroundColor white
 	StartColor #2FA4E7
 	EndColor #2FA4E7
-    ParticipantBackgroundColor transparent
+    ParticipantBackgroundColor white
     ParticipantBorderColor #2FA4E7
 	ParticipantBorderThickness 1
 	ParticipantFontColor #2FA4E7
-	ActorBackgroundColor transparent
+	ActorBackgroundColor white
     ActorBorderColor #2FA4E7
 	ActorFontColor #2FA4E7
 	ArrowThickness 3
 	ArrowColor #2FA4E7
-	BoxBackgroundColor transparent
+	BoxBackgroundColor white
 	BoxBorderColor #868E96
 	BoxFontColor #343A40
 	LifeLineBorderColor #BABDBF
 	LifeLineBorderThickness 0
-	LifeLineBackgroundColor transparent
+	LifeLineBackgroundColor white
 	GroupBorderColor #868E96
 	GroupFontColor #343A40
 	GroupHeaderFontColor #033C73
-	DividerBackgroundColor transparent
+	DividerBackgroundColor white
     DividerBorderColor #868E96
     DividerBorderThickness 2
     DividerFontColor #343A40
@@ -77,83 +78,83 @@ skinparam sequence {
 skinparam partition {
 	BorderColor #2FA4E7
 	FontColor #2FA4E7
-	BackgroundColor transparent
+	BackgroundColor white
 }
 
 skinparam collections {
-	BackgroundColor transparent
+	BackgroundColor white
 	BorderColor #2FA4E7
 }
 
 skinparam control {
-	BackgroundColor transparent
+	BackgroundColor white
 	BorderColor #2683B9
 	FontColor #343A40
 }
 
 skinparam entity {
-	BackgroundColor  transparent
+	BackgroundColor  white
 	BorderColor #2683B9
 	FontColor #343A40
 }
 
 skinparam boundary {
-	BackgroundColor  transparent
+	BackgroundColor  white
 	BorderColor #2683B9
 	FontColor #343A40
 }
 
 skinparam agent {
-	BackgroundColor transparent
+	BackgroundColor white
 	BorderColor #999999
 	FontColor #333333
 }
 
 skinparam note {
 	BorderThickness 1
-	BackgroundColor transparent
+	BackgroundColor white
 	BorderColor #033C73
 	FontColor #033C73
 }
 
 skinparam artifact {
-	BackgroundColor transparent
+	BackgroundColor white
 	BorderColor #868E96
 	FontColor #868E96
 }
 
 skinparam component {
-	BackgroundColor transparent
+	BackgroundColor white
 	BorderColor  #73A839
 	FontColor #73A839
 }
 
 skinparam interface {
-	BackgroundColor  transparent
+	BackgroundColor  white
 	BorderColor  #C71C22
 	FontColor #343A40
 }
 
 skinparam storage {
-	BackgroundColor transparent
+	BackgroundColor white
   	BorderColor #DD5600
 	FontColor #DD5600
 }
 
 skinparam node {
-	BackgroundColor transparent
+	BackgroundColor white
 	BorderColor #343A40
 	FontColor #343A40
 }
 
 skinparam cloud {
-	BackgroundColor transparent
+	BackgroundColor white
 	BorderColor  lightskyblue
 	FontColor #343A40
 }
 
 skinparam database {
-	BackgroundColor  transparent
+	BackgroundColor  white
 	BorderColor #2683B9
 	FontColor #343A40
 }
@@ -165,7 +166,7 @@ skinparam actor {
 skinparam class {
 	HeaderBackgroundColor #2FA4E7-#2683B9
 	FontColor #2FA4E7
-	BackgroundColor transparent
+	BackgroundColor white
 	BorderColor #2683B9
 	StereotypeFontColor #343A40
 	BorderThickness 1
@@ -175,7 +176,7 @@ skinparam class {
 
 skinparam object {
 	FontColor #73A839
-	BackgroundColor transparent
+	BackgroundColor white
 	BorderColor #BABDBF
 	StereotypeFontColor #343A40
 	BorderThickness 1
@@ -184,7 +185,7 @@ skinparam object {
 }
 
 skinparam usecase {
-	BackgroundColor transparent
+	BackgroundColor white
 	BorderColor #E9ECEF
 	BorderThickness 2
 	FontColor #BABDBF
@@ -192,7 +193,7 @@ skinparam usecase {
 }
 
 skinparam rectangle {
-	BackgroundColor transparent
+	BackgroundColor white
 	BorderColor #2683B9
 	BorderThickness 2
 	FontColor #2FA4E7
@@ -200,21 +201,21 @@ skinparam rectangle {
 }
 
 skinparam package {
-	BackgroundColor transparent
+	BackgroundColor white
   	BorderColor #2FA4E7
 	FontColor #2FA4E7
 	BorderThickness 2
 }
 
 skinparam folder {
-	BackgroundColor transparent
+	BackgroundColor white
   	BorderColor #DD5600
 	FontColor #DD5600
 	BorderThickness 2
 }
 
 skinparam frame {
-	BackgroundColor transparent
+	BackgroundColor white
   	BorderColor #033C73
 	FontColor #033C73
 	BorderThickness 2
@@ -223,7 +224,7 @@ skinparam frame {
 skinparam state {
 	StartColor #033C73
 	EndColor #033C73
-	BackgroundColor transparent 
+	BackgroundColor white 
 	BorderColor #BABDBF
 	FontColor #033C73
 	AttributeFontColor #BABDBF
@@ -231,25 +232,25 @@ skinparam state {
 }
 
 skinparam queue {
-	BackgroundColor transparent
+	BackgroundColor white
   	BorderColor #DD5600
 	FontColor #DD5600
 }
 
 skinparam card {
-	BackgroundColor transparent
+	BackgroundColor white
 	BorderColor #033C73
 	FontColor #033C73
 }
 
 skinparam file {
-	BackgroundColor transparent
+	BackgroundColor white
 	BorderColor #868E96
 	FontColor #868E96
 }
 
 skinparam stack {
-	BackgroundColor transparent
+	BackgroundColor white
 	BorderColor #2FA4E7
 	FontColor #2FA4E7
 }
