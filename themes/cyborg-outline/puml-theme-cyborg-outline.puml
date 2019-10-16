@@ -6,6 +6,12 @@
 
 !$THEME = "cyborg-outline"
 
+!if %variable_exists("$BGCOLOR")
+!$BGCOLOR = $BGCOLOR
+!else
+!$BGCOLOR = "black"
+!endif
+
 ''
 '' Colors taken from the css file of the BS theme
 ''
@@ -55,7 +61,6 @@
 !$DARK_LIGHT = "#8A8C8B"
 !$LIGHT_DARK = "#4E4E4E"
 !$LIGHT_LIGHT = "#1B1B1B"
-!$BGCOLOR = "black"
 
 !function $success($msg)
   <font color=$SUCCESS><b>$msg
@@ -278,7 +283,7 @@ skinparam class {
 	BorderColor $PRIMARY_DARK
 	StereotypeFontColor $DARK
 	BorderThickness 1
-	AttributeFontColor $LIGHT
+	AttributeFontColor $DARK
 	AttributeFontSize 11
 }
 !endsub
