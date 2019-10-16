@@ -212,7 +212,7 @@ skinparam note {
 skinparam artifact {
 	BackgroundColor $BGCOLOR
 	BorderColor $DARK_DARK
-	FontColor $LIGHT
+	FontColor $DARK_DARK
 }
 !endsub
 
