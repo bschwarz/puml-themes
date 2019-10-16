@@ -6,6 +6,12 @@
 
 !$THEME = "cyborg-outline"
 
+!if %variable_exists("$BGCOLOR")
+!$BGCOLOR = $BGCOLOR
+!else
+!$BGCOLOR = "black"
+!endif
+
 ''
 '' Colors taken from the css file of the BS theme
 ''
@@ -89,7 +95,7 @@ skinparam ArrowColor            $DARK
 
 
 skinparam legend {
-	BackgroundColor transparent
+	BackgroundColor $BGCOLOR
 	BorderColor $SECONDARY_DARK
 	FontColor $LIGHT
 }
@@ -100,12 +106,12 @@ skinparam activity {
 	TitleFontColor $DARK
 	FontColor $PRIMARY_TEXT
 	BorderColor $PRIMARY
-	BackgroundColor transparent
+	BackgroundColor $BGCOLOR
 	BarColor $SUCCESS
 	StartColor $INFO
 	EndColor $INFO
 	''
-	DiamondBackgroundColor transparent
+	DiamondBackgroundColor $BGCOLOR
   	DiamondBorderColor $SECONDARY_DARK
   	DiamondFontColor $SECONDARY_TEXT
 }
@@ -116,35 +122,35 @@ skinparam sequence {
 	BorderColor $PRIMARY
 	TitleFontSize 20
 	TitleFontColor $DARK
-	BackgroundColor transparent
+	BackgroundColor $BGCOLOR
 	StartColor $PRIMARY
 	EndColor $PRIMARY
 	''
-    ParticipantBackgroundColor transparent
+    ParticipantBackgroundColor $BGCOLOR
     ParticipantBorderColor $PRIMARY
 	ParticipantBorderThickness 1
 	ParticipantFontColor $PRIMARY_TEXT
 	''
-	ActorBackgroundColor transparent
+	ActorBackgroundColor $BGCOLOR
     ActorBorderColor $PRIMARY
 	ActorFontColor $PRIMARY
 	''
 	ArrowThickness 3
 	ArrowColor $PRIMARY
 	''
-	BoxBackgroundColor transparent
+	BoxBackgroundColor $BGCOLOR
 	BoxBorderColor $DARK
 	BoxFontColor $DARk
 	''
 	LifeLineBorderColor $SECONDARY
 	LifeLineBorderThickness 0
-	LifeLineBackgroundColor transparent
+	LifeLineBackgroundColor $BGCOLOR
 	''
 	GroupBorderColor $DARK
 	GroupFontColor $DARK
 	GroupHeaderFontColor $INFO
 	''
-	DividerBackgroundColor transparent
+	DividerBackgroundColor $BGCOLOR
     DividerBorderColor $DARK
     DividerBorderThickness 2
     DividerFontColor $LIGHT
@@ -159,20 +165,20 @@ skinparam sequence {
 skinparam partition {
 	BorderColor $PRIMARY
 	FontColor $PRIMARY
-	BackgroundColor transparent
+	BackgroundColor $BGCOLOR
 }
 !endsub
 
 !startsub collections
 skinparam collections {
-	BackgroundColor transparent
+	BackgroundColor $BGCOLOR
 	BorderColor $PRIMARY_DARK
 }
 !endsub
 
 !startsub control
 skinparam control {
-	BackgroundColor  transparent
+	BackgroundColor  $BGCOLOR
 	BorderColor $PRIMARY_DARK
 	FontColor $DARK
 }
@@ -180,7 +186,7 @@ skinparam control {
 
 !startsub entity
 skinparam entity {
-	BackgroundColor  transparent
+	BackgroundColor  $BGCOLOR
 	BorderColor $PRIMARY_DARK
 	FontColor $DARK
 }
@@ -188,7 +194,7 @@ skinparam entity {
 
 !startsub boundary
 skinparam boundary {
-	BackgroundColor  transparent
+	BackgroundColor  $BGCOLOR
 	BorderColor $PRIMARY_DARK
 	FontColor $DARK
 }
@@ -196,7 +202,7 @@ skinparam boundary {
 
 !startsub agent
 skinparam agent {
-	BackgroundColor transparent
+	BackgroundColor $BGCOLOR
 	BorderColor $WARNING_LIGHT
 	FontColor $DARK
 }
@@ -205,7 +211,7 @@ skinparam agent {
 !startsub note
 skinparam note {
 	BorderThickness 1
-	BackgroundColor transparent
+	BackgroundColor $BGCOLOR
 	BorderColor $INFO_DARK
 	FontColor $INFO_DARK
 }
@@ -213,7 +219,7 @@ skinparam note {
 
 !startsub artifact
 skinparam artifact {
-	BackgroundColor transparent
+	BackgroundColor $BGCOLOR
 	BorderColor $DARK_DARK
 	FontColor $LIGHT
 }
@@ -221,7 +227,7 @@ skinparam artifact {
 
 !startsub component
 skinparam component {
-	BackgroundColor  transparent
+	BackgroundColor  $BGCOLOR
 	BorderColor  $SUCCESS_DARK
 	FontColor $SUCCESS_TEXT
 }
@@ -229,7 +235,7 @@ skinparam component {
 
 !startsub interface
 skinparam interface {
-	BackgroundColor  transparent
+	BackgroundColor  $BGCOLOR
 	BorderColor  $DANGER
 	FontColor $DARK
 }
@@ -237,7 +243,7 @@ skinparam interface {
 
 !startsub storage
 skinparam storage {
-	BackgroundColor transparent
+	BackgroundColor $BGCOLOR
   	BorderColor $WARNING_DARK
 	FontColor $WARNING_TEXT
 }
@@ -245,7 +251,7 @@ skinparam storage {
 
 !startsub node
 skinparam node {
-	BackgroundColor  transparent
+	BackgroundColor  $BGCOLOR
 	BorderColor $LIGHT
 	FontColor $LIGHT
 }
@@ -253,7 +259,7 @@ skinparam node {
 
 !startsub cloud
 skinparam cloud {
-	BackgroundColor transparent
+	BackgroundColor $BGCOLOR
 	BorderColor lightskyblue
 	FontColor $DARK
 }
@@ -261,7 +267,7 @@ skinparam cloud {
 
 !startsub database
 skinparam database {
-	BackgroundColor  transparent
+	BackgroundColor  $BGCOLOR
 	BorderColor $PRIMARY_DARK
 	FontColor $DARK
 }
@@ -277,7 +283,7 @@ skinparam actor {
 skinparam class {
 	HeaderBackgroundColor $PRIMARY_LIGHT
 	FontColor $PRIMARY_TEXT
-	BackgroundColor transparent
+	BackgroundColor $BGCOLOR
 	BorderColor $PRIMARY_DARK
 	StereotypeFontColor $DARK
 	BorderThickness 1
@@ -289,7 +295,7 @@ skinparam class {
 !startsub object
 skinparam object {
 	FontColor $SUCCESS
-	BackgroundColor transparent
+	BackgroundColor $BGCOLOR
 	BorderColor $SECONDARY_DARK
 	StereotypeFontColor $DARK
 	BorderThickness 1
@@ -300,7 +306,7 @@ skinparam object {
 
 !startsub usecase
 skinparam usecase {
-	BackgroundColor transparent
+	BackgroundColor $BGCOLOR
 	BorderColor $SECONDARY
 	BorderThickness 2
 	FontColor $SECONDARY_TEXT
@@ -310,7 +316,7 @@ skinparam usecase {
 
 !startsub rectangle
 skinparam rectangle {
-	BackgroundColor transparent
+	BackgroundColor $BGCOLOR
 	BorderColor $PRIMARY_LIGHT
 	BorderThickness 2
 	FontColor $PRIMARY
@@ -320,7 +326,7 @@ skinparam rectangle {
 
 !startsub package
 skinparam package {
-	BackgroundColor transparent
+	BackgroundColor $BGCOLOR
   	BorderColor $PRIMARY
 	FontColor $PRIMARY
 	BorderThickness 2
@@ -329,7 +335,7 @@ skinparam package {
 
 !startsub folder
 skinparam folder {
-	BackgroundColor transparent
+	BackgroundColor $BGCOLOR
   	BorderColor $WARNING
 	FontColor $WARNING
 	BorderThickness 2
@@ -338,7 +344,7 @@ skinparam folder {
 
 !startsub frame
 skinparam frame {
-	BackgroundColor transparent
+	BackgroundColor $BGCOLOR
   	BorderColor $INFO
 	FontColor $INFO
 	BorderThickness 2
@@ -349,7 +355,7 @@ skinparam frame {
 skinparam state {
 	StartColor $INFO
 	EndColor $INFO
-	BackgroundColor transparent
+	BackgroundColor $BGCOLOR
 	BorderColor $SECONDARY_DARK
 	FontColor $INFO
 	AttributeFontColor $SECONDARY_TEXT
@@ -359,7 +365,7 @@ skinparam state {
 
 !startsub queue
 skinparam queue {
-	BackgroundColor transparent
+	BackgroundColor $BGCOLOR
   	BorderColor $WARNING
 	FontColor $WARNING_TEXT
 }
@@ -367,7 +373,7 @@ skinparam queue {
 
 !startsub card
 skinparam card {
-	BackgroundColor transparent
+	BackgroundColor $BGCOLOR
 	BorderColor $INFO
 	FontColor $INFO_TEXT
 }
@@ -375,7 +381,7 @@ skinparam card {
 
 !startsub file
 skinparam file {
-	BackgroundColor transparent
+	BackgroundColor $BGCOLOR
 	BorderColor $LIGHT
 	FontColor $LIGHT
 }
@@ -383,7 +389,7 @@ skinparam file {
 
 !startsub stack
 skinparam stack {
-	BackgroundColor transparent
+	BackgroundColor $BGCOLOR
 	BorderColor $PRIMARY_DARK
 	FontColor $PRIMARY_TEXT
 }
