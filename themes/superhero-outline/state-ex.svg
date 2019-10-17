@@ -71,8 +71,9 @@ skinparam sequence {
     DividerBorderColor #4E5D6C
     DividerBorderThickness 2
     DividerFontColor #abb6c2
-	ReferenceBorderColor #4E5D6C
-	ReferenceFontColor #4E5D6C
+	ReferenceBackgroundColor black
+	ReferenceBorderColor #abb6c2
+	ReferenceFontColor #abb6c2
 	ReferenceHeaderFontColor #5bc0de
 }
 

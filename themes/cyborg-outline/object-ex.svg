@@ -70,6 +70,7 @@ skinparam sequence {
     DividerBorderColor #ADAFAE
     DividerBorderThickness 2
     DividerFontColor #ADAFAE
+	ReferenceBackgroundColor black
 	ReferenceBorderColor #ADAFAE
 	ReferenceFontColor #ADAFAE
 	ReferenceHeaderFontColor #9933CC
