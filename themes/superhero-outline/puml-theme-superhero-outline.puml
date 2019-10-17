@@ -12,6 +12,8 @@
 !$BGCOLOR = "black"
 !endif
 
+skinparam backgroundColor $BGCOLOR
+
 ''
 '' Colors taken from the css file of the BS theme
 ''
