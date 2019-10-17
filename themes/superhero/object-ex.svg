@@ -257,7 +257,6 @@ skinparam stack {
 
 title Object Diagram - cyborg theme
 
-skinparam BackgroundColor transparent
 
 object Object01
 object Object02

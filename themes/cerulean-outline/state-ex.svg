@@ -3,6 +3,8 @@
 
 
 
+skinparam backgroundColor white
+
 
 
 
@@ -258,7 +260,6 @@ skinparam stack {
 
 title State Diagram - cerulean-outline theme
 
-skinparam BackgroundColor transparent
 
 state fork_state <<fork>>
 [*] - -> fork_state

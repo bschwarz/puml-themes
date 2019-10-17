@@ -257,7 +257,6 @@ skinparam stack {
 
 title Class Diagram - cyborg theme
 
-skinparam BackgroundColor transparent
 
 abstract class AbstractList
 abstract AbstractCollection

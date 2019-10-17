@@ -257,7 +257,6 @@ skinparam stack {
 
 title State Diagram - cyborg theme
 
-skinparam BackgroundColor transparent
 
 state fork_state <<fork>>
 [*] - -> fork_state

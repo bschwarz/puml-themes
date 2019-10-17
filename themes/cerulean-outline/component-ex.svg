@@ -3,6 +3,8 @@
 
 
 
+skinparam backgroundColor white
+
 
 
 
@@ -258,7 +260,6 @@ skinparam stack {
 
 title Component Diagram - cerulean-outline theme
 
-skinparam BackgroundColor transparent
 
 package "My Package" {
   HTTP - [First Component]

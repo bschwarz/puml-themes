@@ -3,6 +3,8 @@
 
 
 
+skinparam backgroundColor white
+
 
 
 
@@ -258,7 +260,6 @@ skinparam stack {
 
 title Class Diagram - cerulean-outline theme
 
-skinparam BackgroundColor transparent
 
 abstract class AbstractList
 abstract AbstractCollection

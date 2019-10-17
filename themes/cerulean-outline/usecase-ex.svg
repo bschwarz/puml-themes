@@ -3,6 +3,8 @@
 
 
 
+skinparam backgroundColor white
+
 
 
 
@@ -262,7 +264,6 @@ legend
 This is my legend
 endlegend
 
-skinparam BackgroundColor transparent
 
 left to right direction
 actor customer

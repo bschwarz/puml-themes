@@ -257,7 +257,6 @@ skinparam stack {
 
 title Activity Diagram - cyborg theme
 
-skinparam BackgroundColor transparent
 
 start
  :start;
