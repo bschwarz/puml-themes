@@ -6,7 +6,7 @@ title State Diagram - $THEME theme
 title State Diagram
 !endif
 
-skinparam BackgroundColor transparent
+'skinparam BackgroundColor transparent
 
 state fork_state <<fork>>
 [*] --> fork_state

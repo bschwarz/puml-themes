@@ -6,7 +6,7 @@ title Class Diagram - $THEME theme
 title Class Diagram
 !endif
 
-skinparam BackgroundColor transparent
+'skinparam BackgroundColor transparent
 
 abstract class AbstractList
 abstract AbstractCollection

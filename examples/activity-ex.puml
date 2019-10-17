@@ -6,7 +6,7 @@ title Activity Diagram - $THEME theme
 title Activity Diagram
 !endif
 
-skinparam BackgroundColor transparent
+'skinparam BackgroundColor transparent
 
 start
  :start;

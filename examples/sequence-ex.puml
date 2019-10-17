@@ -6,7 +6,7 @@ title Sequence Diagram - $THEME theme
 title Sequence Diagram
 !endif
 
-skinparam BackgroundColor transparent
+'skinparam BackgroundColor transparent
 
 autonumber "<b>[000]"
 

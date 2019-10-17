@@ -6,7 +6,7 @@ title Component Diagram - $THEME theme
 title Component Diagram
 !endif
 
-skinparam BackgroundColor transparent
+'skinparam BackgroundColor transparent
 
 package "My Package" {
   HTTP - [First Component]

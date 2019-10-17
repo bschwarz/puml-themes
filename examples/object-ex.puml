@@ -6,7 +6,7 @@ title Object Diagram - $THEME theme
 title Object Diagram
 !endif
 
-skinparam BackgroundColor transparent
+'skinparam BackgroundColor transparent
 
 object Object01
 object Object02
