@@ -152,6 +152,7 @@ skinparam sequence {
     DividerBorderThickness 2
     DividerFontColor $DARK
 	''
+	ReferenceBackgroundColor $BGCOLOR
 	ReferenceBorderColor $GRAY
 	ReferenceFontColor $DARK
 	ReferenceHeaderFontColor $INFO
