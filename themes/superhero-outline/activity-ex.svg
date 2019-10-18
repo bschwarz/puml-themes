@@ -285,12 +285,12 @@ start
 
 PlantUML version 1.2019.08(Sat Jul 13 12:25:14 PDT 2019)
 (MIT source distribution)
-Java Runtime: Java(TM) SE Runtime Environment
-JVM: Java HotSpot(TM) 64-Bit Server VM
-Java Version: 1.8.0_212-b32
-Operating System: Windows 10
-OS Version: 10.0
-Default Encoding: Cp1252
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.4+11-post-Ubuntu-1ubuntu218.04.3
+Operating System: Linux
+OS Version: 4.15.0-65-lowlatency
+Default Encoding: UTF-8
 Language: en
 Country: US
 --></g></svg>
