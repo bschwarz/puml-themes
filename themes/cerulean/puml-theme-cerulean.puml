@@ -6,6 +6,14 @@
 
 !$THEME = "cerulean"
 
+!if %variable_exists("$BGCOLOR")
+!$BGCOLOR = $BGCOLOR
+!else
+!$BGCOLOR = "white"
+!endif
+
+skinparam backgroundColor $BGCOLOR
+
 ''
 '' Colors taken from the css file of the BS theme
 ''
@@ -111,7 +119,7 @@ skinparam sequence {
 	BorderColor $PRIMARY
 	TitleFontSize 20
 	TitleFontColor $DARK
-	BackgroundColor transparent
+	BackgroundColor $BGCOLOR
 	StartColor $PRIMARY
 	EndColor $PRIMARY
 	''
@@ -120,7 +128,7 @@ skinparam sequence {
 	ParticipantBorderThickness 0
 	ParticipantFontColor $PRIMARY_TEXT
 	''
-	ActorBackgroundColor transparent
+	ActorBackgroundColor $BGCOLOR
     ActorBorderColor $PRIMARY
 	ActorFontColor $PRIMARY
 	''
@@ -154,7 +162,7 @@ skinparam sequence {
 skinparam partition {
 	BorderColor $PRIMARY
 	FontColor $PRIMARY
-	BackgroundColor transparent
+	BackgroundColor $BGCOLOR
 }
 !endsub
 
@@ -249,7 +257,7 @@ skinparam node {
 !startsub cloud
 skinparam cloud {
 	BackgroundColor white-lightskyblue
-	BorderColor transparent
+	BorderColor $BGCOLOR
 	FontColor $DARK
 }
 !endsub

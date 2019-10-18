@@ -6,6 +6,14 @@
 
 !$THEME = "materia"
 
+!if %variable_exists("$BGCOLOR")
+!$BGCOLOR = $BGCOLOR
+!else
+!$BGCOLOR = "white"
+!endif
+
+skinparam backgroundColor $BGCOLOR
+
 ''
 '' Colors taken from the css file of the BS theme
 ''
