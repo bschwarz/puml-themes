@@ -196,7 +196,7 @@ skinparam boundary {
 
 !startsub agent
 skinparam agent {
-	BackgroundColor $WARNINIG
+	BackgroundColor $WARNING
 	BorderColor $WARNING_LIGHT
 	FontColor $DARK
 }
