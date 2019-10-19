@@ -4,26 +4,17 @@ title: cerulean
 published: true
 ---
 ## Usage
-### Local file
 
 <pre style="font-size: .8rem;">
-' Local File
+'Local File
 !include puml-theme-{{ page.title }}.puml
 
 'Remote file
 !include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/{{ page.title }}/puml-theme-{{ page.title }}.puml
 
-' Remote File for legacy plantuml
+'Remote File for legacy plantuml
 !includeurl https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/{{ page.title }}/puml-theme-{{ page.title }}.puml
 </pre>
-
-### Remote file
-
-<pre style="font-size: .8rem;">!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/{{ page.title }}/puml-theme-{{ page.title }}.puml</pre>
-
-### Legacy plantuml
-
-<pre style="font-size: .8rem;">!includeurl https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/{{ page.title }}/puml-theme-{{ page.title }}.puml</pre>
 
 
 ## Gallery
