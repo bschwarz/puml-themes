@@ -7,13 +7,14 @@ fi
 
 FLAGS=""
 if [ $# -eq 2 ]; then
-	FLAGS="-DBGCLR=$2"
+	FLAGS="-D$BGCOLOR=$2"
 	echo $FLAGS
 fi
 
 THEME=$1
 
-PLANT=~/devcontent/bin/plantuml-1-2019-08.jar
+#PLANT=~/devcontent/bin/plantuml-1-2019-08.jar
+PLANT=~/devcontent/bin/plantuml.1.2019.11.jar
 
 ##
 ## Build the examples for each type of diagram
