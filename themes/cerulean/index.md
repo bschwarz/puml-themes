@@ -6,7 +6,16 @@ published: true
 ## Usage
 ### Local file
 
-<pre style="font-size: .8rem;">!include puml-theme-{{ page.title }}.puml</pre>
+<pre style="font-size: .8rem;">
+= Local File =
+!include puml-theme-{{ page.title }}.puml
+
+= Remote file =
+!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/{{ page.title }}/puml-theme-{{ page.title }}.puml
+
+= Remote File for legacy plantuml =
+!includeurl https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/{{ page.title }}/puml-theme-{{ page.title }}.puml
+</pre>
 
 ### Remote file
 
