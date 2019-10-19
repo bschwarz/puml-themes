@@ -6,7 +6,8 @@ published: true
 ## Usage
 ### Local file
 
-`!include puml-theme-{{ page.title }}.puml`
+<pre style="font-size: .85rem;">!include puml-theme-{{ page.title }}.puml</pre>
+<code style="font-size: .85rem;">!include puml-theme-{{ page.title }}.puml</code>
 
 ### Remote file
 
@@ -17,7 +18,7 @@ published: true
 `!includeurl https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/{{ page.title }}/puml-theme-{{ page.title }}.puml`
 
 
-## 
+## Gallery
 <table style="width: 100%">
     <tr>
         <td>
