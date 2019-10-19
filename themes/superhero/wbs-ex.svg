@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="478.125px" preserveAspectRatio="none" style="width:717px;height:478px;background:#000000;" version="1.1" viewBox="0 0 717 478" width="717.7083px" zoomAndPan="magnify"><defs/><g><rect fill="none" height="40.7878" rx="4.1667" ry="4.1667" style="stroke: none; stroke-width: 1.0416666666666667;" width="426.0417" x="134.375" y="15.625"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="411.4583" x="141.6667" y="44.5435">Work Breakdown Diagram - cyborg theme</text><rect fill="#FEFECE" height="40.7227" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="75" x="310.4167" y="62.6628"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="50" x="322.9167" y="88.1388">New Job</text><line style="stroke: #DF691A; stroke-width: 3.125;" x1="347.9167" x2="347.9167" y1="103.3854" y2="124.2188"/><line style="stroke: #DF691A; stroke-width: 3.125;" x1="189.0625" x2="189.0625" y1="124.2188" y2="145.0521"/><rect fill="#FEFECE" height="40.7227" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="192.7083" x="92.7083" y="145.0521"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="167.7083" x="105.2083" y="170.5282">Decide on Job Requirements</text><line style="stroke: #DF691A; stroke-width: 3.125;" x1="178.6458" x2="189.0625" y1="221.7611" y2="221.7611"/><rect fill="#FEFECE" height="40.7227" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="78.125" x="100.5208" y="201.3997"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="53.125" x="113.0208" y="226.8758">Checklist</text><line style="stroke: #DF691A; stroke-width: 3.125;" x1="129.1667" x2="139.5833" y1="278.1087" y2="278.1087"/><rect fill="#FEFECE" height="40.7227" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="118.75" x="10.4167" y="257.7474"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="93.75" x="22.9167" y="283.2235">Responsibilities</text><line style="stroke: #DF691A; stroke-width: 3.125;" x1="129.1667" x2="139.5833" y1="334.4564" y2="334.4564"/><rect fill="#FEFECE" height="40.7227" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="73.9583" x="55.2083" y="314.0951"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="48.9583" x="67.7083" y="339.5711">Location</text><line style="stroke: #DF691A; stroke-width: 3.125;" x1="139.5833" x2="139.5833" y1="242.1224" y2="334.4564"/><line style="stroke: #DF691A; stroke-width: 3.125;" x1="189.0625" x2="199.4792" y1="221.7611" y2="221.7611"/><rect fill="#FEFECE" height="40.7227" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="96.875" x="199.4792" y="201.3997"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="71.875" x="211.9792" y="226.8758">Identity gaps</text><line style="stroke: #DF691A; stroke-width: 3.125;" x1="189.0625" x2="199.4792" y1="278.1087" y2="278.1087"/><rect fill="#FEFECE" height="40.7227" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="92.7083" x="199.4792" y="257.7474"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="67.7083" x="211.9792" y="283.2235">Review JDs</text><line style="stroke: #DF691A; stroke-width: 3.125;" x1="245.8333" x2="256.25" y1="334.4564" y2="334.4564"/><rect fill="#FEFECE" height="40.7227" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="139.5833" x="256.25" y="314.0951"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="114.5833" x="268.75" y="339.5711">Sign-Up for courses</text><line style="stroke: #DF691A; stroke-width: 3.125;" x1="245.8333" x2="256.25" y1="390.804" y2="390.804"/><rect fill="#FEFECE" height="40.7227" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="79.1667" x="256.25" y="370.4427"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="54.1667" x="268.75" y="395.9188">Volunteer</text><line style="stroke: #DF691A; stroke-width: 3.125;" x1="245.8333" x2="256.25" y1="447.1517" y2="447.1517"/><rect fill="#FEFECE" height="40.7227" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="73.9583" x="256.25" y="426.7904"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="48.9583" x="268.75" y="452.2664">Reading</text><line style="stroke: #DF691A; stroke-width: 3.125;" x1="245.8333" x2="245.8333" y1="298.4701" y2="447.1517"/><line style="stroke: #DF691A; stroke-width: 3.125;" x1="189.0625" x2="189.0625" y1="185.7747" y2="278.1087"/><line style="stroke: #DF691A; stroke-width: 3.125;" x1="477.0833" x2="477.0833" y1="124.2188" y2="145.0521"/><rect fill="#FEFECE" height="40.7227" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="120.8333" x="416.6667" y="145.0521"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="95.8333" x="429.1667" y="170.5282">CV Upload Done</text><line style="stroke: #DF691A; stroke-width: 3.125;" x1="477.0833" x2="507.2917" y1="221.7611" y2="221.7611"/><rect fill="#FEFECE" height="40.7227" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="93.75" x="507.2917" y="201.3997"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="68.75" x="519.7917" y="226.8758">CV Updated</text><line style="stroke: #DF691A; stroke-width: 3.125;" x1="543.75" x2="554.1667" y1="278.1087" y2="278.1087"/><rect fill="#FEFECE" height="40.7227" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="56.25" x="487.5" y="257.7474"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="31.25" x="500" y="283.2235">Skills</text><line style="stroke: #DF691A; stroke-width: 3.125;" x1="554.1667" x2="564.5833" y1="278.1087" y2="278.1087"/><rect fill="#FEFECE" height="40.7227" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="141.6667" x="564.5833" y="257.7474"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="116.6667" x="577.0833" y="283.2235">Spelling &amp; Grammar</text><line style="stroke: #DF691A; stroke-width: 3.125;" x1="554.1667" x2="564.5833" y1="334.4564" y2="334.4564"/><rect fill="#FEFECE" height="40.7227" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="96.875" x="564.5833" y="314.0951"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="71.875" x="577.0833" y="339.5711">Check dates</text><line style="stroke: #DF691A; stroke-width: 3.125;" x1="554.1667" x2="554.1667" y1="242.1224" y2="334.4564"/><line style="stroke: #DF691A; stroke-width: 3.125;" x1="477.0833" x2="487.5" y1="390.804" y2="390.804"/><rect fill="#FEFECE" height="40.7227" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="171.875" x="487.5" y="370.4427"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="146.875" x="500" y="395.9188">Recruitment sites chosen</text><line style="stroke: #DF691A; stroke-width: 3.125;" x1="477.0833" x2="477.0833" y1="185.7747" y2="390.804"/><line style="stroke: #DF691A; stroke-width: 3.125;" x1="189.0625" x2="477.0833" y1="124.2188" y2="124.2188"/><!--MD5=[8fb10b2831a5b60b9fdde5ad4d67942a]
+@startwbs
+
+
+
+skinparam backgroundColor black
+
+
+
+
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    10
+skinparam BoxPadding            2
+skinparam Padding               2
+skinparam TitleFontColor	    #4E5D6C
+skinparam TitleFontSize	    	20
+skinparam TitleBorderThickness 	0
+skinparam ArrowColor            #4E5D6C
+
+
+skinparam legend {
+	BackgroundColor #4E5D6C
+	BorderColor #717d89
+	FontColor #abb6c2
+}
+
+skinparam activity {
+	TitleFontSize 20
+	TitleFontColor #4E5D6C
+	FontColor #FFF
+	BorderColor #DF691A
+	BackgroundColor #DF691A
+	BarColor #5cb85c
+	StartColor #5bc0de
+	EndColor #5bc0de
+	DiamondBackgroundColor #3e4a56
+  	DiamondBorderColor #717d89
+  	DiamondFontColor #FFF
+}
+
+skinparam sequence {
+	BorderColor #DF691A
+	TitleFontSize 20
+	TitleFontColor #4E5D6C
+	BackgroundColor black
+	StartColor #DF691A
+	EndColor #DF691A
+    ParticipantBackgroundColor #DF691A
+    ParticipantBorderColor #DF691A
+	ParticipantBorderThickness 0
+	ParticipantFontColor #FFF
+	ActorBackgroundColor black
+    ActorBorderColor #DF691A
+	ActorFontColor #DF691A
+	ArrowThickness 3
+	ArrowColor #DF691A
+	BoxBackgroundColor black
+	BoxBorderColor #4E5D6C
+	BoxFontColor $DARk
+	LifeLineBorderColor #4E5D6C
+	LifeLineBorderThickness 0
+	LifeLineBackgroundColor #717d89
+	GroupBorderColor #4E5D6C
+	GroupFontColor #4E5D6C
+	GroupHeaderFontColor #5bc0de
+	DividerBackgroundColor #4E5D6C
+    DividerBorderColor #4E5D6C
+    DividerBorderThickness 2
+    DividerFontColor #abb6c2
+	ReferenceBackgroundColor black
+	ReferenceBorderColor #4E5D6C
+	ReferenceFontColor #4E5D6C
+	ReferenceHeaderFontColor #5bc0de
+}
+
+skinparam partition {
+	BorderColor #DF691A
+	FontColor #DF691A
+	BackgroundColor black
+}
+
+skinparam collections {
+	BackgroundColor #DF691A
+	BorderColor #e58748
+}
+
+skinparam control {
+	BackgroundColor  #DF691A
+	BorderColor #e58748
+	FontColor #4E5D6C
+}
+
+skinparam entity {
+	BackgroundColor  #DF691A
+	BorderColor #e58748
+	FontColor #4E5D6C
+}
+
+skinparam boundary {
+	BackgroundColor  #DF691A
+	BorderColor #e58748
+	FontColor #4E5D6C
+}
+
+skinparam agent {
+	BackgroundColor #f0ad4e
+	BorderColor #C08A3E
+	FontColor #4E5D6C
+}
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #5bc0de
+	BorderColor #7ccde5
+	FontColor #FFF
+}
+
+skinparam artifact {
+	BackgroundColor #4E5D6C
+	BorderColor #717d89
+	FontColor #abb6c2
+}
+
+skinparam component {
+	BackgroundColor  #5cb85c
+	BorderColor  #4a934a
+	FontColor #FFF
+}
+
+skinparam interface {
+	BackgroundColor  #e17572
+	BorderColor  #d9534f
+	FontColor #4E5D6C
+}
+
+skinparam storage {
+	BackgroundColor #f0ad4e
+  	BorderColor #f3bd71
+	FontColor #FFF
+}
+
+skinparam node {
+	BackgroundColor  #4E5D6C
+	BorderColor #abb6c2
+	FontColor #abb6c2
+}
+
+skinparam cloud {
+	BackgroundColor white-lightskyblue
+	BorderColor black
+	FontColor #4E5D6C
+}
+
+skinparam database {
+	BackgroundColor  #DF691A
+	BorderColor #e58748
+	FontColor #4E5D6C
+}
+
+skinparam actor {
+	FontColor #4E5D6C
+}
+
+skinparam class {
+	HeaderBackgroundColor #b25415
+	FontColor #FFF
+	BackgroundColor #DF691A
+	BorderColor #e58748
+	StereotypeFontColor #4E5D6C
+	BorderThickness 1
+	AttributeFontColor #abb6c2
+	AttributeFontSize 11
+}
+
+skinparam object {
+	FontColor #5cb85c
+	BackgroundColor #4E5D6C
+	BorderColor #717d89
+	StereotypeFontColor #4E5D6C
+	BorderThickness 1
+	AttributeFontColor #FFF
+	AttributeFontSize 11
+}
+
+skinparam usecase {
+	BackgroundColor #4E5D6C
+	BorderColor #4E5D6C
+	BorderThickness 2
+	FontColor #FFF
+	StereotypeFontColor #DF691A
+}
+
+skinparam rectangle {
+	BackgroundColor #3e4a56
+	BorderColor #b25415
+	BorderThickness 2
+	FontColor #DF691A
+	StereotypeFontColor #DF691A
+}
+
+skinparam package {
+	BackgroundColor #4E5D6C
+  	BorderColor #DF691A
+	FontColor #DF691A
+	BorderThickness 2
+}
+
+skinparam folder {
+	BackgroundColor #3e4a56
+  	BorderColor #f0ad4e
+	FontColor #f0ad4e
+	BorderThickness 2
+}
+
+skinparam frame {
+	BackgroundColor #3e4a56
+  	BorderColor #5bc0de
+	FontColor #5bc0de
+	BorderThickness 2
+}
+
+skinparam state {
+	StartColor #5bc0de
+	EndColor #5bc0de
+	BackgroundColor #4E5D6C
+	BorderColor #717d89
+	FontColor #5bc0de
+	AttributeFontColor #FFF
+	AttributeFontSize 11
+}
+
+skinparam queue {
+	BackgroundColor #C08A3E
+  	BorderColor #f0ad4e
+	FontColor #FFF
+}
+
+skinparam card {
+	BackgroundColor #5bc0de
+	BorderColor #7ccde5
+	FontColor #FFF
+}
+
+skinparam file {
+	BackgroundColor #717d89
+	BorderColor #abb6c2
+	FontColor #abb6c2
+}
+
+skinparam stack {
+	BackgroundColor #e58748-#b25415
+	BorderColor #e58748
+	FontColor #FFF
+}
+
+title Work Breakdown Diagram - cyborg theme
+
+
++ New Job
+++ Decide on Job Requirements
++++ Identity gaps
++++ Review JDs
+++++ Sign-Up for courses
+++++ Volunteer
+++++ Reading
+++- Checklist
++++- Responsibilities
++++- Location
+++ CV Upload Done
++++ CV Updated
+++++ Spelling & Grammar
+++++ Check dates
+- - - - Skills
++++ Recruitment sites chosen
+@endwbs
+
+PlantUML version 1.2019.11(Sun Sep 22 03:02:15 PDT 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_212-b32
+Operating System: Windows 10
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>

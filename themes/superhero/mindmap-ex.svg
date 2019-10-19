@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="480.2083px" preserveAspectRatio="none" style="width:651px;height:480px;background:#000000;" version="1.1" viewBox="0 0 651 480" width="651.0417px" zoomAndPan="magnify"><defs/><g><rect fill="none" height="40.7878" rx="4.1667" ry="4.1667" style="stroke: none; stroke-width: 1.0416666666666667;" width="346.875" x="98.9583" y="15.625"/><text fill="#4E5D6C" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="332.2917" x="106.25" y="44.5435">Mindmap Diagram - cyborg theme</text><rect fill="#FEFECE" height="43.3431" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="45.8333" x="325" y="249.5646"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="20.8333" x="337.5" y="277.2034">OS</text><rect fill="#FEFECE" height="43.3431" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="71.875" x="422.9167" y="169.3441"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="46.875" x="435.4167" y="196.9828">Ubuntu</text><rect fill="#FEFECE" height="43.3431" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="90.625" x="546.875" y="73.0794"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="65.625" x="559.375" y="100.7182">Linux Mint</text><path d="M494.7917,191.0156 L505.2083,191.0156 C520.8333,191.0156 520.8333,94.751 536.4583,94.751 L546.875,94.751 " fill="none" style="stroke: #DF691A; stroke-width: 3.125;"/><rect fill="#FEFECE" height="43.3431" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="80.2083" x="546.875" y="137.2559"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="55.2083" x="559.375" y="164.8946">Kubuntu</text><path d="M494.7917,191.0156 L505.2083,191.0156 C520.8333,191.0156 520.8333,158.9274 536.4583,158.9274 L546.875,158.9274 " fill="none" style="stroke: #DF691A; stroke-width: 3.125;"/><rect fill="#FEFECE" height="43.3431" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="79.1667" x="546.875" y="201.4323"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="54.1667" x="559.375" y="229.071">Lubuntu</text><path d="M494.7917,191.0156 L505.2083,191.0156 C520.8333,191.0156 520.8333,223.1038 536.4583,223.1038 L546.875,223.1038 " fill="none" style="stroke: #DF691A; stroke-width: 3.125;"/><rect fill="#FEFECE" height="43.3431" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="92.7083" x="546.875" y="265.6087"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="67.7083" x="559.375" y="293.2475">KDE Neon</text><path d="M494.7917,191.0156 L505.2083,191.0156 C520.8333,191.0156 520.8333,287.2803 536.4583,287.2803 L546.875,287.2803 " fill="none" style="stroke: #DF691A; stroke-width: 3.125;"/><path d="M370.8333,271.2362 L381.25,271.2362 C396.875,271.2362 396.875,191.0156 412.5,191.0156 L422.9167,191.0156 " fill="none" style="stroke: #DF691A; stroke-width: 3.125;"/><rect fill="#FEFECE" height="43.3431" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="64.5833" x="422.9167" y="233.5205"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="39.5833" x="435.4167" y="261.1593">LMDE</text><path d="M370.8333,271.2362 L381.25,271.2362 C396.875,271.2362 396.875,255.1921 412.5,255.1921 L422.9167,255.1921 " fill="none" style="stroke: #DF691A; stroke-width: 3.125;"/><rect fill="#FEFECE" height="43.3431" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="79.1667" x="422.9167" y="297.6969"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="54.1667" x="435.4167" y="325.3357">SolydXK</text><path d="M370.8333,271.2362 L381.25,271.2362 C396.875,271.2362 396.875,319.3685 412.5,319.3685 L422.9167,319.3685 " fill="none" style="stroke: #DF691A; stroke-width: 3.125;"/><rect fill="#FEFECE" height="43.3431" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="87.5" x="422.9167" y="361.8734"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="62.5" x="435.4167" y="389.5121">SteamOS</text><path d="M370.8333,271.2362 L381.25,271.2362 C396.875,271.2362 396.875,383.5449 412.5,383.5449 L422.9167,383.5449 " fill="none" style="stroke: #DF691A; stroke-width: 3.125;"/><rect fill="#FEFECE" height="43.3431" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="87.5" x="422.9167" y="426.0498"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="62.5" x="435.4167" y="453.6886">Raspbian</text><path d="M370.8333,271.2362 L381.25,271.2362 C396.875,271.2362 396.875,447.7214 412.5,447.7214 L422.9167,447.7214 " fill="none" style="stroke: #DF691A; stroke-width: 3.125;"/><rect fill="#FEFECE" height="43.3431" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="104.1667" x="168.75" y="169.3441"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="79.1667" x="181.25" y="196.9828">Windows 95</text><path d="M325,271.2362 L314.5833,271.2362 C298.9583,271.2362 298.9583,191.0156 283.3333,191.0156 L272.9167,191.0156 " fill="none" style="stroke: #DF691A; stroke-width: 3.125;"/><rect fill="#FEFECE" height="43.3431" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="104.1667" x="168.75" y="233.5205"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="79.1667" x="181.25" y="261.1593">Windows 98</text><path d="M325,271.2362 L314.5833,271.2362 C298.9583,271.2362 298.9583,255.1921 283.3333,255.1921 L272.9167,255.1921 " fill="none" style="stroke: #DF691A; stroke-width: 3.125;"/><rect fill="#FEFECE" height="43.3431" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="106.25" x="166.6667" y="297.6969"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="81.25" x="179.1667" y="325.3357">Windows NT</text><rect fill="#FEFECE" height="43.3431" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="95.8333" x="18.75" y="265.6087"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="70.8333" x="31.25" y="293.2475">Windows 8</text><path d="M166.6667,319.3685 L156.25,319.3685 C140.625,319.3685 140.625,287.2803 125,287.2803 L114.5833,287.2803 " fill="none" style="stroke: #DF691A; stroke-width: 3.125;"/><rect fill="#FEFECE" height="43.3431" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="104.1667" x="10.4167" y="329.7852"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="79.1667" x="22.9167" y="357.4239">Windows 10</text><path d="M166.6667,319.3685 L156.25,319.3685 C140.625,319.3685 140.625,351.4567 125,351.4567 L114.5833,351.4567 " fill="none" style="stroke: #DF691A; stroke-width: 3.125;"/><path d="M325,271.2362 L314.5833,271.2362 C298.9583,271.2362 298.9583,319.3685 283.3333,319.3685 L272.9167,319.3685 " fill="none" style="stroke: #DF691A; stroke-width: 3.125;"/><!--MD5=[936c7000fdafda891937fbc019019b5d]
+@startmindmap
+
+
+
+skinparam backgroundColor black
+
+
+
+
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    10
+skinparam BoxPadding            2
+skinparam Padding               2
+skinparam TitleFontColor	    #4E5D6C
+skinparam TitleFontSize	    	20
+skinparam TitleBorderThickness 	0
+skinparam ArrowColor            #4E5D6C
+
+
+skinparam legend {
+	BackgroundColor #4E5D6C
+	BorderColor #717d89
+	FontColor #abb6c2
+}
+
+skinparam activity {
+	TitleFontSize 20
+	TitleFontColor #4E5D6C
+	FontColor #FFF
+	BorderColor #DF691A
+	BackgroundColor #DF691A
+	BarColor #5cb85c
+	StartColor #5bc0de
+	EndColor #5bc0de
+	DiamondBackgroundColor #3e4a56
+  	DiamondBorderColor #717d89
+  	DiamondFontColor #FFF
+}
+
+skinparam sequence {
+	BorderColor #DF691A
+	TitleFontSize 20
+	TitleFontColor #4E5D6C
+	BackgroundColor black
+	StartColor #DF691A
+	EndColor #DF691A
+    ParticipantBackgroundColor #DF691A
+    ParticipantBorderColor #DF691A
+	ParticipantBorderThickness 0
+	ParticipantFontColor #FFF
+	ActorBackgroundColor black
+    ActorBorderColor #DF691A
+	ActorFontColor #DF691A
+	ArrowThickness 3
+	ArrowColor #DF691A
+	BoxBackgroundColor black
+	BoxBorderColor #4E5D6C
+	BoxFontColor $DARk
+	LifeLineBorderColor #4E5D6C
+	LifeLineBorderThickness 0
+	LifeLineBackgroundColor #717d89
+	GroupBorderColor #4E5D6C
+	GroupFontColor #4E5D6C
+	GroupHeaderFontColor #5bc0de
+	DividerBackgroundColor #4E5D6C
+    DividerBorderColor #4E5D6C
+    DividerBorderThickness 2
+    DividerFontColor #abb6c2
+	ReferenceBackgroundColor black
+	ReferenceBorderColor #4E5D6C
+	ReferenceFontColor #4E5D6C
+	ReferenceHeaderFontColor #5bc0de
+}
+
+skinparam partition {
+	BorderColor #DF691A
+	FontColor #DF691A
+	BackgroundColor black
+}
+
+skinparam collections {
+	BackgroundColor #DF691A
+	BorderColor #e58748
+}
+
+skinparam control {
+	BackgroundColor  #DF691A
+	BorderColor #e58748
+	FontColor #4E5D6C
+}
+
+skinparam entity {
+	BackgroundColor  #DF691A
+	BorderColor #e58748
+	FontColor #4E5D6C
+}
+
+skinparam boundary {
+	BackgroundColor  #DF691A
+	BorderColor #e58748
+	FontColor #4E5D6C
+}
+
+skinparam agent {
+	BackgroundColor #f0ad4e
+	BorderColor #C08A3E
+	FontColor #4E5D6C
+}
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #5bc0de
+	BorderColor #7ccde5
+	FontColor #FFF
+}
+
+skinparam artifact {
+	BackgroundColor #4E5D6C
+	BorderColor #717d89
+	FontColor #abb6c2
+}
+
+skinparam component {
+	BackgroundColor  #5cb85c
+	BorderColor  #4a934a
+	FontColor #FFF
+}
+
+skinparam interface {
+	BackgroundColor  #e17572
+	BorderColor  #d9534f
+	FontColor #4E5D6C
+}
+
+skinparam storage {
+	BackgroundColor #f0ad4e
+  	BorderColor #f3bd71
+	FontColor #FFF
+}
+
+skinparam node {
+	BackgroundColor  #4E5D6C
+	BorderColor #abb6c2
+	FontColor #abb6c2
+}
+
+skinparam cloud {
+	BackgroundColor white-lightskyblue
+	BorderColor black
+	FontColor #4E5D6C
+}
+
+skinparam database {
+	BackgroundColor  #DF691A
+	BorderColor #e58748
+	FontColor #4E5D6C
+}
+
+skinparam actor {
+	FontColor #4E5D6C
+}
+
+skinparam class {
+	HeaderBackgroundColor #b25415
+	FontColor #FFF
+	BackgroundColor #DF691A
+	BorderColor #e58748
+	StereotypeFontColor #4E5D6C
+	BorderThickness 1
+	AttributeFontColor #abb6c2
+	AttributeFontSize 11
+}
+
+skinparam object {
+	FontColor #5cb85c
+	BackgroundColor #4E5D6C
+	BorderColor #717d89
+	StereotypeFontColor #4E5D6C
+	BorderThickness 1
+	AttributeFontColor #FFF
+	AttributeFontSize 11
+}
+
+skinparam usecase {
+	BackgroundColor #4E5D6C
+	BorderColor #4E5D6C
+	BorderThickness 2
+	FontColor #FFF
+	StereotypeFontColor #DF691A
+}
+
+skinparam rectangle {
+	BackgroundColor #3e4a56
+	BorderColor #b25415
+	BorderThickness 2
+	FontColor #DF691A
+	StereotypeFontColor #DF691A
+}
+
+skinparam package {
+	BackgroundColor #4E5D6C
+  	BorderColor #DF691A
+	FontColor #DF691A
+	BorderThickness 2
+}
+
+skinparam folder {
+	BackgroundColor #3e4a56
+  	BorderColor #f0ad4e
+	FontColor #f0ad4e
+	BorderThickness 2
+}
+
+skinparam frame {
+	BackgroundColor #3e4a56
+  	BorderColor #5bc0de
+	FontColor #5bc0de
+	BorderThickness 2
+}
+
+skinparam state {
+	StartColor #5bc0de
+	EndColor #5bc0de
+	BackgroundColor #4E5D6C
+	BorderColor #717d89
+	FontColor #5bc0de
+	AttributeFontColor #FFF
+	AttributeFontSize 11
+}
+
+skinparam queue {
+	BackgroundColor #C08A3E
+  	BorderColor #f0ad4e
+	FontColor #FFF
+}
+
+skinparam card {
+	BackgroundColor #5bc0de
+	BorderColor #7ccde5
+	FontColor #FFF
+}
+
+skinparam file {
+	BackgroundColor #717d89
+	BorderColor #abb6c2
+	FontColor #abb6c2
+}
+
+skinparam stack {
+	BackgroundColor #e58748-#b25415
+	BorderColor #e58748
+	FontColor #FFF
+}
+
+title Mindmap Diagram - cyborg theme
+
++ OS
+++ Ubuntu
++++ Linux Mint
++++ Kubuntu
++++ Lubuntu
++++ KDE Neon
+++ LMDE
+++ SolydXK
+++ SteamOS
+++ Raspbian
+- - Windows 95
+- - Windows 98
+- - Windows NT
+- - - Windows 8
+- - - Windows 10
+
+@endmindmap
+
+PlantUML version 1.2019.11(Sun Sep 22 03:02:15 PDT 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_212-b32
+Operating System: Windows 10
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>
