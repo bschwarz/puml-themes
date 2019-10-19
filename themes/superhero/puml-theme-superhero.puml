@@ -6,9 +6,7 @@
 
 !$THEME = "cyborg"
 
-!if %variable_exists("$BGCOLOR")
-!$BGCOLOR = $BGCOLOR
-!else
+!if %not(%variable_exists("$BGCOLOR"))
 !$BGCOLOR = "black"
 !endif
 

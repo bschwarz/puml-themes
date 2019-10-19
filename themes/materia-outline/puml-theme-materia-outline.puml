@@ -6,9 +6,7 @@
 
 !$THEME = "materia-outline"
 
-!if %variable_exists("$BGCOLOR")
-!$BGCOLOR = $BGCOLOR
-!else
+!if %not(%variable_exists("$BGCOLOR"))
 !$BGCOLOR = "white"
 !endif
 

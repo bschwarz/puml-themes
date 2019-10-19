@@ -6,9 +6,7 @@
 
 !$THEME = "cerulean"
 
-!if %variable_exists("$BGCOLOR")
-!$BGCOLOR = $BGCOLOR
-!else
+!if %not(%variable_exists("$BGCOLOR"))
 !$BGCOLOR = "white"
 !endif
 
@@ -393,3 +391,27 @@ skinparam stack {
 	FontColor $PRIMARY_TEXT
 }
 !endsub
+
+'!if (%not(%getenv("PLANTLEGACY") == "true"))
+'skinparam useBetaStyle true
+'!startsub mindmap
+'<style> 
+'style mindmapDiagram {
+'  'Padding 8
+'  Margin 8
+'  LineThickness 2.0
+'  FontColor $PRIMARY_TEXT
+'  LineColor $SECONDARY
+'  BackGroundColor $PRIMARY_LIGHT-$PRIMARY
+'}
+'wbsDiagram {
+'  'Padding 8
+'  Margin 8
+'  LineThickness 2.0
+'  FontColor $PRIMARY_TEXT
+ ' LineColor $PRIMARY
+'  BackGroundColor $PRIMARY_LIGHT-$PRIMARY
+'}
+'</style>
+'!endsub
+'!endif
