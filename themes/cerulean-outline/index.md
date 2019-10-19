@@ -3,6 +3,8 @@ layout: default
 title: cerulean-outline
 published: true
 ---
+# {{ page.title }} Theme
+
 ## Usage
 
 <pre style="font-size: .8rem;">
