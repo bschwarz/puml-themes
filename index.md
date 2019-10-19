@@ -26,7 +26,7 @@ There are a few ways you can use these themes:
 ## Themes
 
 {% for theme in site.data.themes.themes limit:5 %}
-#### {{ theme.name }}
+### {{ theme.name }}
 {{ theme.description }}
 
 <a href="themes/{{ theme.name }}"><img src="themes/{{ theme.name }}/sequence-ex.svg" width="350" height="350" title="Sequence Diagram" alt="Sequence Diagram"></a>
