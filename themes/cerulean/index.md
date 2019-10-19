@@ -6,16 +6,15 @@ published: true
 ## Usage
 ### Local file
 
-<pre style="font-size: .75rem;">!include puml-theme-{{ page.title }}.puml</pre>
-<code style="font-size: .85rem;">!include puml-theme-{{ page.title }}.puml</code>
+<pre style="font-size: .8rem;">!include puml-theme-{{ page.title }}.puml</pre>
 
 ### Remote file
 
-`!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/{{ page.title }}/puml-theme-{{ page.title }}.puml`
+<pre style="font-size: .8rem;">!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/{{ page.title }}/puml-theme-{{ page.title }}.puml</pre>
 
 ### Legacy plantuml
 
-`!includeurl https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/{{ page.title }}/puml-theme-{{ page.title }}.puml`
+<pre style="font-size: .8rem;">!includeurl https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/{{ page.title }}/puml-theme-{{ page.title }}.puml</pre>
 
 
 ## Gallery
