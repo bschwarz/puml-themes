@@ -3,7 +3,7 @@ layout: default
 title: cerulean-outline
 published: true
 ---
-# {{ page.title }} Theme
+# {{ page.title }}
 
 ## Usage
 

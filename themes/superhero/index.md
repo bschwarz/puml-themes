@@ -3,7 +3,7 @@ layout: default
 title: superhero
 published: true
 ---
-# {{ page.title }} Theme
+# {{ page.title }}
 
 ## Usage
 

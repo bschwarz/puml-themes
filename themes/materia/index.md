@@ -3,7 +3,7 @@ layout: default
 title: materia
 published: true
 ---
-# {{ page.title }} Theme
+# {{ page.title }}
 
 ## Usage
 
