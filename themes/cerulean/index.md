@@ -6,7 +6,7 @@ published: true
 ## Usage
 ### Local file
 
-<pre style="font-size: .85rem;">!include puml-theme-{{ page.title }}.puml</pre>
+<pre style="font-size: .75rem;">!include puml-theme-{{ page.title }}.puml</pre>
 <code style="font-size: .85rem;">!include puml-theme-{{ page.title }}.puml</code>
 
 ### Remote file
