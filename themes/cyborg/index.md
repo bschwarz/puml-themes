@@ -18,6 +18,8 @@ published: true
 !includeurl https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/{{ page.title }}/puml-theme-{{ page.title }}.puml
 </pre>
 
+
+## Gallery
 <table style="background: black; width: 100%">
     <tr>
         <td>
