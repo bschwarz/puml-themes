@@ -17,6 +17,11 @@ puml-theme-sunburst.puml
 ~~~
 6. Change the ``$BGCOLOR`` variable to the default background color of the theme
 7. Proceed to edit the file to make changes to the colors. Most likely you will only need to make changes to the variables that are declared towards the top of the file.
-8. Submit pull request for the new theme, or you can host it on your own if you want.
+8. Once all edits are complete, you can generate the images. Preferred format is ``svg``. There is a build scripts in the ``bin/`` directory. You can use the ``build.sh`` script on Linux or using git bash on windows. The first argument to the script is the theme name, and execute it from the root puml-themes directory:
+~~~
+bin/build.sh sunburst
+~~~
+This will save the images into the theme directory.
+9. Submit pull request for the new theme, or you can host it on your own if you want.
 
 Cheers!
