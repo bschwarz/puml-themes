@@ -132,6 +132,7 @@ skinparam sequence {
 	''
 	ArrowThickness 3
 	ArrowColor $PRIMARY
+	ArrowFontColor $PRIMARY_TEXT
 	''
 	BoxBackgroundColor $LIGHT
 	BoxBorderColor $GRAY

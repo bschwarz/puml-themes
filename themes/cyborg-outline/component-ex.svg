@@ -31,7 +31,7 @@ link My Storage to My Queue--><!--MD5=[756be6e13c059af04edf2b7b91188131]
 link My Artifact to My Interface--><!--MD5=[9bfee3aea78949ae207e8bd3b67fed50]
 link My Interface to My Card--><!--MD5=[7d5148706a659d88e9a451ba2a45522c]
 link My Card to My File--><!--MD5=[25b27bb9c6f1602048cde482562a8061]
-link My Interface to My Stack--><!--MD5=[a0b255a8f6de4c8a9b417c990ab8daee]
+link My Interface to My Stack--><!--MD5=[78be63a7f71dc23320a2ca6afcc3fa4e]
 @startuml
 
 
@@ -92,6 +92,7 @@ skinparam sequence {
 	ActorFontColor #2A9FD6
 	ArrowThickness 3
 	ArrowColor #2A9FD6
+	ArrowFontColor #2A9FD6
 	BoxBackgroundColor black
 	BoxBorderColor #ADAFAE
 	BoxFontColor $DARk
