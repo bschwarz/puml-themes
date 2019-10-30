@@ -5,8 +5,8 @@ title: usage
 ## Usage
 
 There are a few ways you can use these themes:
-1. You can clone this repo, or you coulde download just the theme file from the repo. There is one file per theme, so you don't have to worry about copying multiple files. Then you can use the file in two different ways:
-* Using <code>!include</code>from within a markdown file, like so:
+1. You can clone this repo, or you could download just the theme file (*.puml under each theme directory) from the repo. There is one file per theme, so you don't have to worry about copying multiple files. Then you can use the file in two different ways:
+* Using <code>!include</code>from within a plantuml markdown file, like so:
 ~~~
 !include <path to file>/puml-theme-<THEME NAME>.puml
 ~~~
@@ -25,10 +25,10 @@ java -jar plantuml.jar -config <path to file>/puml-theme-<THEME NAME>.puml
     !include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/cerulean/puml-theme-cerulean.puml
     ~~~
   
-    **Note** in previous versions of plantuml you had to use <code>!includeurl ...</code> syntax.
+    **Note** in previous versions of plantuml you had to use <code>!includeurl ...</code> syntax to include files from the internet.
 
 #### subpart
-You can also use subpart. Subpart is a feature of plantuml that allows you to only use part of a file. <code>puml-themes</code> also supports this. For example, if you only wanted to use the sequence part of a theme, but have the other diagram types use something different, then you can use this syntax:
+You can also use subpart. Subpart is a feature of plantuml that allows you to only use part of a plantuml markdown file. <code>puml-themes</code> also supports this. For example, if you only wanted to use the ``sequence`` part of a theme, but have the other diagram types use something different, then you can use this syntax:
 ~~~
 !include <path to file>/puml-theme-<THEME NAME>.puml!sequence
 ~~~
