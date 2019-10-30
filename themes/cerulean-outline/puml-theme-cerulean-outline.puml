@@ -42,6 +42,7 @@ skinparam backgroundColor $BGCOLOR
 '' *_DARK = shade (darker) of the main color of 80%
 ''          and SHADE is calculated by clr * (1 - shade_factor)
 ''
+!$FGCOLOR = $DARK
 !$PRIMARY_LIGHT = "#59B6EC"
 !$PRIMARY_DARK = "#2683B9"
 !$PRIMARY_TEXT = $PRIMARY
@@ -128,7 +129,7 @@ skinparam sequence {
 	''
 	ArrowThickness 3
 	ArrowColor $PRIMARY
-	ArrowFontColor $PRIMARY_TEXT
+	ArrowFontColor $FGCOLOR
 	''
 	BoxBackgroundColor $BGCOLOR
 	BoxBorderColor $GRAY
