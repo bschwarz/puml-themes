@@ -17,7 +17,7 @@ themes/sunburst/puml-theme-sunburst.puml
 ~~~
 6. Change the ``$BGCOLOR`` variable to the default background color of the theme
 7. Proceed to edit the file to make changes to the colors. Most likely you will only need to make changes to the variables that are declared towards the top of the file.
-8. Once all edits are complete, you can generate the images. Preferred format is ``svg``. There is a build scripts in the ``bin/`` directory. You can use the ``build.sh`` script on Linux or using git bash on windows. The first argument to the script is the theme name, and execute it from the root puml-themes directory:
+8. Once all edits are complete, you can generate the images. Preferred format is ``svg``. There is a build scripts in the ``bin/`` directory. You can use the ``build.sh`` script on Linux or using git bash on windows. You may have to modify the path to the plantuml.jar file in the script (please do not commit this file after modifying path to script). The first argument to the script is the theme name, and execute it from the root puml-themes directory:
 ~~~
 bin/build.sh sunburst
 ~~~
