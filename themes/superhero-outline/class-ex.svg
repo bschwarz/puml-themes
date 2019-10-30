@@ -10,7 +10,7 @@ reverse link List to AbstractList--><path d="M236.2308,149.7725 C238.4719,172.52
 reverse link Collection to AbstractCollection--><path d="M97.2195,149.4172 C92.8951,172.25 87.8132,199.0823 84.2373,217.963 " fill="none" id="Collection&lt;-AbstractCollection" style="stroke: #DF691A; stroke-width: 3.125;"/><polygon fill="none" points="90.0922,147.8643,101.1333,128.7518,104.4208,150.5782,90.0922,147.8643" style="stroke: #DF691A; stroke-width: 3.125;"/><!--MD5=[0159284274f96a472eb2618ad803aaca]
 reverse link Collection to List--><path d="M174.5106,104.4861 C183.8119,104.4861 193.1131,104.4861 202.4145,104.4861 " fill="none" id="Collection&lt;-List" style="stroke: #DF691A; stroke-width: 3.125;"/><polygon fill="none" points="174.3205,111.7776,153.4872,104.4861,174.3204,97.1943,174.3205,111.7776" style="stroke: #DF691A; stroke-width: 3.125;"/><!--MD5=[7a3a52e8f65ef1a8d8d29530ea5cd870]
 reverse link AbstractCollection to AbstractList--><path d="M174.3184,241.9861 C179.5613,241.9861 184.8041,241.9861 190.0469,241.9861 " fill="none" id="AbstractCollection&lt;-AbstractList" style="stroke: #DF691A; stroke-width: 3.125;"/><polygon fill="none" points="174.2757,249.2776,153.4424,241.9861,174.2757,234.6943,174.2757,249.2776" style="stroke: #DF691A; stroke-width: 3.125;"/><!--MD5=[40e4bb1af59cca28d4643aaff05088cc]
-reverse link AbstractList to ArrayList--><path d="M245.3125,287.0991 C245.3125,300.4891 245.3125,315.1018 245.3125,328.308 " fill="none" id="AbstractList&lt;-ArrayList" style="stroke: #DF691A; stroke-width: 3.125;"/><polygon fill="none" points="238.0209,287.0167,245.3125,266.1834,252.6043,287.0167,238.0209,287.0167" style="stroke: #DF691A; stroke-width: 3.125;"/><!--MD5=[bd49f74ea2597631e97e1620cd983c9b]
+reverse link AbstractList to ArrayList--><path d="M245.3125,287.0991 C245.3125,300.4891 245.3125,315.1018 245.3125,328.308 " fill="none" id="AbstractList&lt;-ArrayList" style="stroke: #DF691A; stroke-width: 3.125;"/><polygon fill="none" points="238.0209,287.0167,245.3125,266.1834,252.6043,287.0167,238.0209,287.0167" style="stroke: #DF691A; stroke-width: 3.125;"/><!--MD5=[78841c28f90d3011446b26f231ddef90]
 @startuml
 
 
@@ -72,7 +72,7 @@ skinparam sequence {
 	ActorFontColor #DF691A
 	ArrowThickness 3
 	ArrowColor #DF691A
-	ArrowFontColor #DF691A
+	ArrowFontColor #FFF
 	BoxBackgroundColor black
 	BoxBorderColor #4E5D6C
 	BoxFontColor $DARk
