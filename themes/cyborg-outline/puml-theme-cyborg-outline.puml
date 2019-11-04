@@ -87,10 +87,15 @@ skinparam roundcorner           8
 skinparam ParticipantPadding    10
 skinparam BoxPadding            2
 skinparam Padding               2
-skinparam TitleFontColor	    $DARK
-skinparam TitleFontSize	    	20
-skinparam TitleBorderThickness 	0
 skinparam ArrowColor            $DARK
+skinparam title {
+	FontColor	                 $PRIMARY
+	BorderColor	                 $SECONDARY_DARK
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              $BGCOLOR
+}
 
 skinparam legend {
 	BackgroundColor $BGCOLOR
@@ -100,8 +105,6 @@ skinparam legend {
 
 !startsub activity
 skinparam activity {
-	TitleFontSize 20
-	TitleFontColor $DARK
 	FontColor $PRIMARY_TEXT
 	BorderColor $PRIMARY
 	BackgroundColor $BGCOLOR
@@ -118,8 +121,8 @@ skinparam activity {
 !startsub sequence
 skinparam sequence {
 	BorderColor $PRIMARY
-	TitleFontSize 20
-	TitleFontColor $DARK
+	' For some reason sequence title font color does not pick up from global
+	TitleFontColor $PRIMARY
 	BackgroundColor $BGCOLOR
 	StartColor $PRIMARY
 	EndColor $PRIMARY

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="518.75px" preserveAspectRatio="none" style="width:819px;height:518px;background:#000000;" version="1.1" viewBox="0 0 819 518" width="819.7917px" zoomAndPan="magnify"><defs/><g><rect fill="none" height="39.9028" rx="4.1667" ry="4.1667" style="stroke: none; stroke-width: 1.0416666666666667;" width="486.4583" x="169.7917" y="2.0833"/><text fill="#ADAFAE" font-family="Verdana" font-size="20.8333" lengthAdjust="spacingAndGlyphs" textLength="465.625" x="180.2083" y="30.3202">Component Diagram - cyborg-outline theme</text><!--MD5=[98956307d0c47524864de5bf9cdc747b]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="518.75px" preserveAspectRatio="none" style="width:819px;height:518px;background:#000000;" version="1.1" viewBox="0 0 819 518" width="819.7917px" zoomAndPan="magnify"><defs/><g><rect fill="#000000" height="39.9028" rx="4.1667" ry="4.1667" style="stroke: #777777; stroke-width: 1.0416666666666667;" width="486.4583" x="169.7917" y="2.0833"/><text fill="#2A9FD6" font-family="Verdana" font-size="20.8333" lengthAdjust="spacingAndGlyphs" textLength="465.625" x="180.2083" y="30.3202">Component Diagram - cyborg-outline theme</text><!--MD5=[98956307d0c47524864de5bf9cdc747b]
 cluster My Package--><path d="M18.75,62.2986 L103.125,62.2986 A6.25,6.25 0 0 1 107.2917,66.4653 L114.5833,87.9069 L410.4167,87.9069 A4.1667,4.1667 0 0 1 414.5833,92.0736 L414.5833,137.2986 A4.1667,4.1667 0 0 1 410.4167,141.4653 L18.75,141.4653 A4.1667,4.1667 0 0 1 14.5833,137.2986 L14.5833,66.4653 A4.1667,4.1667 0 0 1 18.75,62.2986 " fill="#000000" style="stroke: #2A9FD6; stroke-width: 1.5625;"/><line style="stroke: #2A9FD6; stroke-width: 1.5625;" x1="14.5833" x2="114.5833" y1="87.9069" y2="87.9069"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="82.2917" x="20.8333" y="79.0324">My Package</text><!--MD5=[994b84a7865cf3a30290d65f6358d5f5]
 cluster My Node--><polygon fill="#000000" points="42.7083,184.1736,53.125,173.7569,268.75,173.7569,268.75,247.7153,258.3333,258.1319,42.7083,258.1319,42.7083,184.1736" style="stroke: #ADAFAE; stroke-width: 1.5625;"/><line style="stroke: #ADAFAE; stroke-width: 1.5625;" x1="258.3333" x2="267.7083" y1="184.1736" y2="174.7986"/><line style="stroke: #ADAFAE; stroke-width: 1.5625;" x1="42.7083" x2="258.3333" y1="184.1736" y2="184.1736"/><line style="stroke: #ADAFAE; stroke-width: 1.5625;" x1="258.3333" x2="258.3333" y1="184.1736" y2="258.1319"/><text fill="#ADAFAE" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="121.875" y="201.9491">My Node</text><!--MD5=[8f762177cf9f076b8ea6eac76c5df33e]
 cluster My Cloud--><path d="M299.033,189.1915 C300.7363,183.376 304.4033,180.9858 309.8607,185.0966 C312.4813,177.7806 317.0924,177.8953 322.0182,182.8041 C324.1614,177.7388 329.0284,177.0598 332.3671,181.5029 C334.3551,176.1389 339.0839,175.5829 342.9797,179.2646 C346.7721,174.1771 351.4175,174.728 354.3,180.2367 C359.7023,175.7587 365.0379,177.132 366.6997,184.2398 C370.8268,179.8834 374.7349,180.4637 377.173,186.0237 C382.4905,180.3073 387.4718,180.4094 390.4616,188.2974 C399.278,191.7753 400.2097,196.6291 393.59,203.3213 C401.4084,206.0736 404.1245,212.5045 398.1712,219.2241 C403.6563,224.4868 403.9257,231.8158 395.2218,234.3032 C402.5458,242.4666 398.8736,247.9316 389.916,250.8853 C386.6374,255.6497 381.5667,256.0343 378.1781,251.0173 C376.0095,256.7861 372.8888,258.0331 367.7546,254.2553 C363.8856,259.8411 359.8442,259.5639 356.0826,254.1415 C352.235,260.3417 348.1421,260.93 343.2244,255.305 C340.2043,260.097 335.7022,259.4724 333.5318,254.4646 C329.8856,259.5664 325.1373,259.229 321.7244,254.1929 C317.0089,258.6172 312.9762,259.1125 309.6906,252.6171 C305.2793,258.2785 301.5012,256.4928 298.2324,251.3997 C289.3605,249.4305 287.6225,243.3805 292.5291,236.2307 C282.8903,233.1764 281.6539,226.8565 288.918,220.0337 C283.1005,213.693 283.9613,205.0397 293.9072,203.4379 C288.1485,195.9237 291.2522,191.8342 299.033,189.1915 " fill="#000000" style="stroke: #87CEFA; stroke-width: 1.5625;"/><text fill="#ADAFAE" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="62.5" x="311.4583" y="207.1574">My Cloud</text><!--MD5=[5435dd1da01795d79a1d1bdb7811705f]
@@ -31,7 +31,7 @@ link My Storage to My Queue--><!--MD5=[756be6e13c059af04edf2b7b91188131]
 link My Artifact to My Interface--><!--MD5=[9bfee3aea78949ae207e8bd3b67fed50]
 link My Interface to My Card--><!--MD5=[7d5148706a659d88e9a451ba2a45522c]
 link My Card to My File--><!--MD5=[25b27bb9c6f1602048cde482562a8061]
-link My Interface to My Stack--><!--MD5=[0d5d542cbbf24f75ad711f0f5a3d3f48]
+link My Interface to My Stack--><!--MD5=[84ed3ab7e142061ac700433aa73681f1]
 @startuml
 
 
@@ -51,10 +51,15 @@ skinparam roundcorner           8
 skinparam ParticipantPadding    10
 skinparam BoxPadding            2
 skinparam Padding               2
-skinparam TitleFontColor	    #ADAFAE
-skinparam TitleFontSize	    	20
-skinparam TitleBorderThickness 	0
 skinparam ArrowColor            #ADAFAE
+skinparam title {
+	FontColor	                 #2A9FD6
+	BorderColor	                 #777777
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              black
+}
 
 skinparam legend {
 	BackgroundColor black
@@ -63,8 +68,6 @@ skinparam legend {
 }
 
 skinparam activity {
-	TitleFontSize 20
-	TitleFontColor #ADAFAE
 	FontColor #2A9FD6
 	BorderColor #2A9FD6
 	BackgroundColor black
@@ -78,8 +81,7 @@ skinparam activity {
 
 skinparam sequence {
 	BorderColor #2A9FD6
-	TitleFontSize 20
-	TitleFontColor #ADAFAE
+	TitleFontColor #2A9FD6
 	BackgroundColor black
 	StartColor #2A9FD6
 	EndColor #2A9FD6

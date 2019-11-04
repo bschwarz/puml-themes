@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="423.9583px" preserveAspectRatio="none" style="width:596px;height:423px;background:#000000;" version="1.1" viewBox="0 0 596 423" width="596.875px" zoomAndPan="magnify"><defs/><g><rect fill="none" height="39.9028" rx="4.1667" ry="4.1667" style="stroke: none; stroke-width: 1.0416666666666667;" width="338.5417" x="132.2917" y="2.0833"/><text fill="#ADAFAE" font-family="Verdana" font-size="20.8333" lengthAdjust="spacingAndGlyphs" textLength="317.7083" x="142.7083" y="30.3202">Class Diagram - cyborg theme</text><!--MD5=[b4fa10df80476353258f72a232547d63]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="423.9583px" preserveAspectRatio="none" style="width:596px;height:423px;background:#000000;" version="1.1" viewBox="0 0 596 423" width="596.875px" zoomAndPan="magnify"><defs><linearGradient id="g41fo7w57y39r0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#444444"/><stop offset="100%" stop-color="#555555"/></linearGradient></defs><g><rect fill="url(#g41fo7w57y39r0)" height="39.9028" rx="4.1667" ry="4.1667" style="stroke: #777777; stroke-width: 1.0416666666666667;" width="338.5417" x="132.2917" y="2.0833"/><text fill="#2A9FD6" font-family="Verdana" font-size="20.8333" lengthAdjust="spacingAndGlyphs" textLength="317.7083" x="142.7083" y="30.3202">Class Diagram - cyborg theme</text><!--MD5=[b4fa10df80476353258f72a232547d63]
 class AbstractList--><rect fill="#2A9FD6" height="47.9167" id="AbstractList" rx="4.1667" ry="4.1667" style="stroke: #55B2DE; stroke-width: 1.0416666666666667;" width="110.4167" x="190.1042" y="218.0278"/><ellipse cx="204.6875" cy="233.6528" fill="#A9DCDF" rx="10.4167" ry="10.4167" style="stroke: #55B2DE; stroke-width: 1.0416666666666667;"/><path d="M204.2806,230.6091 L203.4342,234.3363 L205.1432,234.3363 L204.2806,230.6091 Z M203.1901,228.9653 L205.3874,228.9653 L207.8451,238.0798 L206.0384,238.0798 L205.485,235.8337 L203.0762,235.8337 L202.5228,238.0798 L200.7161,238.0798 L203.1901,228.9653 Z "/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="75" x="220.3125" y="238.6241">AbstractList</text><line style="stroke: #55B2DE; stroke-width: 1.0416666666666667;" x1="191.1458" x2="299.4792" y1="249.2778" y2="249.2778"/><line style="stroke: #55B2DE; stroke-width: 1.0416666666666667;" x1="191.1458" x2="299.4792" y1="257.6111" y2="257.6111"/><!--MD5=[8e34b16d8d8f96f4a11290cd523ed859]
 class AbstractCollection--><rect fill="#2A9FD6" height="47.9167" id="AbstractCollection" rx="4.1667" ry="4.1667" style="stroke: #55B2DE; stroke-width: 1.0416666666666667;" width="146.875" x="6.25" y="218.0278"/><ellipse cx="20.8333" cy="233.6528" fill="#A9DCDF" rx="10.4167" ry="10.4167" style="stroke: #55B2DE; stroke-width: 1.0416666666666667;"/><path d="M20.4264,230.6091 L19.5801,234.3363 L21.2891,234.3363 L20.4264,230.6091 Z M19.3359,228.9653 L21.5332,228.9653 L23.9909,238.0798 L22.1842,238.0798 L21.6309,235.8337 L19.222,235.8337 L18.6686,238.0798 L16.862,238.0798 L19.3359,228.9653 Z "/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="111.4583" x="36.4583" y="238.6241">AbstractCollection</text><line style="stroke: #55B2DE; stroke-width: 1.0416666666666667;" x1="7.2917" x2="152.0833" y1="249.2778" y2="249.2778"/><line style="stroke: #55B2DE; stroke-width: 1.0416666666666667;" x1="7.2917" x2="152.0833" y1="257.6111" y2="257.6111"/><!--MD5=[3d4177ac58b4411586d067f34e84928f]
 class List--><rect fill="#2A9FD6" height="47.9167" id="List" rx="4.1667" ry="4.1667" style="stroke: #55B2DE; stroke-width: 1.0416666666666667;" width="58.3333" x="202.6042" y="80.5278"/><ellipse cx="217.1875" cy="96.1528" fill="#B4A7E5" rx="10.4167" ry="10.4167" style="stroke: #55B2DE; stroke-width: 1.0416666666666667;"/><path d="M214.0788,93.3207 L214.0788,91.7257 L219.4987,91.7257 L219.4987,93.3207 L217.6921,93.3207 L217.6921,99.2452 L219.4987,99.2452 L219.4987,100.8403 L214.0788,100.8403 L214.0788,99.2452 L215.8854,99.2452 L215.8854,93.3207 L214.0788,93.3207 Z "/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="22.9167" x="232.8125" y="101.1241">List</text><line style="stroke: #55B2DE; stroke-width: 1.0416666666666667;" x1="203.6458" x2="259.8958" y1="111.7778" y2="111.7778"/><line style="stroke: #55B2DE; stroke-width: 1.0416666666666667;" x1="203.6458" x2="259.8958" y1="120.1111" y2="120.1111"/><!--MD5=[c160724f8e3bb89ca8141a12554ac2e3]
@@ -10,7 +10,7 @@ reverse link List to AbstractList--><path d="M236.2308,149.7725 C238.4719,172.52
 reverse link Collection to AbstractCollection--><path d="M97.2195,149.4172 C92.8951,172.25 87.8132,199.0823 84.2373,217.963 " fill="none" id="Collection&lt;-AbstractCollection" style="stroke: #2A9FD6; stroke-width: 3.125;"/><polygon fill="none" points="90.0922,147.8643,101.1333,128.7518,104.4208,150.5782,90.0922,147.8643" style="stroke: #2A9FD6; stroke-width: 3.125;"/><!--MD5=[0159284274f96a472eb2618ad803aaca]
 reverse link Collection to List--><path d="M174.5106,104.4861 C183.8119,104.4861 193.1131,104.4861 202.4145,104.4861 " fill="none" id="Collection&lt;-List" style="stroke: #2A9FD6; stroke-width: 3.125;"/><polygon fill="none" points="174.3205,111.7776,153.4872,104.4861,174.3204,97.1943,174.3205,111.7776" style="stroke: #2A9FD6; stroke-width: 3.125;"/><!--MD5=[7a3a52e8f65ef1a8d8d29530ea5cd870]
 reverse link AbstractCollection to AbstractList--><path d="M174.3184,241.9861 C179.5613,241.9861 184.8041,241.9861 190.0469,241.9861 " fill="none" id="AbstractCollection&lt;-AbstractList" style="stroke: #2A9FD6; stroke-width: 3.125;"/><polygon fill="none" points="174.2757,249.2776,153.4424,241.9861,174.2757,234.6943,174.2757,249.2776" style="stroke: #2A9FD6; stroke-width: 3.125;"/><!--MD5=[40e4bb1af59cca28d4643aaff05088cc]
-reverse link AbstractList to ArrayList--><path d="M245.3125,287.0991 C245.3125,300.4891 245.3125,315.1018 245.3125,328.308 " fill="none" id="AbstractList&lt;-ArrayList" style="stroke: #2A9FD6; stroke-width: 3.125;"/><polygon fill="none" points="238.0209,287.0167,245.3125,266.1834,252.6043,287.0167,238.0209,287.0167" style="stroke: #2A9FD6; stroke-width: 3.125;"/><!--MD5=[f0f5850ed70efdf7bad9fae2d697c32a]
+reverse link AbstractList to ArrayList--><path d="M245.3125,287.0991 C245.3125,300.4891 245.3125,315.1018 245.3125,328.308 " fill="none" id="AbstractList&lt;-ArrayList" style="stroke: #2A9FD6; stroke-width: 3.125;"/><polygon fill="none" points="238.0209,287.0167,245.3125,266.1834,252.6043,287.0167,238.0209,287.0167" style="stroke: #2A9FD6; stroke-width: 3.125;"/><!--MD5=[2c97ccfc8a9f88082466bf30cae2d042]
 @startuml
 
 
@@ -30,10 +30,15 @@ skinparam roundcorner           8
 skinparam ParticipantPadding    10
 skinparam BoxPadding            2
 skinparam Padding               2
-skinparam TitleFontColor	    #ADAFAE
-skinparam TitleFontSize	    	20
-skinparam TitleBorderThickness 	0
 skinparam ArrowColor            #ADAFAE
+skinparam title {
+	FontColor	                 #2A9FD6
+	BorderColor	                 #777777
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #444444-#555
+}
 
 
 skinparam legend {
@@ -43,8 +48,6 @@ skinparam legend {
 }
 
 skinparam activity {
-	TitleFontSize 20
-	TitleFontColor #ADAFAE
 	FontColor #FFF
 	BorderColor #2A9FD6
 	BackgroundColor #2A9FD6
@@ -58,8 +61,7 @@ skinparam activity {
 
 skinparam sequence {
 	BorderColor #2A9FD6
-	TitleFontSize 20
-	TitleFontColor #ADAFAE
+	TitleFontColor #2A9FD6
 	BackgroundColor black
 	StartColor #2A9FD6
 	EndColor #2A9FD6

@@ -27,7 +27,16 @@ java -jar plantuml.jar -config <path to file>/puml-theme-<THEME NAME>.puml
   
     **Note** in previous versions of plantuml you had to use <code>!includeurl ...</code> syntax to include files from the internet.
 
-#### subpart
+#### Overriding skinparams
+If you like a theme, but don't like one or more attributes about it, you can override that attribute by just including a skinparam *after* the theme ``!include``. For example, if you want the title font size to be larger than what the theme has specified, you can just do somethine like:
+~~~
+!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/cerulean/puml-theme-cerulean.puml
+.
+.
+.
+skinparam titleFontSize 32
+~~~ 
+#### Subpart
 You can also use subpart. Subpart is a feature of plantuml that allows you to only use part of a plantuml markdown file. <code>puml-themes</code> also supports this. For example, if you only wanted to use the ``sequence`` part of a theme, but have the other diagram types use something different, then you can use this syntax:
 ~~~
 !include <path to file>/puml-theme-<THEME NAME>.puml!sequence
