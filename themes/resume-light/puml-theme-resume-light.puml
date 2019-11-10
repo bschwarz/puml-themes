@@ -1,82 +1,14 @@
 ''
-'' hacker theme based on the Jekyll theme "hacker" https://github.com/pages-themes/hacker
-''
-'' Currently only has beta diagrams, such as mindmap and wbs, so will need newer plantuml jar file
-'' to use this.
-''
 '' Author: Brett Schwarz
 '' 
 
-!$THEME = "hacker"
+!$THEME = "resume-light"
 
 !if %not(%variable_exists("$BGCOLOR"))
 !$BGCOLOR = "transparent"
 !endif
 
 skinparam backgroundColor $BGCOLOR
-
-''
-'' Colors taken from the css file of the BS theme
-''
-!$BLUE = "#033C73"
-!$INDIGO = "#6610F2"
-!$PURPLE = "#6F42C1"
-!$PINK = "#E83E8C"
-!$RED = "#C71C22"
-!$ORANGE = "#FD7E14"
-!$YELLOW = "#DD5600"
-!$GREEN = "#73A839"
-!$TEAL = "#20C997"
-!$CYAN = "#2FA4E7"
-!$WHITE = "#FFF"
-!$GRAY_DARK = "#343A40"
-!$GRAY = "#868E96"
-!$PRIMARY = "#2FA4E7"
-!$SECONDARY = "#E9ECEF"
-!$SUCCESS = "#73A839"
-!$INFO = "#033C73"
-!$WARNING = "#DD5600"
-!$DANGER = "#C71C22"
-!$LIGHT = "#F8F9FA"
-!$DARK = "#343A40"
-
-'' *_LIGHT = tint (lighter) of the main color of 80%
-''          where TINT is calculated by clr + (255-clr) * tint_factor
-'' *_DARK = shade (darker) of the main color of 80%
-''          and SHADE is calculated by clr * (1 - shade_factor)
-''
-!$FGCOLOR = $DARK
-!$PRIMARY_LIGHT = "#59B6EC"
-!$PRIMARY_DARK = "#2683B9"
-!$PRIMARY_TEXT = $WHITE
-!$SECONDARY_LIGHT = "#EDF0F2"
-!$SECONDARY_DARK = "#BABDBF"
-!$SECONDARY_TEXT = $DARK
-!$INFO_LIGHT = "#35638F"
-!$INFO_DARK = "#02305C"
-!$INFO_TEXT = $WHITE
-!$SUCCESS_LIGHT = "#8FB961"
-!$SUCCESS_DARK = "#5C862E"
-!$SUCCESS_TEXT = $WHITE
-!$WARNING_LIGHT = "#E47833"
-!$WARNING_DARK = "#B14500"
-!$WARNING_TEXT = $WHITE
-!$DANGER_LIGHT = "#D2494E"
-!$DANGER_DARK = "#9F161B"
-!$DANGER_TEXT = $WHITE
-
-!function $success($msg)
-  <font color=$SUCCESS><b>$msg
-!endfunction
-
-!function $failure($msg)
-  <font color=$DANGER><b>$msg
-!endfunction
-
-!function $warning($msg)
-  <font color=$WARNING><b>$msg
-!endfunction
-
 
 
 skinparam  {
