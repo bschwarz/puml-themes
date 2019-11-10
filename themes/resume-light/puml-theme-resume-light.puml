@@ -3,7 +3,7 @@ defaultTextAlignment center
 shadowing false
 RoundCorner 10
 TitleFontSize 18
-
+BackgroundColor transparent
 }
 <style>
  wbsDiagram {

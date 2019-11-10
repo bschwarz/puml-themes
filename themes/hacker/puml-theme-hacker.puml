@@ -5,6 +5,7 @@ shadowing false
 RoundCorner 10
 TitleFontSize 18
 TitleFontColor #eaeaea
+BackgroundColor transparent
 }
 <style>
  wbsDiagram {
