@@ -64,11 +64,11 @@ wbsDiagram {
     }
     :depth(2) {
         fontSize 12
-        padding 3
+        padding 4
     }
     :depth(3) {
-        fontSize 10
-        padding 2
+        fontSize 11
+        padding 3
         fontColor $INFO
     }
 
