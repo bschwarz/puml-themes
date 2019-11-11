@@ -15,25 +15,15 @@ skinparam backgroundColor $BGCOLOR
 ''
 '' Colors taken from the _default_colors.scss file
 ''
-!$apple-blossom = #ac4142;
-!$alto = #d0d0d0;
-!$bouquet = #aa759f;
-!$chelsea-cucumber = #90a959;
-!$cod-grey = #151515;
-!$conifer = #b5e853;
-!$dove-grey = #666;
-!$gallery = #eaeaea;
-!$grey = #888;
-!$gulf-stream = #75b5aa;
-!$hippie-blue = #6a9fb5;
-!$potters-clay = #8f5536;
-!$rajah = #f4bf75;
-!$raw-sienna = #d28445;
-!$silver-chalice = #aaa;
-
-!$SUCCESS = $chelsea-cucumber
-!$DANGER = $apple-blossom
-!$WARNING = $rajah
+!$PRIMARY = "#b5e853"
+!$PRIMARY_TEXT = "#eaeaea"
+!$SECONDARY = "#6a9fb5"
+!$SUCCESS = "#90a959"
+!$INFO = "#aa759f"
+!$WARNING = "#f4bf75"
+!$DANGER = "#ac4142"
+!$LIGHT = "#151515"
+!$DARK = "#eaeaea"
 
 !function $success($msg)
   <font color=$SUCCESS><b>$msg
@@ -54,18 +44,18 @@ skinparam  {
     shadowing false
     RoundCorner 10
     TitleFontSize 18
-    TitleFontColor $gallery
+    TitleFontColor $PRIMARY_TEXT
 }
 <style>
 wbsDiagram {
-    LineColor $conifer
+    LineColor $PRIMARY
     BorderThickness 3
-    BackgroundColor $cod-grey
-    FontColor $gallery
+    BackgroundColor $LIGHT
+    FontColor $PRIMARY_TEXT
     :depth(0) {
         fontSize 16
         fontStyle bold
-        fontColor $hippie-blue
+        fontColor $SECONDARY
     }
     :depth(1) {
         fontSize 14
