@@ -69,6 +69,7 @@ wbsDiagram {
     :depth(3) {
         fontSize 10
         padding 2
+        fontColor $INFO
     }
 
 }
