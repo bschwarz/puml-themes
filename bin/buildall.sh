@@ -1,7 +1,8 @@
 #!/bin/sh
 
 #PLANT=~/devcontent/bin/plantuml-1-2019-08.jar
-PLANT=~/devcontent/bin/plantuml.1.2019.11.jar
+# PLANT=~/devcontent/bin/plantuml.1.2019.11.jar
+PLANT=~/devcontent/bin/plantuml.1.2019.12.jar
 
 ##
 ## examples for each type of diagram

@@ -1,0 +1,76 @@
+''
+'' hacker theme based off of the Jekyll theme of the same name
+'' https://github.com/pages-themes/hacker
+''
+'' Author: Brett Schwarz
+
+!$THEME = "hacker"
+
+!if %not(%variable_exists("$BGCOLOR"))
+!$BGCOLOR = "transparent"
+!endif
+
+skinparam backgroundColor $BGCOLOR
+
+''
+'' Colors taken from the _default_colors.scss file
+''
+!$PRIMARY = "#b5e853"
+!$PRIMARY_TEXT = "#eaeaea"
+!$SECONDARY = "#6a9fb5"
+!$SUCCESS = "#90a959"
+!$INFO = "#aa759f"
+!$WARNING = "#f4bf75"
+!$DANGER = "#ac4142"
+!$LIGHT = "#151515"
+!$DARK = "#eaeaea"
+
+!function $success($msg)
+  <font color=$SUCCESS><b>$msg
+!endfunction
+
+!function $failure($msg)
+  <font color=$DANGER><b>$msg
+!endfunction
+
+!function $warning($msg)
+  <font color=$WARNING><b>$msg
+!endfunction
+
+skinparam  {
+    defaultFontName   "Verdana"
+    defaultFontSize   12
+    defaultTextAlignment center
+    shadowing false
+    RoundCorner 10
+    TitleFontSize 18
+    TitleFontColor $PRIMARY_TEXT
+}
+<style>
+wbsDiagram {
+    LineColor $PRIMARY
+    BorderThickness 3
+    BackgroundColor $LIGHT
+    FontColor $PRIMARY_TEXT
+    :depth(0) {
+        fontSize 16
+        fontStyle bold
+        fontColor $SECONDARY
+    }
+    :depth(1) {
+        fontSize 14
+        padding 5
+        fontStyle bold
+    }
+    :depth(2) {
+        fontSize 12
+        padding 4
+    }
+    :depth(3) {
+        fontSize 11
+        padding 3
+        fontColor $INFO
+    }
+
+}
+</style>
