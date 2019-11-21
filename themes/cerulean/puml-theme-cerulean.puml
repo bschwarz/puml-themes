@@ -8,7 +8,7 @@
 !$THEME = "cerulean"
 
 !if %not(%variable_exists("$BGCOLOR"))
-!$BGCOLOR = "white"
+!$BGCOLOR = "transparent"
 !endif
 
 skinparam backgroundColor $BGCOLOR
