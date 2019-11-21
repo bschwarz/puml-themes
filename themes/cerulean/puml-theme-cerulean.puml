@@ -78,10 +78,6 @@ skinparam backgroundColor $BGCOLOR
 ''
 '' Global Default Values
 ''
-skinparam ParticipantPadding 30
-skinparam Padding 50
-skinparam BoxPadding 10
-
 skinparam defaultFontName        "Verdana"
 skinparam defaultFontSize        12
 skinparam dpi                    100
