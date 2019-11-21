@@ -1,30 +1,34 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="371.875px" preserveAspectRatio="none" style="width:403px;height:371px;" version="1.1" viewBox="0 0 403 371" width="403.125px" zoomAndPan="magnify"><defs><linearGradient id="g5kdur17915b50" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#EDF0F2"/><stop offset="100%" stop-color="#E9ECEF"/></linearGradient><linearGradient id="g5kdur17915b51" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#E9ECEF"/><stop offset="100%" stop-color="#BABDBF"/></linearGradient></defs><g><rect fill="url(#g5kdur17915b50)" height="39.9028" rx="4.1667" ry="4.1667" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="389.5833" x="2.0833" y="2.0833"/><text fill="#2FA4E7" font-family="Verdana" font-size="20.8333" lengthAdjust="spacingAndGlyphs" textLength="368.75" x="12.5" y="30.3202">Usecase Diagram - cerulean theme</text><!--MD5=[111002b242a260edbcaabc3e471064d0]
-cluster checkout--><rect fill="url(#g5kdur17915b51)" height="242.7083" rx="4.1667" ry="4.1667" style="stroke: #2683B9; stroke-width: 2.0833333333333335;" width="98.9583" x="156.7708" y="61.7778"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="61.4583" x="175.5208" y="78.5116">checkout</text><ellipse cx="206.3357" cy="194.9348" fill="url(#g5kdur17915b50)" rx="41.2316" ry="14.9279" style="stroke: #E9ECEF; stroke-width: 2.0833333333333335;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="58.3333" x="177.1691" y="198.8848">checkout</text><ellipse cx="206.1949" cy="107.4264" fill="url(#g5kdur17915b50)" rx="40.5699" ry="14.9195" style="stroke: #E9ECEF; stroke-width: 2.0833333333333335;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="57.2917" x="177.5491" y="111.3764">payment</text><ellipse cx="206.4288" cy="281.4586" fill="url(#g5kdur17915b50)" rx="22.0538" ry="14.4725" style="stroke: #E9ECEF; stroke-width: 2.0833333333333335;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="28.125" x="192.3663" y="285.4086">help</text><!--MD5=[92848cbaf65985a669855153c5362c37]
-entity customer--><ellipse cx="69.2708" cy="162.8194" fill="#FFFFFF" rx="8.3333" ry="8.3333" style="stroke: #2FA4E7; stroke-width: 2.0833333333333335;"/><path d="M69.2708,171.1528 L69.2708,199.2778 M55.7292,179.4861 L82.8125,179.4861 M69.2708,199.2778 L55.7292,214.9028 M69.2708,199.2778 L82.8125,214.9028 " fill="none" style="stroke: #2FA4E7; stroke-width: 2.0833333333333335;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="60.4167" x="39.0625" y="232.6782">customer</text><!--MD5=[ebeabf449828f4e0b33bbb47961e644b]
-entity clerk--><ellipse cx="328.125" cy="162.8194" fill="#FFFFFF" rx="8.3333" ry="8.3333" style="stroke: #2FA4E7; stroke-width: 2.0833333333333335;"/><path d="M328.125,171.1528 L328.125,199.2778 M314.5833,179.4861 L341.6667,179.4861 M328.125,199.2778 L314.5833,214.9028 M328.125,199.2778 L341.6667,214.9028 " fill="none" style="stroke: #2FA4E7; stroke-width: 2.0833333333333335;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="30.2083" x="313.0208" y="232.6782">clerk</text><!--MD5=[852381a7bb976b86080137fb6d718ea9]
-link customer to checkout--><path d="M101.733,195.1111 C120.5622,195.1111 144.4702,195.1111 164.6666,195.1111 " fill="none" id="customer-checkout" style="stroke: #2FA4E7; stroke-width: 3.125;"/><!--MD5=[3ad5c6d5c608bfd6b87dc9c07c40a15f]
-link checkout to payment--><path d="M206.25,179.8697 C206.25,165.6535 206.25,144.3239 206.25,128.5204 " fill="none" id="checkout-&gt;payment" style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><polygon fill="#2FA4E7" points="206.25,122.9714,202.0833,132.3464,206.25,128.1797,210.4167,132.3464,206.25,122.9714" style="stroke: #2FA4E7; stroke-width: 3.125;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="45.8333" x="169.7917" y="156.6366">include</text><!--MD5=[739e7928149c8fe27c2b5850560351c7]
-link help to checkout--><path d="M206.25,266.903 C206.25,252.9148 206.25,231.7048 206.25,215.9619 " fill="none" id="help-&gt;checkout" style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><polygon fill="#2FA4E7" points="206.25,210.4328,202.0833,219.8078,206.25,215.6411,210.4167,219.8078,206.25,210.4328" style="stroke: #2FA4E7; stroke-width: 3.125;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="53.125" x="166.1458" y="243.8761">extends</text><!--MD5=[b4c4ee8f2d94c159d2b9e04bd372cbe0]
-link checkout to clerk--><path d="M247.5114,195.1111 C269.0569,195.1111 294.2788,195.1111 310.6956,195.1111 " fill="none" id="checkout-clerk" style="stroke: #2FA4E7; stroke-width: 3.125;"/><rect fill="#E9ECEF" height="29.775" rx="5.2083" ry="5.2083" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="129.1667" x="132.2917" y="331.5694"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="112.5" x="140.625" y="351.4282">This is my legend</text><!--MD5=[6289b20f8522100c81876d99999f6189]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="471.875px" preserveAspectRatio="none" style="width:419px;height:471px;" version="1.1" viewBox="0 0 419 471" width="419.7917px" zoomAndPan="magnify"><defs><linearGradient id="g13z1fu94wssws0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#EDF0F2"/><stop offset="100%" stop-color="#E9ECEF"/></linearGradient><linearGradient id="g13z1fu94wssws1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#E9ECEF"/><stop offset="100%" stop-color="#BABDBF"/></linearGradient></defs><g><rect fill="url(#g13z1fu94wssws0)" height="56.5694" rx="4.1667" ry="4.1667" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="406.25" x="2.0833" y="2.0833"/><text fill="#2FA4E7" font-family="Verdana" font-size="20.8333" lengthAdjust="spacingAndGlyphs" textLength="368.75" x="20.8333" y="38.6536">Usecase Diagram - cerulean theme</text><!--MD5=[111002b242a260edbcaabc3e471064d0]
+cluster checkout--><rect fill="url(#g13z1fu94wssws1)" height="309.375" rx="4.1667" ry="4.1667" style="stroke: #2683B9; stroke-width: 2.0833333333333335;" width="98.9583" x="165.1042" y="78.4444"/><text fill="#2FA4E7" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="61.4583" x="183.8542" y="103.5116">checkout</text><ellipse cx="214.3346" cy="254.6741" fill="url(#g13z1fu94wssws0)" rx="36.7304" ry="18.4172" style="stroke: #E9ECEF; stroke-width: 2.0833333333333335;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="58.3333" x="185.1679" y="258.6241">checkout</text><ellipse cx="214.8152" cy="144.2027" fill="url(#g13z1fu94wssws0)" rx="36.1694" ry="18.3624" style="stroke: #E9ECEF; stroke-width: 2.0833333333333335;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="57.2917" x="186.1694" y="148.1526">payment</text><ellipse cx="214.8404" cy="362.6348" fill="url(#g13z1fu94wssws0)" rx="20.5696" ry="15.9613" style="stroke: #E9ECEF; stroke-width: 2.0833333333333335;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="28.125" x="200.7779" y="366.5848">help</text><!--MD5=[92848cbaf65985a669855153c5362c37]
+entity customer--><ellipse cx="69.2708" cy="213.8611" fill="#FFFFFF" rx="8.3333" ry="8.3333" style="stroke: #2FA4E7; stroke-width: 2.0833333333333335;"/><path d="M69.2708,222.1944 L69.2708,250.3194 M55.7292,230.5278 L82.8125,230.5278 M69.2708,250.3194 L55.7292,265.9444 M69.2708,250.3194 L82.8125,265.9444 " fill="none" style="stroke: #2FA4E7; stroke-width: 2.0833333333333335;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="60.4167" x="39.0625" y="292.0532">customer</text><!--MD5=[ebeabf449828f4e0b33bbb47961e644b]
+entity clerk--><ellipse cx="344.7917" cy="213.8611" fill="#FFFFFF" rx="8.3333" ry="8.3333" style="stroke: #2FA4E7; stroke-width: 2.0833333333333335;"/><path d="M344.7917,222.1944 L344.7917,250.3194 M331.25,230.5278 L358.3333,230.5278 M344.7917,250.3194 L331.25,265.9444 M344.7917,250.3194 L358.3333,265.9444 " fill="none" style="stroke: #2FA4E7; stroke-width: 2.0833333333333335;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="30.2083" x="329.6875" y="292.0532">clerk</text><!--MD5=[852381a7bb976b86080137fb6d718ea9]
+link customer to checkout--><path d="M110.1352,254.4861 C131.2893,254.4861 156.9223,254.4861 177.5006,254.4861 " fill="none" id="customer-checkout" style="stroke: #2FA4E7; stroke-width: 3.125;"/><!--MD5=[3ad5c6d5c608bfd6b87dc9c07c40a15f]
+link checkout to payment--><path d="M214.5833,236.2531 C214.5833,217.4729 214.5833,188.1281 214.5833,167.606 " fill="none" id="checkout-&gt;payment" style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><polygon fill="#2FA4E7" points="214.5833,162.3295,210.4167,171.7045,214.5833,167.5379,218.75,171.7045,214.5833,162.3295" style="stroke: #2FA4E7; stroke-width: 3.125;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="45.8333" x="169.7917" y="204.5532">include</text><!--MD5=[739e7928149c8fe27c2b5850560351c7]
+link help to checkout--><path d="M214.5833,346.3659 C214.5833,328.2178 214.5833,298.857 214.5833,278.2205 " fill="none" id="help-&gt;checkout" style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><polygon fill="#2FA4E7" points="214.5833,272.9113,210.4167,282.2863,214.5833,278.1196,218.75,282.2863,214.5833,272.9113" style="stroke: #2FA4E7; stroke-width: 3.125;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="53.125" x="166.1458" y="314.9699">extends</text><!--MD5=[b4c4ee8f2d94c159d2b9e04bd372cbe0]
+link checkout to clerk--><path d="M251.8958,254.4861 C273.3884,254.4861 299.8558,254.4861 319.0339,254.4861 " fill="none" id="checkout-clerk" style="stroke: #2FA4E7; stroke-width: 3.125;"/><rect fill="#E9ECEF" height="46.4417" rx="5.2083" ry="5.2083" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="145.8333" x="132.2917" y="414.9028"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="112.5" x="148.9583" y="443.0949">This is my legend</text><!--MD5=[97267d02a24f27b6dc44bb5f70fec6aa]
 @startuml
 
 
 
-skinparam backgroundColor white
+skinparam backgroundColor transparent
 
 
 
 
 
+
+skinparam ParticipantPadding 30
+skinparam Padding 50
+skinparam BoxPadding 10
 
 skinparam defaultFontName        "Verdana"
 skinparam defaultFontSize        12
 skinparam dpi                    100
 skinparam shadowing              false
 skinparam roundcorner            8
-skinparam ParticipantPadding     10
-skinparam BoxPadding             2
-skinparam Padding                2
+skinparam ParticipantPadding     20
+skinparam BoxPadding             10
+skinparam Padding                10
 skinparam ArrowColor             #868E96
 skinparam title {
 	FontColor	                 #2FA4E7
@@ -57,14 +61,14 @@ skinparam activity {
 skinparam sequence {
 	BorderColor #2FA4E7
 	TitleFontColor #2FA4E7
-	BackgroundColor white
+	BackgroundColor transparent
 	StartColor #2FA4E7
 	EndColor #2FA4E7
     ParticipantBackgroundColor #59B6EC-#2FA4E7
     ParticipantBorderColor #2FA4E7
 	ParticipantBorderThickness 0
 	ParticipantFontColor #FFF
-	ActorBackgroundColor white
+	ActorBackgroundColor transparent
     ActorBorderColor #2FA4E7
 	ActorFontColor #2FA4E7
 	ArrowThickness 3
@@ -83,7 +87,7 @@ skinparam sequence {
     DividerBorderColor #868E96
     DividerBorderThickness 2
     DividerFontColor #343A40
-	ReferenceBackgroundColor white
+	ReferenceBackgroundColor transparent
 	ReferenceBorderColor #868E96
 	ReferenceFontColor #343A40
 	ReferenceHeaderFontColor #033C73
@@ -92,7 +96,7 @@ skinparam sequence {
 skinparam partition {
 	BorderColor #2FA4E7
 	FontColor #2FA4E7
-	BackgroundColor white
+	BackgroundColor transparent
 }
 
 skinparam collections {
@@ -163,7 +167,7 @@ skinparam node {
 
 skinparam cloud {
 	BackgroundColor white-lightskyblue
-	BorderColor white
+	BorderColor transparent
 	FontColor #343A40
 }
 
@@ -289,7 +293,7 @@ rectangle checkout {
 }
 @enduml
 
-PlantUML version 1.2019.11(Sun Sep 22 03:02:15 PDT 2019)
+PlantUML version 1.2019.12(Sun Nov 03 02:24:54 PST 2019)
 (GPL source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM

@@ -1,27 +1,31 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="256.25px" preserveAspectRatio="none" style="width:506px;height:256px;" version="1.1" viewBox="0 0 506 256" width="506.25px" zoomAndPan="magnify"><defs><linearGradient id="g1klxoxwne84bg0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#EDF0F2"/><stop offset="100%" stop-color="#E9ECEF"/></linearGradient><linearGradient id="g1klxoxwne84bg1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#E9ECEF"/><stop offset="100%" stop-color="#BABDBF"/></linearGradient></defs><g><rect fill="url(#g1klxoxwne84bg0)" height="39.9028" rx="4.1667" ry="4.1667" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="372.9167" x="71.3542" y="2.0833"/><text fill="#2FA4E7" font-family="Verdana" font-size="20.8333" lengthAdjust="spacingAndGlyphs" textLength="352.0833" x="81.7708" y="30.3202">Object Diagram - cerulean theme</text><rect fill="url(#g1klxoxwne84bg1)" height="40.1917" rx="4.1667" ry="4.1667" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="78.125" x="6.25" y="53.4444"/><text fill="#73A839" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="15.625" y="70.1782">Object01</text><line style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" x1="7.2917" x2="83.3333" y1="76.9694" y2="76.9694"/><rect fill="url(#g1klxoxwne84bg1)" height="40.1917" rx="4.1667" ry="4.1667" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="78.125" x="6.25" y="190.9444"/><text fill="#73A839" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="15.625" y="207.6782">Object02</text><line style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" x1="7.2917" x2="83.3333" y1="214.4694" y2="214.4694"/><rect fill="url(#g1klxoxwne84bg1)" height="40.1917" rx="4.1667" ry="4.1667" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="78.125" x="120.8333" y="53.4444"/><text fill="#73A839" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="130.2083" y="70.1782">Object03</text><line style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" x1="121.875" x2="197.9167" y1="76.9694" y2="76.9694"/><rect fill="url(#g1klxoxwne84bg1)" height="40.1917" rx="4.1667" ry="4.1667" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="78.125" x="120.8333" y="190.9444"/><text fill="#73A839" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="130.2083" y="207.6782">Object04</text><line style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" x1="121.875" x2="197.9167" y1="214.4694" y2="214.4694"/><rect fill="url(#g1klxoxwne84bg1)" height="40.1917" rx="4.1667" ry="4.1667" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="78.125" x="235.4167" y="53.4444"/><text fill="#73A839" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="244.7917" y="70.1782">Object05</text><line style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" x1="236.4583" x2="312.5" y1="76.9694" y2="76.9694"/><rect fill="url(#g1klxoxwne84bg1)" height="40.1917" rx="4.1667" ry="4.1667" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="78.125" x="235.4167" y="190.9444"/><text fill="#73A839" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="244.7917" y="207.6782">Object06</text><line style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" x1="236.4583" x2="312.5" y1="214.4694" y2="214.4694"/><rect fill="url(#g1klxoxwne84bg1)" height="40.1917" rx="4.1667" ry="4.1667" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="78.125" x="373.9583" y="53.4444"/><text fill="#73A839" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="383.3333" y="70.1782">Object07</text><line style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" x1="375" x2="451.0417" y1="76.9694" y2="76.9694"/><rect fill="url(#g1klxoxwne84bg1)" height="68.043" rx="4.1667" ry="4.1667" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="125" x="350.5208" y="177.4028"/><text fill="#73A839" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="383.3333" y="194.1366">Object08</text><line style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" x1="351.5625" x2="474.4792" y1="200.9277" y2="200.9277"/><text fill="#343A40" font-family="Verdana" font-size="11.4583" lengthAdjust="spacingAndGlyphs" textLength="108.3333" x="358.8542" y="218.6976">name = "Dummy"</text><text fill="#343A40" font-family="Verdana" font-size="11.4583" lengthAdjust="spacingAndGlyphs" textLength="50" x="358.8542" y="236.79">id = 123</text><!--MD5=[507381b32e0a49e7abc7210229a8ee60]
-reverse link Object01 to Object02--><path d="M45.3125,115.5031 C45.3125,140.327 45.3125,170.7357 45.3125,190.5311 " fill="none" id="Object01&lt;-Object02" style="stroke: #2FA4E7; stroke-width: 3.125;"/><polygon fill="none" points="38.0209,115.1755,45.3125,94.342,52.6043,115.1754,38.0209,115.1755" style="stroke: #2FA4E7; stroke-width: 3.125;"/><!--MD5=[d21c20b16b3ff22abbc2c8af84931b60]
-reverse link Object03 to Object04--><path d="M159.8958,108.0587 C159.8958,133.9778 159.8958,168.7054 159.8958,190.5311 " fill="none" id="Object03&lt;-Object04" style="stroke: #2FA4E7; stroke-width: 3.125;"/><polygon fill="#2FA4E7" points="159.8958,94.342,155.7292,100.592,159.8958,106.842,164.0625,100.592,159.8958,94.342" style="stroke: #2FA4E7; stroke-width: 3.125;"/><!--MD5=[ade907096602ef8d7fe19339b46bff0e]
-reverse link Object05 to Object06--><path d="M274.4792,108.0587 C274.4792,133.9778 274.4792,168.7054 274.4792,190.5311 " fill="none" id="Object05&lt;-Object06" style="stroke: #2FA4E7; stroke-width: 3.125;"/><polygon fill="#FFFFFF" points="274.4792,94.342,270.3125,100.592,274.4792,106.842,278.6458,100.592,274.4792,94.342" style="stroke: #2FA4E7; stroke-width: 3.125;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="8.3333" x="262.2266" y="177.7424">4</text><!--MD5=[17488501a7bed181c851ca0c615fb4f2]
-link Object07 to Object08--><path d="M413.0208,94.342 C413.0208,116.2181 413.0208,151.169 413.0208,177.1661 " fill="none" id="Object07-Object08" style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="78.125" x="416.1458" y="141.0116">some labels</text><!--MD5=[19ed91d34505e53d531af371537a69c1]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="356.25px" preserveAspectRatio="none" style="width:572px;height:356px;" version="1.1" viewBox="0 0 572 356" width="572.9167px" zoomAndPan="magnify"><defs><linearGradient id="g1xlvjaenkmgyp0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#EDF0F2"/><stop offset="100%" stop-color="#E9ECEF"/></linearGradient><linearGradient id="g1xlvjaenkmgyp1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#E9ECEF"/><stop offset="100%" stop-color="#BABDBF"/></linearGradient></defs><g><rect fill="url(#g1xlvjaenkmgyp0)" height="56.5694" rx="4.1667" ry="4.1667" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="389.5833" x="100.5208" y="2.0833"/><text fill="#2FA4E7" font-family="Verdana" font-size="20.8333" lengthAdjust="spacingAndGlyphs" textLength="352.0833" x="119.2708" y="38.6536">Object Diagram - cerulean theme</text><rect fill="url(#g1xlvjaenkmgyp1)" height="56.8583" rx="4.1667" ry="4.1667" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="94.7917" x="6.25" y="70.1111"/><text fill="#73A839" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="23.9583" y="95.1782">Object01</text><line style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" x1="7.2917" x2="100" y1="110.3027" y2="110.3027"/><rect fill="url(#g1xlvjaenkmgyp1)" height="56.8583" rx="4.1667" ry="4.1667" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="94.7917" x="6.25" y="257.6111"/><text fill="#73A839" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="23.9583" y="282.6782">Object02</text><line style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" x1="7.2917" x2="100" y1="297.8027" y2="297.8027"/><rect fill="url(#g1xlvjaenkmgyp1)" height="56.8583" rx="4.1667" ry="4.1667" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="94.7917" x="137.5" y="70.1111"/><text fill="#73A839" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="155.2083" y="95.1782">Object03</text><line style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" x1="138.5417" x2="231.25" y1="110.3027" y2="110.3027"/><rect fill="url(#g1xlvjaenkmgyp1)" height="56.8583" rx="4.1667" ry="4.1667" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="94.7917" x="137.5" y="257.6111"/><text fill="#73A839" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="155.2083" y="282.6782">Object04</text><line style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" x1="138.5417" x2="231.25" y1="297.8027" y2="297.8027"/><rect fill="url(#g1xlvjaenkmgyp1)" height="56.8583" rx="4.1667" ry="4.1667" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="94.7917" x="268.75" y="70.1111"/><text fill="#73A839" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="286.4583" y="95.1782">Object05</text><line style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" x1="269.7917" x2="362.5" y1="110.3027" y2="110.3027"/><rect fill="url(#g1xlvjaenkmgyp1)" height="56.8583" rx="4.1667" ry="4.1667" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="94.7917" x="268.75" y="257.6111"/><text fill="#73A839" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="286.4583" y="282.6782">Object06</text><line style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" x1="269.7917" x2="362.5" y1="297.8027" y2="297.8027"/><rect fill="url(#g1xlvjaenkmgyp1)" height="56.8583" rx="4.1667" ry="4.1667" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="94.7917" x="423.9583" y="70.1111"/><text fill="#73A839" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="441.6667" y="95.1782">Object07</text><line style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" x1="425" x2="517.7083" y1="110.3027" y2="110.3027"/><rect fill="url(#g1xlvjaenkmgyp1)" height="118.043" rx="4.1667" ry="4.1667" style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" width="141.6667" x="400.5208" y="227.4028"/><text fill="#73A839" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="441.6667" y="252.4699">Object08</text><line style="stroke: #BABDBF; stroke-width: 1.0416666666666667;" x1="401.5625" x2="541.1458" y1="267.5944" y2="267.5944"/><text fill="#343A40" font-family="Verdana" font-size="11.4583" lengthAdjust="spacingAndGlyphs" textLength="108.3333" x="417.1875" y="293.6976">name = "Dummy"</text><text fill="#343A40" font-family="Verdana" font-size="11.4583" lengthAdjust="spacingAndGlyphs" textLength="50" x="417.1875" y="328.4566">id = 123</text><!--MD5=[507381b32e0a49e7abc7210229a8ee60]
+reverse link Object01 to Object02--><path d="M53.6458,148.6809 C53.6458,183.3829 53.6458,228.4224 53.6458,257.3382 " fill="none" id="Object01&lt;-Object02" style="stroke: #2FA4E7; stroke-width: 3.125;"/><polygon fill="none" points="46.3543,148.4763,53.6458,127.6429,60.9376,148.4762,46.3543,148.4763" style="stroke: #2FA4E7; stroke-width: 3.125;"/><!--MD5=[d21c20b16b3ff22abbc2c8af84931b60]
+reverse link Object03 to Object04--><path d="M184.8958,141.4126 C184.8958,176.8664 184.8958,226.357 184.8958,257.3382 " fill="none" id="Object03&lt;-Object04" style="stroke: #2FA4E7; stroke-width: 3.125;"/><polygon fill="#2FA4E7" points="184.8958,127.6429,180.7292,133.8929,184.8958,140.1429,189.0625,133.8929,184.8958,127.6429" style="stroke: #2FA4E7; stroke-width: 3.125;"/><!--MD5=[ade907096602ef8d7fe19339b46bff0e]
+reverse link Object05 to Object06--><path d="M316.1458,141.4126 C316.1458,176.8664 316.1458,226.357 316.1458,257.3382 " fill="none" id="Object05&lt;-Object06" style="stroke: #2FA4E7; stroke-width: 3.125;"/><polygon fill="#FFFFFF" points="316.1458,127.6429,311.9792,133.8929,316.1458,140.1429,320.3125,133.8929,316.1458,127.6429" style="stroke: #2FA4E7; stroke-width: 3.125;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="8.3333" x="294.6159" y="236.1163">4</text><!--MD5=[17488501a7bed181c851ca0c615fb4f2]
+link Object07 to Object08--><path d="M471.3542,127.6429 C471.3542,154.0433 471.3542,193.904 471.3542,227.0605 " fill="none" id="Object07-Object08" style="stroke: #2FA4E7; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="78.125" x="482.8125" y="182.6782">some labels</text><!--MD5=[99a982ac17c7deaec1cfff862350c13d]
 @startuml
 
 
 
-skinparam backgroundColor white
+skinparam backgroundColor transparent
 
 
 
 
 
+
+skinparam ParticipantPadding 30
+skinparam Padding 50
+skinparam BoxPadding 10
 
 skinparam defaultFontName        "Verdana"
 skinparam defaultFontSize        12
 skinparam dpi                    100
 skinparam shadowing              false
 skinparam roundcorner            8
-skinparam ParticipantPadding     10
-skinparam BoxPadding             2
-skinparam Padding                2
+skinparam ParticipantPadding     20
+skinparam BoxPadding             10
+skinparam Padding                10
 skinparam ArrowColor             #868E96
 skinparam title {
 	FontColor	                 #2FA4E7
@@ -54,14 +58,14 @@ skinparam activity {
 skinparam sequence {
 	BorderColor #2FA4E7
 	TitleFontColor #2FA4E7
-	BackgroundColor white
+	BackgroundColor transparent
 	StartColor #2FA4E7
 	EndColor #2FA4E7
     ParticipantBackgroundColor #59B6EC-#2FA4E7
     ParticipantBorderColor #2FA4E7
 	ParticipantBorderThickness 0
 	ParticipantFontColor #FFF
-	ActorBackgroundColor white
+	ActorBackgroundColor transparent
     ActorBorderColor #2FA4E7
 	ActorFontColor #2FA4E7
 	ArrowThickness 3
@@ -80,7 +84,7 @@ skinparam sequence {
     DividerBorderColor #868E96
     DividerBorderThickness 2
     DividerFontColor #343A40
-	ReferenceBackgroundColor white
+	ReferenceBackgroundColor transparent
 	ReferenceBorderColor #868E96
 	ReferenceFontColor #343A40
 	ReferenceHeaderFontColor #033C73
@@ -89,7 +93,7 @@ skinparam sequence {
 skinparam partition {
 	BorderColor #2FA4E7
 	FontColor #2FA4E7
-	BackgroundColor white
+	BackgroundColor transparent
 }
 
 skinparam collections {
@@ -160,7 +164,7 @@ skinparam node {
 
 skinparam cloud {
 	BackgroundColor white-lightskyblue
-	BorderColor white
+	BorderColor transparent
 	FontColor #343A40
 }
 
@@ -289,7 +293,7 @@ Object07 .. Object08 : some labels
 
 @enduml
 
-PlantUML version 1.2019.11(Sun Sep 22 03:02:15 PDT 2019)
+PlantUML version 1.2019.12(Sun Nov 03 02:24:54 PST 2019)
 (GPL source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM
