@@ -16,7 +16,7 @@ for D in themes/*; do
 	C=$D/puml-theme-*.puml
 	if [ -f $C ]; then
 		##puml.sh $E -tsvg -config C 
-		java -Djava.awt.headless=true -jar $PLANT $EX -tpng -config $C -o ${PWD}/$D
+		java -Djava.awt.headless=true -jar $PLANT $EX -tsvg -config $C -o ${PWD}/$D
 		echo "Theme: $D"
 	fi
 done
