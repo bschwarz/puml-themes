@@ -83,7 +83,7 @@ skinparam defaultFontSize        12
 skinparam dpi                    100
 skinparam shadowing              false
 skinparam roundcorner            8
-skinparam ParticipantPadding     15
+skinparam ParticipantPadding     10
 skinparam BoxPadding             10
 skinparam Padding                10
 skinparam ArrowColor             $GRAY
