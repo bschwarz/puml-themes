@@ -22,42 +22,42 @@ published: true
 <table style="background: black; width: 100%">
     <tr>
         <td>
-            <img src="activity-ex.svg">
+            <img src="activity-ex.png">
         </td>
     </tr>
     <tr>
         <td>
-            <img src="class-ex.svg">
+            <img src="class-ex.png">
         </td>
     </tr>
    <tr>
         <td>
-            <img src="component-ex.svg">
+            <img src="component-ex.png">
         </td> 
     </tr>
     <tr>
         <td>
-            <img src="sequence-ex.svg">
+            <img src="sequence-ex.png">
         </td>
     </tr>
    <tr>
         <td>
-            <img src="usecase-ex.svg">
+            <img src="usecase-ex.png">
         </td>
     </tr>
     <tr>
         <td>
-            <!-- <img src="sequence-ex.svg"> -->
+            <!-- <img src="sequence-ex.png"> -->
         </td>
     </tr>
     <tr>
         <td>
-            <img src="state-ex.svg">
+            <img src="state-ex.png">
         </td>
     </tr>
     <tr>
         <td>
-            <img src="object-ex.svg">
+            <img src="object-ex.png">
         </td>
     </tr>
 </table>
