@@ -10,6 +10,6 @@ published: true
   <h2>{{ theme.name }} </h2>
 
   {{ theme.description }}
-    <a href="themes/{{ theme.name }}"><img src="themes/{{ theme.name }}/sequence-ex.svg" width="450"  title="{{ theme.name }}" alt="{{ theme.name }}" style="background-color: {{ theme.background }}"></a>
+    <a href="themes/{{ theme.name }}"><img src="themes/{{ theme.name }}/sequence-ex.png" width="450"  title="{{ theme.name }}" alt="{{ theme.name }}" style="background-color: {{ theme.background }}"></a>
 {% endtablerow %}
   </table>
