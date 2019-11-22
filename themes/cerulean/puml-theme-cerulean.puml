@@ -399,7 +399,17 @@ skinparam stack {
 }
 !endsub
 
-!if (%not(%getenv("PLANTLEGACY") == "true"))
+!$LEGACY = "false"
+
+!if (%variable_exists("PLANTLEGACY"))
+!$LEGACY = "true"
+endif
+
+!if (%getenv("PLANTLEGACY") == "true")
+!$LEGACY = "true"
+endif
+
+!if ($LEGACY == "false")
 skinparam BackgroundColor red
 endif
 
