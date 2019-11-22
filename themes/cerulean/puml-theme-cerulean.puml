@@ -399,20 +399,6 @@ skinparam stack {
 }
 !endsub
 
-!$LEGACY = "false"
-
-!if (%variable_exists("PLANTLEGACY"))
-!$LEGACY = "true"
-endif
-
-!if (%getenv("PLANTLEGACY") == "true")
-!$LEGACY = "true"
-endif
-
-!if ($LEGACY == "false")
-skinparam BackgroundColor red
-endif
-
 '!if (%not(%getenv("PLANTLEGACY") == "true"))
 'skinparam useBetaStyle true
 
