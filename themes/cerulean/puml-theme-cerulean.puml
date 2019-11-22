@@ -399,9 +399,13 @@ skinparam stack {
 }
 !endsub
 
+!if (%not(%getenv("PLANTLEGACY") == "true"))
+skinparam BackgroundColor red
+endif
+
 '!if (%not(%getenv("PLANTLEGACY") == "true"))
 'skinparam useBetaStyle true
-skinparam BackgroundColor red
+
 '!startsub mindmap
 '<style> 
 'style mindmapDiagram {
