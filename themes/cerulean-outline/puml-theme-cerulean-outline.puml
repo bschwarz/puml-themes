@@ -402,7 +402,7 @@ skinparam stack {
 !endif
 
 !if (%variable_exists("$LEGACY"))
-!if ($LEGACY == "false")
+
 skinparam useBetaStyle true
 
 !startsub mindmap
@@ -425,5 +425,4 @@ wbsDiagram {
 }
 </style>
 !endsub
-!endif
 !endif
