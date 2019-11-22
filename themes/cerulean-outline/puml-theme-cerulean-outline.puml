@@ -392,3 +392,36 @@ skinparam stack {
 	FontColor $PRIMARY
 }
 !endsub
+
+!if (%variable_exists("LEGACY"))
+!$LEGACY = "true"
+!endif
+
+!if (%getenv("LEGACY") == "true")
+!$LEGACY = "true"
+!endif
+
+!if ($LEGACY == "false")
+skinparam useBetaStyle true
+
+!startsub mindmap
+<style> 
+style mindmapDiagram {
+  'Padding 8
+  Margin 8
+  LineThickness 2.0
+  FontColor $PRIMARY_TEXT
+  LineColor $SECONDARY
+  BackGroundColor $PRIMARY_LIGHT-$PRIMARY
+}
+wbsDiagram {
+  'Padding 8
+  Margin 8
+  LineThickness 2.0
+  FontColor $PRIMARY_TEXT
+  LineColor $PRIMARY
+  BackGroundColor $PRIMARY_LIGHT-$PRIMARY
+}
+</style>
+!endsub
+!endif
