@@ -1,6 +1,5 @@
 ''
-'' Cerulean theme based off of the bootstrap theme of the same name
-'' https://bootswatch.com/cerulean/
+'' Silver theme - mostly grays
 ''
 '' Author: Brett Schwarz
 '' Copyright (c) 2019 by Brett Schwarz
@@ -16,8 +15,8 @@ skinparam backgroundColor $BGCOLOR
 !$WHITE = "#FFF"
 !$GRAY_DARK = "#4d4d4d"
 !$GRAY = "#737373"
-!$LIGHT = "#e6e6e6"
-!$DARK = "#262626"
+!$LIGHT = "#fcfcfc"
+!$DARK = "#303030"
 
 '' *_LIGHT = tint (lighter) of the main color of 80%
 ''          where TINT is calculated by clr + (255-clr) * tint_factor
@@ -25,13 +24,13 @@ skinparam backgroundColor $BGCOLOR
 ''          and SHADE is calculated by clr * (1 - shade_factor)
 ''
 !$FGCOLOR = $DARK
-!$PRIMARY = "#e3e3e3"
-!$PRIMARY_LIGHT = "#e9e9e9"
-!$PRIMARY_DARK = "#b6b6b6"
+!$PRIMARY = "#eeeeee"
+!$PRIMARY_LIGHT = "#f1f1f1"
+!$PRIMARY_DARK = "#bebebe"
 !$PRIMARY_TEXT = $DARK
-!$SECONDARY = "#9f9f9f"
-!$SECONDARY_LIGHT = "#b2b2b2"
-!$SECONDARY_DARK = "#7f7f7f	"
+!$SECONDARY = "#a7a7a7"
+!$SECONDARY_LIGHT = "#b9b9b9"
+!$SECONDARY_DARK = "#868686	"
 !$SECONDARY_TEXT = $LIGHT
 !$INFO = "#336699"
 !$INFO_LIGHT = "#5c85ad"
@@ -70,8 +69,8 @@ skinparam defaultFontSize        12
 skinparam dpi                    100
 skinparam shadowing              false
 skinparam roundcorner            15
-skinparam ParticipantPadding     40
-skinparam BoxPadding             40
+skinparam ParticipantPadding     30
+skinparam BoxPadding             30
 skinparam Padding                8
 skinparam ArrowColor             $GRAY
 skinparam title {
@@ -93,13 +92,13 @@ skinparam legend {
 !startsub activity
 skinparam activity {
 	FontColor $PRIMARY_TEXT
-	BorderColor $PRIMARY
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	BorderColor $PRIMARY_DARK
+	BackgroundColor $PRIMARY-$PRIMARY_DARK
 	BarColor $SUCCESS
 	StartColor $INFO
 	EndColor $INFO
 	''
-	DiamondBackgroundColor $SECONDARY-$SECONDARY_LIGHT
+	DiamondBackgroundColor $SECONDARY-$SECONDARY_DARK
   	DiamondBorderColor $SECONDARY_DARK
 	DiamondFontColor $SECONDARY_TEXT
 }
@@ -271,10 +270,10 @@ skinparam actor {
 
 !startsub class
 skinparam class {
-	HeaderBackgroundColor $PRIMARY-$PRIMARY_DARK
+	HeaderBackgroundColor $PRIMARY_LIGHT-$PRIMARY_DARK
 	FontColor $PRIMARY_TEXT
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
-	BorderColor $PRIMARY
+	BackgroundColor $PRIMARY-$PRIMARY_DARK
+	BorderColor $PRIMARY_DARK
 	StereotypeFontColor $DARK
 	BorderThickness 1
 	AttributeFontColor $DARK
@@ -306,10 +305,10 @@ skinparam usecase {
 
 !startsub rectangle
 skinparam rectangle {
-	BackgroundColor $SECONDARY-$SECONDARY_DARK
+	BackgroundColor $PRIMARY
 	BorderColor $PRIMARY_DARK
 	BorderThickness 2
-	FontColor $PRIMARY
+	FontColor $PRIMARY_TEXT
 	StereotypeFontColor $PRIMARY
 }
 !endsub
