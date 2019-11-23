@@ -27,7 +27,7 @@ skinparam backgroundColor $BGCOLOR
 !$PRIMARY = "#eeeeee"
 !$PRIMARY_LIGHT = "#f1f1f1"
 !$PRIMARY_DARK = "#bebebe"
-!$PRIMARY_TEXT = $DARK
+!$PRIMARY_TEXT = "#336699"
 !$SECONDARY = "#a7a7a7"
 !$SECONDARY_LIGHT = "#b9b9b9"
 !$SECONDARY_DARK = "#868686	"
