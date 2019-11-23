@@ -7,15 +7,14 @@ published: true
 
 ## Usage
 
-<pre style="font-size: .8rem;">
 'Local File
+<pre style="font-size: .8rem;">
 !include puml-theme-{{ page.title }}.puml
+</pre>
 
-'Remote file
+Remote file (for legacy plantuml, use !includeurl)
+<pre style="font-size: .8rem;">
 !include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/{{ page.title }}/puml-theme-{{ page.title }}.puml
-
-'Remote File for legacy plantuml
-!includeurl https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/{{ page.title }}/puml-theme-{{ page.title }}.puml
 </pre>
 
 ## Gallery
