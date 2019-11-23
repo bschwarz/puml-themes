@@ -7,7 +7,7 @@ published: true
 
 ## Usage
 
-'Local File
+Local File
 <pre style="font-size: .8rem;">
 !include puml-theme-{{ page.title }}.puml
 </pre>
