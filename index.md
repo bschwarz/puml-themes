@@ -6,12 +6,12 @@ published: true
 
 ## Introduction
 
-<code>puml-themes</code> holds some themes for the wonderful [plantuml](https://plantuml.com) diagraming tool. It takes a markdown type text file and converts it into an image of a diagram. This is useful for several reasons:
+<code>puml-themes</code> is a repo for some themes for the great [plantuml](https://plantuml.com) diagraming tool, which takes a markdown type text file and converts it into an image of a diagram. The reason why you might use ``plantuml`` is for several reasons:
 1. Sometimes it's easier to use text markdown then a full fledge GUI diagramming tool.
 1. Having text in a source control repo is more convenient since you can track changes easier.
 1. It's easy to auto generate the diagrams.
 
-The out of the box color scheme for <code>plantuml</code> is not very pleasing to the eyes (at least to me). That and the fact you may want to match your diagrams with the rest of your documentation (as in my case) lead me to put together some themes.
+However, the out of the box color scheme for <code>plantuml</code> is not very pleasing to the eyes (at least to me). That and the fact you may want to match your diagrams with the rest of your documentation (as in my case) lead me to put together some themes.
 
 ## Usage
 
