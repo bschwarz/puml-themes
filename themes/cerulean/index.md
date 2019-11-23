@@ -8,9 +8,9 @@ published: true
 ## Usage
 
 Local File
-```
+<pre style="font-size: .8rem;">
 !include puml-theme-{{ page.title }}.puml
-```
+</pre>
 
 Remote file
 ```
@@ -21,9 +21,8 @@ Remote File for legacy plantuml
 ```
 !includeurl https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/{{ page.title }}/puml-theme-{{ page.title }}.puml
 ```
-<pre style="font-size: .8rem;">
 
-</pre>
+
 
 
 ## Gallery
