@@ -97,7 +97,6 @@ skinparam activity {
 	BarColor $SUCCESS
 	StartColor $INFO
 	EndColor $INFO
-	BorderThickness 2
 	''
 	DiamondBackgroundColor $SECONDARY-$SECONDARY_DARK
   	DiamondBorderColor $SECONDARY_DARK
