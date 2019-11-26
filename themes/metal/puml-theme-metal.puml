@@ -15,7 +15,7 @@ skinparam backgroundColor $BGCOLOR
 !$WHITE = "#fdfdfd"
 !$GRAY_DARK = "#4d4d4d"
 !$GRAY = "#737373"
-!$LIGHT = "#fcfcfc"
+!$LIGHT = "#f2f2f2"
 !$DARK = "#4d4d4d"
 
 !$SILVER = "#c0c0c0"
@@ -98,9 +98,9 @@ skinparam title {
 
 
 skinparam legend {
-	BackgroundColor $SECONDARY
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
 	BorderColor $SECONDARY_DARK
-	FontColor $SECONDARY_TEXT
+	FontColor $PRIMARY_TEXT
 }
 
 !startsub activity
@@ -319,8 +319,8 @@ skinparam usecase {
 
 !startsub rectangle
 skinparam rectangle {
-	BackgroundColor $PRIMARY-$PRIMARY_DARK
-	BorderColor $PRIMARY_DARK
+	BackgroundColor $WHITE-$LIGHT
+	BorderColor $LIGHT
 	BorderThickness 2
 	FontColor $PRIMARY_TEXT
 	StereotypeFontColor $PRIMARY
@@ -338,7 +338,7 @@ skinparam package {
 
 !startsub folder
 skinparam folder {
-	BackgroundColor $PRIMARY-$PRIMARY_DARK
+	BackgroundColor $WHITE-$LIGHT
   	BorderColor $WARNING
 	FontColor $WARNING
 	BorderThickness 2
