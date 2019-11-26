@@ -12,11 +12,11 @@
 
 skinparam backgroundColor $BGCOLOR
 
-!$WHITE = "#FFF"
+!$WHITE = "#fdfdfd"
 !$GRAY_DARK = "#4d4d4d"
 !$GRAY = "#737373"
 !$LIGHT = "#fcfcfc"
-!$DARK = "#303030"
+!$DARK = "#4d4d4d"
 
 !$SILVER = "#c0c0c0"
 !$COPPER = "#B87333c"
@@ -146,7 +146,7 @@ skinparam sequence {
 	''
 	LifeLineBorderColor $SECONDARY_DARK
 	LifeLineBorderThickness 3
-	LifeLineBackgroundColor $SECONDARY_LIGHT
+	LifeLineBackgroundColor $SECONDARY_LIGHT-$SECONDARY_DARK
 	''
 	GroupBorderColor $GRAY
 	GroupFontColor $DARK
@@ -290,14 +290,14 @@ skinparam class {
 	BorderColor $PRIMARY_DARK
 	StereotypeFontColor $DARK
 	BorderThickness 1
-	AttributeFontColor $DARK
+	AttributeFontColor $WHITE
 	AttributeFontSize 11
 }
 !endsub
 
 !startsub object
 skinparam object {
-	FontColor $STEELBLUE
+	FontColor $DARK
 	BackgroundColor $SECONDARY_LIGHT-$SECONDARY_DARK
 	BorderColor $SECONDARY_DARK
 	StereotypeFontColor $LIGHT
