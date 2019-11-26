@@ -52,7 +52,7 @@
             "name": "metal",
             "description":"Metal color theme (steel, platinum, bronze, etc)",
             "url": "https://bschwarz.github.io/puml-themes/themes/metal/",
-            "background": "black"
+            "background": "white"
         }
     ]
 }
