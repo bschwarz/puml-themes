@@ -1,0 +1,400 @@
+''
+'' Silver theme - mostly grays
+''
+'' Author: Brett Schwarz
+'' Copyright (c) 2019 by Brett Schwarz
+
+!$THEME = "metal"
+
+!if %not(%variable_exists("$BGCOLOR"))
+!$BGCOLOR = "transparent"
+!endif
+
+skinparam backgroundColor $BGCOLOR
+
+!$WHITE = "#FFF"
+!$GRAY_DARK = "#4d4d4d"
+!$GRAY = "#737373"
+!$LIGHT = "#fcfcfc"
+!$DARK = "#303030"
+
+!$SILVER = "#c0c0c0"
+!$COPPER = "#B87333c"
+!$STEELBLUE = "#4682b4"
+!$LIGHTSTEELBLUE = "#B0C4DE" 
+!$ALUMINUM = "#c9ced0"
+!$BRONZE = "#CD7F32" 
+!$BRONZE_DARK = "#a46628" 
+!$BRONZE_LIGHT = "#d7995b" 
+!$GOLD = "#FFD700"
+!$PLATINUM = "#E5E4E2"
+!$RUST = "#B7410E"
+
+
+
+'' *_LIGHT = tint (lighter) of the main color of 80%
+''          where TINT is calculated by clr + (255-clr) * tint_factor
+'' *_DARK = shade (darker) of the main color of 80%
+''          and SHADE is calculated by clr * (1 - shade_factor)
+''
+!$FGCOLOR = $DARK
+!$PRIMARY = $PLATINUM
+!$PRIMARY_LIGHT = "#eae9e8"
+!$PRIMARY_DARK = "#b7b6b5"
+!$PRIMARY_TEXT = $STEELBLUE
+!$SECONDARY = $SILVER
+!$SECONDARY_LIGHT = "#cdcdcd"
+!$SECONDARY_DARK = "#9a9a9a"
+!$SECONDARY_TEXT = $WHITE
+!$INFO = $STEELBLUE
+!$INFO_LIGHT = "#5c85ad"
+!$INFO_DARK = "#29527a"
+!$INFO_TEXT = $WHITE
+!$SUCCESS = "#339933"
+!$SUCCESS_LIGHT = "#5cad5c"
+!$SUCCESS_DARK = "#297a29"
+!$SUCCESS_TEXT = $WHITE
+!$WARNING = $GOLD
+!$WARNING_LIGHT = "#ffdf33"
+!$WARNING_DARK = "#ccac00"
+!$WARNING_TEXT = $WHITE
+!$DANGER = $RUST
+!$DANGER_LIGHT = "#c5673e"
+!$DANGER_DARK = "#92340b"
+!$DANGER_TEXT = $WHITE
+
+!function $success($msg)
+  <font color=$SUCCESS><b>$msg
+!endfunction
+
+!function $failure($msg)
+  <font color=$DANGER><b>$msg
+!endfunction
+
+!function $warning($msg)
+  <font color=$WARNING><b>$msg
+!endfunction
+
+''
+'' Global Default Values
+''
+skinparam defaultFontName        "Verdana"
+skinparam defaultFontSize        12
+skinparam dpi                    100
+skinparam shadowing              false
+skinparam roundcorner            15
+skinparam ParticipantPadding     30
+skinparam BoxPadding             30
+skinparam Padding                8
+skinparam ArrowColor             $GRAY
+skinparam title {
+	FontColor	                 $WHITE
+	BorderColor	                 $SECONDARY_DARK
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              $SECONDARY_LIGHT-$SECONDARY_DARK
+}
+
+
+skinparam legend {
+	BackgroundColor $SECONDARY
+	BorderColor $SECONDARY_DARK
+	FontColor $SECONDARY_TEXT
+}
+
+!startsub activity
+skinparam activity {
+	FontColor $PRIMARY_TEXT
+	BorderColor $PRIMARY_DARK
+	BackgroundColor $PRIMARY-$PRIMARY_DARK
+	BarColor $BRONZE
+	StartColor $INFO
+	EndColor $INFO
+	''
+	DiamondBackgroundColor $SECONDARY-$SECONDARY_DARK
+  	DiamondBorderColor $SECONDARY_DARK
+	DiamondFontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub sequence
+skinparam sequence {
+	BorderColor $PRIMARY
+	' For some reason sequence title font color does not pick up from global
+	TitleFontColor $WHITE
+	BackgroundColor $BGCOLOR
+	StartColor $PRIMARY
+	EndColor $PRIMARY
+	''
+    ParticipantBackgroundColor $PRIMARY_LIGHT-$PRIMARY_DARK
+    ParticipantBorderColor $PRIMARY
+	ParticipantBorderThickness 0
+	ParticipantFontColor $PRIMARY_TEXT
+	''
+	ActorBackgroundColor $BGCOLOR
+    ActorBorderColor $PRIMARY
+	ActorFontColor $PRIMARY
+	''
+	ArrowThickness 3
+	ArrowColor $PRIMARY
+	ArrowFontColor $FGCOLOR
+	''
+	BoxBackgroundColor $LIGHT
+	BoxBorderColor $GRAY
+	BoxFontColor $DARK
+	''
+	LifeLineBorderColor $SECONDARY_DARK
+	LifeLineBorderThickness 3
+	LifeLineBackgroundColor $SECONDARY_LIGHT
+	''
+	GroupBorderColor $GRAY
+	GroupFontColor $DARK
+	GroupHeaderFontColor $INFO
+	''
+	DividerBackgroundColor $WHITE-$LIGHT
+    DividerBorderColor $GRAY
+    DividerBorderThickness 2
+    DividerFontColor $DARK
+	''
+	ReferenceBackgroundColor $BGCOLOR
+	ReferenceBorderColor $GRAY
+	ReferenceFontColor $DARK
+	ReferenceHeaderFontColor $INFO
+}
+!endsub
+
+!startsub partition
+skinparam partition {
+	BorderColor $PRIMARY
+	FontColor $PRIMARY_DARK
+	BackgroundColor $BGCOLOR
+}
+!endsub
+
+!startsub collections
+skinparam collections {
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY_DARK
+	BorderColor $PRIMARY_DARK
+}
+!endsub
+
+!startsub control
+skinparam control {
+	BackgroundColor  $PRIMARY_LIGHT-$PRIMARY_DARK
+	BorderColor $PRIMARY_DARK
+	FontColor $DARK
+}
+!endsub
+
+!startsub entity
+skinparam entity {
+	BackgroundColor  $PRIMARY_LIGHT-$PRIMARY_DARK
+	BorderColor $PRIMARY_DARK
+	FontColor $DARK
+}
+!endsub
+
+!startsub boundary
+skinparam boundary {
+	BackgroundColor  $PRIMARY_LIGHT-$PRIMARY_DARK
+	BorderColor $PRIMARY_DARK
+	FontColor $DARK
+}
+!endsub
+
+!startsub agent
+skinparam agent {
+	BackgroundColor #orange
+	BorderColor #999999
+	FontColor #333333
+}
+!endsub
+
+!startsub note
+skinparam note {
+	BorderThickness 1
+	BackgroundColor $INFO_LIGHT-$INFO_DARK
+	BorderColor $INFO_DARK
+	FontColor $WHITE
+}
+!endsub
+
+!startsub artifact
+skinparam artifact {
+	BackgroundColor $WHITE-$LIGHT
+	BorderColor $GRAY
+	FontColor $GRAY
+}
+!endsub
+
+!startsub component
+skinparam component {
+	BackgroundColor  $BRONZE_LIGHT-$BRONZE_DARK
+	BorderColor  $BRONZE_DARK
+	FontColor $SUCCESS_TEXT
+}
+!endsub
+
+!startsub interface
+skinparam interface {
+	BackgroundColor  $DANGER_LIGHT
+	BorderColor  $DANGER
+	FontColor $DARK
+}
+!endsub
+
+!startsub storage
+skinparam storage {
+	BackgroundColor $WARNING_LIGHT-$WARNING_DARK
+  	BorderColor $WARNING_DARK
+	FontColor $WARNING_TEXT
+}
+!endsub
+
+!startsub node
+skinparam node {
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY_DARK
+	BorderColor $PRIMARY_DARK
+	FontColor $PRIMARY_TEXT
+}
+!endsub
+
+!startsub cloud
+skinparam cloud {
+	BackgroundColor white-lightskyblue
+	BorderColor $BGCOLOR
+	FontColor $DARK
+}
+!endsub
+
+!startsub database
+skinparam database {
+	BackgroundColor  $PRIMARY_LIGHT-$PRIMARY_DARK
+	BorderColor $PRIMARY_DARK
+	FontColor $DARK
+}
+!endsub
+
+!startsub actor
+skinparam actor {
+	FontColor $DARK
+}
+!endsub
+
+!startsub class
+skinparam class {
+	HeaderBackgroundColor $PRIMARY_LIGHT-$PRIMARY_DARK
+	FontColor $PRIMARY_TEXT
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY_DARK
+	BorderColor $PRIMARY_DARK
+	StereotypeFontColor $DARK
+	BorderThickness 1
+	AttributeFontColor $DARK
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub object
+skinparam object {
+	FontColor $STEELBLUE
+	BackgroundColor $SECONDARY_LIGHT-$SECONDARY_DARK
+	BorderColor $SECONDARY_DARK
+	StereotypeFontColor $LIGHT
+	BorderThickness 1
+	AttributeFontColor $WHITE
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub usecase
+skinparam usecase {
+	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
+	BorderColor $SECONDARY
+	BorderThickness 2
+	FontColor $SECONDARY_TEXT
+	StereotypeFontColor $PRIMARY
+}
+!endsub
+
+!startsub rectangle
+skinparam rectangle {
+	BackgroundColor $PRIMARY-$PRIMARY_DARK
+	BorderColor $PRIMARY_DARK
+	BorderThickness 2
+	FontColor $PRIMARY_TEXT
+	StereotypeFontColor $PRIMARY
+}
+!endsub
+
+!startsub package
+skinparam package {
+	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
+  	BorderColor $PRIMARY
+	FontColor $PRIMARY
+	BorderThickness 2
+}
+!endsub
+
+!startsub folder
+skinparam folder {
+	BackgroundColor $PRIMARY-$PRIMARY_DARK
+  	BorderColor $WARNING
+	FontColor $WARNING
+	BorderThickness 2
+}
+!endsub
+
+!startsub frame
+skinparam frame {
+	BackgroundColor $PRIMARY-$PRIMARY_DARK
+  	BorderColor $INFO
+	FontColor $INFO
+	BorderThickness 2
+}
+!endsub
+
+!startsub state
+skinparam state {
+	StartColor $INFO
+	EndColor $INFO
+	BackgroundColor $SECONDARY_LIGHT-$SECONDARY_DARK
+	BorderColor $SECONDARY_DARK
+	FontColor $INFO
+	AttributeFontColor $SECONDARY
+    AttributeFontSize 11
+}
+!endsub
+
+!startsub queue
+skinparam queue {
+	BackgroundColor $WARNING-$WARNING_DARK
+  	BorderColor $WARNING_DARK
+	FontColor $WARNING_TEXT
+}
+!endsub
+
+!startsub card
+skinparam card {
+	BackgroundColor $INFO_LIGHT-$INFO_DARK
+	BorderColor $INFO
+	FontColor $INFO_TEXT
+}
+!endsub
+
+!startsub file
+skinparam file {
+	BackgroundColor $SECONDARY_LIGHT-$SECONDARY_DARK
+	BorderColor $GRAY
+	FontColor $LIGHT
+
+}
+!endsub
+
+!startsub stack
+skinparam stack {
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY_DARK
+	BorderColor $PRIMARY_DARK
+	FontColor $PRIMARY_TEXT
+}
+!endsub

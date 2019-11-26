@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="331.25px" preserveAspectRatio="none" style="width:556px;height:331px;" version="1.1" viewBox="0 0 556 331" width="556.25px" zoomAndPan="magnify"><defs><linearGradient id="g7ef4zlaqwp9l0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#CDCDCD"/><stop offset="100%" stop-color="#9A9A9A"/></linearGradient></defs><g><rect fill="url(#g7ef4zlaqwp9l0)" height="52.4028" rx="4.1667" ry="4.1667" style="stroke: #9A9A9A; stroke-width: 1.0416666666666667;" width="354.1667" x="108.8542" y="2.0833"/><text fill="#FFFFFF" font-family="Verdana" font-size="20.8333" lengthAdjust="spacingAndGlyphs" textLength="320.8333" x="125.5208" y="36.5702">Object Diagram - metal theme</text><rect fill="url(#g7ef4zlaqwp9l0)" height="52.6917" rx="7.8125" ry="7.8125" style="stroke: #9A9A9A; stroke-width: 1.0416666666666667;" width="90.625" x="6.25" y="65.9444"/><text fill="#4682B4" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="21.875" y="88.9282">Object01</text><line style="stroke: #9A9A9A; stroke-width: 1.0416666666666667;" x1="7.2917" x2="95.8333" y1="101.9694" y2="101.9694"/><rect fill="url(#g7ef4zlaqwp9l0)" height="52.6917" rx="7.8125" ry="7.8125" style="stroke: #9A9A9A; stroke-width: 1.0416666666666667;" width="90.625" x="6.25" y="240.9444"/><text fill="#4682B4" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="21.875" y="263.9282">Object02</text><line style="stroke: #9A9A9A; stroke-width: 1.0416666666666667;" x1="7.2917" x2="95.8333" y1="276.9694" y2="276.9694"/><rect fill="url(#g7ef4zlaqwp9l0)" height="52.6917" rx="7.8125" ry="7.8125" style="stroke: #9A9A9A; stroke-width: 1.0416666666666667;" width="90.625" x="133.3333" y="65.9444"/><text fill="#4682B4" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="148.9583" y="88.9282">Object03</text><line style="stroke: #9A9A9A; stroke-width: 1.0416666666666667;" x1="134.375" x2="222.9167" y1="101.9694" y2="101.9694"/><rect fill="url(#g7ef4zlaqwp9l0)" height="52.6917" rx="7.8125" ry="7.8125" style="stroke: #9A9A9A; stroke-width: 1.0416666666666667;" width="90.625" x="133.3333" y="240.9444"/><text fill="#4682B4" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="148.9583" y="263.9282">Object04</text><line style="stroke: #9A9A9A; stroke-width: 1.0416666666666667;" x1="134.375" x2="222.9167" y1="276.9694" y2="276.9694"/><rect fill="url(#g7ef4zlaqwp9l0)" height="52.6917" rx="7.8125" ry="7.8125" style="stroke: #9A9A9A; stroke-width: 1.0416666666666667;" width="90.625" x="260.4167" y="65.9444"/><text fill="#4682B4" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="276.0417" y="88.9282">Object05</text><line style="stroke: #9A9A9A; stroke-width: 1.0416666666666667;" x1="261.4583" x2="350" y1="101.9694" y2="101.9694"/><rect fill="url(#g7ef4zlaqwp9l0)" height="52.6917" rx="7.8125" ry="7.8125" style="stroke: #9A9A9A; stroke-width: 1.0416666666666667;" width="90.625" x="260.4167" y="240.9444"/><text fill="#4682B4" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="276.0417" y="263.9282">Object06</text><line style="stroke: #9A9A9A; stroke-width: 1.0416666666666667;" x1="261.4583" x2="350" y1="276.9694" y2="276.9694"/><rect fill="url(#g7ef4zlaqwp9l0)" height="52.6917" rx="7.8125" ry="7.8125" style="stroke: #9A9A9A; stroke-width: 1.0416666666666667;" width="90.625" x="411.4583" y="65.9444"/><text fill="#4682B4" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="427.0833" y="88.9282">Object07</text><line style="stroke: #9A9A9A; stroke-width: 1.0416666666666667;" x1="412.5" x2="501.0417" y1="101.9694" y2="101.9694"/><rect fill="url(#g7ef4zlaqwp9l0)" height="105.543" rx="7.8125" ry="7.8125" style="stroke: #9A9A9A; stroke-width: 1.0416666666666667;" width="137.5" x="388.0208" y="214.9028"/><text fill="#4682B4" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="427.0833" y="237.8866">Object08</text><line style="stroke: #9A9A9A; stroke-width: 1.0416666666666667;" x1="389.0625" x2="524.4792" y1="250.9277" y2="250.9277"/><text fill="#FFFFFF" font-family="Verdana" font-size="11.4583" lengthAdjust="spacingAndGlyphs" textLength="108.3333" x="402.6042" y="274.9476">name = "Dummy"</text><text fill="#FFFFFF" font-family="Verdana" font-size="11.4583" lengthAdjust="spacingAndGlyphs" textLength="50" x="402.6042" y="305.54">id = 123</text><!--MD5=[507381b32e0a49e7abc7210229a8ee60]
+reverse link Object01 to Object02--><path d="M51.5625,140.435 C51.5625,172.6798 51.5625,214.2892 51.5625,240.6837 " fill="none" id="Object01&lt;-Object02" style="stroke: #E5E4E2; stroke-width: 3.125;"/><polygon fill="none" points="44.2709,140.2694,51.5625,119.4361,58.8543,140.2694,44.2709,140.2694" style="stroke: #E5E4E2; stroke-width: 3.125;"/><!--MD5=[d21c20b16b3ff22abbc2c8af84931b60]
+reverse link Object03 to Object04--><path d="M178.6458,133.1371 C178.6458,166.1569 178.6458,212.2496 178.6458,240.6837 " fill="none" id="Object03&lt;-Object04" style="stroke: #E5E4E2; stroke-width: 3.125;"/><polygon fill="#E5E4E2" points="178.6458,119.4361,174.4792,125.6861,178.6458,131.9361,182.8125,125.6861,178.6458,119.4361" style="stroke: #E5E4E2; stroke-width: 3.125;"/><!--MD5=[ade907096602ef8d7fe19339b46bff0e]
+reverse link Object05 to Object06--><path d="M305.7292,133.1371 C305.7292,166.1569 305.7292,212.2496 305.7292,240.6837 " fill="none" id="Object05&lt;-Object06" style="stroke: #E5E4E2; stroke-width: 3.125;"/><polygon fill="#FFFFFF" points="305.7292,119.4361,301.5625,125.6861,305.7292,131.9361,309.8958,125.6861,305.7292,119.4361" style="stroke: #E5E4E2; stroke-width: 3.125;"/><text fill="#303030" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="8.3333" x="286.4844" y="221.687">4</text><!--MD5=[17488501a7bed181c851ca0c615fb4f2]
+link Object07 to Object08--><path d="M456.7708,119.4361 C456.7708,144.4975 456.7708,183.2028 456.7708,214.6121 " fill="none" id="Object07-Object08" style="stroke: #E5E4E2; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><text fill="#303030" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="78.125" x="466.1458" y="172.2616">some labels</text><!--MD5=[b9649e6100f3e3f43b882524b031b8c1]
+@startuml
+
+
+
+skinparam backgroundColor transparent
+
+
+
+
+
+
+
+
+
+skinparam defaultFontName        "Verdana"
+skinparam defaultFontSize        12
+skinparam dpi                    100
+skinparam shadowing              false
+skinparam roundcorner            15
+skinparam ParticipantPadding     30
+skinparam BoxPadding             30
+skinparam Padding                8
+skinparam ArrowColor             #737373
+skinparam title {
+	FontColor	                 #FFF
+	BorderColor	                 #9a9a9a
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #cdcdcd-#9a9a9a
+}
+
+
+skinparam legend {
+	BackgroundColor #c0c0c0
+	BorderColor #9a9a9a
+	FontColor #FFF
+}
+
+skinparam activity {
+	FontColor #4682b4
+	BorderColor #b7b6b5
+	BackgroundColor #E5E4E2-#b7b6b5
+	BarColor #CD7F32
+	StartColor #4682b4
+	EndColor #4682b4
+	DiamondBackgroundColor #c0c0c0-#9a9a9a
+  	DiamondBorderColor #9a9a9a
+	DiamondFontColor #FFF
+}
+
+skinparam sequence {
+	BorderColor #E5E4E2
+	TitleFontColor #FFF
+	BackgroundColor transparent
+	StartColor #E5E4E2
+	EndColor #E5E4E2
+    ParticipantBackgroundColor #eae9e8-#b7b6b5
+    ParticipantBorderColor #E5E4E2
+	ParticipantBorderThickness 0
+	ParticipantFontColor #4682b4
+	ActorBackgroundColor transparent
+    ActorBorderColor #E5E4E2
+	ActorFontColor #E5E4E2
+	ArrowThickness 3
+	ArrowColor #E5E4E2
+	ArrowFontColor #303030
+	BoxBackgroundColor #fcfcfc
+	BoxBorderColor #737373
+	BoxFontColor #303030
+	LifeLineBorderColor #9a9a9a
+	LifeLineBorderThickness 3
+	LifeLineBackgroundColor #cdcdcd
+	GroupBorderColor #737373
+	GroupFontColor #303030
+	GroupHeaderFontColor #4682b4
+	DividerBackgroundColor #FFF-#fcfcfc
+    DividerBorderColor #737373
+    DividerBorderThickness 2
+    DividerFontColor #303030
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #737373
+	ReferenceFontColor #303030
+	ReferenceHeaderFontColor #4682b4
+}
+
+skinparam partition {
+	BorderColor #E5E4E2
+	FontColor #b7b6b5
+	BackgroundColor transparent
+}
+
+skinparam collections {
+	BackgroundColor #eae9e8-#b7b6b5
+	BorderColor #b7b6b5
+}
+
+skinparam control {
+	BackgroundColor  #eae9e8-#b7b6b5
+	BorderColor #b7b6b5
+	FontColor #303030
+}
+
+skinparam entity {
+	BackgroundColor  #eae9e8-#b7b6b5
+	BorderColor #b7b6b5
+	FontColor #303030
+}
+
+skinparam boundary {
+	BackgroundColor  #eae9e8-#b7b6b5
+	BorderColor #b7b6b5
+	FontColor #303030
+}
+
+skinparam agent {
+	BackgroundColor #orange
+	BorderColor #999999
+	FontColor #333333
+}
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #5c85ad-#29527a
+	BorderColor #29527a
+	FontColor #FFF
+}
+
+skinparam artifact {
+	BackgroundColor #FFF-#fcfcfc
+	BorderColor #737373
+	FontColor #737373
+}
+
+skinparam component {
+	BackgroundColor  #d7995b-#a46628
+	BorderColor  #a46628
+	FontColor #FFF
+}
+
+skinparam interface {
+	BackgroundColor  #c5673e
+	BorderColor  #B7410E
+	FontColor #303030
+}
+
+skinparam storage {
+	BackgroundColor #ffdf33-#ccac00
+  	BorderColor #ccac00
+	FontColor #FFF
+}
+
+skinparam node {
+	BackgroundColor #eae9e8-#b7b6b5
+	BorderColor #b7b6b5
+	FontColor #4682b4
+}
+
+skinparam cloud {
+	BackgroundColor white-lightskyblue
+	BorderColor transparent
+	FontColor #303030
+}
+
+skinparam database {
+	BackgroundColor  #eae9e8-#b7b6b5
+	BorderColor #b7b6b5
+	FontColor #303030
+}
+
+skinparam actor {
+	FontColor #303030
+}
+
+skinparam class {
+	HeaderBackgroundColor #eae9e8-#b7b6b5
+	FontColor #4682b4
+	BackgroundColor #eae9e8-#b7b6b5
+	BorderColor #b7b6b5
+	StereotypeFontColor #303030
+	BorderThickness 1
+	AttributeFontColor #303030
+	AttributeFontSize 11
+}
+
+skinparam object {
+	FontColor #4682b4
+	BackgroundColor #cdcdcd-#9a9a9a
+	BorderColor #9a9a9a
+	StereotypeFontColor #fcfcfc
+	BorderThickness 1
+	AttributeFontColor #FFF
+	AttributeFontSize 11
+}
+
+skinparam usecase {
+	BackgroundColor #cdcdcd-#c0c0c0
+	BorderColor #c0c0c0
+	BorderThickness 2
+	FontColor #FFF
+	StereotypeFontColor #E5E4E2
+}
+
+skinparam rectangle {
+	BackgroundColor #E5E4E2-#b7b6b5
+	BorderColor #b7b6b5
+	BorderThickness 2
+	FontColor #4682b4
+	StereotypeFontColor #E5E4E2
+}
+
+skinparam package {
+	BackgroundColor #cdcdcd-#c0c0c0
+  	BorderColor #E5E4E2
+	FontColor #E5E4E2
+	BorderThickness 2
+}
+
+skinparam folder {
+	BackgroundColor #E5E4E2-#b7b6b5
+  	BorderColor #FFD700
+	FontColor #FFD700
+	BorderThickness 2
+}
+
+skinparam frame {
+	BackgroundColor #E5E4E2-#b7b6b5
+  	BorderColor #4682b4
+	FontColor #4682b4
+	BorderThickness 2
+}
+
+skinparam state {
+	StartColor #4682b4
+	EndColor #4682b4
+	BackgroundColor #cdcdcd-#9a9a9a
+	BorderColor #9a9a9a
+	FontColor #4682b4
+	AttributeFontColor #c0c0c0
+    AttributeFontSize 11
+}
+
+skinparam queue {
+	BackgroundColor #FFD700-#ccac00
+  	BorderColor #ccac00
+	FontColor #FFF
+}
+
+skinparam card {
+	BackgroundColor #5c85ad-#29527a
+	BorderColor #4682b4
+	FontColor #FFF
+}
+
+skinparam file {
+	BackgroundColor #cdcdcd-#9a9a9a
+	BorderColor #737373
+	FontColor #fcfcfc
+
+}
+
+skinparam stack {
+	BackgroundColor #eae9e8-#b7b6b5
+	BorderColor #b7b6b5
+	FontColor #4682b4
+}
+
+title Object Diagram - metal theme
+
+
+object Object01
+object Object02
+object Object03
+object Object04
+object Object05
+object Object06
+object Object07
+object Object08
+Object08 : name = "Dummy"
+Object08 : id = 123
+
+Object01 <|- - Object02
+Object03 *- - Object04
+Object05 o- - "4" Object06
+Object07 .. Object08 : some labels
+
+@enduml
+
+PlantUML version 1.2019.12(Sun Nov 03 02:24:54 PST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_212-b32
+Operating System: Windows 10
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>
