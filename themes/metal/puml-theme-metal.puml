@@ -133,7 +133,7 @@ skinparam sequence {
 	ParticipantFontColor $PRIMARY_TEXT
 	''
 	ActorBackgroundColor $BGCOLOR
-    ActorBorderColor $PRIMARY
+    ActorBorderColor $PRIMARY_DARK
 	ActorFontColor $PRIMARY
 	''
 	ArrowThickness 3
