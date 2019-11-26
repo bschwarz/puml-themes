@@ -47,6 +47,12 @@
             "description":"Dark theme meant for dark backgrounds based off of the <a href='https://bootswatch.com/superhero'>Superhero theme</a> at bootswatch, but with only outline colors no fill (transparent)",
             "url": "https://bschwarz.github.io/puml-themes/themes/superhero-outline/",
             "background": "black"
+        },
+        {
+            "name": "metal",
+            "description":"Metal color theme (steel, platinum, bronze, etc)",
+            "url": "https://bschwarz.github.io/puml-themes/themes/metal/",
+            "background": "black"
         }
     ]
 }
