@@ -22,7 +22,11 @@ skinparam backgroundColor $BGCOLOR
 !$COPPER = "#B87333c"
 !$STEELBLUE = "#4682b4"
 !$LIGHTSTEELBLUE = "#B0C4DE" 
+!$LIGHTSTEELBLUE_DARK = "#8d9db2" 
+!$LIGHTSTEELBLUE_LIGHT = "#c0d0e5" 
 !$ALUMINUM = "#c9ced0"
+!$ALUMINUM_DARK = "#a1a5a6"
+!$ALUMINUM_LIGHT = "#d4d8d9"
 !$BRONZE = "#CD7F32" 
 !$BRONZE_DARK = "#a46628" 
 !$BRONZE_LIGHT = "#d7995b" 
@@ -214,8 +218,8 @@ skinparam agent {
 !startsub note
 skinparam note {
 	BorderThickness 1
-	BackgroundColor $INFO_LIGHT-$INFO_DARK
-	BorderColor $INFO_DARK
+	BackgroundColor $LIGHTSTEELBLUE_LIGHT-$LIGHTSTEELBLUE_DARK
+	BorderColor $LIGHTSTEELBLUE_DARK
 	FontColor $WHITE
 }
 !endsub
@@ -298,8 +302,8 @@ skinparam class {
 !startsub object
 skinparam object {
 	FontColor $DARK
-	BackgroundColor $SECONDARY_LIGHT-$SECONDARY_DARK
-	BorderColor $SECONDARY_DARK
+	BackgroundColor $ALUMINUM_LIGHT-$ALUMINUM_DARK
+	BorderColor $ALUMINUM_DARK
 	StereotypeFontColor $LIGHT
 	BorderThickness 1
 	AttributeFontColor $WHITE
@@ -358,8 +362,8 @@ skinparam frame {
 skinparam state {
 	StartColor $INFO
 	EndColor $INFO
-	BackgroundColor $SECONDARY_LIGHT-$SECONDARY_DARK
-	BorderColor $SECONDARY_DARK
+	BackgroundColor $LIGHTSTEELBLUE_LIGHT-$LIGHTSTEELBLUE_DARK
+	BorderColor $LIGHTSTEELBLUE_DARK
 	FontColor $INFO
 	AttributeFontColor $SECONDARY
     AttributeFontSize 11
