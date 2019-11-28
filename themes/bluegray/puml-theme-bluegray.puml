@@ -1,0 +1,384 @@
+''
+'' A blue gray theme
+''
+'' Author: Brett Schwarz
+'' Copyright (c) 2019 by Brett Schwarz
+
+!$THEME = "bluegray"
+
+!if %not(%variable_exists("$BGCOLOR"))
+!$BGCOLOR = "transparent"
+!endif
+
+skinparam backgroundColor $BGCOLOR
+
+
+!$WHITE = "#fff"
+!$GRAY_DARK = "#5a5a5a"
+!$GRAY = "#959595"
+!$PRIMARY = "#009fdb"
+!$SECONDARY = "#f2f2f2"
+!$SUCCESS = "#b5bd00"
+!$INFO = "#0568ae"
+!$WARNING = "#ea7400"
+!$DANGER = "#cf2a2a"
+!$LIGHT = "#d2d2d2"
+!$DARK = "#5a5a5a"
+
+!$FGCOLOR = $DARK
+!$PRIMARY_LIGHT = "#33b2e2"
+!$PRIMARY_DARK = "#007faf"
+!$PRIMARY_TEXT = $WHITE
+!$SECONDARY_LIGHT = "#f5f5f5"
+!$SECONDARY_DARK = "#c2c2c2"
+!$SECONDARY_TEXT = $DARK
+!$INFO_LIGHT = "#3786be"
+!$INFO_DARK = "#04538b"
+!$INFO_TEXT = $WHITE
+!$SUCCESS_LIGHT = "#c4ca33"
+!$SUCCESS_DARK = "#919700"
+!$SUCCESS_TEXT = $WHITE
+!$WARNING_LIGHT = "#ee9033"
+!$WARNING_DARK = "#bb5d00"
+!$WARNING_TEXT = $WHITE
+!$DANGER_LIGHT = "#d95555"
+!$DANGER_DARK = "#a62222"
+!$DANGER_TEXT = $WHITE
+
+!function $success($msg)
+  <font color=$SUCCESS><b>$msg
+!endfunction
+
+!function $failure($msg)
+  <font color=$DANGER><b>$msg
+!endfunction
+
+!function $warning($msg)
+  <font color=$WARNING><b>$msg
+!endfunction
+
+''
+'' Global Default Values
+''
+skinparam defaultFontName        "Verdana"
+skinparam defaultFontSize        12
+skinparam dpi                    100
+skinparam shadowing              false
+skinparam roundcorner            8
+skinparam ParticipantPadding     30
+skinparam BoxPadding             40
+skinparam Padding                5
+skinparam ArrowColor             $GRAY
+skinparam title {
+	FontColor	                 $PRIMARY
+	BorderColor	                 $SECONDARY_DARK
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              $SECONDARY_LIGHT-$SECONDARY
+}
+
+
+skinparam legend {
+	BackgroundColor $SECONDARY
+	BorderColor $SECONDARY_DARK
+	FontColor $DARK
+}
+
+!startsub activity
+skinparam activity {
+	FontColor $PRIMARY_TEXT
+	BorderColor $PRIMARY
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	BarColor $SUCCESS
+	StartColor $INFO
+	EndColor $INFO
+	''
+	DiamondBackgroundColor $WHITE-$SECONDARY_LIGHT
+  	DiamondBorderColor $SECONDARY_DARK
+	DiamondFontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub sequence
+skinparam sequence {
+	BorderColor $PRIMARY
+	' For some reason sequence title font color does not pick up from global
+	TitleFontColor $PRIMARY
+	BackgroundColor $BGCOLOR
+	StartColor $PRIMARY
+	EndColor $PRIMARY
+	''
+	ParticipantBackgroundColor $PRIMARY_LIGHT-$PRIMARY
+    ParticipantBorderColor $PRIMARY
+	ParticipantBorderThickness 0
+	ParticipantFontColor $PRIMARY_TEXT
+	''
+	ActorBackgroundColor $BGCOLOR
+    ActorBorderColor $PRIMARY
+	ActorFontColor $PRIMARY
+	''
+	ArrowThickness 3
+	ArrowColor $PRIMARY
+	ArrowFontColor $FGCOLOR
+	''
+	BoxBackgroundColor $LIGHT
+	BoxBorderColor $GRAY
+	BoxFontColor $DARK
+	''
+	LifeLineBorderColor $SECONDARY_DARK
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor $SECONDARY_LIGHT
+	''
+	GroupBorderColor $GRAY
+	GroupFontColor $DARK
+	GroupHeaderFontColor $INFO
+	''
+	DividerBackgroundColor $WHITE-$LIGHT
+    DividerBorderColor $GRAY
+    DividerBorderThickness 2
+    DividerFontColor $DARK
+	''
+	ReferenceBackgroundColor $BGCOLOR
+	ReferenceBorderColor $GRAY
+	ReferenceFontColor $DARK
+	ReferenceHeaderFontColor $INFO
+}
+!endsub
+
+!startsub partition
+skinparam partition {
+	BorderColor $PRIMARY
+	FontColor $PRIMARY
+	BackgroundColor $BGCOLOR
+}
+!endsub
+
+!startsub collections
+skinparam collections {
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	BorderColor $PRIMARY
+}
+!endsub
+
+!startsub control
+skinparam control {
+	BackgroundColor  $PRIMARY_LIGHT-$PRIMARY
+	BorderColor $PRIMARY_DARK
+	FontColor $DARK
+}
+!endsub
+
+!startsub entity
+skinparam entity {
+	BackgroundColor  $PRIMARY_LIGHT-$PRIMARY
+	BorderColor $PRIMARY_DARK
+	FontColor $DARK
+}
+!endsub
+
+!startsub boundary
+skinparam boundary {
+	BackgroundColor  $PRIMARY_LIGHT-$PRIMARY
+	BorderColor $PRIMARY_DARK
+	FontColor $DARK
+}
+!endsub
+
+!startsub agent
+skinparam agent {
+	BackgroundColor #orange
+	BorderColor #999999
+	FontColor #333333
+}
+!endsub
+
+!startsub note
+skinparam note {
+	BorderThickness 1
+	BackgroundColor $INFO_LIGHT-$INFO
+	BorderColor $INFO
+	FontColor $WHITE
+}
+!endsub
+
+!startsub artifact
+skinparam artifact {
+	BackgroundColor $WHITE-$LIGHT
+	BorderColor $GRAY
+	FontColor $GRAY
+}
+!endsub
+
+!startsub component
+skinparam component {
+	BackgroundColor  $SUCCESS_LIGHT-$SUCCESS
+	BorderColor  $SUCCESS
+	FontColor $SUCCESS_TEXT
+}
+!endsub
+
+!startsub interface
+skinparam interface {
+	BackgroundColor  $DANGER_LIGHT
+	BorderColor  $DANGER
+	FontColor $DARK
+}
+!endsub
+
+!startsub storage
+skinparam storage {
+	BackgroundColor $WARNING_LIGHT-$WARNING
+  	BorderColor $WARNING
+	FontColor $WARNING_TEXT
+}
+!endsub
+
+!startsub node
+skinparam node {
+	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
+	BorderColor $SECONDARY_DARK
+	FontColor $PRIMARY
+	StereotypeFontColor $DARK
+}
+!endsub
+
+!startsub cloud
+skinparam cloud {
+	BackgroundColor white-lightskyblue
+	BorderColor $BGCOLOR
+	FontColor $DARK
+}
+!endsub
+
+!startsub database
+skinparam database {
+    BackgroundColor  $PRIMARY_LIGHT-$PRIMARY
+	BorderColor $PRIMARY_DARK
+	FontColor $WHITE
+	StereotypeFontColor $LIGHT
+}
+!endsub
+
+!startsub actor
+skinparam actor {
+	FontColor $DARK
+}
+!endsub
+
+!startsub class
+skinparam class {
+	HeaderBackgroundColor $PRIMARY-$PRIMARY_DARK
+	FontColor $PRIMARY_TEXT
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	BorderColor $PRIMARY_DARK
+	StereotypeFontColor $DARK
+	BorderThickness 1
+	AttributeFontColor $DARK
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub object
+skinparam object {
+	FontColor $SUCCESS
+	BackgroundColor $SECONDARY-$SECONDARY_DARK
+	BorderColor $SECONDARY_DARK
+	StereotypeFontColor $DARK
+	BorderThickness 1
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub usecase
+skinparam usecase {
+	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
+	BorderColor $SECONDARY
+	BorderThickness 2
+	FontColor $SECONDARY_TEXT
+	StereotypeFontColor $PRIMARY
+}
+!endsub
+
+!startsub rectangle
+skinparam rectangle {
+	BackgroundColor $SECONDARY-$SECONDARY_DARK
+	BorderColor $PRIMARY_DARK
+	BorderThickness 2
+	FontColor $PRIMARY
+	StereotypeFontColor $PRIMARY
+}
+!endsub
+
+!startsub package
+skinparam package {
+	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
+  	BorderColor $PRIMARY
+	FontColor $PRIMARY
+	BorderThickness 2
+}
+!endsub
+
+!startsub folder
+skinparam folder {
+	BackgroundColor $WHITE-$SECONDARY_LIGHT
+  	BorderColor $WARNING
+	FontColor $WARNING
+	BorderThickness 2
+}
+!endsub
+
+!startsub frame
+skinparam frame {
+	BackgroundColor $WHITE-$SECONDARY_LIGHT
+  	BorderColor $INFO
+	FontColor $INFO
+	BorderThickness 2
+}
+!endsub
+
+!startsub state
+skinparam state {
+	StartColor $INFO
+	EndColor $INFO
+	BackgroundColor $SECONDARY-$SECONDARY_DARK
+	BorderColor $SECONDARY_DARK
+	FontColor $INFO
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub queue
+skinparam queue {
+	BackgroundColor $WARNING-$WARNING_DARK
+  	BorderColor $WARNING_DARK
+	FontColor $WARNING_TEXT
+}
+!endsub
+
+!startsub card
+skinparam card {
+	BackgroundColor $INFO_LIGHT-$INFO
+	BorderColor $INFO
+	FontColor $INFO_TEXT
+}
+!endsub
+
+!startsub file
+skinparam file {
+	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
+	BorderColor $GRAY
+	FontColor $GRAY
+
+}
+!endsub
+
+!startsub stack
+skinparam stack {
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY_DARK
+	BorderColor $PRIMARY
+	FontColor $PRIMARY_TEXT
+}
+!endsub
