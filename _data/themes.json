@@ -53,6 +53,12 @@
             "description":"Metal color theme (steel, platinum, bronze, etc)",
             "url": "https://bschwarz.github.io/puml-themes/themes/metal/",
             "background": "white"
+        },
+        {
+            "name": "bluegray",
+            "description":"Blue and Gray theme",
+            "url": "https://bschwarz.github.io/puml-themes/themes/bluegray/",
+            "background": "white"
         }
     ]
 }
