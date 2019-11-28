@@ -70,15 +70,15 @@ skinparam BoxPadding             40
 skinparam Padding                5
 skinparam ArrowColor             $GRAY
 skinparam stereotype {
-    CBackgroundColor $SECONDARY
+    CBackgroundColor $SECONDARY_LIGHT
     CBorderColor $SECONDARY_DARK
-    ABackgroundColor $SUCCESS
+    ABackgroundColor $SUCCESS_LIGHT
     ABorderColor $SUCCESS_DARK
-    IBackgroundColor $DANGER
+    IBackgroundColor $DANGER_LIGHT
     IBorderColor $DANGER_DARK
-    EBackgroundColor $WARNING
+    EBackgroundColor $WARNING_LIGHT
     EBorderColor $WARNING_DARK
-    NBackgroundColor $INFO
+    NBackgroundColor $INFO_LIGHT
     NBorderColor $INFO_DARK
 }
 skinparam title {

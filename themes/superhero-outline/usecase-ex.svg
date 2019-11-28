@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="371.875px" preserveAspectRatio="none" style="width:464px;height:371px;background:#000000;" version="1.1" viewBox="0 0 464 371" width="464.5833px" zoomAndPan="magnify"><defs/><g><rect fill="#000000" height="39.9028" rx="4.1667" ry="4.1667" style="stroke: #717D89; stroke-width: 1.0416666666666667;" width="451.0417" x="2.0833" y="2.0833"/><text fill="#DF691A" font-family="Verdana" font-size="20.8333" lengthAdjust="spacingAndGlyphs" textLength="430.2083" x="12.5" y="30.3202">Usecase Diagram - cyborg-outline theme</text><!--MD5=[111002b242a260edbcaabc3e471064d0]
-cluster checkout--><rect fill="#000000" height="242.7083" rx="4.1667" ry="4.1667" style="stroke: #B25415; stroke-width: 2.0833333333333335;" width="98.9583" x="187.5" y="61.7778"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="61.4583" x="206.25" y="78.5116">checkout</text><ellipse cx="237.0649" cy="194.9348" fill="#000000" rx="41.2316" ry="14.9279" style="stroke: #4E5D6C; stroke-width: 2.0833333333333335;"/><text fill="#717D89" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="58.3333" x="207.8982" y="198.8848">checkout</text><ellipse cx="236.9241" cy="107.4264" fill="#000000" rx="40.5699" ry="14.9195" style="stroke: #4E5D6C; stroke-width: 2.0833333333333335;"/><text fill="#717D89" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="57.2917" x="208.2782" y="111.3764">payment</text><ellipse cx="237.1579" cy="281.4586" fill="#000000" rx="22.0538" ry="14.4725" style="stroke: #4E5D6C; stroke-width: 2.0833333333333335;"/><text fill="#717D89" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="28.125" x="223.0954" y="285.4086">help</text><!--MD5=[92848cbaf65985a669855153c5362c37]
-entity customer--><ellipse cx="100" cy="162.8194" fill="#000000" rx="8.3333" ry="8.3333" style="stroke: #DF691A; stroke-width: 2.0833333333333335;"/><path d="M100,171.1528 L100,199.2778 M86.4583,179.4861 L113.5417,179.4861 M100,199.2778 L86.4583,214.9028 M100,199.2778 L113.5417,214.9028 " fill="none" style="stroke: #DF691A; stroke-width: 2.0833333333333335;"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="60.4167" x="69.7917" y="232.6782">customer</text><!--MD5=[ebeabf449828f4e0b33bbb47961e644b]
-entity clerk--><ellipse cx="358.8542" cy="162.8194" fill="#000000" rx="8.3333" ry="8.3333" style="stroke: #DF691A; stroke-width: 2.0833333333333335;"/><path d="M358.8542,171.1528 L358.8542,199.2778 M345.3125,179.4861 L372.3958,179.4861 M358.8542,199.2778 L345.3125,214.9028 M358.8542,199.2778 L372.3958,214.9028 " fill="none" style="stroke: #DF691A; stroke-width: 2.0833333333333335;"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="30.2083" x="343.75" y="232.6782">clerk</text><!--MD5=[852381a7bb976b86080137fb6d718ea9]
-link customer to checkout--><path d="M132.4622,195.1111 C151.2914,195.1111 175.1994,195.1111 195.3957,195.1111 " fill="none" id="customer-checkout" style="stroke: #DF691A; stroke-width: 3.125;"/><!--MD5=[3ad5c6d5c608bfd6b87dc9c07c40a15f]
-link checkout to payment--><path d="M236.9792,179.8697 C236.9792,165.6535 236.9792,144.3239 236.9792,128.5204 " fill="none" id="checkout-&gt;payment" style="stroke: #DF691A; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><polygon fill="#DF691A" points="236.9792,122.9714,232.8125,132.3464,236.9792,128.1797,241.1458,132.3464,236.9792,122.9714" style="stroke: #DF691A; stroke-width: 3.125;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="45.8333" x="200.5208" y="156.6366">include</text><!--MD5=[739e7928149c8fe27c2b5850560351c7]
-link help to checkout--><path d="M236.9792,266.903 C236.9792,252.9148 236.9792,231.7048 236.9792,215.9619 " fill="none" id="help-&gt;checkout" style="stroke: #DF691A; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><polygon fill="#DF691A" points="236.9792,210.4328,232.8125,219.8078,236.9792,215.6411,241.1458,219.8078,236.9792,210.4328" style="stroke: #DF691A; stroke-width: 3.125;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="53.125" x="196.875" y="243.8761">extends</text><!--MD5=[b4c4ee8f2d94c159d2b9e04bd372cbe0]
-link checkout to clerk--><path d="M278.2405,195.1111 C299.786,195.1111 325.0079,195.1111 341.4248,195.1111 " fill="none" id="checkout-clerk" style="stroke: #DF691A; stroke-width: 3.125;"/><rect fill="#000000" height="29.775" rx="5.2083" ry="5.2083" style="stroke: #717D89; stroke-width: 1.0416666666666667;" width="129.1667" x="163.0208" y="331.5694"/><text fill="#ABB6C2" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="112.5" x="171.3542" y="351.4282">This is my legend</text><!--MD5=[a933fcfa18b691555564b0d80d80f99f]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="409.375px" preserveAspectRatio="none" style="width:470px;height:409px;" version="1.1" viewBox="0 0 470 409" width="470.8333px" zoomAndPan="magnify"><defs/><g><rect fill="#FFFFFF" height="46.1528" rx="4.1667" ry="4.1667" style="stroke: #717D89; stroke-width: 1.0416666666666667;" width="457.2917" x="2.0833" y="2.0833"/><text fill="#DF691A" font-family="Verdana" font-size="20.8333" lengthAdjust="spacingAndGlyphs" textLength="430.2083" x="15.625" y="33.4452">Usecase Diagram - cyborg-outline theme</text><!--MD5=[111002b242a260edbcaabc3e471064d0]
+cluster checkout--><rect fill="#FFFFFF" height="267.7083" rx="4.1667" ry="4.1667" style="stroke: #B25415; stroke-width: 2.0833333333333335;" width="93.75" x="193.2292" y="68.0278"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="61.4583" x="209.375" y="87.8866">checkout</text><ellipse cx="240.276" cy="217.2214" fill="#FFFFFF" rx="38.7135" ry="16.3812" style="stroke: #4E5D6C; stroke-width: 2.0833333333333335;"/><text fill="#717D89" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="58.3333" x="211.1093" y="221.1714">checkout</text><ellipse cx="240.193" cy="121.3636" fill="#FFFFFF" rx="38.1096" ry="16.3567" style="stroke: #4E5D6C; stroke-width: 2.0833333333333335;"/><text fill="#717D89" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="57.2917" x="211.5471" y="125.3136">payment</text><ellipse cx="239.9981" cy="311.8401" fill="#FFFFFF" rx="21.2481" ry="15.1666" style="stroke: #4E5D6C; stroke-width: 2.0833333333333335;"/><text fill="#717D89" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="28.125" x="225.9356" y="315.7901">help</text><!--MD5=[92848cbaf65985a669855153c5362c37]
+entity customer--><ellipse cx="102.6042" cy="181.5694" fill="#FFFFFF" rx="8.3333" ry="8.3333" style="stroke: #DF691A; stroke-width: 2.0833333333333335;"/><path d="M102.6042,189.9028 L102.6042,218.0278 M89.0625,198.2361 L116.1458,198.2361 M102.6042,218.0278 L89.0625,233.6528 M102.6042,218.0278 L116.1458,233.6528 " fill="none" style="stroke: #DF691A; stroke-width: 2.0833333333333335;"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="60.4167" x="72.3958" y="254.5532">customer</text><!--MD5=[ebeabf449828f4e0b33bbb47961e644b]
+entity clerk--><ellipse cx="362.5" cy="181.5694" fill="#FFFFFF" rx="8.3333" ry="8.3333" style="stroke: #DF691A; stroke-width: 2.0833333333333335;"/><path d="M362.5,189.9028 L362.5,218.0278 M348.9583,198.2361 L376.0417,198.2361 M362.5,218.0278 L348.9583,233.6528 M362.5,218.0278 L376.0417,233.6528 " fill="none" style="stroke: #DF691A; stroke-width: 2.0833333333333335;"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="30.2083" x="347.3958" y="254.5532">clerk</text><!--MD5=[852381a7bb976b86080137fb6d718ea9]
+link customer to checkout--><path d="M138.3718,216.9861 C157.628,216.9861 181.4085,216.9861 201.1346,216.9861 " fill="none" id="customer-checkout" style="stroke: #DF691A; stroke-width: 3.125;"/><!--MD5=[3ad5c6d5c608bfd6b87dc9c07c40a15f]
+link checkout to payment--><path d="M240.1042,200.7293 C240.1042,184.7588 240.1042,160.2954 240.1042,142.7092 " fill="none" id="checkout-&gt;payment" style="stroke: #DF691A; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><polygon fill="#DF691A" points="240.1042,137.4893,235.9375,146.8643,240.1042,142.6976,244.2708,146.8643,240.1042,137.4893" style="stroke: #DF691A; stroke-width: 3.125;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="45.8333" x="200.5208" y="174.3449">include</text><!--MD5=[739e7928149c8fe27c2b5850560351c7]
+link help to checkout--><path d="M240.1042,296.5479 C240.1042,280.8965 240.1042,256.3843 240.1042,238.7026 " fill="none" id="help-&gt;checkout" style="stroke: #DF691A; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><polygon fill="#DF691A" points="240.1042,233.4518,235.9375,242.8268,240.1042,238.6601,244.2708,242.8268,240.1042,233.4518" style="stroke: #DF691A; stroke-width: 3.125;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="53.125" x="196.875" y="270.1782">extends</text><!--MD5=[b4c4ee8f2d94c159d2b9e04bd372cbe0]
+link checkout to clerk--><path d="M278.8309,216.9861 C299.8416,216.9861 324.9559,216.9861 342.1515,216.9861 " fill="none" id="checkout-clerk" style="stroke: #DF691A; stroke-width: 3.125;"/><rect fill="#FFFFFF" height="36.025" rx="5.2083" ry="5.2083" style="stroke: #717D89; stroke-width: 1.0416666666666667;" width="135.4167" x="163.0208" y="362.8194"/><text fill="#ABB6C2" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="112.5" x="174.4792" y="385.8032">This is my legend</text><!--MD5=[31d18c0ab02655b5fcbce3ae0d5c8f81]
 @startuml
 
 
 
-skinparam backgroundColor black
+skinparam backgroundColor transparent
 
 
 
@@ -22,25 +22,37 @@ skinparam defaultFontSize       12
 skinparam dpi                   100
 skinparam shadowing             false
 skinparam roundcorner           8
-skinparam ParticipantPadding    10
-skinparam BoxPadding            2
-skinparam Padding               2
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
 skinparam TitleFontColor	    #4E5D6C
 skinparam TitleFontSize	    	20
 skinparam TitleBorderThickness 	0
 skinparam ArrowColor            #4E5D6C
+skinparam stereotype {
+    CBackgroundColor #717d89
+    CBorderColor #3e4a56
+    ABackgroundColor #5F8F00
+    ABorderColor #4a934a
+    IBackgroundColor #AE423F
+    IBorderColor #e17572
+    EBackgroundColor #C08A3E
+    EBorderColor #f3bd71
+    NBackgroundColor #499AB2
+    NBorderColor #7ccde5
+}
 skinparam title {
 	FontColor	                 #DF691A
 	BorderColor	                 #717d89
 	FontSize	    	         20
 	BorderRoundCorner            8
 	BorderThickness 	         1
-	BackgroundColor              black
+	BackgroundColor              transparent
 }
 
 
 skinparam legend {
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #717d89
 	FontColor #abb6c2
 }
@@ -48,11 +60,11 @@ skinparam legend {
 skinparam activity {
 	FontColor #DF691A
 	BorderColor #DF691A
-	BackgroundColor black
+	BackgroundColor transparent
 	BarColor #5cb85c
 	StartColor #5bc0de
 	EndColor #5bc0de
-	DiamondBackgroundColor black
+	DiamondBackgroundColor transparent
   	DiamondBorderColor #717d89
   	DiamondFontColor #717d89
 }
@@ -60,33 +72,33 @@ skinparam activity {
 skinparam sequence {
 	BorderColor #DF691A
 	TitleFontColor #DF691A
-	BackgroundColor black
+	BackgroundColor transparent
 	StartColor #DF691A
 	EndColor #DF691A
-    ParticipantBackgroundColor black
+    ParticipantBackgroundColor transparent
     ParticipantBorderColor #DF691A
 	ParticipantBorderThickness 1
 	ParticipantFontColor #DF691A
-	ActorBackgroundColor black
+	ActorBackgroundColor transparent
     ActorBorderColor #DF691A
 	ActorFontColor #DF691A
 	ArrowThickness 3
 	ArrowColor #DF691A
 	ArrowFontColor #FFF
-	BoxBackgroundColor black
+	BoxBackgroundColor transparent
 	BoxBorderColor #4E5D6C
 	BoxFontColor $DARk
 	LifeLineBorderColor #4E5D6C
 	LifeLineBorderThickness 2
-	LifeLineBackgroundColor black
+	LifeLineBackgroundColor transparent
 	GroupBorderColor #4E5D6C
 	GroupFontColor #4E5D6C
 	GroupHeaderFontColor #5bc0de
-	DividerBackgroundColor black
+	DividerBackgroundColor transparent
     DividerBorderColor #4E5D6C
     DividerBorderThickness 2
     DividerFontColor #abb6c2
-	ReferenceBackgroundColor black
+	ReferenceBackgroundColor transparent
 	ReferenceBorderColor #abb6c2
 	ReferenceFontColor #abb6c2
 	ReferenceHeaderFontColor #5bc0de
@@ -95,83 +107,83 @@ skinparam sequence {
 skinparam partition {
 	BorderColor #DF691A
 	FontColor #DF691A
-	BackgroundColor black
+	BackgroundColor transparent
 }
 
 skinparam collections {
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #e58748
 }
 
 skinparam control {
-	BackgroundColor  black
+	BackgroundColor  transparent
 	BorderColor #e58748
 	FontColor #4E5D6C
 }
 
 skinparam entity {
-	BackgroundColor  black
+	BackgroundColor  transparent
 	BorderColor #e58748
 	FontColor #4E5D6C
 }
 
 skinparam boundary {
-	BackgroundColor  black
+	BackgroundColor  transparent
 	BorderColor #e58748
 	FontColor #4E5D6C
 }
 
 skinparam agent {
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #C08A3E
 	FontColor #4E5D6C
 }
 
 skinparam note {
 	BorderThickness 1
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #7ccde5
 	FontColor #7ccde5
 }
 
 skinparam artifact {
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #717d89
 	FontColor #abb6c2
 }
 
 skinparam component {
-	BackgroundColor  black
+	BackgroundColor  transparent
 	BorderColor  #4a934a
 	FontColor #5cb85c
 }
 
 skinparam interface {
-	BackgroundColor  black
+	BackgroundColor  transparent
 	BorderColor  #d9534f
 	FontColor #4E5D6C
 }
 
 skinparam storage {
-	BackgroundColor black
+	BackgroundColor transparent
   	BorderColor #f3bd71
 	FontColor #f0ad4e
 }
 
 skinparam node {
-	BackgroundColor  black
+	BackgroundColor  transparent
 	BorderColor #abb6c2
 	FontColor #abb6c2
 }
 
 skinparam cloud {
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor lightskyblue
 	FontColor #4E5D6C
 }
 
 skinparam database {
-	BackgroundColor  black
+	BackgroundColor  transparent
 	BorderColor #e58748
 	FontColor #4E5D6C
 }
@@ -183,17 +195,17 @@ skinparam actor {
 skinparam class {
 	HeaderBackgroundColor #b25415
 	FontColor #DF691A
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #e58748
 	StereotypeFontColor #4E5D6C
 	BorderThickness 1
-	AttributeFontColor #abb6c2
+	AttributeFontColor #4E5D6C
 	AttributeFontSize 11
 }
 
 skinparam object {
 	FontColor #5cb85c
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #717d89
 	StereotypeFontColor #4E5D6C
 	BorderThickness 1
@@ -202,7 +214,7 @@ skinparam object {
 }
 
 skinparam usecase {
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #4E5D6C
 	BorderThickness 2
 	FontColor #717d89
@@ -210,7 +222,7 @@ skinparam usecase {
 }
 
 skinparam rectangle {
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #b25415
 	BorderThickness 2
 	FontColor #DF691A
@@ -218,21 +230,21 @@ skinparam rectangle {
 }
 
 skinparam package {
-	BackgroundColor black
+	BackgroundColor transparent
   	BorderColor #DF691A
 	FontColor #DF691A
 	BorderThickness 2
 }
 
 skinparam folder {
-	BackgroundColor black
+	BackgroundColor transparent
   	BorderColor #f0ad4e
 	FontColor #f0ad4e
 	BorderThickness 2
 }
 
 skinparam frame {
-	BackgroundColor black
+	BackgroundColor transparent
   	BorderColor #5bc0de
 	FontColor #5bc0de
 	BorderThickness 2
@@ -241,7 +253,7 @@ skinparam frame {
 skinparam state {
 	StartColor #5bc0de
 	EndColor #5bc0de
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #717d89
 	FontColor #5bc0de
 	AttributeFontColor #717d89
@@ -249,25 +261,25 @@ skinparam state {
 }
 
 skinparam queue {
-	BackgroundColor black
+	BackgroundColor transparent
   	BorderColor #f0ad4e
 	FontColor #f0ad4e
 }
 
 skinparam card {
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #5bc0de
 	FontColor #5bc0de
 }
 
 skinparam file {
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #abb6c2
 	FontColor #abb6c2
 }
 
 skinparam stack {
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #e58748
 	FontColor #DF691A
 }
@@ -290,7 +302,7 @@ rectangle checkout {
 }
 @enduml
 
-PlantUML version 1.2019.11(Sun Sep 22 03:02:15 PDT 2019)
+PlantUML version 1.2019.12(Sun Nov 03 02:24:54 PST 2019)
 (GPL source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM
