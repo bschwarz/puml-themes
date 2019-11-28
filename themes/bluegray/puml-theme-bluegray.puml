@@ -69,6 +69,18 @@ skinparam ParticipantPadding     30
 skinparam BoxPadding             40
 skinparam Padding                5
 skinparam ArrowColor             $GRAY
+skinparam stereotype {
+    CBackgroundColor $SECONDARY
+    CBorderColor $SECONDARY_DARK
+    ABackgroundColor $SUCCESS
+    ABorderColor $SUCCESS_DARK
+    IBackgroundColor $DANGER
+    IBorderColor $DANGER_DARK
+    EBackgroundColor $WARNING
+    EBorderColor $WARNING_DARK
+    NBackgroundColor $INFO
+    NBorderColor $INFO_DARK
+}
 skinparam title {
 	FontColor	                 $PRIMARY
 	BorderColor	                 $SECONDARY_DARK
@@ -274,7 +286,7 @@ skinparam class {
 	BorderColor $PRIMARY_DARK
 	StereotypeFontColor $DARK
 	BorderThickness 1
-	AttributeFontColor $DARK
+	AttributeFontColor $LIGHT
 	AttributeFontSize 11
 }
 !endsub
