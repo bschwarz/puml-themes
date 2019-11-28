@@ -246,7 +246,7 @@ skinparam node {
 !startsub cloud
 skinparam cloud {
 	BackgroundColor white-#F2FCFE
-	BorderColor $BGCOLOR
+	BorderColor $SECONDARY
 	FontColor $DARK
 }
 !endsub
