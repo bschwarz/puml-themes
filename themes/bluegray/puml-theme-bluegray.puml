@@ -305,8 +305,8 @@ skinparam object {
 
 !startsub usecase
 skinparam usecase {
-	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
-	BorderColor $SECONDARY
+	BackgroundColor $SECONDARY-$SECONDARY_DARK
+	BorderColor $SECONDARY_DARK
 	BorderThickness 2
 	FontColor $SECONDARY_TEXT
 	StereotypeFontColor $PRIMARY
@@ -315,7 +315,7 @@ skinparam usecase {
 
 !startsub rectangle
 skinparam rectangle {
-	BackgroundColor $SECONDARY-$SECONDARY_DARK
+	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
 	BorderColor $PRIMARY_DARK
 	BorderThickness 2
 	FontColor $PRIMARY
