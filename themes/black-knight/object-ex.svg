@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="555px" preserveAspectRatio="none" style="width:292px;height:555px;background:#000000;" version="1.1" viewBox="0 0 292 555" width="292px" zoomAndPan="magnify"><defs/><g><rect fill="#141418" height="1" style="stroke: #141418; stroke-width: 1.0;" width="1" x="0" y="0"/><rect fill="#33FF02" height="22.6094" style="stroke: #33FF02; stroke-width: 1.0;" width="285" x="5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="218" x="6" y="20">[From object-ex.puml (line 11) ]</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="9" y="41.6094"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="71" x="5" y="59.2188">@startuml</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="9" y="76.8281"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="9" y="94.4375"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="9" y="112.0469"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="284" x="5" y="129.6563">skinparam backgroundColor transparent</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="12" x="5" y="147.2656">...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="160" x="5" y="164.875">... ( skipping 293 lines )</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="12" x="5" y="182.4844">...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="69" x="37" y="200.0938">padding 5</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="97" x="37" y="217.7031">fontStyle bold</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="5" x="21" y="235.3125">}</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="72" x="21" y="252.9219">:depth(2) {</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="77" x="37" y="270.5313">fontSize 12</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="69" x="37" y="288.1406">padding 4</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="5" x="21" y="305.75">}</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="72" x="21" y="323.3594">:depth(3) {</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="77" x="37" y="340.9688">fontSize 11</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="69" x="37" y="358.5781">padding 3</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="126" x="37" y="376.1875">fontColor #0060a8</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="5" x="21" y="393.7969">}</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="9" y="411.4063"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="5" x="5" y="429.0156">}</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="53" x="5" y="446.625">&lt;/style&gt;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="9" y="464.2344"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="285" x="5" y="481.8438">title Object Diagram - black-knight theme</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="9" y="499.4531"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="9" y="517.0625"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="110" x="5" y="534.6719">object Object01</text><text fill="#FF0000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="95" x="9" y="552.2813">Syntax Error?</text><!--MD5=[bd2a1999652a5a56e29923ab37e78d92]
+@startuml
+
+
+
+skinparam backgroundColor transparent
+
+
+
+
+
+skinparam  {
+    defaultFontName   "Verdana"
+    defaultFontSize   12
+    defaultTextAlignment center
+    shadowing false
+    RoundCorner 10
+    TitleFontSize 18
+    TitleFontColor #fff200
+}
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #484848
+skinparam stereotype {
+    CBackgroundColor #3a3a3a
+    CBorderColor #6d6d6d
+    ABackgroundColor $SUCCESS_LIGHT
+    ABorderColor $SUCCESS_DARK
+    IBackgroundColor $DANGER_LIGHT
+    IBorderColor $DANGER_DARK
+    EBackgroundColor $WARNING_LIGHT
+    EBorderColor $WARNING_DARK
+    NBackgroundColor $INFO_LIGHT
+    NBorderColor $INFO_DARK
+}
+skinparam title {
+	FontColor	                 $SECONDARY_TEXT
+	BorderColor	                 #3a3a3a
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #6d6d6d-#484848
+}
+
+
+skinparam legend {
+	BackgroundColor #484848
+	BorderColor #3a3a3a
+	FontColor #484848
+}
+
+skinparam activity {
+	FontColor #fff200
+	BorderColor #303030
+	BackgroundColor #595959-#262626
+	BarColor green
+	StartColor #0060a8
+	EndColor #0060a8
+	DiamondBackgroundColor #6d6d6d-#3a3a3a
+  	DiamondBorderColor #3a3a3a
+  	DiamondFontColor $SECONDARY_TEXT
+}
+
+skinparam sequence {
+	BorderColor #303030
+	TitleFontColor #303030
+	BackgroundColor transparent
+	StartColor #303030
+	EndColor #303030
+    ParticipantBackgroundColor #595959-#262626
+    ParticipantBorderColor #303030
+	ParticipantBorderThickness 0
+	ParticipantFontColor #fff200
+	ActorBackgroundColor transparent
+    ActorBorderColor #303030
+	ActorFontColor #303030
+	ArrowThickness 3
+	ArrowColor #303030
+	ArrowFontColor $FGCOLOR
+	BoxBackgroundColor transparent
+	BoxBorderColor #484848
+	BoxFontColor $DARk
+	LifeLineBorderColor #484848
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #3a3a3a
+	GroupBorderColor #484848
+	GroupFontColor #484848
+	GroupHeaderFontColor #0060a8
+	DividerBackgroundColor #484848
+    DividerBorderColor #484848
+    DividerBorderThickness 2
+    DividerFontColor #fff200
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #484848
+	ReferenceFontColor #484848
+	ReferenceHeaderFontColor #0060a8
+}
+
+skinparam partition {
+	BorderColor #303030
+	FontColor #303030
+	BackgroundColor transparent
+}
+
+skinparam collections {
+	BackgroundColor #595959-#262626
+	BorderColor #262626
+}
+
+skinparam control {
+	BackgroundColor  #595959-#262626
+	BorderColor #262626
+	FontColor #484848
+}
+
+skinparam entity {
+	BackgroundColor  #595959-#262626
+	BorderColor #262626
+	FontColor #484848
+}
+
+skinparam boundary {
+	BackgroundColor  #595959-#262626
+	BorderColor #262626
+	FontColor #484848
+}
+
+skinparam agent {
+	BackgroundColor #fff200
+	BorderColor $WARNING_LIGHT
+	FontColor #484848
+}
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #0060a8
+	BorderColor $INFO_DARK
+	FontColor $WHITE
+}
+
+skinparam artifact {
+	BackgroundColor #484848
+	BorderColor $DARK_DARK
+	FontColor #fff200
+}
+
+skinparam component {
+	BackgroundColor  green
+	BorderColor  $SUCCESS_DARK
+	FontColor $SUCCESS_TEXT
+}
+
+skinparam interface {
+	BackgroundColor  $DANGER_DARK
+	BorderColor  red
+	FontColor #484848
+}
+
+skinparam storage {
+	BackgroundColor #fff200
+  	BorderColor $WARNING_DARK
+	FontColor $WARNING_TEXT
+}
+
+skinparam node {
+	BackgroundColor  #484848
+	BorderColor #484848
+	FontColor #484848
+}
+
+skinparam cloud {
+	BackgroundColor white-lightskyblue
+	BorderColor transparent
+	FontColor #484848
+}
+
+skinparam database {
+	BackgroundColor  #595959-#262626
+	BorderColor #262626
+	FontColor #484848
+}
+
+skinparam actor {
+	FontColor #484848
+}
+
+skinparam class {
+	HeaderBackgroundColor #595959
+	FontColor #fff200
+	BackgroundColor #303030
+	BorderColor #262626
+	StereotypeFontColor #484848
+	BorderThickness 1
+	AttributeFontColor #fff200
+	AttributeFontSize 11
+}
+
+skinparam object {
+	FontColor green
+	BackgroundColor #484848
+	BorderColor #3a3a3a
+	StereotypeFontColor #484848
+	BorderThickness 1
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+
+skinparam usecase {
+	BackgroundColor #484848
+	BorderColor #484848
+	BorderThickness 2
+	FontColor $SECONDARY_TEXT
+	StereotypeFontColor #303030
+}
+
+skinparam rectangle {
+	BackgroundColor #6d6d6d
+	BorderColor #595959
+	BorderThickness 2
+	FontColor #303030
+	StereotypeFontColor #303030
+}
+
+skinparam package {
+	BackgroundColor #484848
+  	BorderColor #303030
+	FontColor #303030
+	BorderThickness 2
+}
+
+skinparam folder {
+	BackgroundColor #6d6d6d
+  	BorderColor #fff200
+	FontColor #fff200
+	BorderThickness 2
+}
+
+skinparam frame {
+	BackgroundColor #6d6d6d
+  	BorderColor #0060a8
+	FontColor #0060a8
+	BorderThickness 2
+}
+
+skinparam state {
+	StartColor #0060a8
+	EndColor #0060a8
+	BackgroundColor #484848
+	BorderColor #3a3a3a
+	FontColor #0060a8
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+
+skinparam queue {
+	BackgroundColor #fff200
+  	BorderColor $WARNING_DARK
+	FontColor $WARNING_TEXT
+}
+
+skinparam card {
+	BackgroundColor #0060a8
+	BorderColor $INFO_DARK
+	FontColor $INFO_TEXT
+}
+
+skinparam file {
+	BackgroundColor #3a3a3a
+	BorderColor #484848
+	FontColor #484848
+}
+
+skinparam stack {
+	BackgroundColor #595959
+	BorderColor #262626
+	FontColor #fff200
+}
+
+
+<style>
+wbsDiagram {
+    LineColor #303030
+    BorderThickness 3
+    BackgroundColor #fff200
+    FontColor #fff200
+    :depth(0) {
+        fontSize 16
+        fontStyle bold
+        fontColor #484848
+    }
+    :depth(1) {
+        fontSize 14
+        padding 5
+        fontStyle bold
+    }
+    :depth(2) {
+        fontSize 12
+        padding 4
+    }
+    :depth(3) {
+        fontSize 11
+        padding 3
+        fontColor #0060a8
+    }
+
+}
+</style>
+
+title Object Diagram - black-knight theme
+
+
+object Object01
+object Object02
+object Object03
+object Object04
+object Object05
+object Object06
+object Object07
+object Object08
+Object08 : name = "Dummy"
+Object08 : id = 123
+
+Object01 <|- - Object02
+Object03 *- - Object04
+Object05 o- - "4" Object06
+Object07 .. Object08 : some labels
+
+@enduml
+
+PlantUML version 1.2019.12(Sun Nov 03 02:24:54 PST 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_212-b32
+Operating System: Windows 10
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>
