@@ -106,7 +106,7 @@ skinparam activity {
 	StartColor $INFO
 	EndColor $INFO
 	''
-	DiamondBackgroundColor $WHITE-$SECONDARY_LIGHT
+	DiamondBackgroundColor $SECONDARY_LIGHT-$SECONDARY_DARK
   	DiamondBorderColor $SECONDARY_DARK
 	DiamondFontColor $SECONDARY_TEXT
 }
@@ -293,7 +293,7 @@ skinparam class {
 
 !startsub object
 skinparam object {
-	FontColor $SUCCESS
+	FontColor $WARNING
 	BackgroundColor $SECONDARY-$SECONDARY_DARK
 	BorderColor $SECONDARY_DARK
 	StereotypeFontColor $DARK
