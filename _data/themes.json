@@ -1,64 +1,70 @@
 {
-    "themes": [
-        {
-            "name": "cerulean",
-            "description":"Blue based theme based off of the <a href='https://bootswatch.com/cerulean'>Cerulean theme</a> at bootswatch",
-            "url": "https://bschwarz.github.io/puml-themes/themes/cerulean/",
-            "background": "white"
-        },
-        {
-            "name": "cerulean-outline",
-            "description":"Blue based theme based off of the <a href='https://bootswatch.com/cerulean'>Cerulean theme</a> at bootswatch, but with only outline colors no fill (transparent)",
-            "url": "https://bschwarz.github.io/puml-themes/themes/cerulean-outline/",
-            "background": "white"
-        },
-        {
-            "name": "cyborg",
-            "description":"Dark theme meant for dark backgrounds based off of the <a href='https://bootswatch.com/cyborg'>Cyborg theme</a> at bootswatch",
-            "url": "https://bschwarz.github.io/puml-themes/themes/cyborg/",
-            "background": "black"
-        },
-        {
-            "name": "cyborg-outline",
-            "description":"Dark theme meant for dark backgrounds based off of the <a href='https://bootswatch.com/cyborg'>Cyborg theme</a> at bootswatch, but with only outline colors no fill (transparent)",
-            "url": "https://bschwarz.github.io/puml-themes/themes/cyborg-outline/",
-            "background": "black"
-        },
-        {
-            "name": "materia",
-            "description":"Theme similar to Material based off of the <a href='https://bootswatch.com/materia'>Materia theme</a> at bootswatch",
-            "url": "https://bschwarz.github.io/puml-themes/themes/materia/",
-            "background": "white"
-        },
-        {
-            "name": "materia-outline",
-            "description":"Theme similar to Material based off of the <a href='https://bootswatch.com/materia'>Materia theme</a> at bootswatch, but with only outline colors no fill (transparent)",
-            "url": "https://bschwarz.github.io/puml-themes/themes/materia-outline/",
-            "background": "white"
-        },
-        {
-            "name": "superhero",
-            "description":"Dark theme meant for dark backgrounds based off of the <a href='https://bootswatch.com/superhero'>Superhero theme</a> at bootswatch",
-            "url": "https://bschwarz.github.io/puml-themes/themes/superhero/",
-            "background": "black"
-        },
-        {
-            "name": "superhero-outline",
-            "description":"Dark theme meant for dark backgrounds based off of the <a href='https://bootswatch.com/superhero'>Superhero theme</a> at bootswatch, but with only outline colors no fill (transparent)",
-            "url": "https://bschwarz.github.io/puml-themes/themes/superhero-outline/",
-            "background": "black"
-        },
-        {
-            "name": "metal",
-            "description":"Metal color theme (steel, platinum, bronze, etc)",
-            "url": "https://bschwarz.github.io/puml-themes/themes/metal/",
-            "background": "white"
-        },
-        {
-            "name": "bluegray",
-            "description":"Blue and Gray theme",
-            "url": "https://bschwarz.github.io/puml-themes/themes/bluegray/",
-            "background": "white"
-        }
-    ]
+  "themes": [
+    {
+      "name": "cerulean",
+      "description": "Blue based theme based off of the <a href='https://bootswatch.com/cerulean'>Cerulean theme</a> at bootswatch",
+      "url": "https://bschwarz.github.io/puml-themes/themes/cerulean/",
+      "background": "white"
+    },
+    {
+      "name": "cerulean-outline",
+      "description": "Blue based theme based off of the <a href='https://bootswatch.com/cerulean'>Cerulean theme</a> at bootswatch, but with only outline colors no fill (transparent)",
+      "url": "https://bschwarz.github.io/puml-themes/themes/cerulean-outline/",
+      "background": "white"
+    },
+    {
+      "name": "cyborg",
+      "description": "Dark theme meant for dark backgrounds based off of the <a href='https://bootswatch.com/cyborg'>Cyborg theme</a> at bootswatch",
+      "url": "https://bschwarz.github.io/puml-themes/themes/cyborg/",
+      "background": "black"
+    },
+    {
+      "name": "cyborg-outline",
+      "description": "Dark theme meant for dark backgrounds based off of the <a href='https://bootswatch.com/cyborg'>Cyborg theme</a> at bootswatch, but with only outline colors no fill (transparent)",
+      "url": "https://bschwarz.github.io/puml-themes/themes/cyborg-outline/",
+      "background": "black"
+    },
+    {
+      "name": "materia",
+      "description": "Theme similar to Material based off of the <a href='https://bootswatch.com/materia'>Materia theme</a> at bootswatch",
+      "url": "https://bschwarz.github.io/puml-themes/themes/materia/",
+      "background": "white"
+    },
+    {
+      "name": "materia-outline",
+      "description": "Theme similar to Material based off of the <a href='https://bootswatch.com/materia'>Materia theme</a> at bootswatch, but with only outline colors no fill (transparent)",
+      "url": "https://bschwarz.github.io/puml-themes/themes/materia-outline/",
+      "background": "white"
+    },
+    {
+      "name": "superhero",
+      "description": "Dark theme meant for dark backgrounds based off of the <a href='https://bootswatch.com/superhero'>Superhero theme</a> at bootswatch",
+      "url": "https://bschwarz.github.io/puml-themes/themes/superhero/",
+      "background": "black"
+    },
+    {
+      "name": "superhero-outline",
+      "description": "Dark theme meant for dark backgrounds based off of the <a href='https://bootswatch.com/superhero'>Superhero theme</a> at bootswatch, but with only outline colors no fill (transparent)",
+      "url": "https://bschwarz.github.io/puml-themes/themes/superhero-outline/",
+      "background": "black"
+    },
+    {
+      "name": "metal",
+      "description": "Metal color theme (steel, platinum, bronze, etc)",
+      "url": "https://bschwarz.github.io/puml-themes/themes/metal/",
+      "background": "white"
+    },
+    {
+      "name": "bluegray",
+      "description": "Blue and Gray theme",
+      "url": "https://bschwarz.github.io/puml-themes/themes/bluegray/",
+      "background": "white"
+    },
+    {
+      "name": "hacker",
+      "description": "Hacker theme based off of Jekyll  <a href='https://github.com/pages-themes/hacker'>Hacker theme</a>",
+      "url": "https://bschwarz.github.io/puml-themes/themes/hacker/",
+      "background": "black"
+    }
+  ]
 }
