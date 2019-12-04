@@ -29,6 +29,7 @@ skinparam backgroundColor $BGCOLOR
 !$INFO_LIGHT = "#ccacc5"
 !$WARNING = "#f4bf75"
 !$WARNING_LIGHT = "#f8d9ac"
+!$WARNING_TEXT = "#151515"
 !$DANGER = "#ac4142"
 !$DANGER_LIGHT = "#cd8d8e"
 !$LIGHT = "#151515"
