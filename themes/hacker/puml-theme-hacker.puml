@@ -16,19 +16,19 @@ skinparam backgroundColor $BGCOLOR
 '' Colors taken from the _default_colors.scss file
 ''
 !$PRIMARY = "#b5e853"
-!$PRIMARY_LIGHT = "#c4ed75"
-!$PRIMARY_TEXT = "#eaeaea"
+!$PRIMARY_LIGHT = "#d3f198"
+!$PRIMARY_TEXT = "#151515"
 !$SECONDARY = "#6a9fb5"
-!$SECONDARY_LIGHT = "#88b2c4"
+!$SECONDARY_LIGHT = "#a6c5d3"
 !$SECONDARY_TEXT = "#fefefe"
 !$SUCCESS = "#90a959"
-!$SUCCESS_LIGHT = "#a6ba7a"
+!$SUCCESS_LIGHT = "#bccb9b"
 !$INFO = "#aa759f"
-!$INFO_LIGHT = "#bb91b2"
+!$INFO_LIGHT = "#ccacc5"
 !$WARNING = "#f4bf75"
-!$WARNING_LIGHT = "#f6cc91"
+!$WARNING_LIGHT = "#f8d9ac"
 !$DANGER = "#ac4142"
-!$DANGER_LIGHT = "#bd6768"
+!$DANGER_LIGHT = "#cd8d8e"
 !$LIGHT = "#151515"
 !$DARK = "#eaeaea"
 
@@ -350,7 +350,7 @@ skinparam state {
 	StartColor $INFO
 	EndColor $INFO
 	BackgroundColor $SECONDARY
-	BorderColor $SECONDARY_DARK
+	BorderColor $SECONDARY_LIGHT
 	FontColor $SECONDARY_TEXT
 	AttributeFontColor $SECONDARY_TEXT
 	AttributeFontSize 11
@@ -395,7 +395,36 @@ wbsDiagram {
     LineColor $PRIMARY
     BorderThickness 3
     BackgroundColor $LIGHT
-    FontColor $PRIMARY_TEXT
+    FontColor $PRIMARY
+    :depth(0) {
+        fontSize 16
+        fontStyle bold
+        fontColor $SECONDARY
+    }
+    :depth(1) {
+        fontSize 14
+        padding 5
+        fontStyle bold
+    }
+    :depth(2) {
+        fontSize 12
+        padding 4
+    }
+    :depth(3) {
+        fontSize 11
+        padding 3
+        fontColor $INFO
+    }
+
+}
+</style>
+
+<style>
+mindmapDiagram {
+    LineColor $PRIMARY
+    BorderThickness 3
+    BackgroundColor $LIGHT
+    FontColor $PRIMARY
     :depth(0) {
         fontSize 16
         fontStyle bold

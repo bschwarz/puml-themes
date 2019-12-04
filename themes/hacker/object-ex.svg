@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="516px" preserveAspectRatio="none" style="width:327px;height:516px;background:#000000;" version="1.1" viewBox="0 0 327 516" width="327px" zoomAndPan="magnify"><defs/><g><rect fill="#271C15" height="1" style="stroke: #271C15; stroke-width: 1.0;" width="1" x="0" y="0"/><rect fill="#33FF02" height="21.2969" style="stroke: #33FF02; stroke-width: 1.0;" width="320" x="5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="249" x="6" y="20">[From object-ex.puml (line 11) ]</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="10" y="40.2969"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="79" x="5" y="56.5938">@startuml</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="10" y="72.8906"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="10" y="89.1875"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="10" y="105.4844"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="320" x="5" y="121.7813">skinparam backgroundColor transparent</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="15" x="5" y="138.0781">...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="185" x="5" y="154.375">... ( skipping 292 lines )</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="15" x="5" y="170.6719">...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="78" x="45" y="186.9688">padding 5</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="110" x="45" y="203.2656">fontStyle bold</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="10" x="25" y="219.5625">}</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="89" x="25" y="235.8594">:depth(2) {</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="90" x="45" y="252.1563">fontSize 12</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="78" x="45" y="268.4531">padding 4</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="10" x="25" y="284.75">}</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="89" x="25" y="301.0469">:depth(3) {</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="90" x="45" y="317.3438">fontSize 11</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="78" x="45" y="333.6406">padding 3</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="145" x="45" y="349.9375">fontColor #aa759f</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="10" x="25" y="366.2344">}</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="10" y="382.5313"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="10" x="5" y="398.8281">}</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="67" x="5" y="415.125">&lt;/style&gt;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="10" y="431.4219"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="280" x="5" y="447.7188">title Object Diagram - hacker theme</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="10" y="464.0156"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="10" y="480.3125"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="125" x="5" y="496.6094">object Object01</text><text fill="#FF0000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="106" x="10" y="512.9063">Syntax Error?</text><!--MD5=[2ac35b9f86586f2873e279b882d37319]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="516px" preserveAspectRatio="none" style="width:327px;height:516px;background:#000000;" version="1.1" viewBox="0 0 327 516" width="327px" zoomAndPan="magnify"><defs/><g><rect fill="#1A040D" height="1" style="stroke: #1A040D; stroke-width: 1.0;" width="1" x="0" y="0"/><rect fill="#33FF02" height="21.2969" style="stroke: #33FF02; stroke-width: 1.0;" width="320" x="5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="249" x="6" y="20">[From object-ex.puml (line 11) ]</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="10" y="40.2969"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="79" x="5" y="56.5938">@startuml</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="10" y="72.8906"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="10" y="89.1875"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="10" y="105.4844"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="320" x="5" y="121.7813">skinparam backgroundColor transparent</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="15" x="5" y="138.0781">...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="185" x="5" y="154.375">... ( skipping 321 lines )</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="15" x="5" y="170.6719">...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="78" x="45" y="186.9688">padding 5</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="110" x="45" y="203.2656">fontStyle bold</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="10" x="25" y="219.5625">}</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="89" x="25" y="235.8594">:depth(2) {</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="90" x="45" y="252.1563">fontSize 12</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="78" x="45" y="268.4531">padding 4</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="10" x="25" y="284.75">}</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="89" x="25" y="301.0469">:depth(3) {</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="90" x="45" y="317.3438">fontSize 11</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="78" x="45" y="333.6406">padding 3</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="145" x="45" y="349.9375">fontColor #aa759f</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="10" x="25" y="366.2344">}</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="10" y="382.5313"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="10" x="5" y="398.8281">}</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="67" x="5" y="415.125">&lt;/style&gt;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="10" y="431.4219"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="280" x="5" y="447.7188">title Object Diagram - hacker theme</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="10" y="464.0156"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="10" y="480.3125"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="125" x="5" y="496.6094">object Object01</text><text fill="#FF0000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="106" x="10" y="512.9063">Syntax Error?</text><!--MD5=[7643a679fe9822356b479493483f37a9]
 @startuml
 
 
@@ -16,7 +16,7 @@ skinparam  {
     shadowing false
     RoundCorner 10
     TitleFontSize 18
-    TitleFontColor #eaeaea
+    TitleFontColor #151515
 }
 
 skinparam defaultFontName       "Verdana"
@@ -30,14 +30,14 @@ skinparam Padding               5
 skinparam ArrowColor            #eaeaea
 skinparam stereotype {
     CBackgroundColor $SECONDARY_DARK
-    CBorderColor #88b2c4
-    ABackgroundColor #a6ba7a
+    CBorderColor #a6c5d3
+    ABackgroundColor #bccb9b
     ABorderColor $SUCCESS_DARK
-    IBackgroundColor #bd6768
+    IBackgroundColor #cd8d8e
     IBorderColor $DANGER_DARK
-    EBackgroundColor #f6cc91
+    EBackgroundColor #f8d9ac
     EBorderColor $WARNING_DARK
-    NBackgroundColor #bb91b2
+    NBackgroundColor #ccacc5
     NBorderColor $INFO_DARK
 }
 skinparam title {
@@ -57,14 +57,14 @@ skinparam legend {
 }
 
 skinparam activity {
-	FontColor #eaeaea
-	BorderColor #c4ed75
+	FontColor #151515
+	BorderColor #d3f198
 	BackgroundColor #b5e853
 	BarColor #90a959
 	StartColor #aa759f
 	EndColor #aa759f
 	DiamondBackgroundColor #6a9fb5
-  	DiamondBorderColor #88b2c4
+  	DiamondBorderColor #a6c5d3
   	DiamondFontColor #fefefe
 }
 
@@ -75,9 +75,9 @@ skinparam sequence {
 	StartColor #b5e853
 	EndColor #b5e853
     ParticipantBackgroundColor #b5e853
-    ParticipantBorderColor #c4ed75
+    ParticipantBorderColor #d3f198
 	ParticipantBorderThickness 2
-	ParticipantFontColor #eaeaea
+	ParticipantFontColor #151515
 	ActorBackgroundColor transparent
     ActorBorderColor #b5e853
 	ActorFontColor #b5e853
@@ -111,30 +111,30 @@ skinparam partition {
 
 skinparam collections {
 	BackgroundColor #b5e853
-	BorderColor #c4ed75
+	BorderColor #d3f198
 }
 
 skinparam control {
 	BackgroundColor  #b5e853
-	BorderColor #c4ed75
+	BorderColor #d3f198
 	FontColor #eaeaea
 }
 
 skinparam entity {
 	BackgroundColor  #b5e853
-	BorderColor #c4ed75
+	BorderColor #d3f198
 	FontColor #eaeaea
 }
 
 skinparam boundary {
 	BackgroundColor  #b5e853
-	BorderColor #c4ed75
+	BorderColor #d3f198
 	FontColor #eaeaea
 }
 
 skinparam agent {
 	BackgroundColor #f4bf75
-	BorderColor #f6cc91
+	BorderColor #f8d9ac
 	FontColor #eaeaea
 }
 
@@ -153,25 +153,25 @@ skinparam artifact {
 
 skinparam component {
 	BackgroundColor  #90a959
-	BorderColor  #a6ba7a
+	BorderColor  #bccb9b
 	FontColor $SUCCESS_TEXT
 }
 
 skinparam interface {
 	BackgroundColor  #ac4142
-	BorderColor  #bd6768
+	BorderColor  #cd8d8e
 	FontColor #eaeaea
 }
 
 skinparam storage {
 	BackgroundColor #f4bf75
-  	BorderColor #f6cc91
+  	BorderColor #f8d9ac
 	FontColor $WARNING_TEXT
 }
 
 skinparam node {
 	BackgroundColor  #6a9fb5
-	BorderColor #88b2c4
+	BorderColor #a6c5d3
 	FontColor #eaeaea
 }
 
@@ -183,7 +183,7 @@ skinparam cloud {
 
 skinparam database {
 	BackgroundColor  #b5e853
-	BorderColor #c4ed75
+	BorderColor #d3f198
 	FontColor #eaeaea
 }
 
@@ -192,8 +192,8 @@ skinparam actor {
 }
 
 skinparam class {
-	HeaderBackgroundColor #c4ed75
-	FontColor #eaeaea
+	HeaderBackgroundColor #d3f198
+	FontColor #151515
 	BackgroundColor #b5e853
 	BorderColor $PRIMARY_DARK
 	StereotypeFontColor #eaeaea
@@ -221,8 +221,8 @@ skinparam usecase {
 }
 
 skinparam rectangle {
-	BackgroundColor #88b2c4
-	BorderColor #c4ed75
+	BackgroundColor #a6c5d3
+	BorderColor #d3f198
 	BorderThickness 2
 	FontColor #b5e853
 	StereotypeFontColor #b5e853
@@ -235,14 +235,14 @@ skinparam package {
 }
 
 skinparam folder {
-	BackgroundColor #88b2c4
+	BackgroundColor #a6c5d3
   	BorderColor #f4bf75
 	FontColor #f4bf75
 	BorderThickness 2
 }
 
 skinparam frame {
-	BackgroundColor #88b2c4
+	BackgroundColor #a6c5d3
   	BorderColor #aa759f
 	FontColor #aa759f
 	BorderThickness 2
@@ -252,7 +252,7 @@ skinparam state {
 	StartColor #aa759f
 	EndColor #aa759f
 	BackgroundColor #6a9fb5
-	BorderColor $SECONDARY_DARK
+	BorderColor #a6c5d3
 	FontColor #fefefe
 	AttributeFontColor #fefefe
 	AttributeFontSize 11
@@ -260,26 +260,26 @@ skinparam state {
 
 skinparam queue {
 	BackgroundColor #f4bf75
-  	BorderColor #f6cc91
+  	BorderColor #f8d9ac
 	FontColor $WARNING_TEXT
 }
 
 skinparam card {
 	BackgroundColor #aa759f
-	BorderColor #bb91b2
+	BorderColor #ccacc5
 	FontColor $INFO_TEXT
 }
 
 skinparam file {
 	BackgroundColor #6a9fb5
-	BorderColor #88b2c4
+	BorderColor #a6c5d3
 	FontColor #eaeaea
 }
 
 skinparam stack {
 	BackgroundColor #b5e853
-	BorderColor #c4ed75
-	FontColor #eaeaea
+	BorderColor #d3f198
+	FontColor #151515
 }
 
 
@@ -288,7 +288,36 @@ wbsDiagram {
     LineColor #b5e853
     BorderThickness 3
     BackgroundColor #151515
-    FontColor #eaeaea
+    FontColor #b5e853
+    :depth(0) {
+        fontSize 16
+        fontStyle bold
+        fontColor #6a9fb5
+    }
+    :depth(1) {
+        fontSize 14
+        padding 5
+        fontStyle bold
+    }
+    :depth(2) {
+        fontSize 12
+        padding 4
+    }
+    :depth(3) {
+        fontSize 11
+        padding 3
+        fontColor #aa759f
+    }
+
+}
+</style>
+
+<style>
+mindmapDiagram {
+    LineColor #b5e853
+    BorderThickness 3
+    BackgroundColor #151515
+    FontColor #b5e853
     :depth(0) {
         fontSize 16
         fontStyle bold
