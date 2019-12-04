@@ -142,6 +142,7 @@ skinparam sequence {
 	LifeLineBorderThickness 2
 	LifeLineBackgroundColor $SECONDARY_DARK
 	''
+	GroupBackgroundColor $LIGHT
 	GroupBorderColor $DARK
 	GroupFontColor $DARK
 	GroupHeaderFontColor $INFO
@@ -151,9 +152,9 @@ skinparam sequence {
     DividerBorderThickness 2
     DividerFontColor $LIGHT
 	''
-	ReferenceBackgroundColor $BGCOLOR
+	ReferenceBackgroundColor $LIGHT
 	ReferenceBorderColor $DARK
-	ReferenceFontColor $LIGHT
+	ReferenceFontColor $DARK
 	ReferenceHeaderFontColor $INFO
 }
 !endsub
@@ -162,7 +163,7 @@ skinparam sequence {
 skinparam partition {
 	BorderColor $PRIMARY
 	FontColor $PRIMARY
-	BackgroundColor $BGCOLOR
+	BackgroundColor $LIGHT-black
 }
 !endsub
 
@@ -256,8 +257,8 @@ skinparam node {
 
 !startsub cloud
 skinparam cloud {
-	BackgroundColor white-#F2FCFE
-	BorderColor white
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
 	FontColor $LIGHT
 }
 !endsub
