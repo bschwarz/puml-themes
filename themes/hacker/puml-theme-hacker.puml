@@ -11,6 +11,7 @@
 !endif
 
 skinparam backgroundColor $BGCOLOR
+skinparam useBetaStyle true
 
 ''
 '' Colors taken from the _default_colors.scss file
@@ -20,18 +21,18 @@ skinparam backgroundColor $BGCOLOR
 !$PRIMARY_DARK = "#6d8b32"
 !$PRIMARY_TEXT = "#151515"
 !$SECONDARY = "#6a9fb5"
-!$SECONDARY_LIGHT = "#a6c5d3"
-!$SECONDARY_DARK = "#405f6d"
+!$SECONDARY_LIGHT = "#88b2c4"
+!$SECONDARY_DARK = "#557f91"
 !$SECONDARY_TEXT = "#fefefe"
 !$SUCCESS = "#90a959"
-!$SUCCESS_LIGHT = "#bccb9b"
+!$SUCCESS_LIGHT = "#a6ba7a"
 !$INFO = "#aa759f"
-!$INFO_LIGHT = "#ccacc5"
+!$INFO_LIGHT = "#bb91b2"
 !$WARNING = "#f4bf75"
-!$WARNING_LIGHT = "#f8d9ac"
+!$WARNING_LIGHT = "#f6cc91"
 !$WARNING_TEXT = "#151515"
 !$DANGER = "#ac4142"
-!$DANGER_LIGHT = "#cd8d8e"
+!$DANGER_LIGHT = "#bd6768"
 !$LIGHT = "#151515"
 !$DARK = "#eaeaea"
 
@@ -47,15 +48,6 @@ skinparam backgroundColor $BGCOLOR
   <font color=$WARNING><b>$msg
 !endfunction
 
-skinparam  {
-    defaultFontName   "Verdana"
-    defaultFontSize   12
-    defaultTextAlignment center
-    shadowing false
-    RoundCorner 10
-    TitleFontSize 18
-    TitleFontColor $PRIMARY_TEXT
-}
 
 ''
 '' Global Default Values
@@ -293,8 +285,8 @@ skinparam class {
 
 !startsub object
 skinparam object {
-	FontColor $SUCCESS
-	BackgroundColor SECONDARY_LIGHT-$SECONDARY
+	FontColor $DARK
+	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
 	BorderColor $SECONDARY_LIGHT
 	StereotypeFontColor $DARK
 	BorderThickness 1
@@ -394,7 +386,7 @@ skinparam stack {
 }
 !endsub
 
-
+!if %variable_exists("NEWSTYLE")
 <style>
 wbsDiagram {
     LineColor $PRIMARY
@@ -452,3 +444,5 @@ mindmapDiagram {
 
 }
 </style>
+!endif
+
