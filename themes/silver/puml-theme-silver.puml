@@ -284,7 +284,7 @@ skinparam actor {
 skinparam class {
 	HeaderBackgroundColor $PRIMARY_LIGHT-$PRIMARY_DARK
 	FontColor $PRIMARY_TEXT
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY_DARK
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
 	BorderColor $PRIMARY_DARK
 	StereotypeFontColor $DARK
 	StereotypeFontSize 9
