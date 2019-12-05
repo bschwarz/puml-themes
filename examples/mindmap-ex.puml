@@ -6,6 +6,8 @@ title Mindmap Diagram - $THEME theme
 title Mindmap Diagram
 !endif
 
+!DIAGRAM = "mindmap"
+
 + OS
 ++ Ubuntu
 +++ Linux Mint

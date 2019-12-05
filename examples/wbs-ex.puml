@@ -6,6 +6,7 @@ title Work Breakdown Diagram - $THEME theme
 title Work Breakdown Diagram
 !endif
 
+!$DIAGRAM = "wbs"
 
 + New Job
 ++ Decide on Job Requirements
