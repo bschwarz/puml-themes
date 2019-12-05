@@ -23,7 +23,9 @@ PLANT=~/devcontent/bin/plantuml.1.2019.12.jar
 FILE=themes/$THEME/puml-theme-*.puml
 EX=examples/*.puml
 if [ -f $FILE ]; then
-	java -Djava.awt.headless=true -jar $PLANT $EX $FLAGS -tsvg -config $FILE -o ${PWD}/themes/$THEME/
+# FF=$(pwd)/$FILE
+# echo $FF
+	java -Djava.awt.headless=true  -jar $PLANT $EX -DDIAGRAM=activity -tsvg -config $FILE -o ${PWD}/themes/$THEME/
 	echo "$THEME"
 fi
 
