@@ -24,9 +24,9 @@ skinparam backgroundColor $BGCOLOR
 ''          and SHADE is calculated by clr * (1 - shade_factor)
 ''
 !$FGCOLOR = $DARK
-!$PRIMARY = "#f2f2f2"
-!$PRIMARY_LIGHT = "#f6f6f6"
-!$PRIMARY_DARK = "#a9a9a9"
+!$PRIMARY = "#eeeeee"
+!$PRIMARY_LIGHT = "#f1f1f1"
+!$PRIMARY_DARK = "#bebebe"
 !$PRIMARY_TEXT = "#336699"
 !$SECONDARY = "#d6d6d6"
 !$SECONDARY_LIGHT = "#dedede"
@@ -284,13 +284,12 @@ skinparam actor {
 skinparam class {
 	HeaderBackgroundColor $PRIMARY_LIGHT-$PRIMARY_DARK
 	FontColor $PRIMARY_TEXT
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	BackgroundColor $PRIMARY-$PRIMARY_DARK
 	BorderColor $PRIMARY_DARK
 	StereotypeFontColor $DARK
-	StereotypeFontSize 9
 	BorderThickness 1
 	AttributeFontColor $DARK
-	AttributeFontSize 11
+	AttributeFontSize 9
 }
 !endsub
 
