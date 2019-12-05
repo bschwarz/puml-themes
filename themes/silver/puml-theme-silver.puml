@@ -287,9 +287,10 @@ skinparam class {
 	BackgroundColor $PRIMARY-$PRIMARY_DARK
 	BorderColor $PRIMARY_DARK
 	StereotypeFontColor $DARK
+	StereotypeFontSize 9
 	BorderThickness 1
 	AttributeFontColor $DARK
-	AttributeFontSize 9
+	AttributeFontSize 11
 }
 !endsub
 
