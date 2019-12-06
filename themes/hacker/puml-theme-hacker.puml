@@ -56,7 +56,7 @@ skinparam defaultFontName       "Verdana"
 skinparam defaultFontSize       12
 skinparam dpi                   100
 skinparam shadowing             false
-skinparam roundcorner           8
+skinparam roundcorner           40
 skinparam ParticipantPadding    40
 skinparam BoxPadding            40
 skinparam Padding               5
