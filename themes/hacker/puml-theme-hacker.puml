@@ -56,7 +56,7 @@ skinparam defaultFontName       "Verdana"
 skinparam defaultFontSize       12
 skinparam dpi                   100
 skinparam shadowing             false
-skinparam roundcorner           40
+skinparam roundcorner           30
 skinparam ParticipantPadding    40
 skinparam BoxPadding            40
 skinparam Padding               5
@@ -346,9 +346,6 @@ skinparam frame {
 skinparam state {
 	StartColor $INFO
 	EndColor $INFO
-	' BackgroundColor $SECONDARY-$SECONDARY_DARK
-	' BorderColor $SECONDARY_LIGHT
-	' FontColor $SECONDARY_TEXT
 	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
 	BorderColor $PRIMARY_LIGHT
 	FontColor $PRIMARY_TEXT
