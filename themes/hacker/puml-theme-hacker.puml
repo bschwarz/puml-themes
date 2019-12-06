@@ -7,7 +7,7 @@
 !$THEME = "hacker"
 
 !if %not(%variable_exists("$BGCOLOR"))
-!$BGCOLOR = "transparent"
+!$BGCOLOR = "black"
 !endif
 
 skinparam backgroundColor $BGCOLOR

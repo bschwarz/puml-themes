@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="575px" preserveAspectRatio="none" style="width:851px;height:575px;" version="1.1" viewBox="0 0 851 575" width="851.0417px" zoomAndPan="magnify"><defs><linearGradient id="g5ibmfn1uf6u0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#444444"/><stop offset="100%" stop-color="#555555"/></linearGradient><linearGradient id="g5ibmfn1uf6u1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#FFFFFF"/><stop offset="100%" stop-color="#87CEFA"/></linearGradient></defs><g><rect fill="url(#g5ibmfn1uf6u0)" height="46.1528" rx="4.1667" ry="4.1667" style="stroke: #777777; stroke-width: 1.0416666666666667;" width="410.4167" x="223.4375" y="2.0833"/><text fill="#2A9FD6" font-family="Verdana" font-size="20.8333" lengthAdjust="spacingAndGlyphs" textLength="383.3333" x="236.9792" y="33.4452">Component Diagram - cyborg theme</text><!--MD5=[98956307d0c47524864de5bf9cdc747b]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="575px" preserveAspectRatio="none" style="width:851px;height:575px;background:#000000;" version="1.1" viewBox="0 0 851 575" width="851.0417px" zoomAndPan="magnify"><defs><linearGradient id="g1tscybn7dpzv10" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#444444"/><stop offset="100%" stop-color="#555555"/></linearGradient><linearGradient id="g1tscybn7dpzv11" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#FFFFFF"/><stop offset="100%" stop-color="#87CEFA"/></linearGradient></defs><g><rect fill="url(#g1tscybn7dpzv10)" height="46.1528" rx="4.1667" ry="4.1667" style="stroke: #777777; stroke-width: 1.0416666666666667;" width="410.4167" x="223.4375" y="2.0833"/><text fill="#2A9FD6" font-family="Verdana" font-size="20.8333" lengthAdjust="spacingAndGlyphs" textLength="383.3333" x="236.9792" y="33.4452">Component Diagram - cyborg theme</text><!--MD5=[98956307d0c47524864de5bf9cdc747b]
 cluster My Package--><path d="M18.75,68.5486 L109.375,68.5486 A6.25,6.25 0 0 1 113.5417,72.7153 L120.8333,100.4069 L422.9167,100.4069 A4.1667,4.1667 0 0 1 427.0833,104.5736 L427.0833,156.0486 A4.1667,4.1667 0 0 1 422.9167,160.2153 L18.75,160.2153 A4.1667,4.1667 0 0 1 14.5833,156.0486 L14.5833,72.7153 A4.1667,4.1667 0 0 1 18.75,68.5486 " fill="#555555" style="stroke: #2A9FD6; stroke-width: 1.5625;"/><line style="stroke: #2A9FD6; stroke-width: 1.5625;" x1="14.5833" x2="120.8333" y1="100.4069" y2="100.4069"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="82.2917" x="23.9583" y="88.4074">My Package</text><!--MD5=[994b84a7865cf3a30290d65f6358d5f5]
 cluster My Node--><polygon fill="#555555" points="42.7083,199.7986,53.125,189.3819,275,189.3819,275,275.8403,264.5833,286.2569,42.7083,286.2569,42.7083,199.7986" style="stroke: #ADAFAE; stroke-width: 1.5625;"/><line style="stroke: #ADAFAE; stroke-width: 1.5625;" x1="264.5833" x2="273.9583" y1="199.7986" y2="190.4236"/><line style="stroke: #ADAFAE; stroke-width: 1.5625;" x1="42.7083" x2="264.5833" y1="199.7986" y2="199.7986"/><line style="stroke: #ADAFAE; stroke-width: 1.5625;" x1="264.5833" x2="264.5833" y1="199.7986" y2="286.2569"/><text fill="#ADAFAE" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="125" y="220.6991">My Node</text><!--MD5=[8f762177cf9f076b8ea6eac76c5df33e]
-cluster My Cloud--><path d="M302.3057,204.121 C304.8274,197.1971 311.717,194.4813 316.659,201.6573 C319.4766,196.1286 324.7515,195.2804 329.0231,199.8828 C331.822,194.6653 336.6476,192.895 340.7558,198.4579 C342.5759,192.75 347.9169,190.9064 352.4198,195.3865 C356.7443,189.9352 362.439,190.3786 365.211,197.0277 C370.2174,192.3737 375.2718,192.689 377.8139,199.6919 C381.7596,195.2285 387.454,194.3472 389.9998,201.1995 C396.2172,195.3479 400.7331,197.8665 403.3468,204.9252 C410.0089,207.3221 410.7572,212.7614 405.5978,217.3075 C411.4887,219.3764 413.6417,224.0381 408.7308,229.001 C415.9635,232.2123 417.1817,236.2198 411.0215,241.8237 C415.8943,247.325 414.4665,251.8396 407.5473,253.9673 C413.1651,258.5849 413.0809,264.6687 405.4131,267.1326 C411.2561,271.8483 410.4101,275.7953 403.9909,279.0473 C400.0778,285.1036 394.816,287.5236 389.891,280.1062 C387.4927,287.4531 383.0855,287.0479 378.0141,282.8581 C374.5362,288.9895 368.5153,289.3042 365.149,282.7449 C362.2493,290.3228 358.362,291.179 352.5201,285.5607 C348.3198,291.499 343.9833,290.1245 340.9049,284.4396 C335.3151,290.1849 330.8774,287.9533 328.4977,281.2421 C324.6283,286.2709 319.8868,287.4287 316.3008,280.942 C311.3155,285.3048 305.9954,286.0499 303.5096,278.3021 C296.8862,276.4532 296.5879,272.2572 300.7232,267.6057 C294.888,264.059 292.8937,258.3145 299.828,253.9318 C293.121,250.9578 293.69,245.8451 298.3456,241.5146 C292.3215,237.5909 293.7464,231.936 299.0974,228.6785 C293.6737,223.4758 294.9302,219.1134 302.0674,217.1455 C296.1347,212.7758 295.478,208.2572 302.3057,204.121 " fill="url(#g5ibmfn1uf6u1)" style="stroke: #FFFFFF; stroke-width: 1.5625;"/><text fill="#ADAFAE" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="62.5" x="320.8333" y="225.9074">My Cloud</text><!--MD5=[5435dd1da01795d79a1d1bdb7811705f]
+cluster My Cloud--><path d="M302.3057,204.121 C304.8274,197.1971 311.717,194.4813 316.659,201.6573 C319.4766,196.1286 324.7515,195.2804 329.0231,199.8828 C331.822,194.6653 336.6476,192.895 340.7558,198.4579 C342.5759,192.75 347.9169,190.9064 352.4198,195.3865 C356.7443,189.9352 362.439,190.3786 365.211,197.0277 C370.2174,192.3737 375.2718,192.689 377.8139,199.6919 C381.7596,195.2285 387.454,194.3472 389.9998,201.1995 C396.2172,195.3479 400.7331,197.8665 403.3468,204.9252 C410.0089,207.3221 410.7572,212.7614 405.5978,217.3075 C411.4887,219.3764 413.6417,224.0381 408.7308,229.001 C415.9635,232.2123 417.1817,236.2198 411.0215,241.8237 C415.8943,247.325 414.4665,251.8396 407.5473,253.9673 C413.1651,258.5849 413.0809,264.6687 405.4131,267.1326 C411.2561,271.8483 410.4101,275.7953 403.9909,279.0473 C400.0778,285.1036 394.816,287.5236 389.891,280.1062 C387.4927,287.4531 383.0855,287.0479 378.0141,282.8581 C374.5362,288.9895 368.5153,289.3042 365.149,282.7449 C362.2493,290.3228 358.362,291.179 352.5201,285.5607 C348.3198,291.499 343.9833,290.1245 340.9049,284.4396 C335.3151,290.1849 330.8774,287.9533 328.4977,281.2421 C324.6283,286.2709 319.8868,287.4287 316.3008,280.942 C311.3155,285.3048 305.9954,286.0499 303.5096,278.3021 C296.8862,276.4532 296.5879,272.2572 300.7232,267.6057 C294.888,264.059 292.8937,258.3145 299.828,253.9318 C293.121,250.9578 293.69,245.8451 298.3456,241.5146 C292.3215,237.5909 293.7464,231.936 299.0974,228.6785 C293.6737,223.4758 294.9302,219.1134 302.0674,217.1455 C296.1347,212.7758 295.478,208.2572 302.3057,204.121 " fill="url(#g1tscybn7dpzv11)" style="stroke: #000000; stroke-width: 1.5625;"/><text fill="#ADAFAE" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="62.5" x="320.8333" y="225.9074">My Cloud</text><!--MD5=[5435dd1da01795d79a1d1bdb7811705f]
 cluster My Database--><path d="M292.7083,311.7778 C292.7083,301.3611 352.0833,301.3611 352.0833,301.3611 C352.0833,301.3611 411.4583,301.3611 411.4583,311.7778 L411.4583,552.4028 C411.4583,562.8194 352.0833,562.8194 352.0833,562.8194 C352.0833,562.8194 292.7083,562.8194 292.7083,552.4028 L292.7083,311.7778 " fill="#2A9FD6" style="stroke: #55B2DE; stroke-width: 1.5625;"/><path d="M292.7083,311.7778 C292.7083,322.1944 352.0833,322.1944 352.0833,322.1944 C352.0833,322.1944 411.4583,322.1944 411.4583,311.7778 " fill="none" style="stroke: #55B2DE; stroke-width: 1.5625;"/><text fill="#ADAFAE" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="88.5417" x="307.8125" y="342.0532">My Database</text><!--MD5=[db3eb734e65e00defc1adec42c70b029]
 cluster My folder--><path d="M305.2083,353.4444 L378.125,353.4444 A6.25,6.25 0 0 1 382.2917,357.6111 L389.5833,385.3027 L398.9583,385.3027 A4.1667,4.1667 0 0 1 403.125,389.4694 L403.125,440.9444 A4.1667,4.1667 0 0 1 398.9583,445.1111 L305.2083,445.1111 A4.1667,4.1667 0 0 1 301.0417,440.9444 L301.0417,357.6111 A4.1667,4.1667 0 0 1 305.2083,353.4444 " fill="#444444" style="stroke: #FF8800; stroke-width: 1.5625;"/><line style="stroke: #FF8800; stroke-width: 1.5625;" x1="301.0417" x2="389.5833" y1="385.3027" y2="385.3027"/><text fill="#FF8800" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="64.5833" x="310.4167" y="373.3032">My folder</text><!--MD5=[2f95c9c104e26437854e71862f3d840e]
 cluster My Frame--><rect fill="#444444" height="91.6667" rx="4.1667" ry="4.1667" style="stroke: #9933CC; stroke-width: 1.5625;" width="102.0833" x="301.0417" y="462.8194"/><path d="M389.5833,463.8611 L389.5833,481.1361 L379.1667,491.5527 L301.0417,491.5527 " fill="none" style="stroke: #9933CC; stroke-width: 1.5625;"/><text fill="#9933CC" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="67.7083" x="309.375" y="481.6366">My Frame</text><!--MD5=[96f7e1299d4a43069e6ed32352fcac20]
@@ -31,12 +31,12 @@ link My Storage to My Queue--><!--MD5=[756be6e13c059af04edf2b7b91188131]
 link My Artifact to My Interface--><!--MD5=[9bfee3aea78949ae207e8bd3b67fed50]
 link My Interface to My Card--><!--MD5=[7d5148706a659d88e9a451ba2a45522c]
 link My Card to My File--><!--MD5=[25b27bb9c6f1602048cde482562a8061]
-link My Interface to My Stack--><!--MD5=[17ca26f41355f626e28af50cbba6a95f]
+link My Interface to My Stack--><!--MD5=[c0e1440be17840f78c9e8c6731a70862]
 @startuml
 
 
 
-skinparam backgroundColor transparent
+skinparam backgroundColor black
 
 
 
@@ -95,20 +95,20 @@ skinparam activity {
 skinparam sequence {
 	BorderColor #2A9FD6
 	TitleFontColor #2A9FD6
-	BackgroundColor transparent
+	BackgroundColor black
 	StartColor #2A9FD6
 	EndColor #2A9FD6
     ParticipantBackgroundColor #2A9FD6
     ParticipantBorderColor #2A9FD6
 	ParticipantBorderThickness 0
 	ParticipantFontColor #FFF
-	ActorBackgroundColor transparent
+	ActorBackgroundColor black
     ActorBorderColor #2A9FD6
 	ActorFontColor #2A9FD6
 	ArrowThickness 3
 	ArrowColor #2A9FD6
 	ArrowFontColor #FFF
-	BoxBackgroundColor transparent
+	BoxBackgroundColor black
 	BoxBorderColor #ADAFAE
 	BoxFontColor $DARk
 	LifeLineBorderColor #555
@@ -121,7 +121,7 @@ skinparam sequence {
     DividerBorderColor #ADAFAE
     DividerBorderThickness 2
     DividerFontColor #222
-	ReferenceBackgroundColor transparent
+	ReferenceBackgroundColor black
 	ReferenceBorderColor #ADAFAE
 	ReferenceFontColor #ADAFAE
 	ReferenceHeaderFontColor #9933CC
@@ -130,7 +130,7 @@ skinparam sequence {
 skinparam partition {
 	BorderColor #2A9FD6
 	FontColor #2A9FD6
-	BackgroundColor transparent
+	BackgroundColor black
 }
 
 skinparam collections {
@@ -201,7 +201,7 @@ skinparam node {
 
 skinparam cloud {
 	BackgroundColor white-lightskyblue
-	BorderColor transparent
+	BorderColor black
 	FontColor #ADAFAE
 }
 

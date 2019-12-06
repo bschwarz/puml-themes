@@ -7,7 +7,7 @@
 !$THEME = "black-knight"
 
 !if %not(%variable_exists("$BGCOLOR"))
-!$BGCOLOR = "transparent"
+!$BGCOLOR = "black"
 !endif
 
 skinparam backgroundColor $BGCOLOR
@@ -387,7 +387,7 @@ skinparam stack {
 }
 !endsub
 
-
+!if %variable_exists("NEWSTYLE")
 <style>
 wbsDiagram {
     LineColor $PRIMARY
@@ -416,3 +416,4 @@ wbsDiagram {
 
 }
 </style>
+!endif
