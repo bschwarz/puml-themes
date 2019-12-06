@@ -147,7 +147,7 @@ skinparam sequence {
 	ReferenceBackgroundColor $LIGHT
 	ReferenceBorderColor $DARK
 	ReferenceFontColor $DARK
-	ReferenceHeaderFontColor $INFO
+	ReferenceHeaderBackgroundColor $LIGHT
 }
 !endsub
 
@@ -217,9 +217,9 @@ skinparam artifact {
 
 !startsub component
 skinparam component {
-	BackgroundColor  $SUCCESS_LIGHT-$SUCCESS
-	BorderColor  $SUCCESS_LIGHT
-	FontColor $SUCCESS_TEXT
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	BorderColor $PRIMARY_LIGHT
+	FontColor $PRIMARY_TEXT
 }
 !endsub
 
@@ -241,8 +241,8 @@ skinparam storage {
 
 !startsub node
 skinparam node {
-	BackgroundColor  $SECONDARY_LIGHT-$SECONDARY
-	BorderColor $SECONDARY_LIGHT
+	BackgroundColor  $LIGHT-black
+	BorderColor $PRIMARY_LIGHT
 	FontColor $DARK
 }
 !endsub
@@ -274,7 +274,7 @@ skinparam actor {
 skinparam class {
 	HeaderBackgroundColor $PRIMARY_LIGHT-$PRIMARY
 	FontColor $PRIMARY_TEXT
-	BackgroundColor $PRIMARY-$PRIMARY_DARK
+	BackgroundColor $PRIMARY
 	BorderColor $PRIMARY_LIGHT
 	StereotypeFontColor $DARK
 	BorderThickness 1
@@ -285,22 +285,22 @@ skinparam class {
 
 !startsub object
 skinparam object {
-	FontColor $DARK
-	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
-	BorderColor $SECONDARY_LIGHT
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	BorderColor $PRIMARY_LIGHT
+	FontColor $PRIMARY_TEXT
 	StereotypeFontColor $DARK
 	BorderThickness 1
-	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontColor $LIGHT
 	AttributeFontSize 11
 }
 !endsub
 
 !startsub usecase
 skinparam usecase {
-	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
-	BorderColor $SECONDARY_LIGHT
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	BorderColor $PRIMARY_LIGHT
+	FontColor $PRIMARY_TEXT
 	BorderThickness 2
-	FontColor $SECONDARY_TEXT
 	StereotypeFontColor $PRIMARY
 }
 !endsub
@@ -326,7 +326,7 @@ skinparam package {
 
 !startsub folder
 skinparam folder {
-	BackgroundColor $DARK
+	BackgroundColor $LIGHT-black
   	BorderColor $WARNING
 	FontColor $WARNING
 	BorderThickness 2
@@ -335,7 +335,7 @@ skinparam folder {
 
 !startsub frame
 skinparam frame {
-	BackgroundColor $DARK
+	BackgroundColor $LIGHT-black
   	BorderColor $INFO
 	FontColor $INFO
 	BorderThickness 2
@@ -346,9 +346,12 @@ skinparam frame {
 skinparam state {
 	StartColor $INFO
 	EndColor $INFO
-	BackgroundColor $SECONDARY-$SECONDARY_DARK
-	BorderColor $SECONDARY_LIGHT
-	FontColor $SECONDARY_TEXT
+	' BackgroundColor $SECONDARY-$SECONDARY_DARK
+	' BorderColor $SECONDARY_LIGHT
+	' FontColor $SECONDARY_TEXT
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	BorderColor $PRIMARY_LIGHT
+	FontColor $PRIMARY_TEXT
 	AttributeFontColor $SECONDARY_TEXT
 	AttributeFontSize 11
 }
@@ -356,9 +359,9 @@ skinparam state {
 
 !startsub queue
 skinparam queue {
-	BackgroundColor $WARNING_LIGHT-$WARNING
-  	BorderColor $WARNING_LIGHT
-	FontColor $WARNING_TEXT
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	BorderColor $PRIMARY_LIGHT
+	FontColor $PRIMARY_TEXT
 }
 !endsub
 
