@@ -307,10 +307,10 @@ skinparam usecase {
 
 !startsub rectangle
 skinparam rectangle {
-	BackgroundColor $LIGHT-DARK
-	BorderColor $PRIMARY_LIGHT
+	BackgroundColor $BGCOLOR
+	BorderColor $PRIMARY
 	BorderThickness 2
-	FontColor $PRIMARY
+	FontColor $PRIMARY_DARK
 	StereotypeFontColor $PRIMARY
 }
 !endsub
