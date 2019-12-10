@@ -48,6 +48,12 @@ skinparam useBetaStyle true
   <font color=$WARNING><b>$msg
 !endfunction
 
+!function $primary_scheme($tgt)
+	FontColor $PRIMARY_TEXT
+	BorderColor $PRIMARY_LIGHT
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+!endfunction
+
 
 ''
 '' Global Default Values
@@ -91,9 +97,7 @@ skinparam legend {
 
 !startsub activity
 skinparam activity {
-	FontColor $PRIMARY_TEXT
-	BorderColor $PRIMARY_LIGHT
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	$primary_scheme("")
 	BarColor $SUCCESS
 	StartColor $INFO
 	EndColor $INFO
@@ -101,6 +105,27 @@ skinparam activity {
 	DiamondBackgroundColor $SECONDARY_LIGHT-$SECONDARY
   	DiamondBorderColor $SECONDARY_LIGHT
   	DiamondFontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub participant
+skinparam participant {
+	$primary_scheme("")
+	ParticipantBorderThickness 2
+}
+!endsub
+
+!startsub actor
+skinparam actor {
+	$primary_scheme("")
+}
+!endsub
+
+!startsub arrow
+skinparam arrow {
+	Thickness 3
+	Color $PRIMARY
+	FontColor $FGCOLOR
 }
 !endsub
 
@@ -112,19 +137,6 @@ skinparam sequence {
 	BackgroundColor $BGCOLOR
 	StartColor $PRIMARY
 	EndColor $PRIMARY
-	''
-    ParticipantBackgroundColor $PRIMARY_LIGHT-$PRIMARY
-    ParticipantBorderColor $PRIMARY_LIGHT
-	ParticipantBorderThickness 2
-	ParticipantFontColor $PRIMARY_TEXT
-	''
-	ActorBackgroundColor $BGCOLOR
-    ActorBorderColor $PRIMARY
-	ActorFontColor $PRIMARY
-	''
-	ArrowThickness 3
-	ArrowColor $PRIMARY
-	ArrowFontColor $FGCOLOR
 	''
 	BoxBackgroundColor $BGCOLOR
 	BoxBorderColor $DARK
@@ -161,31 +173,27 @@ skinparam partition {
 
 !startsub collections
 skinparam collections {
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
-	BorderColor $PRIMARY_LIGHT
+	$primary_scheme("")
 }
 !endsub
 
 !startsub control
 skinparam control {
-	BackgroundColor  $PRIMARY_LIGHT-$PRIMARY
-	BorderColor $PRIMARY_LIGHT
+	$primary_scheme("")
 	FontColor $DARK
 }
 !endsub
 
 !startsub entity
 skinparam entity {
-	BackgroundColor  $PRIMARY_LIGHT-$PRIMARY
-	BorderColor $PRIMARY_LIGHT
+	$primary_scheme("")
 	FontColor $DARK
 }
 !endsub
 
 !startsub boundary
 skinparam boundary {
-	BackgroundColor  $PRIMARY_LIGHT-$PRIMARY
-	BorderColor $PRIMARY_LIGHT
+	$primary_scheme("")
 	FontColor $DARK
 }
 !endsub
@@ -217,9 +225,7 @@ skinparam artifact {
 
 !startsub component
 skinparam component {
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
-	BorderColor $PRIMARY_LIGHT
-	FontColor $PRIMARY_TEXT
+	$primary_scheme("")
 }
 !endsub
 
@@ -257,7 +263,6 @@ skinparam cloud {
 
 !startsub database
 skinparam database {
-	' BackgroundColor  $PRIMARY_LIGHT-$PRIMARY
 	BackgroundColor  $LIGHT-black
 	BorderColor $PRIMARY_LIGHT
 	FontColor $DARK
@@ -272,10 +277,8 @@ skinparam actor {
 
 !startsub class
 skinparam class {
+	$primary_scheme("")
 	HeaderBackgroundColor $PRIMARY_LIGHT-$PRIMARY
-	FontColor $PRIMARY_TEXT
-	BackgroundColor $PRIMARY
-	BorderColor $PRIMARY_LIGHT
 	StereotypeFontColor $DARK
 	BorderThickness 1
 	AttributeFontColor $LIGHT
@@ -285,9 +288,7 @@ skinparam class {
 
 !startsub object
 skinparam object {
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
-	BorderColor $PRIMARY_LIGHT
-	FontColor $PRIMARY_TEXT
+	$primary_scheme("")
 	StereotypeFontColor $DARK
 	BorderThickness 1
 	AttributeFontColor $LIGHT
@@ -297,9 +298,7 @@ skinparam object {
 
 !startsub usecase
 skinparam usecase {
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
-	BorderColor $PRIMARY_LIGHT
-	FontColor $PRIMARY_TEXT
+	$primary_scheme("")
 	BorderThickness 2
 	StereotypeFontColor $PRIMARY
 }
@@ -344,11 +343,9 @@ skinparam frame {
 
 !startsub state
 skinparam state {
+	$primary_scheme("")
 	StartColor $INFO
 	EndColor $INFO
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
-	BorderColor $PRIMARY_LIGHT
-	FontColor $PRIMARY_TEXT
 	AttributeFontColor $SECONDARY_TEXT
 	AttributeFontSize 11
 }
@@ -356,9 +353,7 @@ skinparam state {
 
 !startsub queue
 skinparam queue {
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
-	BorderColor $PRIMARY_LIGHT
-	FontColor $PRIMARY_TEXT
+	$primary_scheme("")
 }
 !endsub
 
@@ -380,9 +375,7 @@ skinparam file {
 
 !startsub stack
 skinparam stack {
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
-	BorderColor $PRIMARY_LIGHT
-	FontColor $PRIMARY_TEXT
+	$primary_scheme("")
 }
 !endsub
 
