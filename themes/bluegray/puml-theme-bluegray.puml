@@ -258,10 +258,6 @@ skinparam storage {
 !startsub node
 skinparam node {
 	BackgroundColor $SECONDARY-$SECONDARY_DARK
-	' BorderColor $SECONDARY
-	' FontColor $PRIMARY
-	' StereotypeFontColor $DARK
-	' BackgroundColor $BGCOLOR
 	BorderColor $PRIMARY_LIGHT
 	FontColor $PRIMARY
 }
@@ -350,11 +346,9 @@ skinparam frame {
 
 !startsub state
 skinparam state {
+	$primary_scheme()
 	StartColor $INFO
 	EndColor $INFO
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
-	BorderColor $PRIMARY
-	FontColor $PRIMARY_TEXT
 	AttributeFontColor $LIGHT
 	AttributeFontSize 11
 }
