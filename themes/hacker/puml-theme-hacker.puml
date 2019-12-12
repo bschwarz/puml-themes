@@ -48,7 +48,7 @@ skinparam useBetaStyle true
   <font color=$WARNING><b>$msg
 !endfunction
 
-!function $primary_scheme($tgt)
+!function $primary_scheme()
 	FontColor $PRIMARY_TEXT
 	BorderColor $PRIMARY_LIGHT
 	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
@@ -97,7 +97,7 @@ skinparam legend {
 
 !startsub activity
 skinparam activity {
-	$primary_scheme("")
+	$primary_scheme()
 	BarColor $SUCCESS
 	StartColor $INFO
 	EndColor $INFO
@@ -110,14 +110,14 @@ skinparam activity {
 
 !startsub participant
 skinparam participant {
-	$primary_scheme("")
+	$primary_scheme()
 	ParticipantBorderThickness 2
 }
 !endsub
 
 !startsub actor
 skinparam actor {
-	$primary_scheme("")
+	$primary_scheme()
 }
 !endsub
 
@@ -173,27 +173,27 @@ skinparam partition {
 
 !startsub collections
 skinparam collections {
-	$primary_scheme("")
+	$primary_scheme()
 }
 !endsub
 
 !startsub control
 skinparam control {
-	$primary_scheme("")
+	$primary_scheme()
 	FontColor $DARK
 }
 !endsub
 
 !startsub entity
 skinparam entity {
-	$primary_scheme("")
+	$primary_scheme()
 	FontColor $DARK
 }
 !endsub
 
 !startsub boundary
 skinparam boundary {
-	$primary_scheme("")
+	$primary_scheme()
 	FontColor $DARK
 }
 !endsub
@@ -225,7 +225,7 @@ skinparam artifact {
 
 !startsub component
 skinparam component {
-	$primary_scheme("")
+	$primary_scheme()
 }
 !endsub
 
@@ -277,7 +277,7 @@ skinparam actor {
 
 !startsub class
 skinparam class {
-	$primary_scheme("")
+	$primary_scheme()
 	HeaderBackgroundColor $PRIMARY_LIGHT-$PRIMARY
 	StereotypeFontColor $DARK
 	BorderThickness 1
@@ -288,7 +288,7 @@ skinparam class {
 
 !startsub object
 skinparam object {
-	$primary_scheme("")
+	$primary_scheme()
 	StereotypeFontColor $DARK
 	BorderThickness 1
 	AttributeFontColor $LIGHT
@@ -298,7 +298,7 @@ skinparam object {
 
 !startsub usecase
 skinparam usecase {
-	$primary_scheme("")
+	$primary_scheme()
 	BorderThickness 2
 	StereotypeFontColor $PRIMARY
 }
@@ -343,7 +343,7 @@ skinparam frame {
 
 !startsub state
 skinparam state {
-	$primary_scheme("")
+	$primary_scheme()
 	StartColor $INFO
 	EndColor $INFO
 	AttributeFontColor $SECONDARY_TEXT
@@ -353,7 +353,7 @@ skinparam state {
 
 !startsub queue
 skinparam queue {
-	$primary_scheme("")
+	$primary_scheme()
 }
 !endsub
 
@@ -375,7 +375,7 @@ skinparam file {
 
 !startsub stack
 skinparam stack {
-	$primary_scheme("")
+	$primary_scheme()
 }
 !endsub
 
