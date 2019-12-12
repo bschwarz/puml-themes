@@ -146,7 +146,7 @@ skinparam participant {
 !startsub actor
 skinparam actor {
 	$primary_scheme()
-	FontColor $PRIMARY
+	FontColor $DARK
 }
 !endsub
 
@@ -208,21 +208,21 @@ skinparam collections {
 !startsub control
 skinparam control {
 	$primary_scheme()
-	FontColor $PRIMARY
+	FontColor $DARK
 }
 !endsub
 
 !startsub entity
 skinparam entity {
 	$primary_scheme()
-	FontColor $PRIMARY
+	FontColor $DARK
 }
 !endsub
 
 !startsub boundary
 skinparam boundary {
 	$primary_scheme()
-	FontColor $PRIMARY
+	FontColor $DARK
 }
 !endsub
 
@@ -291,9 +291,10 @@ skinparam cloud {
 
 !startsub database
 skinparam database {
-	FontColor $PRIMARY
-	BorderColor $PRIMARY_LIGHT
-	BackgroundColor  $BGCOLOR
+	$primary_scheme()
+	FontColor $DARK
+	' BorderColor $PRIMARY_LIGHT
+	' BackgroundColor  $BGCOLOR
 }
 !endsub
 
