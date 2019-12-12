@@ -269,12 +269,6 @@ skinparam database {
 }
 !endsub
 
-!startsub actor
-skinparam actor {
-	FontColor $DARK
-}
-!endsub
-
 !startsub class
 skinparam class {
 	$primary_scheme()
