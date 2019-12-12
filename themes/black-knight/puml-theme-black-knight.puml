@@ -198,16 +198,12 @@ skinparam control {
 !startsub entity
 skinparam entity {
 	$primary_scheme()
-	' BackgroundColor  $PRIMARY_LIGHT-$PRIMARY_DARK
-	' BorderColor $PRIMARY_DARK
-	' FontColor $DARK
 }
 !endsub
 
 !startsub boundary
 skinparam boundary {
 	$primary_scheme()
-	' FontColor $DARK
 }
 !endsub
 
@@ -305,10 +301,7 @@ skinparam object {
 !startsub usecase
 skinparam usecase {
 	$primary_scheme()
-	' BackgroundColor $SECONDARY
-	' BorderColor $SECONDARY
 	BorderThickness 2
-	' FontColor $SECONDARY_TEXT
 	StereotypeFontColor $PRIMARY
 }
 !endsub
@@ -317,9 +310,7 @@ skinparam usecase {
 skinparam rectangle {
 	$primary_scheme()
 	BackgroundColor $BGCOLOR
-	' BorderColor $PRIMARY_LIGHT
 	BorderThickness 2
-	' FontColor $PRIMARY
 	StereotypeFontColor $PRIMARY
 }
 !endsub
@@ -328,8 +319,6 @@ skinparam rectangle {
 skinparam package {
 	$primary_scheme()
 	BackgroundColor $BGCOLOR
-  	' BorderColor $PRIMARY
-	' FontColor $PRIMARY
 	BorderThickness 2
 }
 !endsub
@@ -357,9 +346,6 @@ skinparam state {
 	$primary_scheme()
 	StartColor $INFO
 	EndColor $INFO
-	' BackgroundColor $SECONDARY
-	' BorderColor $SECONDARY_DARK
-	' FontColor $INFO
 	AttributeFontColor $SECONDARY_TEXT
 	AttributeFontSize 11
 }
@@ -381,9 +367,6 @@ skinparam card {
 
 !startsub file
 skinparam file {
-	' BackgroundColor $SECONDARY_DARK
-	' BorderColor $DARK
-	' FontColor $DARK
 	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
 	BorderColor $INFO
 	FontColor $SECONDARY_TEXT
