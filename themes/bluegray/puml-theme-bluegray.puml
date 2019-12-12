@@ -356,9 +356,7 @@ skinparam state {
 
 !startsub queue
 skinparam queue {
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
-  	BorderColor $PRIMARY
-	FontColor $PRIMARY_TEXT
+	$primary_scheme()
 }
 !endsub
 
