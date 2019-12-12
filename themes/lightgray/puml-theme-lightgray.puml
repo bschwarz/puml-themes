@@ -61,6 +61,12 @@ skinparam backgroundColor $BGCOLOR
   <font color=$WARNING><b>$msg
 !endfunction
 
+!function $primary_scheme()
+	FontColor $PRIMARY_TEXT
+	BorderColor $PRIMARY_LIGHT
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+!endfunction
+
 ''
 '' Global Default Values
 ''
@@ -103,9 +109,7 @@ skinparam legend {
 
 !startsub activity
 skinparam activity {
-	FontColor $PRIMARY_TEXT
-	BorderColor $PRIMARY
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	$primary_scheme()
 	BarColor $SUCCESS
 	StartColor $INFO
 	EndColor $INFO
@@ -113,6 +117,27 @@ skinparam activity {
 	DiamondBackgroundColor $SECONDARY-$SECONDARY_DARK
   	DiamondBorderColor $SECONDARY_DARK
 	DiamondFontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub participant
+skinparam participant {
+	$primary_scheme()
+	ParticipantBorderThickness 2
+}
+!endsub
+
+!startsub actor
+skinparam actor {
+	$primary_scheme()
+}
+!endsub
+
+!startsub arrow
+skinparam arrow {
+	Thickness 3
+	Color $PRIMARY
+	FontColor $FGCOLOR
 }
 !endsub
 
@@ -124,19 +149,6 @@ skinparam sequence {
 	BackgroundColor $BGCOLOR
 	StartColor $PRIMARY
 	EndColor $PRIMARY
-	''
-    ParticipantBackgroundColor $PRIMARY_LIGHT-$PRIMARY
-    ParticipantBorderColor $PRIMARY
-	ParticipantBorderThickness 0
-	ParticipantFontColor $PRIMARY_TEXT
-	''
-	ActorBackgroundColor $BGCOLOR
-    ActorBorderColor $PRIMARY
-	ActorFontColor $PRIMARY
-	''
-	ArrowThickness 3
-	ArrowColor $PRIMARY
-	ArrowFontColor $FGCOLOR
 	''
 	BoxBackgroundColor $LIGHT
 	BoxBorderColor $GRAY
@@ -172,32 +184,25 @@ skinparam partition {
 
 !startsub collections
 skinparam collections {
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
-	BorderColor $PRIMARY
+	$primary_scheme()
 }
 !endsub
 
 !startsub control
 skinparam control {
-	BackgroundColor  $PRIMARY_LIGHT-$PRIMARY
-	BorderColor $PRIMARY_DARK
-	FontColor $DARK
+	$primary_scheme()
 }
 !endsub
 
 !startsub entity
 skinparam entity {
-	BackgroundColor  $PRIMARY_LIGHT-$PRIMARY
-	BorderColor $PRIMARY_DARK
-	FontColor $DARK
+	$primary_scheme()
 }
 !endsub
 
 !startsub boundary
 skinparam boundary {
-	BackgroundColor  $PRIMARY_LIGHT-$PRIMARY
-	BorderColor $PRIMARY_DARK
-	FontColor $DARK
+	$primary_scheme()
 }
 !endsub
 
@@ -228,9 +233,7 @@ skinparam artifact {
 
 !startsub component
 skinparam component {
-	BackgroundColor  $SECONDARY_LIGHT-$SECONDARY
-	BorderColor  $SECONDARY
-	FontColor $SECONDARY_TEXT
+	$primary_scheme()
 }
 !endsub
 
@@ -252,8 +255,8 @@ skinparam storage {
 
 !startsub node
 skinparam node {
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
-	BorderColor $PRIMARY
+	BackgroundColor $BGCOLOR
+	BorderColor $PRIMARY_LIGHT
 	FontColor $PRIMARY_TEXT
 }
 !endsub
@@ -268,24 +271,15 @@ skinparam cloud {
 
 !startsub database
 skinparam database {
-	BackgroundColor  $PRIMARY_LIGHT-$PRIMARY
-	BorderColor $PRIMARY_DARK
-	FontColor $PRIMARY_TEXT
-}
-!endsub
-
-!startsub actor
-skinparam actor {
-	FontColor $DARK
+	$primary_scheme()
+	BackgroundColor  $BGCOLOR
 }
 !endsub
 
 !startsub class
 skinparam class {
+	$primary_scheme()
 	HeaderBackgroundColor $PRIMARY_LIGHT-$PRIMARY_DARK
-	FontColor $PRIMARY_TEXT
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
-	BorderColor $PRIMARY
 	StereotypeFontColor $DARK
 	StereotypeFontSize 9
 	BorderThickness 1
@@ -296,9 +290,7 @@ skinparam class {
 
 !startsub object
 skinparam object {
-	FontColor $PRIMARY_TEXT
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
-	BorderColor $PRIMARY
+	$primary_scheme()
 	StereotypeFontColor $LIGHT
 	BorderThickness 1
 	AttributeFontColor $DARK
@@ -308,36 +300,32 @@ skinparam object {
 
 !startsub usecase
 skinparam usecase {
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
-	BorderColor $PRIMARY
+	$primary_scheme()
 	BorderThickness 2
-	FontColor $PRIMARY_TEXT
 	StereotypeFontColor $PRIMARY
 }
 !endsub
 
 !startsub rectangle
 skinparam rectangle {
+	$primary_scheme()
 	BackgroundColor $BGCOLOR
-	BorderColor $PRIMARY
 	BorderThickness 2
-	FontColor $PRIMARY_DARK
 	StereotypeFontColor $PRIMARY
 }
 !endsub
 
 !startsub package
 skinparam package {
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
-  	BorderColor $PRIMARY_LIGHT
-	FontColor $PRIMARY_TEXT
+	$primary_scheme()
+	BackgroundColor $BGCOLOR
 	BorderThickness 2
 }
 !endsub
 
 !startsub folder
 skinparam folder {
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	BackgroundColor $PRIMARY_LIGHT
   	BorderColor $WARNING
 	FontColor $WARNING
 	BorderThickness 2
@@ -346,7 +334,7 @@ skinparam folder {
 
 !startsub frame
 skinparam frame {
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	BackgroundColor $PRIMARY_LIGHT
   	BorderColor $INFO
 	FontColor $INFO
 	BorderThickness 2
@@ -355,11 +343,9 @@ skinparam frame {
 
 !startsub state
 skinparam state {
+	$primary_scheme()
 	StartColor $INFO
 	EndColor $INFO
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
-	BorderColor $PRIMARY
-	FontColor $PRIMARY_TEXT
 	AttributeFontColor $SECONDARY_TEXT
 	AttributeFontSize 11
 }
@@ -367,9 +353,7 @@ skinparam state {
 
 !startsub queue
 skinparam queue {
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
-  	BorderColor $PRIMARY_DARK
-	FontColor $PRIMARY_TEXT
+	$primary_scheme()
 }
 !endsub
 
@@ -392,8 +376,6 @@ skinparam file {
 
 !startsub stack
 skinparam stack {
-	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
-	BorderColor $PRIMARY
-	FontColor $PRIMARY_TEXT
+	$primary_scheme()
 }
 !endsub
