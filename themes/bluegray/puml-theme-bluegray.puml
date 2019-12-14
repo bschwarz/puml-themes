@@ -257,9 +257,9 @@ skinparam storage {
 
 !startsub node
 skinparam node {
-	BackgroundColor $SECONDARY-$SECONDARY_DARK
+	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
 	BorderColor $SECONDARY_DARK
-	FontColor $SECONDARY_TEXT
+	FontColor $PRIMARY
 }
 !endsub
 
@@ -275,7 +275,7 @@ skinparam cloud {
 skinparam database {
 	$primary_scheme()
 	' FontColor $PRIMARY
-	' BorderColor $PRIMARY_LIGHT
+	BorderColor $PRIMARY_DARK
 	' BackgroundColor  $BGCOLOR
 }
 !endsub
