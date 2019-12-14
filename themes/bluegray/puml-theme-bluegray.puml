@@ -258,8 +258,8 @@ skinparam storage {
 !startsub node
 skinparam node {
 	BackgroundColor $SECONDARY-$SECONDARY_DARK
-	BorderColor $PRIMARY_LIGHT
-	FontColor $PRIMARY
+	BorderColor $SECONDARY_DARK
+	FontColor $SECONDARY_TEXT
 }
 !endsub
 
