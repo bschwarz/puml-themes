@@ -10,7 +10,7 @@ reverse link List to AbstractList--><path d="M245.3813,170.6673 C247.6781,196.11
 reverse link Collection to AbstractCollection--><path d="M91.4033,170.6673 C89.2824,196.1184 86.741,226.6142 84.9751,247.8059 " fill="none" id="Collection&lt;-AbstractCollection" style="stroke: #2FA4E7; stroke-width: 3.125;"/><polygon fill="none" points="84.167,169.6986,93.1636,149.5423,98.6999,170.91,84.167,169.6986" style="stroke: #2FA4E7; stroke-width: 3.125;"/><!--MD5=[0159284274f96a472eb2618ad803aaca]
 reverse link Collection to List--><path d="M167.1104,122.7153 C181.0115,122.7153 194.9135,122.7153 208.8156,122.7153 " fill="none" id="Collection&lt;-List" style="stroke: #2FA4E7; stroke-width: 3.125;"/><polygon fill="none" points="166.8458,130.0069,146.0125,122.7153,166.8458,115.4236,166.8458,130.0069" style="stroke: #2FA4E7; stroke-width: 3.125;"/><!--MD5=[7a3a52e8f65ef1a8d8d29530ea5cd870]
 reverse link AbstractCollection to AbstractList--><path d="M180.7115,274.7986 C185.826,274.7986 190.9396,274.7986 196.0542,274.7986 " fill="none" id="AbstractCollection&lt;-AbstractList" style="stroke: #2FA4E7; stroke-width: 3.125;"/><polygon fill="none" points="180.5198,282.0903,159.6865,274.7986,180.5198,267.5069,180.5198,282.0903" style="stroke: #2FA4E7; stroke-width: 3.125;"/><!--MD5=[40e4bb1af59cca28d4643aaff05088cc]
-reverse link AbstractList to ArrayList--><path d="M254.6875,322.235 C254.6875,335.5788 254.6875,350.183 254.6875,363.714 " fill="none" id="AbstractList&lt;-ArrayList" style="stroke: #2FA4E7; stroke-width: 3.125;"/><polygon fill="none" points="247.3958,322.2142,254.6875,301.3809,261.9792,322.2142,247.3958,322.2142" style="stroke: #2FA4E7; stroke-width: 3.125;"/><!--MD5=[49a932962d331510c63b1d750894ee1c]
+reverse link AbstractList to ArrayList--><path d="M254.6875,322.235 C254.6875,335.5788 254.6875,350.183 254.6875,363.714 " fill="none" id="AbstractList&lt;-ArrayList" style="stroke: #2FA4E7; stroke-width: 3.125;"/><polygon fill="none" points="247.3958,322.2142,254.6875,301.3809,261.9792,322.2142,247.3958,322.2142" style="stroke: #2FA4E7; stroke-width: 3.125;"/><!--MD5=[34b7e21253fbdf4c687a7721f66d5532]
 @startuml
 
 
@@ -165,9 +165,9 @@ skinparam artifact {
 }
 
 skinparam component {
+		FontColor #2FA4E7
+	BorderColor #2FA4E7
 	BackgroundColor transparent
-	BorderColor  #73A839
-	FontColor #73A839
 }
 
 skinparam interface {

@@ -242,9 +242,10 @@ skinparam artifact {
 
 !startsub component
 skinparam component {
-	BackgroundColor $BGCOLOR
-	BorderColor  $SUCCESS
-	FontColor $SUCCESS_TEXT
+	$primary_scheme()
+	' BackgroundColor $BGCOLOR
+	' BorderColor  $SUCCESS
+	' FontColor $SUCCESS_TEXT
 }
 !endsub
 
