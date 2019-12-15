@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="594.7917px" preserveAspectRatio="none" style="width:761px;height:594px;" version="1.1" viewBox="0 0 761 594" width="761.4583px" zoomAndPan="magnify"><defs><filter height="300%" id="ftk68ltr95evt" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0833333333333335"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.166666666666667" dy="4.166666666666667" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="none" height="55.5013" rx="4.1667" ry="4.1667" style="stroke: #CCCCCC; stroke-width: 1.0416666666666667;" width="539.5833" x="57.8125" y="15.625"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="508.3333" x="73.4375" y="50.588">Mindmap Diagram - materia-outline theme</text><rect fill="#FEFECE" filter="url(#ftk68ltr95evt)" height="58.6426" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="62.5" x="373.9583" y="306.3517"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="20.8333" x="394.7917" y="340.7216">OS</text><rect fill="#FEFECE" filter="url(#ftk68ltr95evt)" height="58.6426" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="94.7917" x="488.5417" y="207.0068"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="53.125" x="509.375" y="241.3767">Ubuntu</text><rect fill="#FEFECE" filter="url(#ftk68ltr95evt)" height="58.6426" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="112.5" x="635.4167" y="87.793"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="70.8333" x="656.25" y="122.1629">Linux Mint</text><path d="M583.3333,236.3281 L593.75,236.3281 C609.375,236.3281 609.375,117.1143 625,117.1143 L635.4167,117.1143 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><rect fill="#FEFECE" filter="url(#ftk68ltr95evt)" height="58.6426" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="103.125" x="635.4167" y="167.2689"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="61.4583" x="656.25" y="201.6388">Kubuntu</text><path d="M583.3333,236.3281 L593.75,236.3281 C609.375,236.3281 609.375,196.5902 625,196.5902 L635.4167,196.5902 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><rect fill="#FEFECE" filter="url(#ftk68ltr95evt)" height="58.6426" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="101.0417" x="635.4167" y="246.7448"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="656.25" y="281.1147">Lubuntu</text><path d="M583.3333,236.3281 L593.75,236.3281 C609.375,236.3281 609.375,276.0661 625,276.0661 L635.4167,276.0661 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><rect fill="#FEFECE" filter="url(#ftk68ltr95evt)" height="58.6426" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="114.5833" x="635.4167" y="326.2207"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="72.9167" x="656.25" y="360.5906">KDE Neon</text><path d="M583.3333,236.3281 L593.75,236.3281 C609.375,236.3281 609.375,355.542 625,355.542 L635.4167,355.542 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><path d="M436.4583,335.673 L446.875,335.673 C462.5,335.673 462.5,236.3281 478.125,236.3281 L488.5417,236.3281 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><rect fill="#FEFECE" filter="url(#ftk68ltr95evt)" height="58.6426" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="82.2917" x="488.5417" y="286.4827"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="40.625" x="509.375" y="320.8527">LMDE</text><path d="M436.4583,335.673 L446.875,335.673 C462.5,335.673 462.5,315.804 478.125,315.804 L488.5417,315.804 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><rect fill="#FEFECE" filter="url(#ftk68ltr95evt)" height="58.6426" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="98.9583" x="488.5417" y="365.9587"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="57.2917" x="509.375" y="400.3286">SolydXK</text><path d="M436.4583,335.673 L446.875,335.673 C462.5,335.673 462.5,395.2799 478.125,395.2799 L488.5417,395.2799 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><rect fill="#FEFECE" filter="url(#ftk68ltr95evt)" height="58.6426" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="108.3333" x="488.5417" y="445.4346"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="66.6667" x="509.375" y="479.8045">SteamOS</text><path d="M436.4583,335.673 L446.875,335.673 C462.5,335.673 462.5,474.7559 478.125,474.7559 L488.5417,474.7559 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><rect fill="#FEFECE" filter="url(#ftk68ltr95evt)" height="58.6426" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="108.3333" x="488.5417" y="524.9105"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="66.6667" x="509.375" y="559.2804">Raspbian</text><path d="M436.4583,335.673 L446.875,335.673 C462.5,335.673 462.5,554.2318 478.125,554.2318 L488.5417,554.2318 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><rect fill="#FEFECE" filter="url(#ftk68ltr95evt)" height="58.6426" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="129.1667" x="192.7083" y="207.0068"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="87.5" x="213.5417" y="241.3767">Windows 95</text><path d="M373.9583,335.673 L363.5417,335.673 C347.9167,335.673 347.9167,236.3281 332.2917,236.3281 L321.875,236.3281 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><rect fill="#FEFECE" filter="url(#ftk68ltr95evt)" height="58.6426" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="129.1667" x="192.7083" y="286.4827"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="87.5" x="213.5417" y="320.8527">Windows 98</text><path d="M373.9583,335.673 L363.5417,335.673 C347.9167,335.673 347.9167,315.804 332.2917,315.804 L321.875,315.804 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><rect fill="#FEFECE" filter="url(#ftk68ltr95evt)" height="58.6426" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="130.2083" x="191.6667" y="365.9587"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="88.5417" x="212.5" y="400.3286">Windows NT</text><rect fill="#FEFECE" filter="url(#ftk68ltr95evt)" height="58.6426" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="119.7917" x="19.7917" y="326.2207"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="78.125" x="40.625" y="360.5906">Windows 8</text><path d="M191.6667,395.2799 L181.25,395.2799 C165.625,395.2799 165.625,355.542 150,355.542 L139.5833,355.542 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><rect fill="#FEFECE" filter="url(#ftk68ltr95evt)" height="58.6426" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="129.1667" x="10.4167" y="405.6966"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="87.5" x="31.25" y="440.0665">Windows 10</text><path d="M191.6667,395.2799 L181.25,395.2799 C165.625,395.2799 165.625,435.0179 150,435.0179 L139.5833,435.0179 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><path d="M373.9583,335.673 L363.5417,335.673 C347.9167,335.673 347.9167,395.2799 332.2917,395.2799 L321.875,395.2799 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><!--MD5=[bc13797da6af240b5d0d327b84f4e653]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="605.2083px" preserveAspectRatio="none" style="width:734px;height:605px;" version="1.1" viewBox="0 0 734 605" width="734.375px" zoomAndPan="magnify"><defs><filter height="300%" id="f1wv1v4kurj1x7" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0833333333333335"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.166666666666667" dy="4.166666666666667" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="none" height="57.4544" rx="4.1667" ry="4.1667" style="stroke: #CCCCCC; stroke-width: 1.0416666666666667;" width="441.6667" x="93.2292" y="15.625"/><text fill="#2196F3" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="410.4167" x="108.8542" y="52.8768">Mindmap Diagram - materia-outline theme</text><rect fill="#FEFECE" filter="url(#f1wv1v4kurj1x7)" height="60.0098" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="62.5" x="358.3333" y="312.0646"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="20.8333" x="379.1667" y="348.0367">OS</text><rect fill="#FEFECE" filter="url(#f1wv1v4kurj1x7)" height="60.0098" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="88.5417" x="472.9167" y="211.0107"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="46.875" x="493.75" y="246.9828">Ubuntu</text><rect fill="#FEFECE" filter="url(#f1wv1v4kurj1x7)" height="60.0098" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="107.2917" x="613.5417" y="89.7461"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="65.625" x="634.375" y="125.7182">Linux Mint</text><path d="M561.4583,241.0156 L571.875,241.0156 C587.5,241.0156 587.5,119.751 603.125,119.751 L613.5417,119.751 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><rect fill="#FEFECE" filter="url(#f1wv1v4kurj1x7)" height="60.0098" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="96.875" x="613.5417" y="170.5892"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="55.2083" x="634.375" y="206.5613">Kubuntu</text><path d="M561.4583,241.0156 L571.875,241.0156 C587.5,241.0156 587.5,200.5941 603.125,200.5941 L613.5417,200.5941 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><rect fill="#FEFECE" filter="url(#f1wv1v4kurj1x7)" height="60.0098" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="95.8333" x="613.5417" y="251.4323"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="54.1667" x="634.375" y="287.4044">Lubuntu</text><path d="M561.4583,241.0156 L571.875,241.0156 C587.5,241.0156 587.5,281.4372 603.125,281.4372 L613.5417,281.4372 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><rect fill="#FEFECE" filter="url(#f1wv1v4kurj1x7)" height="60.0098" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="109.375" x="613.5417" y="332.2754"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="67.7083" x="634.375" y="368.2475">KDE Neon</text><path d="M561.4583,241.0156 L571.875,241.0156 C587.5,241.0156 587.5,362.2803 603.125,362.2803 L613.5417,362.2803 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><path d="M420.8333,342.0695 L431.25,342.0695 C446.875,342.0695 446.875,241.0156 462.5,241.0156 L472.9167,241.0156 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><rect fill="#FEFECE" filter="url(#f1wv1v4kurj1x7)" height="60.0098" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="81.25" x="472.9167" y="291.8538"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="39.5833" x="493.75" y="327.8259">LMDE</text><path d="M420.8333,342.0695 L431.25,342.0695 C446.875,342.0695 446.875,321.8587 462.5,321.8587 L472.9167,321.8587 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><rect fill="#FEFECE" filter="url(#f1wv1v4kurj1x7)" height="60.0098" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="95.8333" x="472.9167" y="372.6969"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="54.1667" x="493.75" y="408.669">SolydXK</text><path d="M420.8333,342.0695 L431.25,342.0695 C446.875,342.0695 446.875,402.7018 462.5,402.7018 L472.9167,402.7018 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><rect fill="#FEFECE" filter="url(#f1wv1v4kurj1x7)" height="60.0098" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="104.1667" x="472.9167" y="453.54"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="62.5" x="493.75" y="489.5121">SteamOS</text><path d="M420.8333,342.0695 L431.25,342.0695 C446.875,342.0695 446.875,483.5449 462.5,483.5449 L472.9167,483.5449 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><rect fill="#FEFECE" filter="url(#f1wv1v4kurj1x7)" height="60.0098" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="104.1667" x="472.9167" y="534.3831"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="62.5" x="493.75" y="570.3552">Raspbian</text><path d="M420.8333,342.0695 L431.25,342.0695 C446.875,342.0695 446.875,564.388 462.5,564.388 L472.9167,564.388 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><rect fill="#FEFECE" filter="url(#f1wv1v4kurj1x7)" height="60.0098" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="120.8333" x="185.4167" y="211.0107"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="79.1667" x="206.25" y="246.9828">Windows 95</text><path d="M358.3333,342.0695 L347.9167,342.0695 C332.2917,342.0695 332.2917,241.0156 316.6667,241.0156 L306.25,241.0156 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><rect fill="#FEFECE" filter="url(#f1wv1v4kurj1x7)" height="60.0098" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="120.8333" x="185.4167" y="291.8538"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="79.1667" x="206.25" y="327.8259">Windows 98</text><path d="M358.3333,342.0695 L347.9167,342.0695 C332.2917,342.0695 332.2917,321.8587 316.6667,321.8587 L306.25,321.8587 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><rect fill="#FEFECE" filter="url(#f1wv1v4kurj1x7)" height="60.0098" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="122.9167" x="183.3333" y="372.6969"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="81.25" x="204.1667" y="408.669">Windows NT</text><rect fill="#FEFECE" filter="url(#f1wv1v4kurj1x7)" height="60.0098" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="112.5" x="18.75" y="332.2754"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="70.8333" x="39.5833" y="368.2475">Windows 8</text><path d="M183.3333,402.7018 L172.9167,402.7018 C157.2917,402.7018 157.2917,362.2803 141.6667,362.2803 L131.25,362.2803 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><rect fill="#FEFECE" filter="url(#f1wv1v4kurj1x7)" height="60.0098" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="120.8333" x="10.4167" y="413.1185"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="79.1667" x="31.25" y="449.0906">Windows 10</text><path d="M183.3333,402.7018 L172.9167,402.7018 C157.2917,402.7018 157.2917,443.1234 141.6667,443.1234 L131.25,443.1234 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><path d="M358.3333,342.0695 L347.9167,342.0695 C332.2917,342.0695 332.2917,402.7018 316.6667,402.7018 L306.25,402.7018 " fill="none" style="stroke: #2196F3; stroke-width: 3.125;"/><!--MD5=[f17aabb29fad7c6917457bed4c631d9f]
 @startmindmap
 
 
 
 skinparam backgroundColor transparent
+
 
 
 
@@ -50,7 +51,7 @@ skinparam legend {
 }
 
 skinparam activity {
-	FontColor #2196F3
+		FontColor #2196F3
 	BorderColor #2196F3
 	BackgroundColor transparent
 	BarColor #4CAF50
@@ -61,22 +62,31 @@ skinparam activity {
 	DiamondFontColor #cccccc
 }
 
+skinparam participant {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+	ParticipantBorderThickness 2
+}
+
+skinparam actor {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+}
+
+skinparam arrow {
+	Thickness 3
+	Color #2196F3
+	FontColor #222
+}
+
 skinparam sequence {
 	BorderColor #2196F3
 	TitleFontColor #2196F3
 	BackgroundColor transparent
 	StartColor #2196F3
 	EndColor #2196F3
-    ParticipantBackgroundColor transparent
-    ParticipantBorderColor #2196F3
-	ParticipantBorderThickness 1
-	ParticipantFontColor #2196F3
-	ActorBackgroundColor transparent
-    ActorBorderColor #2196F3
-	ActorFontColor #2196F3
-	ArrowThickness 3
-	ArrowColor #2196F3
-	ArrowFontColor #222
 	BoxBackgroundColor transparent
 	BoxBorderColor #666
 	BoxFontColor #222
@@ -103,26 +113,27 @@ skinparam partition {
 }
 
 skinparam collections {
-	BackgroundColor transparent
+		FontColor #2196F3
 	BorderColor #2196F3
+	BackgroundColor transparent
 }
 
 skinparam control {
-	BackgroundColor  transparent
-	BorderColor #1a78c2
-	FontColor #222
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
 }
 
 skinparam entity {
-	BackgroundColor  transparent
-	BorderColor #1a78c2
-	FontColor #222
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
 }
 
 skinparam boundary {
-	BackgroundColor  transparent
-	BorderColor #1a78c2
-	FontColor #222
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
 }
 
 skinparam agent {
@@ -145,9 +156,9 @@ skinparam artifact {
 }
 
 skinparam component {
-	BackgroundColor  transparent
-	BorderColor  #4CAF50
-	FontColor #4CAF50
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
 }
 
 skinparam interface {
@@ -169,26 +180,22 @@ skinparam node {
 }
 
 skinparam cloud {
-	BackgroundColor transparent
-	BorderColor lightskyblue
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
 	FontColor #222
 }
 
 skinparam database {
-	BackgroundColor  transparent
-	BorderColor #1a78c2
-	FontColor #222
-}
-
-skinparam actor {
-	FontColor #222
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
 }
 
 skinparam class {
-	HeaderBackgroundColor #2196F3-#1a78c2
-	FontColor #2196F3
+		FontColor #2196F3
+	BorderColor #2196F3
 	BackgroundColor transparent
-	BorderColor #1a78c2
+	HeaderBackgroundColor #2196F3-#1a78c2
 	StereotypeFontColor #222
 	BorderThickness 1
 	AttributeFontColor #222
@@ -196,9 +203,9 @@ skinparam class {
 }
 
 skinparam object {
-	FontColor #4CAF50
+		FontColor #2196F3
+	BorderColor #2196F3
 	BackgroundColor transparent
-	BorderColor #cccccc
 	StereotypeFontColor #222
 	BorderThickness 1
 	AttributeFontColor #cccccc
@@ -206,18 +213,18 @@ skinparam object {
 }
 
 skinparam usecase {
+		FontColor #2196F3
+	BorderColor #2196F3
 	BackgroundColor transparent
-	BorderColor #cccccc
 	BorderThickness 2
-	FontColor #cccccc
 	StereotypeFontColor #2196F3
 }
 
 skinparam rectangle {
+		FontColor #2196F3
+	BorderColor #2196F3
 	BackgroundColor transparent
-	BorderColor #1a78c2
 	BorderThickness 2
-	FontColor #2196F3
 	StereotypeFontColor #2196F3
 }
 
@@ -243,19 +250,19 @@ skinparam frame {
 }
 
 skinparam state {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
 	StartColor #9C27B0
 	EndColor #9C27B0
-	BackgroundColor transparent
-	BorderColor #cccccc
-	FontColor #9C27B0
 	AttributeFontColor #cccccc
 	AttributeFontSize 11
 }
 
 skinparam queue {
+		FontColor #2196F3
+	BorderColor #2196F3
 	BackgroundColor transparent
-  	BorderColor #CC7A00
-	FontColor #ff9800
 }
 
 skinparam card {
@@ -272,12 +279,13 @@ skinparam file {
 }
 
 skinparam stack {
-	BackgroundColor transparent
+		FontColor #2196F3
 	BorderColor #2196F3
-	FontColor #2196F3
+	BackgroundColor transparent
 }
 
 title Mindmap Diagram - materia-outline theme
+
 
 + OS
 ++ Ubuntu
@@ -299,11 +307,11 @@ title Mindmap Diagram - materia-outline theme
 
 PlantUML version 1.2019.12(Sun Nov 03 02:24:54 PST 2019)
 (GPL source distribution)
-Java Runtime: OpenJDK Runtime Environment
-JVM: OpenJDK 64-Bit Server VM
-Java Version: 11.0.4+11-post-Ubuntu-1ubuntu218.04.3
-Operating System: Linux
-Default Encoding: UTF-8
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_212-b32
+Operating System: Windows 10
+Default Encoding: Cp1252
 Language: en
 Country: US
 --></g></svg>
