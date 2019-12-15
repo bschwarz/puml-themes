@@ -14,7 +14,7 @@ link fork_state to State3--><path d="M223.4906,151.7767 C229.149,161.1548 244.98
 link State2 to join_state--><path d="M182.7104,271.5205 C194.2719,291.0434 208.926,315.7903 216.4323,328.4663 " fill="none" id="State2-&gt;join_state" style="stroke: #2FA4E7; stroke-width: 3.125;"/><polygon fill="#2FA4E7" points="219.1813,333.109,217.9896,322.9192,216.5275,328.6275,210.8192,327.1653,219.1813,333.109" style="stroke: #2FA4E7; stroke-width: 3.125;"/><!--MD5=[183fde86cac17ac230b97143534e47db]
 link State3 to join_state--><path d="M260.7271,271.5205 C248.9479,291.0434 234.0167,315.7903 226.3688,328.4663 " fill="none" id="State3-&gt;join_state" style="stroke: #2FA4E7; stroke-width: 3.125;"/><polygon fill="#2FA4E7" points="223.5677,333.109,231.9781,327.2339,226.2581,328.6493,224.8427,322.9293,223.5677,333.109" style="stroke: #2FA4E7; stroke-width: 3.125;"/><!--MD5=[1e473d623208eebf6d5ebd6e9bc5a11d]
 link join_state to State4--><path d="M221.3542,342.4017 C221.3542,351.6621 221.3542,377.3705 221.3542,398.9007 " fill="none" id="join_state-&gt;State4" style="stroke: #2FA4E7; stroke-width: 3.125;"/><polygon fill="#2FA4E7" points="221.3542,404.2725,225.5208,394.8975,221.3542,399.0642,217.1875,394.8975,221.3542,404.2725" style="stroke: #2FA4E7; stroke-width: 3.125;"/><!--MD5=[0a70b1a7cf318979336334b4227eefe4]
-link State4 to Active--><path d="M221.3542,461.9903 C221.3542,476.5673 221.3542,496.084 221.3542,518.61 " fill="none" id="State4-&gt;Active" style="stroke: #2FA4E7; stroke-width: 3.125;"/><polygon fill="#2FA4E7" points="221.3542,524.085,225.5208,514.71,221.3542,518.8767,217.1875,514.71,221.3542,524.085" style="stroke: #2FA4E7; stroke-width: 3.125;"/><!--MD5=[aa7bc8f2c9446595c3603f1544b20dc1]
+link State4 to Active--><path d="M221.3542,461.9903 C221.3542,476.5673 221.3542,496.084 221.3542,518.61 " fill="none" id="State4-&gt;Active" style="stroke: #2FA4E7; stroke-width: 3.125;"/><polygon fill="#2FA4E7" points="221.3542,524.085,225.5208,514.71,221.3542,518.8767,217.1875,514.71,221.3542,524.085" style="stroke: #2FA4E7; stroke-width: 3.125;"/><!--MD5=[0448c09a933f545ac4b2f632ac67bb1d]
 @startuml
 
 
@@ -193,8 +193,8 @@ skinparam node {
 }
 
 skinparam cloud {
-	BackgroundColor transparent
-	BorderColor  lightskyblue
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
 	FontColor #343A40
 }
 
