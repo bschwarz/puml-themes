@@ -291,8 +291,6 @@ skinparam cloud {
 skinparam database {
 	$primary_scheme()
 	FontColor $DARK
-	' BorderColor $PRIMARY_LIGHT
-	' BackgroundColor  $BGCOLOR
 }
 !endsub
 
