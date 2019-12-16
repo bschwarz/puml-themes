@@ -1,16 +1,17 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="409.375px" preserveAspectRatio="none" style="width:470px;height:409px;background:#000000;" version="1.1" viewBox="0 0 470 409" width="470.8333px" zoomAndPan="magnify"><defs/><g><rect fill="#000000" height="46.1528" rx="4.1667" ry="4.1667" style="stroke: #717D89; stroke-width: 1.0416666666666667;" width="457.2917" x="2.0833" y="2.0833"/><text fill="#DF691A" font-family="Verdana" font-size="20.8333" lengthAdjust="spacingAndGlyphs" textLength="430.2083" x="15.625" y="33.4452">Usecase Diagram - cyborg-outline theme</text><!--MD5=[111002b242a260edbcaabc3e471064d0]
-cluster checkout--><rect fill="#000000" height="267.7083" rx="4.1667" ry="4.1667" style="stroke: #B25415; stroke-width: 2.0833333333333335;" width="93.75" x="193.2292" y="68.0278"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="61.4583" x="209.375" y="87.8866">checkout</text><ellipse cx="240.276" cy="217.2214" fill="#000000" rx="38.7135" ry="16.3812" style="stroke: #4E5D6C; stroke-width: 2.0833333333333335;"/><text fill="#717D89" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="58.3333" x="211.1093" y="221.1714">checkout</text><ellipse cx="240.193" cy="121.3636" fill="#000000" rx="38.1096" ry="16.3567" style="stroke: #4E5D6C; stroke-width: 2.0833333333333335;"/><text fill="#717D89" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="57.2917" x="211.5471" y="125.3136">payment</text><ellipse cx="239.9981" cy="311.8401" fill="#000000" rx="21.2481" ry="15.1666" style="stroke: #4E5D6C; stroke-width: 2.0833333333333335;"/><text fill="#717D89" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="28.125" x="225.9356" y="315.7901">help</text><!--MD5=[92848cbaf65985a669855153c5362c37]
-entity customer--><ellipse cx="102.6042" cy="181.5694" fill="#000000" rx="8.3333" ry="8.3333" style="stroke: #DF691A; stroke-width: 2.0833333333333335;"/><path d="M102.6042,189.9028 L102.6042,218.0278 M89.0625,198.2361 L116.1458,198.2361 M102.6042,218.0278 L89.0625,233.6528 M102.6042,218.0278 L116.1458,233.6528 " fill="none" style="stroke: #DF691A; stroke-width: 2.0833333333333335;"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="60.4167" x="72.3958" y="254.5532">customer</text><!--MD5=[ebeabf449828f4e0b33bbb47961e644b]
-entity clerk--><ellipse cx="362.5" cy="181.5694" fill="#000000" rx="8.3333" ry="8.3333" style="stroke: #DF691A; stroke-width: 2.0833333333333335;"/><path d="M362.5,189.9028 L362.5,218.0278 M348.9583,198.2361 L376.0417,198.2361 M362.5,218.0278 L348.9583,233.6528 M362.5,218.0278 L376.0417,233.6528 " fill="none" style="stroke: #DF691A; stroke-width: 2.0833333333333335;"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="30.2083" x="347.3958" y="254.5532">clerk</text><!--MD5=[852381a7bb976b86080137fb6d718ea9]
-link customer to checkout--><path d="M138.3718,216.9861 C157.628,216.9861 181.4085,216.9861 201.1346,216.9861 " fill="none" id="customer-checkout" style="stroke: #DF691A; stroke-width: 3.125;"/><!--MD5=[3ad5c6d5c608bfd6b87dc9c07c40a15f]
-link checkout to payment--><path d="M240.1042,200.7293 C240.1042,184.7588 240.1042,160.2954 240.1042,142.7092 " fill="none" id="checkout-&gt;payment" style="stroke: #DF691A; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><polygon fill="#DF691A" points="240.1042,137.4893,235.9375,146.8643,240.1042,142.6976,244.2708,146.8643,240.1042,137.4893" style="stroke: #DF691A; stroke-width: 3.125;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="45.8333" x="200.5208" y="174.3449">include</text><!--MD5=[739e7928149c8fe27c2b5850560351c7]
-link help to checkout--><path d="M240.1042,296.5479 C240.1042,280.8965 240.1042,256.3843 240.1042,238.7026 " fill="none" id="help-&gt;checkout" style="stroke: #DF691A; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><polygon fill="#DF691A" points="240.1042,233.4518,235.9375,242.8268,240.1042,238.6601,244.2708,242.8268,240.1042,233.4518" style="stroke: #DF691A; stroke-width: 3.125;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="53.125" x="196.875" y="270.1782">extends</text><!--MD5=[b4c4ee8f2d94c159d2b9e04bd372cbe0]
-link checkout to clerk--><path d="M278.8309,216.9861 C299.8416,216.9861 324.9559,216.9861 342.1515,216.9861 " fill="none" id="checkout-clerk" style="stroke: #DF691A; stroke-width: 3.125;"/><rect fill="#000000" height="36.025" rx="5.2083" ry="5.2083" style="stroke: #717D89; stroke-width: 1.0416666666666667;" width="135.4167" x="163.0208" y="362.8194"/><text fill="#ABB6C2" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="112.5" x="174.4792" y="385.8032">This is my legend</text><!--MD5=[06ae8ebc540327416ce4e81c76ac0b82]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="442.7083px" preserveAspectRatio="none" style="width:507px;height:442px;background:#000000;" version="1.1" viewBox="0 0 507 442" width="507.2917px" zoomAndPan="magnify"><defs/><g><rect fill="#000000" height="46.1528" rx="4.1667" ry="4.1667" style="stroke: #717D89; stroke-width: 1.0416666666666667;" width="493.75" x="2.0833" y="2.0833"/><text fill="#DF691A" font-family="Verdana" font-size="20.8333" lengthAdjust="spacingAndGlyphs" textLength="466.6667" x="15.625" y="33.4452">Usecase Diagram - superhero-outline theme</text><!--MD5=[111002b242a260edbcaabc3e471064d0]
+cluster checkout--><rect fill="#000000" height="284.375" rx="4.1667" ry="4.1667" style="stroke: #E58748; stroke-width: 2.0833333333333335;" width="110.4167" x="203.125" y="76.3611"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="61.4583" x="227.6042" y="96.2199">checkout</text><ellipse cx="258.5052" cy="233.8881" fill="#000000" rx="38.7135" ry="16.3812" style="stroke: #E58748; stroke-width: 2.0833333333333335;"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="58.3333" x="229.3385" y="237.8381">checkout</text><ellipse cx="258.4221" cy="138.0303" fill="#000000" rx="38.1096" ry="16.3567" style="stroke: #E58748; stroke-width: 2.0833333333333335;"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="57.2917" x="229.7763" y="141.9803">payment</text><ellipse cx="258.2272" cy="328.5068" fill="#000000" rx="21.2481" ry="15.1666" style="stroke: #E58748; stroke-width: 2.0833333333333335;"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="28.125" x="244.1647" y="332.4568">help</text><!--MD5=[92848cbaf65985a669855153c5362c37]
+entity customer--><ellipse cx="118.75" cy="198.2361" fill="#000000" rx="8.3333" ry="8.3333" style="stroke: #E58748; stroke-width: 2.0833333333333335;"/><path d="M118.75,206.5694 L118.75,234.6944 M105.2083,214.9028 L132.2917,214.9028 M118.75,234.6944 L105.2083,250.3194 M118.75,234.6944 L132.2917,250.3194 " fill="none" style="stroke: #E58748; stroke-width: 2.0833333333333335;"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="60.4167" x="88.5417" y="271.2199">customer</text><!--MD5=[ebeabf449828f4e0b33bbb47961e644b]
+entity clerk--><ellipse cx="382.8125" cy="198.2361" fill="#000000" rx="8.3333" ry="8.3333" style="stroke: #E58748; stroke-width: 2.0833333333333335;"/><path d="M382.8125,206.5694 L382.8125,234.6944 M369.2708,214.9028 L396.3542,214.9028 M382.8125,234.6944 L369.2708,250.3194 M382.8125,234.6944 L396.3542,250.3194 " fill="none" style="stroke: #E58748; stroke-width: 2.0833333333333335;"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="30.2083" x="367.7083" y="271.2199">clerk</text><!--MD5=[852381a7bb976b86080137fb6d718ea9]
+link customer to checkout--><path d="M154.4888,233.6528 C174.378,233.6528 199.3542,233.6528 219.7083,233.6528 " fill="none" id="customer-checkout" style="stroke: #DF691A; stroke-width: 3.125;"/><!--MD5=[3ad5c6d5c608bfd6b87dc9c07c40a15f]
+link checkout to payment--><path d="M258.3333,217.3955 C258.3333,201.4257 258.3333,176.9621 258.3333,159.3757 " fill="none" id="checkout-&gt;payment" style="stroke: #DF691A; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><polygon fill="#DF691A" points="258.3333,154.1559,254.1667,163.5309,258.3333,159.3642,262.5,163.5309,258.3333,154.1559" style="stroke: #DF691A; stroke-width: 3.125;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="45.8333" x="218.75" y="191.0116">include</text><!--MD5=[739e7928149c8fe27c2b5850560351c7]
+link help to checkout--><path d="M258.3333,313.2145 C258.3333,297.5632 258.3333,273.0507 258.3333,255.3694 " fill="none" id="help-&gt;checkout" style="stroke: #DF691A; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><polygon fill="#DF691A" points="258.3333,250.1184,254.1667,259.4934,258.3333,255.3267,262.5,259.4934,258.3333,250.1184" style="stroke: #DF691A; stroke-width: 3.125;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="53.125" x="215.1042" y="286.8449">extends</text><!--MD5=[b4c4ee8f2d94c159d2b9e04bd372cbe0]
+link checkout to clerk--><path d="M297.0969,233.6528 C318.7302,233.6528 344.9781,233.6528 362.4594,233.6528 " fill="none" id="checkout-clerk" style="stroke: #DF691A; stroke-width: 3.125;"/><rect fill="#000000" height="36.025" rx="5.2083" ry="5.2083" style="stroke: #717D89; stroke-width: 1.0416666666666667;" width="135.4167" x="181.25" y="396.1528"/><text fill="#ABB6C2" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="112.5" x="192.7083" y="419.1366">This is my legend</text><!--MD5=[95e31dc7ad3f84b8a27eafcf55462f5c]
 @startuml
 
 
 
 skinparam backgroundColor black
+
 
 
 
@@ -58,8 +59,8 @@ skinparam legend {
 }
 
 skinparam activity {
-	FontColor #DF691A
-	BorderColor #DF691A
+		FontColor #DF691A
+	BorderColor #e58748
 	BackgroundColor black
 	BarColor #5cb85c
 	StartColor #5bc0de
@@ -69,22 +70,32 @@ skinparam activity {
   	DiamondFontColor #717d89
 }
 
+skinparam participant {
+		FontColor #DF691A
+	BorderColor #e58748
+	BackgroundColor black
+	ParticipantBorderThickness 2
+}
+
+skinparam actor {
+		FontColor #DF691A
+	BorderColor #e58748
+	BackgroundColor black
+	FontColor #DF691A
+}
+
+skinparam arrow {
+	Thickness 3
+	Color #DF691A
+	FontColor #FFF
+}
+
 skinparam sequence {
 	BorderColor #DF691A
 	TitleFontColor #DF691A
 	BackgroundColor black
 	StartColor #DF691A
 	EndColor #DF691A
-    ParticipantBackgroundColor black
-    ParticipantBorderColor #DF691A
-	ParticipantBorderThickness 1
-	ParticipantFontColor #DF691A
-	ActorBackgroundColor black
-    ActorBorderColor #DF691A
-	ActorFontColor #DF691A
-	ArrowThickness 3
-	ArrowColor #DF691A
-	ArrowFontColor #FFF
 	BoxBackgroundColor black
 	BoxBorderColor #4E5D6C
 	BoxFontColor $DARk
@@ -111,26 +122,27 @@ skinparam partition {
 }
 
 skinparam collections {
-	BackgroundColor black
+		FontColor #DF691A
 	BorderColor #e58748
+	BackgroundColor black
 }
 
 skinparam control {
-	BackgroundColor  black
+		FontColor #DF691A
 	BorderColor #e58748
-	FontColor #4E5D6C
+	BackgroundColor black
 }
 
 skinparam entity {
-	BackgroundColor  black
+		FontColor #DF691A
 	BorderColor #e58748
-	FontColor #4E5D6C
+	BackgroundColor black
 }
 
 skinparam boundary {
-	BackgroundColor  black
+		FontColor #DF691A
 	BorderColor #e58748
-	FontColor #4E5D6C
+	BackgroundColor black
 }
 
 skinparam agent {
@@ -153,9 +165,9 @@ skinparam artifact {
 }
 
 skinparam component {
-	BackgroundColor  black
-	BorderColor  #4a934a
-	FontColor #5cb85c
+		FontColor #DF691A
+	BorderColor #e58748
+	BackgroundColor black
 }
 
 skinparam interface {
@@ -178,25 +190,22 @@ skinparam node {
 
 skinparam cloud {
 	BackgroundColor black
-	BorderColor lightskyblue
+	BorderColor #F2FCFE
 	FontColor #4E5D6C
 }
 
 skinparam database {
-	BackgroundColor  black
+		FontColor #DF691A
 	BorderColor #e58748
-	FontColor #4E5D6C
-}
-
-skinparam actor {
-	FontColor #4E5D6C
+	BackgroundColor black
+	FontColor #DF691A
 }
 
 skinparam class {
-	HeaderBackgroundColor #b25415
-	FontColor #DF691A
-	BackgroundColor black
+		FontColor #DF691A
 	BorderColor #e58748
+	BackgroundColor black
+	HeaderBackgroundColor #b25415
 	StereotypeFontColor #4E5D6C
 	BorderThickness 1
 	AttributeFontColor #4E5D6C
@@ -204,9 +213,9 @@ skinparam class {
 }
 
 skinparam object {
-	FontColor #5cb85c
+		FontColor #DF691A
+	BorderColor #e58748
 	BackgroundColor black
-	BorderColor #717d89
 	StereotypeFontColor #4E5D6C
 	BorderThickness 1
 	AttributeFontColor #717d89
@@ -214,18 +223,18 @@ skinparam object {
 }
 
 skinparam usecase {
+		FontColor #DF691A
+	BorderColor #e58748
 	BackgroundColor black
-	BorderColor #4E5D6C
 	BorderThickness 2
-	FontColor #717d89
 	StereotypeFontColor #DF691A
 }
 
 skinparam rectangle {
+		FontColor #DF691A
+	BorderColor #e58748
 	BackgroundColor black
-	BorderColor #b25415
 	BorderThickness 2
-	FontColor #DF691A
 	StereotypeFontColor #DF691A
 }
 
@@ -251,19 +260,19 @@ skinparam frame {
 }
 
 skinparam state {
+		FontColor #DF691A
+	BorderColor #e58748
+	BackgroundColor black
 	StartColor #5bc0de
 	EndColor #5bc0de
-	BackgroundColor black
-	BorderColor #717d89
-	FontColor #5bc0de
 	AttributeFontColor #717d89
 	AttributeFontSize 11
 }
 
 skinparam queue {
+		FontColor #DF691A
+	BorderColor #e58748
 	BackgroundColor black
-  	BorderColor #f0ad4e
-	FontColor #f0ad4e
 }
 
 skinparam card {
@@ -279,12 +288,12 @@ skinparam file {
 }
 
 skinparam stack {
-	BackgroundColor black
+		FontColor #DF691A
 	BorderColor #e58748
-	FontColor #DF691A
+	BackgroundColor black
 }
 
-title Usecase Diagram - cyborg-outline theme
+title Usecase Diagram - superhero-outline theme
 
 legend
 This is my legend
@@ -304,11 +313,11 @@ rectangle checkout {
 
 PlantUML version 1.2019.12(Sun Nov 03 02:24:54 PST 2019)
 (GPL source distribution)
-Java Runtime: OpenJDK Runtime Environment
-JVM: OpenJDK 64-Bit Server VM
-Java Version: 11.0.4+11-post-Ubuntu-1ubuntu218.04.3
-Operating System: Linux
-Default Encoding: UTF-8
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_212-b32
+Operating System: Windows 10
+Default Encoding: Cp1252
 Language: en
 Country: US
 --></g></svg>
