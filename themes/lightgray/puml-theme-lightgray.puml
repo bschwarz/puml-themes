@@ -77,7 +77,7 @@ skinparam shadowing              false
 skinparam roundcorner            30
 skinparam ParticipantPadding     30
 skinparam BoxPadding             30
-skinparam Padding                8
+skinparam Padding                16
 skinparam ArrowColor             $GRAY
 skinparam stereotype {
     CBackgroundColor $SECONDARY_LIGHT
