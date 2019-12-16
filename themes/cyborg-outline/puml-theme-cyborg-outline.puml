@@ -126,9 +126,7 @@ skinparam legend {
 
 !startsub activity
 skinparam activity {
-	FontColor $PRIMARY_TEXT
-	BorderColor $PRIMARY
-	BackgroundColor $BGCOLOR
+	$primary_scheme()
 	BarColor $SUCCESS
 	StartColor $INFO
 	EndColor $INFO
