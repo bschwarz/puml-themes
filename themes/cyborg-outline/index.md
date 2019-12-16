@@ -36,17 +36,12 @@ Remote file (for legacy plantuml, use !includeurl)
     </tr>
     <tr>
         <td>
-            <img src="sequence-ex.svg">
-        </td>
-    </tr>
-   <tr>
-        <td>
-            <img src="usecase-ex.svg">
+            <img src="object-ex.svg">
         </td>
     </tr>
     <tr>
         <td>
-            <!-- <img src="sequence-ex.svg"> -->
+            <img src="sequence-ex.svg">
         </td>
     </tr>
     <tr>
@@ -56,7 +51,7 @@ Remote file (for legacy plantuml, use !includeurl)
     </tr>
     <tr>
         <td>
-            <img src="object-ex.svg">
+            <img src="usecase-ex.svg">
         </td>
     </tr>
 </table>
