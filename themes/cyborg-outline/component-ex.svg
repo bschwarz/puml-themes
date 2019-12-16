@@ -31,7 +31,7 @@ link My Storage to My Queue--><!--MD5=[756be6e13c059af04edf2b7b91188131]
 link My Artifact to My Interface--><!--MD5=[9bfee3aea78949ae207e8bd3b67fed50]
 link My Interface to My Card--><!--MD5=[7d5148706a659d88e9a451ba2a45522c]
 link My Card to My File--><!--MD5=[25b27bb9c6f1602048cde482562a8061]
-link My Interface to My Stack--><!--MD5=[ea795c59b31e136b0f0ff42ce0425309]
+link My Interface to My Stack--><!--MD5=[ee73878ac4badd12dd4241b98885e8aa]
 @startuml
 
 
@@ -127,6 +127,8 @@ skinparam sequence {
 	GroupBorderColor #ADAFAE
 	GroupFontColor #ADAFAE
 	GroupHeaderFontColor #9933CC
+	GroupBackgroundColor black
+	GroupHeaderBackgroundColor black
 	DividerBackgroundColor black
     DividerBorderColor #ADAFAE
     DividerBorderThickness 2
@@ -135,6 +137,7 @@ skinparam sequence {
 	ReferenceBorderColor #ADAFAE
 	ReferenceFontColor #ADAFAE
 	ReferenceHeaderFontColor #9933CC
+	ReferenceHeaderBackgroundColor black
 }
 
 skinparam partition {

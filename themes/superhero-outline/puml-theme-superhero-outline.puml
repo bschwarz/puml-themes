@@ -131,9 +131,6 @@ skinparam legend {
 !startsub activity
 skinparam activity {
 	$primary_scheme()
-	' FontColor $PRIMARY_TEXT
-	' BorderColor $PRIMARY
-	' BackgroundColor $BGCOLOR
 	BarColor $SUCCESS
 	StartColor $INFO
 	EndColor $INFO
@@ -186,6 +183,8 @@ skinparam sequence {
 	GroupBorderColor $DARK
 	GroupFontColor $DARK
 	GroupHeaderFontColor $INFO
+	GroupBackgroundColor $BGCOLOR
+	GroupHeaderBackgroundColor $BGCOLOR
 	''
 	DividerBackgroundColor $BGCOLOR
     DividerBorderColor $DARK
@@ -196,6 +195,7 @@ skinparam sequence {
 	ReferenceBorderColor $LIGHT
 	ReferenceFontColor $LIGHT
 	ReferenceHeaderFontColor $INFO
+	ReferenceHeaderBackgroundColor $BGCOLOR
 }
 !endsub
 
@@ -210,35 +210,24 @@ skinparam partition {
 !startsub collections
 skinparam collections {
 	$primary_scheme()
-	' BackgroundColor $BGCOLOR
-	' BorderColor $PRIMARY_DARK
 }
 !endsub
 
 !startsub control
 skinparam control {
 	$primary_scheme()
-	' BackgroundColor  $BGCOLOR
-	' BorderColor $PRIMARY_DARK
-	' FontColor $DARK
 }
 !endsub
 
 !startsub entity
 skinparam entity {
 	$primary_scheme()
-	' BackgroundColor  $BGCOLOR
-	' BorderColor $PRIMARY_DARK
-	' FontColor $DARK
 }
 !endsub
 
 !startsub boundary
 skinparam boundary {
 	$primary_scheme()
-	' BackgroundColor  $BGCOLOR
-	' BorderColor $PRIMARY_DARK
-	' FontColor $DARK
 }
 !endsub
 
@@ -270,9 +259,6 @@ skinparam artifact {
 !startsub component
 skinparam component {
 	$primary_scheme()
-	' BackgroundColor  $BGCOLOR
-	' BorderColor  $SUCCESS_DARK
-	' FontColor $SUCCESS_TEXT
 }
 !endsub
 
@@ -311,9 +297,6 @@ skinparam cloud {
 !startsub database
 skinparam database {
 	$primary_scheme()
-	' BackgroundColor  $BGCOLOR
-	' BorderColor $PRIMARY_DARK
-	' FontColor $DARK
 	FontColor $PRIMARY
 }
 !endsub
@@ -322,9 +305,6 @@ skinparam database {
 skinparam class {
 	$primary_scheme()
 	HeaderBackgroundColor $PRIMARY_LIGHT
-	' FontColor $PRIMARY_TEXT
-	' BackgroundColor $BGCOLOR
-	' BorderColor $PRIMARY_DARK
 	StereotypeFontColor $DARK
 	BorderThickness 1
 	AttributeFontColor $DARK
@@ -335,9 +315,6 @@ skinparam class {
 !startsub object
 skinparam object {
 	$primary_scheme()
-	' FontColor $SUCCESS
-	' BackgroundColor $BGCOLOR
-	' BorderColor $SECONDARY_DARK
 	StereotypeFontColor $DARK
 	BorderThickness 1
 	AttributeFontColor $SECONDARY_DARK
@@ -348,10 +325,7 @@ skinparam object {
 !startsub usecase
 skinparam usecase {
 	$primary_scheme()
-	' BackgroundColor $BGCOLOR
-	' BorderColor $SECONDARY
 	BorderThickness 2
-	' FontColor $SECONDARY_TEXT
 	StereotypeFontColor $PRIMARY
 }
 !endsub
@@ -359,10 +333,7 @@ skinparam usecase {
 !startsub rectangle
 skinparam rectangle {
 	$primary_scheme()
-	' BackgroundColor $BGCOLOR
-	' BorderColor $PRIMARY_LIGHT
 	BorderThickness 2
-	' FontColor $PRIMARY
 	StereotypeFontColor $PRIMARY
 }
 !endsub
@@ -399,9 +370,6 @@ skinparam state {
 	$primary_scheme()
 	StartColor $INFO
 	EndColor $INFO
-	' BackgroundColor $BGCOLOR
-	' BorderColor $SECONDARY_DARK
-	' FontColor $INFO
 	AttributeFontColor $SECONDARY_TEXT
 	AttributeFontSize 11
 }
@@ -410,9 +378,6 @@ skinparam state {
 !startsub queue
 skinparam queue {
 	$primary_scheme()
-	' BackgroundColor $BGCOLOR
-  	' BorderColor $WARNING
-	' FontColor $WARNING_TEXT
 }
 !endsub
 
@@ -435,8 +400,5 @@ skinparam file {
 !startsub stack
 skinparam stack {
 	$primary_scheme()
-	' BackgroundColor $BGCOLOR
-	' BorderColor $PRIMARY_DARK
-	' FontColor $PRIMARY_TEXT
 }
 !endsub

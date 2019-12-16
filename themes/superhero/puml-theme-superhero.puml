@@ -178,6 +178,8 @@ skinparam sequence {
 	GroupBorderColor $DARK
 	GroupFontColor $DARK
 	GroupHeaderFontColor $INFO
+	GroupBackgroundColor $SECONDARY
+	GroupHeaderBackgroundColor $BGCOLOR
 	''
 	DividerBackgroundColor $DARK
     DividerBorderColor $DARK
@@ -188,6 +190,7 @@ skinparam sequence {
 	ReferenceBorderColor $DARK
 	ReferenceFontColor $DARK
 	ReferenceHeaderFontColor $INFO
+	ReferenceHeaderBackgroundColor $SECONDARY
 }
 !endsub
 

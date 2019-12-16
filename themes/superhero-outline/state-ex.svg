@@ -14,7 +14,7 @@ link fork_state to State3--><path d="M231.3031,151.7767 C236.9615,161.1548 252.7
 link State2 to join_state--><path d="M190.5229,271.5205 C202.0844,291.0434 216.7385,315.7903 224.2448,328.4663 " fill="none" id="State2-&gt;join_state" style="stroke: #DF691A; stroke-width: 3.125;"/><polygon fill="#DF691A" points="226.9938,333.109,225.8021,322.9192,224.34,328.6275,218.6317,327.1653,226.9938,333.109" style="stroke: #DF691A; stroke-width: 3.125;"/><!--MD5=[183fde86cac17ac230b97143534e47db]
 link State3 to join_state--><path d="M268.5396,271.5205 C256.7604,291.0434 241.8292,315.7903 234.1813,328.4663 " fill="none" id="State3-&gt;join_state" style="stroke: #DF691A; stroke-width: 3.125;"/><polygon fill="#DF691A" points="231.3802,333.109,239.7906,327.2339,234.0706,328.6493,232.6552,322.9293,231.3802,333.109" style="stroke: #DF691A; stroke-width: 3.125;"/><!--MD5=[1e473d623208eebf6d5ebd6e9bc5a11d]
 link join_state to State4--><path d="M229.1667,342.4017 C229.1667,351.6621 229.1667,377.3705 229.1667,398.9007 " fill="none" id="join_state-&gt;State4" style="stroke: #DF691A; stroke-width: 3.125;"/><polygon fill="#DF691A" points="229.1667,404.2725,233.3333,394.8975,229.1667,399.0642,225,394.8975,229.1667,404.2725" style="stroke: #DF691A; stroke-width: 3.125;"/><!--MD5=[0a70b1a7cf318979336334b4227eefe4]
-link State4 to Active--><path d="M229.1667,461.9903 C229.1667,476.5673 229.1667,496.084 229.1667,518.61 " fill="none" id="State4-&gt;Active" style="stroke: #DF691A; stroke-width: 3.125;"/><polygon fill="#DF691A" points="229.1667,524.085,233.3333,514.71,229.1667,518.8767,225,514.71,229.1667,524.085" style="stroke: #DF691A; stroke-width: 3.125;"/><!--MD5=[8e04446292b63221e9ce98ad04ffd942]
+link State4 to Active--><path d="M229.1667,461.9903 C229.1667,476.5673 229.1667,496.084 229.1667,518.61 " fill="none" id="State4-&gt;Active" style="stroke: #DF691A; stroke-width: 3.125;"/><polygon fill="#DF691A" points="229.1667,524.085,233.3333,514.71,229.1667,518.8767,225,514.71,229.1667,524.085" style="stroke: #DF691A; stroke-width: 3.125;"/><!--MD5=[87b4f6e64ec51e9d85b5cf648677cc4a]
 @startuml
 
 
@@ -114,6 +114,8 @@ skinparam sequence {
 	GroupBorderColor #4E5D6C
 	GroupFontColor #4E5D6C
 	GroupHeaderFontColor #5bc0de
+	GroupBackgroundColor black
+	GroupHeaderBackgroundColor black
 	DividerBackgroundColor black
     DividerBorderColor #4E5D6C
     DividerBorderThickness 2
@@ -122,6 +124,7 @@ skinparam sequence {
 	ReferenceBorderColor #abb6c2
 	ReferenceFontColor #abb6c2
 	ReferenceHeaderFontColor #5bc0de
+	ReferenceHeaderBackgroundColor black
 }
 
 skinparam partition {

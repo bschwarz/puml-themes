@@ -14,7 +14,7 @@ link fork_state to State3--><path d="M213.074,151.7767 C218.7323,161.1548 234.56
 link State2 to join_state--><path d="M172.2938,271.5205 C183.8552,291.0434 198.5094,315.7903 206.0156,328.4663 " fill="none" id="State2-&gt;join_state" style="stroke: #2A9FD6; stroke-width: 3.125;"/><polygon fill="#2A9FD6" points="208.7646,333.109,207.573,322.9192,206.1108,328.6275,200.4025,327.1653,208.7646,333.109" style="stroke: #2A9FD6; stroke-width: 3.125;"/><!--MD5=[183fde86cac17ac230b97143534e47db]
 link State3 to join_state--><path d="M250.3104,271.5205 C238.5313,291.0434 223.6,315.7903 215.9521,328.4663 " fill="none" id="State3-&gt;join_state" style="stroke: #2A9FD6; stroke-width: 3.125;"/><polygon fill="#2A9FD6" points="213.151,333.109,221.5615,327.2339,215.8414,328.6493,214.426,322.9293,213.151,333.109" style="stroke: #2A9FD6; stroke-width: 3.125;"/><!--MD5=[1e473d623208eebf6d5ebd6e9bc5a11d]
 link join_state to State4--><path d="M210.9375,342.4017 C210.9375,351.6621 210.9375,377.3705 210.9375,398.9007 " fill="none" id="join_state-&gt;State4" style="stroke: #2A9FD6; stroke-width: 3.125;"/><polygon fill="#2A9FD6" points="210.9375,404.2725,215.1042,394.8975,210.9375,399.0642,206.7708,394.8975,210.9375,404.2725" style="stroke: #2A9FD6; stroke-width: 3.125;"/><!--MD5=[0a70b1a7cf318979336334b4227eefe4]
-link State4 to Active--><path d="M210.9375,461.9903 C210.9375,476.5673 210.9375,496.084 210.9375,518.61 " fill="none" id="State4-&gt;Active" style="stroke: #2A9FD6; stroke-width: 3.125;"/><polygon fill="#2A9FD6" points="210.9375,524.085,215.1042,514.71,210.9375,518.8767,206.7708,514.71,210.9375,524.085" style="stroke: #2A9FD6; stroke-width: 3.125;"/><!--MD5=[d9f8ccc5a716cc6cb271caa4ec0d2fed]
+link State4 to Active--><path d="M210.9375,461.9903 C210.9375,476.5673 210.9375,496.084 210.9375,518.61 " fill="none" id="State4-&gt;Active" style="stroke: #2A9FD6; stroke-width: 3.125;"/><polygon fill="#2A9FD6" points="210.9375,524.085,215.1042,514.71,210.9375,518.8767,206.7708,514.71,210.9375,524.085" style="stroke: #2A9FD6; stroke-width: 3.125;"/><!--MD5=[59e454f3a69c1d277a9a0f8a0d134a39]
 @startuml
 
 
@@ -110,6 +110,8 @@ skinparam sequence {
 	GroupBorderColor #ADAFAE
 	GroupFontColor #ADAFAE
 	GroupHeaderFontColor #9933CC
+	GroupBackgroundColor black
+	GroupHeaderBackgroundColor black
 	DividerBackgroundColor black
     DividerBorderColor #ADAFAE
     DividerBorderThickness 2
@@ -118,6 +120,7 @@ skinparam sequence {
 	ReferenceBorderColor #ADAFAE
 	ReferenceFontColor #ADAFAE
 	ReferenceHeaderFontColor #9933CC
+	ReferenceHeaderBackgroundColor black
 }
 
 skinparam partition {

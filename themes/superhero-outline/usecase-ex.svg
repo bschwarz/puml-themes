@@ -5,7 +5,7 @@ entity clerk--><ellipse cx="382.8125" cy="198.2361" fill="#000000" rx="8.3333" r
 link customer to checkout--><path d="M154.4888,233.6528 C174.378,233.6528 199.3542,233.6528 219.7083,233.6528 " fill="none" id="customer-checkout" style="stroke: #DF691A; stroke-width: 3.125;"/><!--MD5=[3ad5c6d5c608bfd6b87dc9c07c40a15f]
 link checkout to payment--><path d="M258.3333,217.3955 C258.3333,201.4257 258.3333,176.9621 258.3333,159.3757 " fill="none" id="checkout-&gt;payment" style="stroke: #DF691A; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><polygon fill="#DF691A" points="258.3333,154.1559,254.1667,163.5309,258.3333,159.3642,262.5,163.5309,258.3333,154.1559" style="stroke: #DF691A; stroke-width: 3.125;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="45.8333" x="218.75" y="191.0116">include</text><!--MD5=[739e7928149c8fe27c2b5850560351c7]
 link help to checkout--><path d="M258.3333,313.2145 C258.3333,297.5632 258.3333,273.0507 258.3333,255.3694 " fill="none" id="help-&gt;checkout" style="stroke: #DF691A; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><polygon fill="#DF691A" points="258.3333,250.1184,254.1667,259.4934,258.3333,255.3267,262.5,259.4934,258.3333,250.1184" style="stroke: #DF691A; stroke-width: 3.125;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="53.125" x="215.1042" y="286.8449">extends</text><!--MD5=[b4c4ee8f2d94c159d2b9e04bd372cbe0]
-link checkout to clerk--><path d="M297.0969,233.6528 C318.7302,233.6528 344.9781,233.6528 362.4594,233.6528 " fill="none" id="checkout-clerk" style="stroke: #DF691A; stroke-width: 3.125;"/><rect fill="#000000" height="36.025" rx="5.2083" ry="5.2083" style="stroke: #717D89; stroke-width: 1.0416666666666667;" width="135.4167" x="181.25" y="396.1528"/><text fill="#ABB6C2" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="112.5" x="192.7083" y="419.1366">This is my legend</text><!--MD5=[95e31dc7ad3f84b8a27eafcf55462f5c]
+link checkout to clerk--><path d="M297.0969,233.6528 C318.7302,233.6528 344.9781,233.6528 362.4594,233.6528 " fill="none" id="checkout-clerk" style="stroke: #DF691A; stroke-width: 3.125;"/><rect fill="#000000" height="36.025" rx="5.2083" ry="5.2083" style="stroke: #717D89; stroke-width: 1.0416666666666667;" width="135.4167" x="181.25" y="396.1528"/><text fill="#ABB6C2" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="112.5" x="192.7083" y="419.1366">This is my legend</text><!--MD5=[72823d4645188e2edae7729ab000e43b]
 @startuml
 
 
@@ -105,6 +105,8 @@ skinparam sequence {
 	GroupBorderColor #4E5D6C
 	GroupFontColor #4E5D6C
 	GroupHeaderFontColor #5bc0de
+	GroupBackgroundColor black
+	GroupHeaderBackgroundColor black
 	DividerBackgroundColor black
     DividerBorderColor #4E5D6C
     DividerBorderThickness 2
@@ -113,6 +115,7 @@ skinparam sequence {
 	ReferenceBorderColor #abb6c2
 	ReferenceFontColor #abb6c2
 	ReferenceHeaderFontColor #5bc0de
+	ReferenceHeaderBackgroundColor black
 }
 
 skinparam partition {

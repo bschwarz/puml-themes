@@ -2,7 +2,7 @@
 reverse link Object01 to Object02--><path d="M48.4375,127.5653 C48.4375,156.3048 48.4375,192.822 48.4375,215.8961 " fill="none" id="Object01&lt;-Object02" style="stroke: #DF691A; stroke-width: 3.125;"/><polygon fill="none" points="41.1459,127.4246,48.4375,106.5903,55.7293,127.4236,41.1459,127.4246" style="stroke: #DF691A; stroke-width: 3.125;"/><!--MD5=[d21c20b16b3ff22abbc2c8af84931b60]
 reverse link Object03 to Object04--><path d="M169.2708,120.4882 C169.2708,150.0632 169.2708,190.8801 169.2708,215.8961 " fill="none" id="Object03&lt;-Object04" style="stroke: #DF691A; stroke-width: 3.125;"/><polygon fill="#DF691A" points="169.2708,106.5903,165.1042,112.8403,169.2708,119.0903,173.4375,112.8403,169.2708,106.5903" style="stroke: #DF691A; stroke-width: 3.125;"/><!--MD5=[ade907096602ef8d7fe19339b46bff0e]
 reverse link Object05 to Object06--><path d="M290.1042,120.4882 C290.1042,150.0632 290.1042,190.8801 290.1042,215.8961 " fill="none" id="Object05&lt;-Object06" style="stroke: #DF691A; stroke-width: 3.125;"/><polygon fill="#000000" points="290.1042,106.5903,285.9375,112.8403,290.1042,119.0903,294.2708,112.8403,290.1042,106.5903" style="stroke: #DF691A; stroke-width: 3.125;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="8.3333" x="274.1602" y="199.5836">4</text><!--MD5=[17488501a7bed181c851ca0c615fb4f2]
-link Object07 to Object08--><path d="M434.8958,106.5903 C434.8958,129.9736 434.8958,167.184 434.8958,196.1053 " fill="none" id="Object07-Object08" style="stroke: #DF691A; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="78.125" x="441.1458" y="156.6366">some labels</text><!--MD5=[f0ebb25744499f6b221b27b717f77e0e]
+link Object07 to Object08--><path d="M434.8958,106.5903 C434.8958,129.9736 434.8958,167.184 434.8958,196.1053 " fill="none" id="Object07-Object08" style="stroke: #DF691A; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="78.125" x="441.1458" y="156.6366">some labels</text><!--MD5=[83c0976bdc606c5534bc28ba0845ab92]
 @startuml
 
 
@@ -102,6 +102,8 @@ skinparam sequence {
 	GroupBorderColor #4E5D6C
 	GroupFontColor #4E5D6C
 	GroupHeaderFontColor #5bc0de
+	GroupBackgroundColor black
+	GroupHeaderBackgroundColor black
 	DividerBackgroundColor black
     DividerBorderColor #4E5D6C
     DividerBorderThickness 2
@@ -110,6 +112,7 @@ skinparam sequence {
 	ReferenceBorderColor #abb6c2
 	ReferenceFontColor #abb6c2
 	ReferenceHeaderFontColor #5bc0de
+	ReferenceHeaderBackgroundColor black
 }
 
 skinparam partition {
