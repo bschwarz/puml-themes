@@ -28,6 +28,7 @@ skinparam useBetaStyle true
 !$SUCCESS_LIGHT = "#a6ba7a"
 !$INFO = "#aa759f"
 !$INFO_LIGHT = "#bb91b2"
+!$INFO_DARK = "#885E7F"
 !$WARNING = "#f4bf75"
 !$WARNING_LIGHT = "#f6cc91"
 !$WARNING_TEXT = "#151515"
@@ -118,6 +119,7 @@ skinparam participant {
 !startsub actor
 skinparam actor {
 	$primary_scheme()
+	FontColor $DARK
 }
 !endsub
 
@@ -209,8 +211,8 @@ skinparam agent {
 !startsub note
 skinparam note {
 	BorderThickness 1
-	BackgroundColor $INFO_LIGHT-$INFO
-	BorderColor $INFO_LIGHT
+	BackgroundColor $INFO_LIGHT-$INFO_DARK
+	BorderColor $WHITE
 	FontColor $WHITE
 }
 !endsub
