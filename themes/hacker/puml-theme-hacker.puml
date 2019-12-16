@@ -14,7 +14,7 @@ skinparam backgroundColor $BGCOLOR
 skinparam useBetaStyle true
 
 ''
-'' Colors taken from the _default_colors.scss file
+'' Colors taken from the _default_colors.scss file for jekyll hacker theme
 ''
 !$PRIMARY = "#b5e853"
 !$PRIMARY_LIGHT = "#d3f198"
@@ -112,7 +112,7 @@ skinparam activity {
 !startsub participant
 skinparam participant {
 	$primary_scheme()
-	ParticipantBorderThickness 2
+	BorderThickness 2
 }
 !endsub
 
@@ -212,7 +212,7 @@ skinparam agent {
 skinparam note {
 	BorderThickness 1
 	BackgroundColor $INFO_LIGHT-$INFO_DARK
-	BorderColor $WHITE
+	BorderColor $INFO_DARK
 	FontColor $WHITE
 }
 !endsub
