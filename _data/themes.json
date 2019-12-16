@@ -65,6 +65,24 @@
       "description": "Hacker theme based off of Jekyll  <a href='https://github.com/pages-themes/hacker'>Hacker theme</a>",
       "url": "https://bschwarz.github.io/puml-themes/themes/hacker/",
       "background": "black"
+    },
+    {
+      "name": "black-knight",
+      "description": "Hacker theme based off of Black Knight colors",
+      "url": "https://bschwarz.github.io/puml-themes/themes/black-knight/",
+      "background": "black"
+    },
+    {
+      "name": "lightgray",
+      "description": "Light Gray theme",
+      "url": "https://bschwarz.github.io/puml-themes/themes/lightgray/",
+      "background": "white"
+    },
+    {
+      "name": "silver",
+      "description": "Silver theme",
+      "url": "https://bschwarz.github.io/puml-themes/themes/silver/",
+      "background": "white"
     }
   ]
 }
