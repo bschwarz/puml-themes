@@ -31,7 +31,7 @@ link My Storage to My Queue--><!--MD5=[756be6e13c059af04edf2b7b91188131]
 link My Artifact to My Interface--><!--MD5=[9bfee3aea78949ae207e8bd3b67fed50]
 link My Interface to My Card--><!--MD5=[7d5148706a659d88e9a451ba2a45522c]
 link My Card to My File--><!--MD5=[25b27bb9c6f1602048cde482562a8061]
-link My Interface to My Stack--><!--MD5=[94f78894a21383d4a3958694b0bc2022]
+link My Interface to My Stack--><!--MD5=[75503d44f43c6ddd42e88c6c756e63d3]
 @startuml
 
 
@@ -363,11 +363,11 @@ stack "My Stack"
 
 @enduml
 
-PlantUML version 1.2019.13(Tue Dec 10 09:18:29 PST 2019)
+PlantUML version 1.2020.00(Sat Jan 11 04:30:53 PST 2020)
 (GPL source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM
-Java Version: 11.0.4+11-post-Ubuntu-1ubuntu218.04.3
+Java Version: 11.0.5+10-post-Ubuntu-0ubuntu1.118.04
 Operating System: Linux
 Default Encoding: UTF-8
 Language: en

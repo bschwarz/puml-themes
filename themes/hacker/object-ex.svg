@@ -2,7 +2,7 @@
 reverse link Object01 to Object02--><path d="M48.4375,133.143 C48.4375,161.2045 48.4375,196.224 48.4375,218.9558 " fill="none" id="Object01&lt;-Object02" style="stroke: #B5E853; stroke-width: 3.125;"/><polygon fill="none" points="41.1459,132.8979,48.4375,112.0645,55.7293,132.8978,41.1459,132.8979" style="stroke: #B5E853; stroke-width: 3.125;"/><!--MD5=[d21c20b16b3ff22abbc2c8af84931b60]
 reverse link Object03 to Object04--><path d="M169.2708,125.7853 C169.2708,154.8339 169.2708,194.1883 169.2708,218.9558 " fill="none" id="Object03&lt;-Object04" style="stroke: #B5E853; stroke-width: 3.125;"/><polygon fill="#B5E853" points="169.2708,112.0645,165.1042,118.3145,169.2708,124.5645,173.4375,118.3145,169.2708,112.0645" style="stroke: #B5E853; stroke-width: 3.125;"/><!--MD5=[ade907096602ef8d7fe19339b46bff0e]
 reverse link Object05 to Object06--><path d="M290.1042,125.7853 C290.1042,154.8339 290.1042,194.1883 290.1042,218.9558 " fill="none" id="Object05&lt;-Object06" style="stroke: #B5E853; stroke-width: 3.125;"/><polygon fill="#000000" points="290.1042,112.0645,285.9375,118.3145,290.1042,124.5645,294.2708,118.3145,290.1042,112.0645" style="stroke: #B5E853; stroke-width: 3.125;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacingAndGlyphs" textLength="7.2917" x="275.2246" y="202.6525">4</text><!--MD5=[17488501a7bed181c851ca0c615fb4f2]
-link Object07 to Object08--><path d="M434.8958,112.0645 C434.8958,135.2073 434.8958,170.9302 434.8958,199.1407 " fill="none" id="Object07-Object08" style="stroke: #B5E853; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacingAndGlyphs" textLength="72.9167" x="441.1458" y="159.8872">some labels</text><!--MD5=[9ee02b45fe831b7a63588738748e0727]
+link Object07 to Object08--><path d="M434.8958,112.0645 C434.8958,135.2073 434.8958,170.9302 434.8958,199.1407 " fill="none" id="Object07-Object08" style="stroke: #B5E853; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacingAndGlyphs" textLength="72.9167" x="441.1458" y="159.8872">some labels</text><!--MD5=[d8aaf421618814382b4bc17f58c33158]
 @startuml
 
 
@@ -314,11 +314,11 @@ Object07 .. Object08 : some labels
 
 @enduml
 
-PlantUML version 1.2019.13(Tue Dec 10 09:18:29 PST 2019)
+PlantUML version 1.2020.00(Sat Jan 11 04:30:53 PST 2020)
 (GPL source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM
-Java Version: 11.0.4+11-post-Ubuntu-1ubuntu218.04.3
+Java Version: 11.0.5+10-post-Ubuntu-0ubuntu1.118.04
 Operating System: Linux
 Default Encoding: UTF-8
 Language: en

@@ -5,7 +5,7 @@ entity clerk--><ellipse cx="343.75" cy="184.668" fill="url(#g4mxgke3a92fw1)" rx=
 link customer to checkout--><path d="M119.6218,220.0846 C138.878,220.0846 162.6585,220.0846 182.3846,220.0846 " fill="none" id="customer-checkout" style="stroke: #B5E853; stroke-width: 3.125;"/><!--MD5=[3ad5c6d5c608bfd6b87dc9c07c40a15f]
 link checkout to payment--><path d="M221.3542,203.7546 C221.3542,188.3893 221.3542,165.2683 221.3542,148.2932 " fill="none" id="checkout-&gt;payment" style="stroke: #B5E853; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><polygon fill="#B5E853" points="221.3542,142.792,217.1875,152.167,221.3542,148.0004,225.5208,152.167,221.3542,142.792" style="stroke: #B5E853; stroke-width: 3.125;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacingAndGlyphs" textLength="41.6667" x="184.8958" y="177.5955">include</text><!--MD5=[739e7928149c8fe27c2b5850560351c7]
 link help to checkout--><path d="M221.3542,297.4841 C221.3542,282.3285 221.3542,258.9787 221.3542,241.8878 " fill="none" id="help-&gt;checkout" style="stroke: #B5E853; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><polygon fill="#B5E853" points="221.3542,236.3526,217.1875,245.7276,221.3542,241.5609,225.5208,245.7276,221.3542,236.3526" style="stroke: #B5E853; stroke-width: 3.125;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacingAndGlyphs" textLength="46.875" x="182.2917" y="271.3455">extends</text><!--MD5=[b4c4ee8f2d94c159d2b9e04bd372cbe0]
-link checkout to clerk--><path d="M260.0809,220.0846 C281.0916,220.0846 306.2059,220.0846 323.4015,220.0846 " fill="none" id="checkout-clerk" style="stroke: #B5E853; stroke-width: 3.125;"/><rect fill="#6A9FB5" height="36.025" rx="5.2083" ry="5.2083" style="stroke: #557F91; stroke-width: 1.0416666666666667;" width="135.4167" x="144.2708" y="363.8346"/><text fill="#EAEAEA" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="112.5" x="155.7292" y="386.8184">This is my legend</text><!--MD5=[7365651d6623753a4e3a0d940ec9e746]
+link checkout to clerk--><path d="M260.0809,220.0846 C281.0916,220.0846 306.2059,220.0846 323.4015,220.0846 " fill="none" id="checkout-clerk" style="stroke: #B5E853; stroke-width: 3.125;"/><rect fill="#6A9FB5" height="36.025" rx="5.2083" ry="5.2083" style="stroke: #557F91; stroke-width: 1.0416666666666667;" width="135.4167" x="144.2708" y="363.8346"/><text fill="#EAEAEA" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="112.5" x="155.7292" y="386.8184">This is my legend</text><!--MD5=[e4819e00c310da8f96f6fca2191b0e58]
 @startuml
 
 
@@ -314,11 +314,11 @@ rectangle checkout {
 }
 @enduml
 
-PlantUML version 1.2019.13(Tue Dec 10 09:18:29 PST 2019)
+PlantUML version 1.2020.00(Sat Jan 11 04:30:53 PST 2020)
 (GPL source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM
-Java Version: 11.0.4+11-post-Ubuntu-1ubuntu218.04.3
+Java Version: 11.0.5+10-post-Ubuntu-0ubuntu1.118.04
 Operating System: Linux
 Default Encoding: UTF-8
 Language: en

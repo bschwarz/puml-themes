@@ -14,7 +14,7 @@ link fork_state to State3--><path d="M192.1465,156.7193 C198.1259,166.8512 213.4
 link State2 to join_state--><path d="M151.2393,276.8036 C162.5599,296.3478 176.7356,320.8209 184.2811,333.8474 " fill="none" id="State2-&gt;join_state" style="stroke: #B5E853; stroke-width: 3.125;"/><polygon fill="#B5E853" points="187.0813,338.6817,185.9877,328.4809,184.4707,334.1749,178.7768,332.6578,187.0813,338.6817" style="stroke: #B5E853; stroke-width: 3.125;"/><!--MD5=[183fde86cac17ac230b97143534e47db]
 link State3 to join_state--><path d="M228.6508,276.8036 C217.0136,296.5222 202.4152,321.2583 194.7813,334.1937 " fill="none" id="State3-&gt;join_state" style="stroke: #B5E853; stroke-width: 3.125;"/><polygon fill="#B5E853" points="192.1326,338.6817,200.4859,332.7257,194.7798,334.1963,193.3092,328.4902,192.1326,338.6817" style="stroke: #B5E853; stroke-width: 3.125;"/><!--MD5=[1e473d623208eebf6d5ebd6e9bc5a11d]
 link join_state to State4--><path d="M189.5833,347.3443 C189.5833,357.349 189.5833,382.8072 189.5833,404.2553 " fill="none" id="join_state-&gt;State4" style="stroke: #B5E853; stroke-width: 3.125;"/><polygon fill="#B5E853" points="189.5833,409.6098,193.75,400.2348,189.5833,404.4015,185.4167,400.2348,189.5833,409.6098" style="stroke: #B5E853; stroke-width: 3.125;"/><!--MD5=[0a70b1a7cf318979336334b4227eefe4]
-link State4 to Active--><path d="M189.5833,467.027 C189.5833,481.7323 189.5833,501.287 189.5833,523.7886 " fill="none" id="State4-&gt;Active" style="stroke: #B5E853; stroke-width: 3.125;"/><polygon fill="#B5E853" points="189.5833,529.2562,193.75,519.8812,189.5833,524.0479,185.4167,519.8812,189.5833,529.2562" style="stroke: #B5E853; stroke-width: 3.125;"/><!--MD5=[f0569b2919425af62ca69a6792a1b1e5]
+link State4 to Active--><path d="M189.5833,467.027 C189.5833,481.7323 189.5833,501.287 189.5833,523.7886 " fill="none" id="State4-&gt;Active" style="stroke: #B5E853; stroke-width: 3.125;"/><polygon fill="#B5E853" points="189.5833,529.2562,193.75,519.8812,189.5833,524.0479,185.4167,519.8812,189.5833,529.2562" style="stroke: #B5E853; stroke-width: 3.125;"/><!--MD5=[91009bbe918556aa81396612f04ff8b1]
 @startuml
 
 
@@ -335,11 +335,11 @@ state Active {
 
 @enduml
 
-PlantUML version 1.2019.13(Tue Dec 10 09:18:29 PST 2019)
+PlantUML version 1.2020.00(Sat Jan 11 04:30:53 PST 2020)
 (GPL source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM
-Java Version: 11.0.4+11-post-Ubuntu-1ubuntu218.04.3
+Java Version: 11.0.5+10-post-Ubuntu-0ubuntu1.118.04
 Operating System: Linux
 Default Encoding: UTF-8
 Language: en
