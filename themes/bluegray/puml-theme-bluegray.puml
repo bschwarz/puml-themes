@@ -312,7 +312,6 @@ skinparam usecase {
 !startsub rectangle
 skinparam rectangle {
 	$primary_scheme()
-	BackgroundColor $BGCOLOR
 	BorderThickness 2
 	StereotypeFontColor $PRIMARY
 }
