@@ -63,6 +63,12 @@ skinparam backgroundColor $BGCOLOR
 	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
 !endfunction
 
+!function $secondary_scheme()
+	FontColor $SECONDARY_TEXT
+	BorderColor $SECONDARY_DARK
+	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
+!endfunction
+
 ''
 '' Global Default Values
 ''
@@ -311,7 +317,7 @@ skinparam usecase {
 
 !startsub rectangle
 skinparam rectangle {
-	$primary_scheme()
+	$secondary_scheme()
 	BorderThickness 2
 	StereotypeFontColor $PRIMARY
 }
