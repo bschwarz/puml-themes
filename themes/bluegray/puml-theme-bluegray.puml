@@ -45,29 +45,29 @@ skinparam backgroundColor $BGCOLOR
 !$DANGER_DARK = "#a62222"
 !$DANGER_TEXT = $WHITE
 
-!function $success($msg)
+!procedure $success($msg)
   <font color=$SUCCESS><b>$msg
-!endfunction
+!endprocedure
 
-!function $failure($msg)
+!procedure $failure($msg)
   <font color=$DANGER><b>$msg
-!endfunction
+!endprocedure
 
-!function $warning($msg)
+!procedure $warning($msg)
   <font color=$WARNING><b>$msg
-!endfunction
+!endprocedure
 
-!function $primary_scheme()
+!procedure $primary_scheme()
 	FontColor $PRIMARY_TEXT
 	BorderColor $PRIMARY_LIGHT
 	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
-!endfunction
+!endprocedure
 
-!function $secondary_scheme()
+!procedure $secondary_scheme()
 	FontColor $SECONDARY_TEXT
 	BorderColor $SECONDARY_DARK
 	BackgroundColor $WHITE-#fefefe
-!endfunction
+!endprocedure
 
 ''
 '' Global Default Values

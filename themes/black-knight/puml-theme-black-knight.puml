@@ -39,23 +39,23 @@ skinparam backgroundColor $BGCOLOR
 !$LIGHT = "#fff200"
 !$DARK = "#484848"
 
-!function $success($msg)
+!procedure $success($msg)
   <font color=$SUCCESS><b>$msg
-!endfunction
+!endprocedure
 
-!function $failure($msg)
+!procedure $failure($msg)
   <font color=$DANGER><b>$msg
-!endfunction
+!endprocedure
 
-!function $warning($msg)
+!procedure $warning($msg)
   <font color=$WARNING><b>$msg
-!endfunction
+!endprocedure
 
-!function $primary_scheme()
+!procedure $primary_scheme()
 	FontColor $PRIMARY_TEXT
 	BorderColor $PRIMARY_DARK
 	BackgroundColor $PRIMARY_LIGHT-$PRIMARY_DARK
-!endfunction
+!endprocedure
 
 skinparam  {
     defaultFontName   "Verdana"
