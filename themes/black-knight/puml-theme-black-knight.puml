@@ -39,23 +39,23 @@ skinparam backgroundColor $BGCOLOR
 !$LIGHT = "#fff200"
 !$DARK = "#484848"
 
-!function $success($msg)
+!procedure $success($msg)
   <font color=$SUCCESS><b>$msg
-!endfunction
+!endprocedure
 
-!function $failure($msg)
+!procedure $failure($msg)
   <font color=$DANGER><b>$msg
-!endfunction
+!endprocedure
 
-!function $warning($msg)
+!procedure $warning($msg)
   <font color=$WARNING><b>$msg
-!endfunction
+!endprocedure
 
-!function $primary_scheme()
+!procedure $primary_scheme()
 	FontColor $PRIMARY_TEXT
 	BorderColor $PRIMARY_DARK
 	BackgroundColor $PRIMARY_LIGHT-$PRIMARY_DARK
-!endfunction
+!endprocedure
 
 skinparam  {
     defaultFontName   "Verdana"
@@ -108,6 +108,7 @@ skinparam legend {
 }
 
 !startsub activity
+
 skinparam activity {
 	$primary_scheme()
 	BarColor $SUCCESS
@@ -121,6 +122,7 @@ skinparam activity {
 !endsub
 
 !startsub participant
+
 skinparam participant {
 	$primary_scheme()
 	ParticipantBorderThickness 2
@@ -128,12 +130,14 @@ skinparam participant {
 !endsub
 
 !startsub actor
+
 skinparam actor {
 	$primary_scheme()
 }
 !endsub
 
 !startsub arrow
+
 skinparam arrow {
 	Thickness 3
 	Color $PRIMARY
@@ -143,6 +147,7 @@ skinparam arrow {
 
 
 !startsub sequence
+
 skinparam sequence {
 	BorderColor $PRIMARY
 	' For some reason sequence title font color does not pick up from global
@@ -178,6 +183,7 @@ skinparam sequence {
 !endsub
 
 !startsub partition
+
 skinparam partition {
 	BorderColor $PRIMARY
 	FontColor $PRIMARY_LIGHT
@@ -186,30 +192,35 @@ skinparam partition {
 !endsub
 
 !startsub collections
+
 skinparam collections {
 	$primary_scheme()
 }
 !endsub
 
 !startsub control
+
 skinparam control {
 	$primary_scheme()
 }
 !endsub
 
 !startsub entity
+
 skinparam entity {
 	$primary_scheme()
 }
 !endsub
 
 !startsub boundary
+
 skinparam boundary {
 	$primary_scheme()
 }
 !endsub
 
 !startsub agent
+
 skinparam agent {
 	BackgroundColor $WARNING
 	BorderColor $WARNING_LIGHT
@@ -218,6 +229,7 @@ skinparam agent {
 !endsub
 
 !startsub note
+
 skinparam note {
 	BorderThickness 1
 	BackgroundColor $INFO
@@ -227,6 +239,7 @@ skinparam note {
 !endsub
 
 !startsub artifact
+
 skinparam artifact {
 	BackgroundColor $DARK
 	BorderColor $DARK_DARK
@@ -235,12 +248,14 @@ skinparam artifact {
 !endsub
 
 !startsub component
+
 skinparam component {
 	$primary_scheme()
 }
 !endsub
 
 !startsub interface
+
 skinparam interface {
 	BackgroundColor  $DANGER_DARK
 	BorderColor  $DANGER
@@ -249,6 +264,7 @@ skinparam interface {
 !endsub
 
 !startsub storage
+
 skinparam storage {
 	BackgroundColor $WARNING
   	BorderColor $WARNING_DARK
@@ -257,6 +273,7 @@ skinparam storage {
 !endsub
 
 !startsub node
+
 skinparam node {
 	BackgroundColor $BGCOLOR
 	BorderColor $PRIMARY_LIGHT
@@ -265,6 +282,7 @@ skinparam node {
 !endsub
 
 !startsub cloud
+
 skinparam cloud {
 	BackgroundColor $DARK-black
 	BorderColor $DARK
@@ -273,6 +291,7 @@ skinparam cloud {
 !endsub
 
 !startsub database
+
 skinparam database {
 	$primary_scheme()
 	BackgroundColor  $BGCOLOR
@@ -280,6 +299,7 @@ skinparam database {
 !endsub
 
 !startsub class
+
 skinparam class {
 	$primary_scheme()
 	HeaderBackgroundColor $PRIMARY_LIGHT
@@ -291,6 +311,7 @@ skinparam class {
 !endsub
 
 !startsub object
+
 skinparam object {
 	$primary_scheme()
 	StereotypeFontColor $DARK
@@ -301,6 +322,7 @@ skinparam object {
 !endsub
 
 !startsub usecase
+
 skinparam usecase {
 	$primary_scheme()
 	BorderThickness 2
@@ -309,6 +331,7 @@ skinparam usecase {
 !endsub
 
 !startsub rectangle
+
 skinparam rectangle {
 	$primary_scheme()
 	BackgroundColor $BGCOLOR
@@ -318,6 +341,7 @@ skinparam rectangle {
 !endsub
 
 !startsub package
+
 skinparam package {
 	$primary_scheme()
 	BackgroundColor $BGCOLOR
@@ -326,6 +350,7 @@ skinparam package {
 !endsub
 
 !startsub folder
+
 skinparam folder {
 	BackgroundColor $SECONDARY_LIGHT
   	BorderColor $WARNING
@@ -335,6 +360,7 @@ skinparam folder {
 !endsub
 
 !startsub frame
+
 skinparam frame {
 	BackgroundColor $SECONDARY_LIGHT
   	BorderColor $INFO
@@ -344,6 +370,7 @@ skinparam frame {
 !endsub
 
 !startsub state
+
 skinparam state {
 	$primary_scheme()
 	StartColor $INFO
@@ -354,12 +381,14 @@ skinparam state {
 !endsub
 
 !startsub queue
+
 skinparam queue {
 	$primary_scheme()
 }
 !endsub
 
 !startsub card
+
 skinparam card {
 	BackgroundColor $INFO
 	BorderColor $INFO_DARK
@@ -368,6 +397,7 @@ skinparam card {
 !endsub
 
 !startsub file
+
 skinparam file {
 	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
 	BorderColor $INFO
@@ -376,6 +406,7 @@ skinparam file {
 !endsub
 
 !startsub stack
+
 skinparam stack {
 	$primary_scheme()
 }
