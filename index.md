@@ -13,7 +13,7 @@ published: true
 
 However, the out of the box color scheme for <code>plantuml</code> is not very pleasing to the eyes (at least to me). That and the fact you may want to match your diagrams with the rest of your documentation (as in my case) lead me to put together some themes.
 
-**note** the themes files use some of the newer syntax from plantuml, so you will need to use at least version <code>1.2020.8</code>. If you can not use that version, then you can download the puml file from this repo, and edit it, and replace each instance of _!procedure_ with _!function_ and _!endprocedure_ with _!endfunction_
+> **note** the themes files use some of the newer syntax from plantuml, so you will need to use at least version <code>1.2020.8</code>. If you can not use that version, then you can download the puml file from this repo, and edit it, and replace each instance of _!procedure_ with _!function_ and _!endprocedure_ with _!endfunction_
 
 ## Usage
 
