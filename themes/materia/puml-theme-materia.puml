@@ -345,7 +345,7 @@ skinparam usecase {
 !startsub rectangle
 
 skinparam rectangle {
-	$primary_scheme()
+	FontColor $PRIMARY
 	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
 	BorderThickness 2
 	StereotypeFontColor $PRIMARY
