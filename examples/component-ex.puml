@@ -11,17 +11,21 @@ title Component Diagram
 package "My Package" {
   HTTP - [First Component]
   [Another Component]
+  rectangle MyRectangle1
+  collections MyCollection1
 }
  
 node "My Node" {
   FTP - [Second Component]
   [First Component] --> FTP
+  rectangle MyRectangle2
 } 
 
 cloud "My Cloud" {
   [Example 1]
 }
 
+collections MyCollection2
 
 database "My Database" {
   folder "My folder" {
