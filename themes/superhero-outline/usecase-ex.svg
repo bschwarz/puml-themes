@@ -5,7 +5,7 @@ entity clerk--><ellipse cx="380.7292" cy="181.5694" fill="#000000" rx="8.3333" r
 link customer to checkout--><path d="M156.6009,216.9861 C175.8572,216.9861 199.6377,216.9861 219.3638,216.9861 " fill="none" id="customer-checkout" style="stroke: #DF691A; stroke-width: 3.125;"/><!--MD5=[3ad5c6d5c608bfd6b87dc9c07c40a15f]
 link checkout to payment--><path d="M258.3333,200.7293 C258.3333,184.7588 258.3333,160.2954 258.3333,142.7092 " fill="none" id="checkout-&gt;payment" style="stroke: #DF691A; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><polygon fill="#DF691A" points="258.3333,137.4893,254.1667,146.8643,258.3333,142.6976,262.5,146.8643,258.3333,137.4893" style="stroke: #DF691A; stroke-width: 3.125;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="45.8333" x="218.75" y="174.3449">include</text><!--MD5=[739e7928149c8fe27c2b5850560351c7]
 link help to checkout--><path d="M258.3333,296.5479 C258.3333,280.8965 258.3333,256.3843 258.3333,238.7026 " fill="none" id="help-&gt;checkout" style="stroke: #DF691A; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><polygon fill="#DF691A" points="258.3333,233.4518,254.1667,242.8268,258.3333,238.6601,262.5,242.8268,258.3333,233.4518" style="stroke: #DF691A; stroke-width: 3.125;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="53.125" x="215.1042" y="270.1782">extends</text><!--MD5=[b4c4ee8f2d94c159d2b9e04bd372cbe0]
-link checkout to clerk--><path d="M297.0601,216.9861 C318.0707,216.9861 343.1851,216.9861 360.3806,216.9861 " fill="none" id="checkout-clerk" style="stroke: #DF691A; stroke-width: 3.125;"/><rect fill="#000000" height="36.025" rx="5.2083" ry="5.2083" style="stroke: #717D89; stroke-width: 1.0416666666666667;" width="135.4167" x="181.25" y="362.8194"/><text fill="#ABB6C2" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="112.5" x="192.7083" y="385.8032">This is my legend</text><!--MD5=[6f4e0547b9a3014b2d7eade2cabffc1e]
+link checkout to clerk--><path d="M297.0601,216.9861 C318.0707,216.9861 343.1851,216.9861 360.3806,216.9861 " fill="none" id="checkout-clerk" style="stroke: #DF691A; stroke-width: 3.125;"/><rect fill="#000000" height="36.025" rx="5.2083" ry="5.2083" style="stroke: #717D89; stroke-width: 1.0416666666666667;" width="135.4167" x="181.25" y="362.8194"/><text fill="#ABB6C2" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="112.5" x="192.7083" y="385.8032">This is my legend</text><!--MD5=[1b2f683d7694e13f3cadccd10339744e]
 @startuml
 
 
@@ -58,6 +58,7 @@ skinparam legend {
 	FontColor #abb6c2
 }
 
+
 skinparam activity {
 		FontColor #DF691A
 	BorderColor #e58748
@@ -70,12 +71,14 @@ skinparam activity {
   	DiamondFontColor #717d89
 }
 
+
 skinparam participant {
 		FontColor #DF691A
 	BorderColor #e58748
 	BackgroundColor black
 	ParticipantBorderThickness 2
 }
+
 
 skinparam actor {
 		FontColor #DF691A
@@ -84,11 +87,13 @@ skinparam actor {
 	FontColor #DF691A
 }
 
+
 skinparam arrow {
 	Thickness 3
 	Color #DF691A
 	FontColor #FFF
 }
+
 
 skinparam sequence {
 	BorderColor #DF691A
@@ -118,11 +123,13 @@ skinparam sequence {
 	ReferenceHeaderBackgroundColor black
 }
 
+
 skinparam partition {
 	BorderColor #DF691A
 	FontColor #DF691A
 	BackgroundColor black
 }
+
 
 skinparam collections {
 		FontColor #DF691A
@@ -130,11 +137,13 @@ skinparam collections {
 	BackgroundColor black
 }
 
+
 skinparam control {
 		FontColor #DF691A
 	BorderColor #e58748
 	BackgroundColor black
 }
+
 
 skinparam entity {
 		FontColor #DF691A
@@ -142,17 +151,20 @@ skinparam entity {
 	BackgroundColor black
 }
 
+
 skinparam boundary {
 		FontColor #DF691A
 	BorderColor #e58748
 	BackgroundColor black
 }
 
+
 skinparam agent {
 	BackgroundColor black
 	BorderColor #C08A3E
 	FontColor #4E5D6C
 }
+
 
 skinparam note {
 	BorderThickness 1
@@ -161,11 +173,13 @@ skinparam note {
 	FontColor #7ccde5
 }
 
+
 skinparam artifact {
 	BackgroundColor black
 	BorderColor #717d89
 	FontColor #abb6c2
 }
+
 
 skinparam component {
 		FontColor #DF691A
@@ -173,11 +187,13 @@ skinparam component {
 	BackgroundColor black
 }
 
+
 skinparam interface {
 	BackgroundColor  black
 	BorderColor  #d9534f
 	FontColor #4E5D6C
 }
+
 
 skinparam storage {
 	BackgroundColor black
@@ -185,11 +201,13 @@ skinparam storage {
 	FontColor #f0ad4e
 }
 
+
 skinparam node {
 	BackgroundColor  black
 	BorderColor #abb6c2
 	FontColor #abb6c2
 }
+
 
 skinparam cloud {
 	BackgroundColor black
@@ -197,12 +215,14 @@ skinparam cloud {
 	FontColor #4E5D6C
 }
 
+
 skinparam database {
 		FontColor #DF691A
 	BorderColor #e58748
 	BackgroundColor black
 	FontColor #DF691A
 }
+
 
 skinparam class {
 		FontColor #DF691A
@@ -215,6 +235,7 @@ skinparam class {
 	AttributeFontSize 11
 }
 
+
 skinparam object {
 		FontColor #DF691A
 	BorderColor #e58748
@@ -225,6 +246,7 @@ skinparam object {
 	AttributeFontSize 11
 }
 
+
 skinparam usecase {
 		FontColor #DF691A
 	BorderColor #e58748
@@ -232,6 +254,7 @@ skinparam usecase {
 	BorderThickness 2
 	StereotypeFontColor #DF691A
 }
+
 
 skinparam rectangle {
 		FontColor #DF691A
@@ -241,12 +264,14 @@ skinparam rectangle {
 	StereotypeFontColor #DF691A
 }
 
+
 skinparam package {
 	BackgroundColor black
   	BorderColor #DF691A
 	FontColor #DF691A
 	BorderThickness 2
 }
+
 
 skinparam folder {
 	BackgroundColor black
@@ -255,12 +280,14 @@ skinparam folder {
 	BorderThickness 2
 }
 
+
 skinparam frame {
 	BackgroundColor black
   	BorderColor #5bc0de
 	FontColor #5bc0de
 	BorderThickness 2
 }
+
 
 skinparam state {
 		FontColor #DF691A
@@ -272,11 +299,13 @@ skinparam state {
 	AttributeFontSize 11
 }
 
+
 skinparam queue {
 		FontColor #DF691A
 	BorderColor #e58748
 	BackgroundColor black
 }
+
 
 skinparam card {
 	BackgroundColor black
@@ -284,11 +313,13 @@ skinparam card {
 	FontColor #5bc0de
 }
 
+
 skinparam file {
 	BackgroundColor black
 	BorderColor #abb6c2
 	FontColor #abb6c2
 }
+
 
 skinparam stack {
 		FontColor #DF691A
@@ -314,11 +345,11 @@ rectangle checkout {
 }
 @enduml
 
-PlantUML version 1.2020.00(Sat Jan 11 04:30:53 PST 2020)
+PlantUML version 1.2020.08(Sun Apr 26 07:08:22 PDT 2020)
 (GPL source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM
-Java Version: 11.0.5+10-post-Ubuntu-0ubuntu1.118.04
+Java Version: 11.0.8+10-post-Ubuntu-0ubuntu118.04.1
 Operating System: Linux
 Default Encoding: UTF-8
 Language: en

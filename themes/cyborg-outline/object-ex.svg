@@ -2,7 +2,7 @@
 reverse link Object01 to Object02--><path d="M48.4375,127.9167 C48.4375,156.6295 48.4375,192.7381 48.4375,215.9395 " fill="none" id="Object01&lt;-Object02" style="stroke: #2A9FD6; stroke-width: 3.125;"/><polygon fill="none" points="41.1459,127.6963,48.4375,106.863,55.7293,127.6962,41.1459,127.6963" style="stroke: #2A9FD6; stroke-width: 3.125;"/><!--MD5=[d21c20b16b3ff22abbc2c8af84931b60]
 reverse link Object03 to Object04--><path d="M169.2708,120.4315 C169.2708,150.0919 169.2708,190.6707 169.2708,215.9395 " fill="none" id="Object03&lt;-Object04" style="stroke: #2A9FD6; stroke-width: 3.125;"/><polygon fill="#2A9FD6" points="169.2708,106.863,165.1042,113.113,169.2708,119.363,173.4375,113.113,169.2708,106.863" style="stroke: #2A9FD6; stroke-width: 3.125;"/><!--MD5=[ade907096602ef8d7fe19339b46bff0e]
 reverse link Object05 to Object06--><path d="M290.1042,120.4315 C290.1042,150.0919 290.1042,190.6707 290.1042,215.9395 " fill="none" id="Object05&lt;-Object06" style="stroke: #2A9FD6; stroke-width: 3.125;"/><polygon fill="#000000" points="290.1042,106.863,285.9375,113.113,290.1042,119.363,294.2708,113.113,290.1042,106.863" style="stroke: #2A9FD6; stroke-width: 3.125;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="8.3333" x="274.1602" y="199.6382">4</text><!--MD5=[17488501a7bed181c851ca0c615fb4f2]
-link Object07 to Object08--><path d="M434.8958,106.863 C434.8958,130.4256 434.8958,167.0933 434.8958,195.89 " fill="none" id="Object07-Object08" style="stroke: #2A9FD6; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="78.125" x="441.1458" y="156.6366">some labels</text><!--MD5=[5869f86e081ea8df0705e5e42f40a295]
+link Object07 to Object08--><path d="M434.8958,106.863 C434.8958,130.4256 434.8958,167.0933 434.8958,195.89 " fill="none" id="Object07-Object08" style="stroke: #2A9FD6; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="78.125" x="441.1458" y="156.6366">some labels</text><!--MD5=[8bd8e21bd1e3a7d6e835e3e6acb0889a]
 @startuml
 
 
@@ -51,6 +51,7 @@ skinparam legend {
 	FontColor #ADAFAE
 }
 
+
 skinparam activity {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
@@ -63,12 +64,14 @@ skinparam activity {
   	DiamondFontColor #777777
 }
 
+
 skinparam participant {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
 	BackgroundColor black
 	ParticipantBorderThickness 2
 }
+
 
 skinparam actor {
 		FontColor #2A9FD6
@@ -77,11 +80,13 @@ skinparam actor {
 	FontColor #2A9FD6
 }
 
+
 skinparam arrow {
 	Thickness 3
 	Color #2A9FD6
 	FontColor #FFF
 }
+
 
 skinparam sequence {
 	BorderColor #2A9FD6
@@ -111,17 +116,20 @@ skinparam sequence {
 	ReferenceHeaderBackgroundColor black
 }
 
+
 skinparam partition {
 	BorderColor #2A9FD6
 	FontColor #2A9FD6
 	BackgroundColor black
 }
 
+
 skinparam collections {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
 	BackgroundColor black
 }
+
 
 skinparam control {
 		FontColor #2A9FD6
@@ -130,12 +138,14 @@ skinparam control {
 	FontColor #2A9FD6
 }
 
+
 skinparam entity {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
 	BackgroundColor black
 	FontColor #2A9FD6
 }
+
 
 skinparam boundary {
 		FontColor #2A9FD6
@@ -144,11 +154,13 @@ skinparam boundary {
 	FontColor #2A9FD6
 }
 
+
 skinparam agent {
 	BackgroundColor black
 	BorderColor #cc6d00
 	FontColor #ADAFAE
 }
+
 
 skinparam note {
 	BorderThickness 1
@@ -157,11 +169,13 @@ skinparam note {
 	FontColor #AD5CD6
 }
 
+
 skinparam artifact {
 	BackgroundColor black
 	BorderColor #BDBFBE
 	FontColor #BDBFBE
 }
+
 
 skinparam component {
 		FontColor #2A9FD6
@@ -169,11 +183,13 @@ skinparam component {
 	BackgroundColor black
 }
 
+
 skinparam interface {
 	BackgroundColor  black
 	BorderColor  #CC0000
 	FontColor #ADAFAE
 }
+
 
 skinparam storage {
 	BackgroundColor black
@@ -181,11 +197,13 @@ skinparam storage {
 	FontColor #FF8800
 }
 
+
 skinparam node {
 	BackgroundColor  black
 	BorderColor #ADAFAE
 	FontColor #ADAFAE
 }
+
 
 skinparam cloud {
 	BackgroundColor black
@@ -193,12 +211,14 @@ skinparam cloud {
 	FontColor #ADAFAE
 }
 
+
 skinparam database {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
 	BackgroundColor black
 	FontColor #2A9FD6
 }
+
 
 
 skinparam class {
@@ -212,6 +232,7 @@ skinparam class {
 	AttributeFontSize 11
 }
 
+
 skinparam object {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
@@ -222,6 +243,7 @@ skinparam object {
 	AttributeFontSize 11
 }
 
+
 skinparam usecase {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
@@ -229,6 +251,7 @@ skinparam usecase {
 	BorderThickness 2
 	StereotypeFontColor #2A9FD6
 }
+
 
 skinparam rectangle {
 		FontColor #2A9FD6
@@ -238,12 +261,14 @@ skinparam rectangle {
 	StereotypeFontColor #2A9FD6
 }
 
+
 skinparam package {
 	BackgroundColor black
   	BorderColor #2A9FD6
 	FontColor #2A9FD6
 	BorderThickness 2
 }
+
 
 skinparam folder {
 	BackgroundColor black
@@ -252,12 +277,14 @@ skinparam folder {
 	BorderThickness 2
 }
 
+
 skinparam frame {
 	BackgroundColor black
   	BorderColor #9933CC
 	FontColor #9933CC
 	BorderThickness 2
 }
+
 
 skinparam state {
 		FontColor #2A9FD6
@@ -269,11 +296,13 @@ skinparam state {
 	AttributeFontSize 11
 }
 
+
 skinparam queue {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
 	BackgroundColor black
 }
+
 
 skinparam card {
 	BackgroundColor black
@@ -281,11 +310,13 @@ skinparam card {
 	FontColor #9933CC
 }
 
+
 skinparam file {
 	BackgroundColor black
 	BorderColor #555
 	FontColor #555
 }
+
 
 skinparam stack {
 		FontColor #2A9FD6
@@ -314,11 +345,11 @@ Object07 .. Object08 : some labels
 
 @enduml
 
-PlantUML version 1.2020.00(Sat Jan 11 04:30:53 PST 2020)
+PlantUML version 1.2020.08(Sun Apr 26 07:08:22 PDT 2020)
 (GPL source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM
-Java Version: 11.0.5+10-post-Ubuntu-0ubuntu1.118.04
+Java Version: 11.0.8+10-post-Ubuntu-0ubuntu118.04.1
 Operating System: Linux
 Default Encoding: UTF-8
 Language: en

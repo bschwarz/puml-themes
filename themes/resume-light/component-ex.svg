@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="456px" preserveAspectRatio="none" style="width:1141px;height:456px;background:#00000000;" version="1.1" viewBox="0 0 1141 456" width="1141px" zoomAndPan="magnify"><defs/><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="378" x="385.5" y="16.708">Component Diagram - resume-light theme</text><!--MD5=[98956307d0c47524864de5bf9cdc747b]
+cluster My Package--><path d="M19,37.4531 L108,37.4531 A7.5,7.5 0 0 1 113,42.4531 L120,59.75 L715,59.75 A5,5 0 0 1 720,64.75 L720,103.4531 A5,5 0 0 1 715,108.4531 L19,108.4531 A5,5 0 0 1 14,103.4531 L14,42.4531 A5,5 0 0 1 19,37.4531 " fill="#FFFFFF" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="14" x2="120" y1="59.75" y2="59.75"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="93" x="18" y="52.4482">My Package</text><!--MD5=[994b84a7865cf3a30290d65f6358d5f5]
+cluster My Node--><polygon fill="#FFFFFF" points="193,150.9531,203,140.9531,573,140.9531,573,206.9531,563,216.9531,193,216.9531,193,150.9531" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="563" x2="572" y1="150.9531" y2="141.9531"/><line style="stroke: #000000; stroke-width: 1.5;" x1="193" x2="563" y1="150.9531" y2="150.9531"/><line style="stroke: #000000; stroke-width: 1.5;" x1="563" x2="563" y1="150.9531" y2="216.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="68" x="345" y="166.9482">My Node</text><!--MD5=[8f762177cf9f076b8ea6eac76c5df33e]
+cluster My Cloud--><path d="M602.1606,154.5303 C605.6426,150.5352 609.5265,150.4385 612.5369,155.0957 C615.6439,149.185 620.7869,149.633 624.087,154.896 C627.3981,149.3185 631.2904,147.5518 636.1131,153.2895 C639.9456,148.0219 643.6632,148.1144 648.0132,152.6621 C651.231,147.6776 655.173,148.2292 657.9656,153.092 C662.5371,147.9972 666.5072,148.3793 670.2919,153.9974 C674.5385,148.308 678.9961,147.8334 682.6604,154.5766 C685.4765,150.1813 690.3648,150.5414 692.5557,155.2558 C701.1404,157.245 701.6749,162.7577 696.8509,168.9519 C705.275,170.8274 705.7452,175.5394 701.4013,181.9015 C707.9926,188.7026 707.2089,193.8662 697.9983,197.138 C701.8823,203.8828 700.8682,208.2762 692.6788,210.045 C688.6604,215.4301 685.2554,215.4289 681.8963,209.4211 C678.7832,214.8015 674.7303,215.8708 670.6372,210.4418 C666.877,216.0708 663.3414,215.717 659.3826,210.6508 C654.9256,217.1113 650.5068,216.733 646.0934,210.6047 C643.8199,216.3299 638.9371,216.6581 635.662,211.571 C632.0764,215.8586 627.0573,214.9139 624.8564,209.9531 C620.8018,214.5024 616.7088,215.3147 613.1811,209.367 C610.1817,214.8598 604.3618,215.8471 600.4707,210.4034 C592.3499,207.5503 593.4316,200.357 598.8579,195.9883 C592.698,192.6397 591.2554,188.0156 597.0091,182.9745 C591.6668,177.5784 592.7069,172.1951 599.6481,169.1424 C592.8319,163.5846 593.8114,157.4803 602.1606,154.5303 " fill="#FFFFFF" style="stroke: #000000; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="72" x="610" y="171.9482">My Cloud</text><!--MD5=[5435dd1da01795d79a1d1bdb7811705f]
+cluster My Database--><path d="M588,237.9531 C588,227.9531 646,227.9531 646,227.9531 C646,227.9531 704,227.9531 704,237.9531 L704,434.9531 C704,444.9531 646,444.9531 646,444.9531 C646,444.9531 588,444.9531 588,434.9531 L588,237.9531 " fill="#FFFFFF" style="stroke: #000000; stroke-width: 1.5;"/><path d="M588,237.9531 C588,247.9531 646,247.9531 646,247.9531 C646,247.9531 704,247.9531 704,237.9531 " fill="none" style="stroke: #000000; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="100" x="596" y="262.9482">My Database</text><!--MD5=[db3eb734e65e00defc1adec42c70b029]
+cluster My folder--><path d="M605,269.9531 L675,269.9531 A7.5,7.5 0 0 1 680,274.9531 L687,292.25 L687,292.25 A5,5 0 0 1 692,297.25 L692,335.9531 A5,5 0 0 1 687,340.9531 L605,340.9531 A5,5 0 0 1 600,335.9531 L600,274.9531 A5,5 0 0 1 605,269.9531 " fill="#FFFFFF" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="600" x2="687" y1="292.25" y2="292.25"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="74" x="604" y="284.9482">My folder</text><!--MD5=[2f95c9c104e26437854e71862f3d840e]
+cluster My Frame--><rect fill="#FFFFFF" height="71" rx="5" ry="5" style="stroke: #000000; stroke-width: 1.5;" width="92" x="600" y="365.9531"/><path d="M686,366.9531 L686,375.25 L676,385.25 L600,385.25 " fill="none" style="stroke: #000000; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="76" x="603" y="379.9482">My Frame</text><!--MD5=[96f7e1299d4a43069e6ed32352fcac20]
+entity HTTP--><ellipse cx="506" cy="82.4531" fill="#FEFECE" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="37" x="487.5" y="112.4482">HTTP</text><!--MD5=[cbd7cda55f2530e2efe43ec72c097853]
+entity First Component--><rect fill="#FEFECE" height="36.2969" rx="5" ry="5" style="stroke: #A80036; stroke-width: 1.5;" width="135" x="326.5" y="64.4531"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="321.5" y="69.4531"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="321.5" y="90.75"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="115" x="336.5" y="87.4482">First Component</text><!--MD5=[b9d11f23832c1491231c5b33e55ab8c6]
+entity Another Component--><rect fill="#FEFECE" height="36.2969" rx="5" ry="5" style="stroke: #A80036; stroke-width: 1.5;" width="161" x="550.5" y="64.4531"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="545.5" y="69.4531"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="545.5" y="90.75"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="141" x="560.5" y="87.4482">Another Component</text><!--MD5=[aa625683a8c1a6d60f4cb888c4297339]
+entity MyRectangle1--><rect fill="#FEFECE" height="36.2969" rx="5" ry="5" style="stroke: #000000; stroke-width: 1.5;" width="118" x="173" y="64.4531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="98" x="183" y="87.4482">MyRectangle1</text><!--MD5=[deed3d4321eb4f26fdbc8b688b847966]
+entity MyCollection1--><rect fill="#FEFECE" height="32.2969" rx="5" ry="5" style="stroke: #000000; stroke-width: 1.5;" width="112" x="26" y="68.4531"/><rect fill="#FEFECE" height="32.2969" rx="5" ry="5" style="stroke: #000000; stroke-width: 1.5;" width="112" x="22" y="64.4531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="96" x="30" y="85.4482">MyCollection1</text><!--MD5=[76af18d92d7d7c0f7ebd8f4f605ac5aa]
+entity FTP--><ellipse cx="363" cy="190.9531" fill="#FEFECE" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="26" x="350" y="220.9482">FTP</text><!--MD5=[0e2cc1aee2c7f52697e111b4fb84546c]
+entity Second Component--><rect fill="#FEFECE" height="36.2969" rx="5" ry="5" style="stroke: #A80036; stroke-width: 1.5;" width="159" x="406.5" y="172.9531"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="401.5" y="177.9531"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="401.5" y="199.25"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="139" x="416.5" y="195.9482">Second Component</text><!--MD5=[b8d85f5d3810694767e38854f60c8b6e]
+entity MyRectangle2--><rect fill="#FEFECE" height="36.2969" rx="5" ry="5" style="stroke: #000000; stroke-width: 1.5;" width="118" x="201" y="172.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="98" x="211" y="195.9482">MyRectangle2</text><!--MD5=[243c1e580c31013c48b02624e18b25a7]
+entity Example 1--><rect fill="#FEFECE" height="36.2969" rx="5" ry="5" style="stroke: #A80036; stroke-width: 1.5;" width="91" x="600.5" y="172.9531"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="595.5" y="177.9531"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="595.5" y="199.25"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="71" x="610.5" y="195.9482">Example 1</text><!--MD5=[3e0e08c92570480402984701ab5a6d2d]
+entity Folder 3--><rect fill="#FEFECE" height="36.2969" rx="5" ry="5" style="stroke: #A80036; stroke-width: 1.5;" width="76" x="608" y="296.9531"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="603" y="301.9531"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="603" y="323.25"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="618" y="319.9482">Folder 3</text><!--MD5=[63877ed85df621d134a6c80fb52dad56]
+entity Frame 4--><rect fill="#FEFECE" height="36.2969" rx="5" ry="5" style="stroke: #A80036; stroke-width: 1.5;" width="76" x="608" y="392.9531"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="603" y="397.9531"/><rect fill="#FEFECE" height="5" style="stroke: #A80036; stroke-width: 1.5;" width="10" x="603" y="419.25"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="618" y="415.9482">Frame 4</text><!--MD5=[bb0325ec99f4f4d58c3e33c6fae3b543]
+entity MyCollection2--><rect fill="#FEFECE" height="32.2969" rx="5" ry="5" style="stroke: #000000; stroke-width: 1.5;" width="112" x="751" y="68.4531"/><rect fill="#FEFECE" height="32.2969" rx="5" ry="5" style="stroke: #000000; stroke-width: 1.5;" width="112" x="747" y="64.4531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="96" x="755" y="85.4482">MyCollection2</text><!--MD5=[4d6c9a8b502f46c0f85d26a51e5d57ce]
+entity My Artifact--><rect fill="#FEFECE" height="39.2969" rx="5" ry="5" style="stroke: #000000; stroke-width: 1.5;" width="100" x="898" y="62.9531"/><polygon fill="#FEFECE" points="981,67.9531,981,81.9531,993,81.9531,993,73.9531,987,67.9531,981,67.9531" style="stroke: #000000; stroke-width: 1.5;"/><line style="stroke: #000000; stroke-width: 1.5;" x1="987" x2="987" y1="67.9531" y2="73.9531"/><line style="stroke: #000000; stroke-width: 1.5;" x1="993" x2="987" y1="73.9531" y2="73.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="70" x="908" y="88.9482">My Artifact</text><!--MD5=[6013850653c05993d855a7b82b2ebd6f]
+entity My Storage--><rect fill="#FEFECE" height="36.2969" rx="35" ry="35" style="stroke: #000000; stroke-width: 1.5;" width="97" x="1033.5" y="64.4531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="77" x="1043.5" y="87.4482">My Storage</text><!--MD5=[decf897d207c1b699121f5d4005ef96e]
+entity My Queue--><path d="M765,177.9531 L845,177.9531 C850,177.9531 850,191.1016 850,191.1016 C850,191.1016 850,204.25 845,204.25 L765,204.25 C760,204.25 760,191.1016 760,191.1016 C760,191.1016 760,177.9531 765,177.9531 " fill="#FEFECE" style="stroke: #A80036; stroke-width: 1.5;"/><path d="M845,177.9531 C840,177.9531 840,191.1016 840,191.1016 C840,204.25 845,204.25 845,204.25 " fill="none" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="70" x="765" y="195.9482">My Queue</text><!--MD5=[db0b4290d55c456da6f1e605315daa68]
+entity My Interface--><ellipse cx="934" cy="190.9531" fill="#FEFECE" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="83" x="892.5" y="220.9482">My Interface</text><!--MD5=[c42dbb279bb2c76edeffd08640135261]
+entity My Card--><rect fill="#FEFECE" height="22.2969" rx="5" ry="5" style="stroke: #000000; stroke-width: 1.5;" width="75" x="1018.5" y="179.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="55" x="1028.5" y="195.9482">My Card</text><!--MD5=[4552e0ab931d4db86ba1ccdf7169c968]
+entity My File--><path d="M772,301.9531 L772,328.25 A5,5 0 0 0 777,333.25 L833,333.25 A5,5 0 0 0 838,328.25 L838,306.9531 L828,296.9531 L777,296.9531 A5,5 0 0 0 772,301.9531 " fill="#FEFECE" style="stroke: #000000; stroke-width: 1.5;"/><path d="M828,296.9531 L828,301.9531 A5,5 0 0 0 833,306.9531 L838,306.9531 " fill="#FEFECE" style="stroke: #000000; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="46" x="782" y="319.9482">My File</text><!--MD5=[5a51615613d2b2569e36ac803df4b251]
+entity My Stack--><rect fill="#FEFECE" height="36.2969" rx="5" ry="5" style="stroke: none; stroke-width: 1.5;" width="81" x="888.5" y="296.9531"/><path d="M873.5,296.9531 L883.5,296.9531 A5,5 0 0 1 888.5,301.9531 L888.5,328.25 A5,5 0 0 0 893.5,333.25 L964.5,333.25 A5,5 0 0 0 969.5,328.25 L969.5,301.9531 A5,5 0 0 1 974.5,296.9531 L984.5,296.9531 " fill="none" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="61" x="898.5" y="319.9482">My Stack</text><!--MD5=[46d996859f59e5baf77956ce93023cee]
+link HTTP to First Component--><path d="M496.6792,82.4531 C485.057,82.4531 473.4347,82.4531 461.8125,82.4531 " fill="none" id="HTTP-First Component" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[1966a42bb49d59057147dbda06282f4b]
+link FTP to Second Component--><path d="M372.1289,190.9531 C383.5457,190.9531 394.9624,190.9531 406.3792,190.9531 " fill="none" id="FTP-Second Component" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[d3aefbd8005e27b21e7ce98ddd948193]
+link First Component to FTP--><path d="M388.7413,100.8586 C382.6148,122.3012 372.6247,157.2666 367.0632,176.7321 " fill="none" id="First Component-&gt;FTP" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="365.6188,181.7872,371.9375,174.2325,366.9925,176.9796,364.2453,172.0346,365.6188,181.7872" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[efc1ffe8b578a0fb156c7bce303319bb]
+link Another Component to Example 1--><path d="M633.5445,100.8586 C636.0919,119.2848 640.0199,147.6968 642.7822,167.6779 " fill="none" id="Another Component-&gt;Example 1" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="643.493,172.8194,646.2226,163.3564,642.8081,167.8666,638.298,164.4521,643.493,172.8194" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[7ec8393a78a133520e8846dd05a7857a]
+link Example 1 to Folder 3--><path d="M646,208.9838 C646,230.8403 646,267.7166 646,291.6939 " fill="none" id="Example 1-&gt;Folder 3" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="646,296.9007,650,287.9007,646,291.9007,642,287.9007,646,296.9007" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[b96c7096199393c1414a8b4e9ed2c30f]
+link Folder 3 to Frame 4--><path d="M646,333.01 C646,348.4657 646,370.8178 646,387.6262 " fill="none" id="Folder 3-&gt;Frame 4" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="646,392.6508,650,383.6508,646,387.6508,642,383.6508,646,392.6508" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[83be288af14fde8a86007c2b011fac4a]
+link MyCollection2 to My Artifact--><!--MD5=[b21a3c93c2a22c7ef4934ace81b9a2fe]
+link My Artifact to My Storage--><!--MD5=[6ba35b42f782a962813221ea03178716]
+link MyCollection2 to My Queue--><!--MD5=[0babb46f3d0f67f91c828a5eda35ab7d]
+link My Queue to My Interface--><!--MD5=[9bfee3aea78949ae207e8bd3b67fed50]
+link My Interface to My Card--><!--MD5=[afe9315598834b0b9f57a7a5b2c7ee2a]
+link My Queue to My File--><!--MD5=[f6296be58d13482500ae3b999db2843f]
+link My File to My Stack--><!--MD5=[b3fc41b73df9b15c0435dfe8ac88b8c8]
+@startuml
+
+
+
+skinparam backgroundColor transparent
+
+
+skinparam  {
+    skinparam defaultFontName   "Verdana"
+    skinparam defaultFontSize   12
+    defaultTextAlignment        center
+    shadowing                   false
+    RoundCorner                 10
+    TitleFontSize               18
+}
+<style>
+    wbsDiagram {
+        LineColor #f0f0f0
+        BorderThickness 3
+        BackgroundColor #f9f9f9
+        FontColor #6a9fb5
+        :depth(0) {
+            fontSize 16
+            fontStyle bold
+        }
+        :depth(1) {
+            fontSize 14
+            padding 5
+            fontStyle bold
+        }
+        :depth(2) {
+            fontSize 12
+            padding 3
+        }
+        :depth(3) {
+            fontSize 10
+            padding 2
+        }
+
+    }
+</style>
+
+title Component Diagram - resume-light theme
+
+
+package "My Package" {
+  HTTP - [First Component]
+  [Another Component]
+  rectangle MyRectangle1
+  collections MyCollection1
+}
+ 
+node "My Node" {
+  FTP - [Second Component]
+  [First Component] - -> FTP
+  rectangle MyRectangle2
+} 
+
+cloud "My Cloud" {
+  [Example 1]
+}
+
+collections MyCollection2
+
+database "My Database" {
+  folder "My folder" {
+	[Folder 3]
+  }
+  frame "My Frame" {
+	[Frame 4]
+  }
+}
+
+artifact "My Artifact"
+storage "My Storage"
+queue "My Queue"
+interface "My Interface"
+card "My Card"
+file "My File"
+stack "My Stack"
+
+[Another Component] - -> [Example 1]
+[Example 1] - -> [Folder 3]
+[Folder 3] - -> [Frame 4]
+
+@enduml
+
+PlantUML version 1.2020.08(Sun Apr 26 07:08:22 PDT 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 11.0.8+10-post-Ubuntu-0ubuntu118.04.1
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
