@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="357px" preserveAspectRatio="none" style="width:497px;height:357px;background:#00000000;" version="1.1" viewBox="0 0 497 357" width="497px" zoomAndPan="magnify"><defs/><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="317" x="89.25" y="28.6855">Swimlane Diagram - resume-light theme</text><ellipse cx="89" cy="72.7363" fill="#000000" rx="10" ry="10" style="stroke: none; stroke-width: 1.0;"/><rect fill="#FEFECE" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="138" x="20" y="102.7363"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="118" x="30" y="125.1934">Do something in First</text><rect fill="#FEFECE" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="125" x="26.5" y="157.8301"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="105" x="36.5" y="180.2871">Do something else</text><line style="stroke: #000000; stroke-width: 2.0;" x1="15" x2="15" y1="35.0957" y2="345.1113"/><rect fill="#FEFECE" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="156" x="167" y="212.9238"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="136" x="177" y="235.3809">Do something in Second</text><line style="stroke: #000000; stroke-width: 2.0;" x1="162" x2="162" y1="35.0957" y2="345.1113"/><rect fill="#FEFECE" height="35.0938" rx="12.5" ry="12.5" style="stroke: #A80036; stroke-width: 1.5;" width="142" x="332" y="268.0176"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="122" x="342" y="290.4746">Do something in Third</text><ellipse cx="403" cy="334.1113" fill="#FFFFFF" rx="11" ry="11" style="stroke: #000000; stroke-width: 1.0;"/><ellipse cx="403" cy="334.1113" fill="#000000" rx="6" ry="6" style="stroke: #7F7F7F; stroke-width: 1.0;"/><line style="stroke: #000000; stroke-width: 2.0;" x1="327" x2="327" y1="35.0957" y2="345.1113"/><line style="stroke: #000000; stroke-width: 2.0;" x1="478" x2="478" y1="35.0957" y2="345.1113"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="89" x2="89" y1="82.7363" y2="102.7363"/><polygon fill="#A80036" points="85,92.7363,89,102.7363,93,92.7363,89,96.7363" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="89" x2="89" y1="137.8301" y2="157.8301"/><polygon fill="#A80036" points="85,147.8301,89,157.8301,93,147.8301,89,151.8301" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="403" x2="403" y1="303.1113" y2="323.1113"/><polygon fill="#A80036" points="399,313.1113,403,323.1113,407,313.1113,403,317.1113" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="89" x2="89" y1="192.9238" y2="197.9238"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="89" x2="245" y1="197.9238" y2="197.9238"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="245" x2="245" y1="197.9238" y2="212.9238"/><polygon fill="#A80036" points="241,202.9238,245,212.9238,249,202.9238,245,206.9238" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="245" x2="245" y1="248.0176" y2="253.0176"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="245" x2="403" y1="253.0176" y2="253.0176"/><line style="stroke: #A80036; stroke-width: 1.5;" x1="403" x2="403" y1="253.0176" y2="268.0176"/><polygon fill="#A80036" points="399,258.0176,403,268.0176,407,258.0176,403,262.0176" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="117" x="30" y="53.7813">First Swimlane</text><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="143" x="173" y="53.7813">Second Swimlane</text><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacingAndGlyphs" textLength="124" x="340.5" y="53.7813">Third Swimlane</text><!--MD5=[2c8ac6573f9cb977bc096b2010eee7cf]
+@startuml
+
+
+
+skinparam backgroundColor transparent
+
+
+skinparam  {
+    skinparam defaultFontName   "Verdana"
+    skinparam defaultFontSize   12
+    defaultTextAlignment        center
+    shadowing                   false
+    RoundCorner                 10
+    TitleFontSize               18
+}
+<style>
+    wbsDiagram {
+        LineColor #f0f0f0
+        BorderThickness 3
+        BackgroundColor #f9f9f9
+        FontColor #6a9fb5
+        :depth(0) {
+            fontSize 16
+            fontStyle bold
+        }
+        :depth(1) {
+            fontSize 14
+            padding 5
+            fontStyle bold
+        }
+        :depth(2) {
+            fontSize 12
+            padding 3
+        }
+        :depth(3) {
+            fontSize 10
+            padding 2
+        }
+
+    }
+</style>
+
+title Swimlane Diagram - resume-light theme
+
+
+|First Swimlane|
+start
+    :Do something in First;
+    :Do something else;
+    |Second Swimlane|
+    :Do something in Second;
+        |Third Swimlane|
+        :Do something in Third;
+stop
+@enduml
+
+PlantUML version 1.2020.08(Sun Apr 26 07:08:22 PDT 2020)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_251-b32
+Operating System: Windows 10
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>

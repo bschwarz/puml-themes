@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="456.25px" preserveAspectRatio="none" style="width:554px;height:456px;background:#000000;" version="1.1" viewBox="0 0 554 456" width="554.1667px" zoomAndPan="magnify"><defs><linearGradient id="g12negpj33eyj70" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#151515"/><stop offset="100%" stop-color="#000000"/></linearGradient><linearGradient id="g12negpj33eyj71" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#88B2C4"/><stop offset="100%" stop-color="#6A9FB5"/></linearGradient><linearGradient id="g12negpj33eyj72" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#D3F198"/><stop offset="100%" stop-color="#B5E853"/></linearGradient></defs><g><rect fill="url(#g12negpj33eyj70)" height="47.0378" rx="4.1667" ry="4.1667" style="stroke: #B5E853; stroke-width: 1.0416666666666667;" width="354.1667" x="98.6979" y="15.625"/><text fill="#B5E853" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="333.3333" x="109.1146" y="47.6685">Swimlane Diagram - hacker theme</text><rect fill="url(#g12negpj33eyj71)" height="34.0007" style="stroke: url(#g12negpj33eyj71); stroke-width: 1.0416666666666667;" width="520.3125" x="15.625" y="68.9128"/><ellipse cx="97.9167" cy="118.5384" fill="#AA759F" rx="10.4167" ry="10.4167" style="stroke: none; stroke-width: 1.0416666666666667;"/><rect fill="url(#g12negpj33eyj72)" height="46.9727" rx="20.8333" ry="20.8333" style="stroke: #D3F198; stroke-width: 1.5625;" width="154.1667" x="20.8333" y="149.7884"/><text fill="#151515" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="122.9167" x="36.4583" y="178.3895">Do something in First</text><rect fill="url(#g12negpj33eyj72)" height="46.9727" rx="20.8333" ry="20.8333" style="stroke: #D3F198; stroke-width: 1.5625;" width="140.625" x="27.6042" y="217.5944"/><text fill="#151515" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="109.375" x="43.2292" y="246.1955">Do something else</text><line style="stroke: #AA759F; stroke-width: 2.0833333333333335;" x1="15.625" x2="15.625" y1="68.9128" y2="443.929"/><rect fill="url(#g12negpj33eyj72)" height="46.9727" rx="20.8333" ry="20.8333" style="stroke: #D3F198; stroke-width: 1.5625;" width="172.9167" x="184.375" y="285.4004"/><text fill="#151515" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="141.6667" x="200" y="314.0015">Do something in Second</text><line style="stroke: #AA759F; stroke-width: 2.0833333333333335;" x1="179.1667" x2="179.1667" y1="68.9128" y2="443.929"/><rect fill="url(#g12negpj33eyj72)" height="46.9727" rx="20.8333" ry="20.8333" style="stroke: #D3F198; stroke-width: 1.5625;" width="158.3333" x="366.6667" y="353.2064"/><text fill="#151515" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="127.0833" x="382.2917" y="381.8075">Do something in Third</text><ellipse cx="445.8333" cy="432.4707" fill="#FFFFFF" rx="11.4583" ry="11.4583" style="stroke: #AA759F; stroke-width: 1.0416666666666667;"/><ellipse cx="445.8333" cy="432.4707" fill="#AA759F" rx="6.25" ry="6.25" style="stroke: #D4BACF; stroke-width: 1.0416666666666667;"/><line style="stroke: #AA759F; stroke-width: 2.0833333333333335;" x1="361.4583" x2="361.4583" y1="68.9128" y2="443.929"/><line style="stroke: #AA759F; stroke-width: 2.0833333333333335;" x1="529.1667" x2="529.1667" y1="68.9128" y2="443.929"/><line style="stroke: #B5E853; stroke-width: 1.5625;" x1="97.9167" x2="97.9167" y1="128.9551" y2="149.7884"/><polygon fill="#B5E853" points="93.75,139.3717,97.9167,149.7884,102.0833,139.3717,97.9167,143.5384" style="stroke: #B5E853; stroke-width: 1.0416666666666667;"/><line style="stroke: #B5E853; stroke-width: 1.5625;" x1="97.9167" x2="97.9167" y1="196.7611" y2="217.5944"/><polygon fill="#B5E853" points="93.75,207.1777,97.9167,217.5944,102.0833,207.1777,97.9167,211.3444" style="stroke: #B5E853; stroke-width: 1.0416666666666667;"/><line style="stroke: #B5E853; stroke-width: 1.5625;" x1="445.8333" x2="445.8333" y1="400.179" y2="421.0124"/><polygon fill="#B5E853" points="441.6667,410.5957,445.8333,421.0124,450,410.5957,445.8333,414.7624" style="stroke: #B5E853; stroke-width: 1.0416666666666667;"/><line style="stroke: #B5E853; stroke-width: 1.5625;" x1="97.9167" x2="97.9167" y1="264.5671" y2="269.7754"/><line style="stroke: #B5E853; stroke-width: 1.5625;" x1="97.9167" x2="270.8333" y1="269.7754" y2="269.7754"/><line style="stroke: #B5E853; stroke-width: 1.5625;" x1="270.8333" x2="270.8333" y1="269.7754" y2="285.4004"/><polygon fill="#B5E853" points="266.6667,274.9837,270.8333,285.4004,275,274.9837,270.8333,279.1504" style="stroke: #B5E853; stroke-width: 1.0416666666666667;"/><line style="stroke: #B5E853; stroke-width: 1.5625;" x1="270.8333" x2="270.8333" y1="332.373" y2="337.5814"/><line style="stroke: #B5E853; stroke-width: 1.5625;" x1="270.8333" x2="445.8333" y1="337.5814" y2="337.5814"/><line style="stroke: #B5E853; stroke-width: 1.5625;" x1="445.8333" x2="445.8333" y1="337.5814" y2="353.2064"/><polygon fill="#B5E853" points="441.6667,342.7897,445.8333,353.2064,450,342.7897,445.8333,346.9564" style="stroke: #B5E853; stroke-width: 1.0416666666666667;"/><text fill="#B5E853" font-family="&quot;Verdana&quot;" font-size="18.75" lengthAdjust="spacingAndGlyphs" textLength="121.875" x="36.4583" y="93.5852">First Swimlane</text><text fill="#B5E853" font-family="&quot;Verdana&quot;" font-size="18.75" lengthAdjust="spacingAndGlyphs" textLength="148.9583" x="195.8333" y="93.5852">Second Swimlane</text><text fill="#B5E853" font-family="&quot;Verdana&quot;" font-size="18.75" lengthAdjust="spacingAndGlyphs" textLength="129.1667" x="380.7292" y="93.5852">Third Swimlane</text><!--MD5=[5e5004db422fce2f63540ea3f4c0574a]
+@startuml
+
+
+
+skinparam backgroundColor black
+skinparam useBetaStyle true
+
+
+
+
+
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           40
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #eaeaea
+skinparam stereotype {
+    CBackgroundColor #557f91
+    CBorderColor #88b2c4
+    ABackgroundColor #a6ba7a
+    ABorderColor $SUCCESS_DARK
+    IBackgroundColor #bd6768
+    IBorderColor $DANGER_DARK
+    EBackgroundColor #f6cc91
+    EBorderColor $WARNING_DARK
+    NBackgroundColor #bb91b2
+    NBorderColor #885E7F
+}
+skinparam title {
+	FontColor	                 #b5e853
+	BorderColor	                 #b5e853
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #151515-black
+}
+
+
+skinparam legend {
+	BackgroundColor #6a9fb5
+	BorderColor #557f91
+	FontColor #eaeaea
+}
+
+skinparam swimlane {
+	BorderColor #aa759f
+	BorderThickness 2
+	TitleBackgroundColor  #88b2c4-#6a9fb5
+	TitleFontColor #b5e853
+}
+
+
+skinparam activity {
+		FontColor #151515
+	BorderColor #d3f198
+	BackgroundColor #d3f198-#b5e853
+	BarColor #90a959
+	StartColor #aa759f
+	EndColor #aa759f
+	DiamondBackgroundColor #88b2c4-#6a9fb5
+  	DiamondBorderColor #88b2c4
+  	DiamondFontColor #fefefe
+}
+
+
+skinparam participant {
+		FontColor #151515
+	BorderColor #d3f198
+	BackgroundColor #d3f198-#b5e853
+	BorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #151515
+	BorderColor #d3f198
+	BackgroundColor #d3f198-#b5e853
+	FontColor #eaeaea
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #b5e853
+	FontColor $FGCOLOR
+}
+
+
+skinparam sequence {
+	BorderColor #b5e853
+	TitleFontColor #b5e853
+	BackgroundColor black
+	StartColor #b5e853
+	EndColor #b5e853
+	BoxBackgroundColor black
+	BoxBorderColor #eaeaea
+	BoxFontColor $DARk
+	LifeLineBorderColor #6a9fb5
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #557f91
+	GroupBackgroundColor #151515
+	GroupBorderColor #eaeaea
+	GroupFontColor #eaeaea
+	GroupHeaderFontColor #aa759f
+	DividerBackgroundColor #eaeaea
+    DividerBorderColor #eaeaea
+    DividerBorderThickness 2
+    DividerFontColor #151515
+	ReferenceBackgroundColor #151515
+	ReferenceBorderColor #eaeaea
+	ReferenceFontColor #eaeaea
+	ReferenceHeaderBackgroundColor #151515
+}
+
+
+skinparam partition {
+	BorderColor #b5e853
+	FontColor #b5e853
+	BackgroundColor #151515-black
+}
+
+
+skinparam collections {
+		FontColor #151515
+	BorderColor #d3f198
+	BackgroundColor #d3f198-#b5e853
+}
+
+
+skinparam control {
+		FontColor #151515
+	BorderColor #d3f198
+	BackgroundColor #d3f198-#b5e853
+	FontColor #eaeaea
+}
+
+
+skinparam entity {
+		FontColor #151515
+	BorderColor #d3f198
+	BackgroundColor #d3f198-#b5e853
+	FontColor #eaeaea
+}
+
+
+skinparam boundary {
+		FontColor #151515
+	BorderColor #d3f198
+	BackgroundColor #d3f198-#b5e853
+	FontColor #eaeaea
+}
+
+
+skinparam agent {
+	BackgroundColor #f6cc91-#f4bf75
+	BorderColor #f6cc91
+	FontColor #eaeaea
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #bb91b2-#885E7F
+	BorderColor #885E7F
+	FontColor $WHITE
+}
+
+
+skinparam artifact {
+	BackgroundColor #eaeaea
+	BorderColor white
+	FontColor #151515
+}
+
+
+skinparam component {
+		FontColor #151515
+	BorderColor #d3f198
+	BackgroundColor #d3f198-#b5e853
+}
+
+
+skinparam interface {
+	BackgroundColor  #bd6768-#ac4142
+	BorderColor  #bd6768
+	FontColor #eaeaea
+}
+
+
+skinparam storage {
+	BackgroundColor #f6cc91-#f4bf75
+  	BorderColor #f6cc91
+	FontColor #151515
+}
+
+
+skinparam node {
+	BackgroundColor  #151515-black
+	BorderColor #d3f198
+	FontColor #eaeaea
+}
+
+
+skinparam cloud {
+	BackgroundColor #151515-black
+	BorderColor #151515
+	FontColor #eaeaea
+}
+
+
+skinparam database {
+	BackgroundColor  #151515-black
+	BorderColor #d3f198
+	FontColor #eaeaea
+}
+
+
+skinparam class {
+		FontColor #151515
+	BorderColor #d3f198
+	BackgroundColor #d3f198-#b5e853
+	HeaderBackgroundColor #d3f198-#b5e853
+	StereotypeFontColor #eaeaea
+	BorderThickness 1
+	AttributeFontColor #151515
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #151515
+	BorderColor #d3f198
+	BackgroundColor #d3f198-#b5e853
+	StereotypeFontColor #eaeaea
+	BorderThickness 1
+	AttributeFontColor #151515
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #151515
+	BorderColor #d3f198
+	BackgroundColor #d3f198-#b5e853
+	BorderThickness 2
+	StereotypeFontColor #b5e853
+}
+
+
+skinparam rectangle {
+	BackgroundColor black
+	BorderColor #b5e853
+	BorderThickness 2
+	FontColor #6d8b32
+	StereotypeFontColor #b5e853
+}
+
+
+skinparam package {
+	BackgroundColor #151515
+  	BorderColor #b5e853
+	FontColor #b5e853
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #151515-black
+  	BorderColor #f4bf75
+	FontColor #f4bf75
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #151515-black
+  	BorderColor #aa759f
+	FontColor #aa759f
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #151515
+	BorderColor #d3f198
+	BackgroundColor #d3f198-#b5e853
+	StartColor #aa759f
+	EndColor #aa759f
+	AttributeFontColor #fefefe
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #151515
+	BorderColor #d3f198
+	BackgroundColor #d3f198-#b5e853
+}
+
+
+skinparam card {
+	BackgroundColor #bb91b2-#aa759f
+	BorderColor #bb91b2
+	FontColor $INFO_TEXT
+}
+
+
+skinparam file {
+	BackgroundColor #88b2c4-#6a9fb5
+	BorderColor #88b2c4
+	FontColor #eaeaea
+}
+
+
+skinparam stack {
+		FontColor #151515
+	BorderColor #d3f198
+	BackgroundColor #d3f198-#b5e853
+}
+
+
+
+title Swimlane Diagram - hacker theme
+
+
+|First Swimlane|
+start
+    :Do something in First;
+    :Do something else;
+    |Second Swimlane|
+    :Do something in Second;
+        |Third Swimlane|
+        :Do something in Third;
+stop
+@enduml
+
+PlantUML version 1.2020.08(Sun Apr 26 07:08:22 PDT 2020)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_251-b32
+Operating System: Windows 10
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>

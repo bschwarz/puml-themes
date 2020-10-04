@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="501.0417px" preserveAspectRatio="none" style="width:638px;height:501px;background:#00000000;" version="1.1" viewBox="0 0 638 501" width="638.5417px" zoomAndPan="magnify"><defs><linearGradient id="g153n1yz2976lp0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#FFFFFF"/><stop offset="100%" stop-color="#FFFFFF"/></linearGradient><filter height="300%" id="f153n1yz2976lp" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0833333333333335"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.166666666666667" dy="4.166666666666667" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#00000000" height="56.5694" rx="4.1667" ry="4.1667" style="stroke: #CCCCCC; stroke-width: 1.0416666666666667;" width="496.875" x="69.2708" y="12.5"/><text fill="#2196F3" font-family="Verdana" font-size="20.8333" lengthAdjust="spacingAndGlyphs" textLength="459.375" x="88.0208" y="49.0702">Swimlane Diagram - materia-outline theme</text><rect fill="url(#g153n1yz2976lp0)" height="36.025" style="stroke: url(#g153n1yz2976lp0); stroke-width: 1.0416666666666667;" width="604.1667" x="15.625" y="72.1944"/><ellipse cx="110.9375" cy="123.8444" fill="#9C27B0" filter="url(#f153n1yz2976lp)" rx="10.4167" ry="10.4167" style="stroke: none; stroke-width: 1.0416666666666667;"/><rect fill="#00000000" filter="url(#f153n1yz2976lp)" height="56.8583" rx="13.0208" ry="13.0208" style="stroke: #2196F3; stroke-width: 1.5625;" width="180.2083" x="20.8333" y="155.0944"/><text fill="#2196F3" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="138.5417" x="41.6667" y="188.4949">Do something in First</text><rect fill="#00000000" filter="url(#f153n1yz2976lp)" height="56.8583" rx="13.0208" ry="13.0208" style="stroke: #2196F3; stroke-width: 1.5625;" width="163.5417" x="29.1667" y="232.7861"/><text fill="#2196F3" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="121.875" x="50" y="266.1865">Do something else</text><line style="stroke: #9C27B0; stroke-width: 2.0833333333333335;" x1="15.625" x2="15.625" y1="72.1944" y2="488.7777"/><rect fill="#00000000" filter="url(#f153n1yz2976lp)" height="56.8583" rx="13.0208" ry="13.0208" style="stroke: #2196F3; stroke-width: 1.5625;" width="200" x="210.4167" y="310.4777"/><text fill="#2196F3" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="158.3333" x="231.25" y="343.8782">Do something in Second</text><line style="stroke: #9C27B0; stroke-width: 2.0833333333333335;" x1="205.2083" x2="205.2083" y1="72.1944" y2="488.7777"/><rect fill="#00000000" filter="url(#f153n1yz2976lp)" height="56.8583" rx="13.0208" ry="13.0208" style="stroke: #2196F3; stroke-width: 1.5625;" width="184.375" x="419.7917" y="388.1694"/><text fill="#2196F3" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="142.7083" x="440.625" y="421.5698">Do something in Third</text><ellipse cx="511.9792" cy="477.3193" fill="#FFFFFF" filter="url(#f153n1yz2976lp)" rx="11.4583" ry="11.4583" style="stroke: #9C27B0; stroke-width: 1.0416666666666667;"/><ellipse cx="511.9792" cy="477.3193" fill="#9C27B0" rx="6.25" ry="6.25" style="stroke: #CD93D7; stroke-width: 1.0416666666666667;"/><line style="stroke: #9C27B0; stroke-width: 2.0833333333333335;" x1="414.5833" x2="414.5833" y1="72.1944" y2="488.7777"/><line style="stroke: #9C27B0; stroke-width: 2.0833333333333335;" x1="608.3333" x2="608.3333" y1="72.1944" y2="488.7777"/><line style="stroke: #2196F3; stroke-width: 1.5625;" x1="110.9375" x2="110.9375" y1="134.2611" y2="155.0944"/><polygon fill="#2196F3" points="106.7708,144.6777,110.9375,155.0944,115.1042,144.6777,110.9375,148.8444" style="stroke: #2196F3; stroke-width: 1.0416666666666667;"/><line style="stroke: #2196F3; stroke-width: 1.5625;" x1="110.9375" x2="110.9375" y1="211.9527" y2="232.7861"/><polygon fill="#2196F3" points="106.7708,222.3694,110.9375,232.7861,115.1042,222.3694,110.9375,226.5361" style="stroke: #2196F3; stroke-width: 1.0416666666666667;"/><line style="stroke: #2196F3; stroke-width: 1.5625;" x1="511.9792" x2="511.9792" y1="445.0277" y2="465.861"/><polygon fill="#2196F3" points="507.8125,455.4443,511.9792,465.861,516.1458,455.4443,511.9792,459.611" style="stroke: #2196F3; stroke-width: 1.0416666666666667;"/><line style="stroke: #2196F3; stroke-width: 1.5625;" x1="110.9375" x2="110.9375" y1="289.6444" y2="294.8527"/><line style="stroke: #2196F3; stroke-width: 1.5625;" x1="110.9375" x2="310.4167" y1="294.8527" y2="294.8527"/><line style="stroke: #2196F3; stroke-width: 1.5625;" x1="310.4167" x2="310.4167" y1="294.8527" y2="310.4777"/><polygon fill="#2196F3" points="306.25,300.061,310.4167,310.4777,314.5833,300.061,310.4167,304.2277" style="stroke: #2196F3; stroke-width: 1.0416666666666667;"/><line style="stroke: #2196F3; stroke-width: 1.5625;" x1="310.4167" x2="310.4167" y1="367.336" y2="372.5444"/><line style="stroke: #2196F3; stroke-width: 1.5625;" x1="310.4167" x2="511.9792" y1="372.5444" y2="372.5444"/><line style="stroke: #2196F3; stroke-width: 1.5625;" x1="511.9792" x2="511.9792" y1="372.5444" y2="388.1694"/><polygon fill="#2196F3" points="507.8125,377.7527,511.9792,388.1694,516.1458,377.7527,511.9792,381.9194" style="stroke: #2196F3; stroke-width: 1.0416666666666667;"/><text fill="#2196F3" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="94.7917" x="63.0208" y="95.1782">First Swimlane</text><text fill="#2196F3" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="114.5833" x="252.6042" y="95.1782">Second Swimlane</text><text fill="#2196F3" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="98.9583" x="461.9792" y="95.1782">Third Swimlane</text><!--MD5=[5fe4510c40e38387c9d51b7ca91158b6]
+@startuml
+
+
+
+skinparam backgroundColor transparent
+
+
+
+
+
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             true
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               10 
+skinparam TitleFontColor	    #222
+skinparam TitleFontSize	    	20
+skinparam TitleBorderThickness 	0
+skinparam ArrowColor            #666
+skinparam stereotype {
+    CBackgroundColor #fff
+    CBorderColor #cccccc
+    ABackgroundColor #70bf73
+    ABorderColor #3D8C40
+    IBackgroundColor #B7161C
+    IBorderColor $DANGER_DARK
+    EBackgroundColor #ffad33
+    EBorderColor #CC7A00
+    NBackgroundColor #b052c0
+    NBorderColor #7D1F8D
+}
+skinparam title {
+	FontColor	                 #2196F3
+	BorderColor	                 #cccccc
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              transparent
+}
+
+skinparam legend {
+	BackgroundColor transparent
+	BorderColor #cccccc
+	FontColor #222
+}
+
+skinparam swimlane {
+	BorderColor #9C27B0
+	BorderThickness 2
+	TitleBackgroundColor  #fff-#fff
+	TitleFontColor #2196F3
+}
+
+
+skinparam activity {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+	BarColor #4CAF50
+	StartColor #9C27B0
+	EndColor #9C27B0
+	DiamondBackgroundColor transparent
+  	DiamondBorderColor #cccccc
+	DiamondFontColor #cccccc
+}
+
+
+skinparam participant {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #2196F3
+	FontColor #222
+}
+
+
+skinparam sequence {
+	BorderColor #2196F3
+	TitleFontColor #2196F3
+	BackgroundColor transparent
+	StartColor #2196F3
+	EndColor #2196F3
+	BoxBackgroundColor transparent
+	BoxBorderColor #666
+	BoxFontColor #222
+	LifeLineBorderColor #cccccc
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor transparent
+	GroupBorderColor #666
+	GroupFontColor #222
+	GroupHeaderFontColor #9C27B0
+	DividerBackgroundColor transparent
+    DividerBorderColor #666
+    DividerBorderThickness 2
+    DividerFontColor #222
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #666
+	ReferenceFontColor #222
+	ReferenceHeaderFontColor #9C27B0
+}
+
+
+skinparam partition {
+	BorderColor #2196F3
+	FontColor #2196F3
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+}
+
+
+skinparam control {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+}
+
+
+skinparam entity {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+}
+
+
+skinparam boundary {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+}
+
+
+skinparam agent {
+	BackgroundColor transparent
+	BorderColor #999999
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor transparent
+	BorderColor #9C27B0
+	FontColor #9C27B0
+}
+
+
+skinparam artifact {
+	BackgroundColor transparent
+	BorderColor #666
+	FontColor #666
+}
+
+
+skinparam component {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+}
+
+
+skinparam interface {
+	BackgroundColor  transparent
+	BorderColor  #e51c23
+	FontColor #222
+}
+
+
+skinparam storage {
+	BackgroundColor transparent
+  	BorderColor #ff9800
+	FontColor #ff9800
+}
+
+
+skinparam node {
+	BackgroundColor transparent
+	BorderColor #222
+	FontColor #222
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #222
+}
+
+
+skinparam database {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+}
+
+
+skinparam class {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+	HeaderBackgroundColor #2196F3-#1a78c2
+	StereotypeFontColor #222
+	BorderThickness 1
+	AttributeFontColor #222
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+	StereotypeFontColor #222
+	BorderThickness 1
+	AttributeFontColor #cccccc
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+	BorderThickness 2
+	StereotypeFontColor #2196F3
+}
+
+
+skinparam rectangle {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+	BorderThickness 2
+	StereotypeFontColor #2196F3
+}
+
+
+skinparam package {
+	BackgroundColor transparent
+  	BorderColor #2196F3
+	FontColor #2196F3
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor transparent
+  	BorderColor #ff9800
+	FontColor #ff9800
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor transparent
+  	BorderColor #9C27B0
+	FontColor #9C27B0
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+	StartColor #9C27B0
+	EndColor #9C27B0
+	AttributeFontColor #cccccc
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+}
+
+
+skinparam card {
+	BackgroundColor transparent
+	BorderColor #9C27B0
+	FontColor #9C27B0
+}
+
+
+skinparam file {
+	BackgroundColor transparent
+	BorderColor #666
+	FontColor #666
+
+}
+
+
+skinparam stack {
+		FontColor #2196F3
+	BorderColor #2196F3
+	BackgroundColor transparent
+}
+
+title Swimlane Diagram - materia-outline theme
+
+
+|First Swimlane|
+start
+    :Do something in First;
+    :Do something else;
+    |Second Swimlane|
+    :Do something in Second;
+        |Third Swimlane|
+        :Do something in Third;
+stop
+@enduml
+
+PlantUML version 1.2020.08(Sun Apr 26 07:08:22 PDT 2020)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_251-b32
+Operating System: Windows 10
+Default Encoding: Cp1252
+Language: en
+Country: US
+--></g></svg>
