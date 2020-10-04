@@ -26,6 +26,11 @@ Remote file (for legacy plantuml, use !includeurl)
     </tr>
     <tr>
         <td>
+            <img src="swimlane-ex.svg">
+        </td>
+    </tr>
+    <tr>
+        <td>
             <img src="class-ex.svg">
         </td>
     </tr>
