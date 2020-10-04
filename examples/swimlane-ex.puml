@@ -1,0 +1,20 @@
+@startuml
+
+!if %variable_exists("$THEME")
+title Swimlane Diagram - $THEME theme
+!else
+title Swimlane Diagram
+!endif
+
+'skinparam BackgroundColor transparent
+
+|First Swimlane|
+start
+    :Do something in First;
+    :Do something else;
+    |Second Swimlane|
+    :Do something in Second;
+        |Third Swimlane|
+        :Do something in Third;
+stop
+@enduml
