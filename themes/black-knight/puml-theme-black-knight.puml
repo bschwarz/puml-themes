@@ -107,8 +107,16 @@ skinparam legend {
 	FontColor $PRIMARY_TEXT
 }
 
-!startsub activity
+!startsub swimlane
+	skinparam swimlane {
+	BorderColor $INFO
+	BorderThickness 2
+	TitleBackgroundColor  $SECONDARY_LIGHT-$SECONDARY
+	TitleFontColor $PRIMARY
+}
+!endsub
 
+!startsub activity
 skinparam activity {
 	$primary_scheme()
 	BarColor $SUCCESS
