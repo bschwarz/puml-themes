@@ -1,4 +1,451 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="773.9583px" preserveAspectRatio="none" style="width:421px;height:773px;background:#00000000;" version="1.1" viewBox="0 0 421 773" width="421.875px" zoomAndPan="magnify"><defs><linearGradient id="g113qq6q2fiomb0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#F5F5F5"/><stop offset="100%" stop-color="#F2F2F2"/></linearGradient><linearGradient id="g113qq6q2fiomb1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#33B2E2"/><stop offset="100%" stop-color="#009FDB"/></linearGradient><linearGradient id="g113qq6q2fiomb2" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#F5F5F5"/><stop offset="100%" stop-color="#C2C2C2"/></linearGradient></defs><g><rect fill="url(#g113qq6q2fiomb0)" height="52.4028" rx="4.1667" ry="4.1667" style="stroke: #C2C2C2; stroke-width: 1.0416666666666667;" width="397.9167" x="12.5" y="12.5"/><text fill="#009FDB" font-family="Verdana" font-size="20.8333" lengthAdjust="spacingAndGlyphs" textLength="364.5833" x="29.1667" y="46.9869">Activity Diagram - bluegray theme</text><ellipse cx="212.5" cy="78.4444" fill="#0568AE" rx="10.4167" ry="10.4167" style="stroke: none; stroke-width: 1.0416666666666667;"/><rect fill="url(#g113qq6q2fiomb1)" height="52.6917" rx="13.0208" ry="13.0208" style="stroke: #009FDB; stroke-width: 1.5625;" width="68.75" x="178.125" y="109.6944"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="31.25" x="196.875" y="141.0116">start</text><rect fill="#B5BD00" height="6.25" rx="2.6042" ry="2.6042" style="stroke: #B5BD00; stroke-width: 1.0416666666666667;" width="235.4167" x="94.7917" y="183.2194"/><rect fill="#00000000" height="207.0333" rx="10.4167" ry="10.4167" style="stroke: #009FDB; stroke-width: 2.0833333333333335;" width="114.5833" x="107.2917" y="199.8861"/><path d="M211.4583,200.9277 L211.4583,224.4527 L201.0417,234.8694 L107.2917,234.8694 " fill="none" style="stroke: #009FDB; stroke-width: 2.0833333333333335;"/><text fill="#009FDB" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="77.0833" x="118.75" y="221.8282">My Partition</text><rect fill="url(#g113qq6q2fiomb1)" height="52.6917" rx="13.0208" ry="13.0208" style="stroke: #009FDB; stroke-width: 1.5625;" width="66.6667" x="131.25" y="252.5777"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="29.1667" x="150" y="283.8949">foo1</text><rect fill="url(#g113qq6q2fiomb1)" height="52.6917" rx="13.0208" ry="13.0208" style="stroke: #009FDB; stroke-width: 1.5625;" width="66.6667" x="131.25" y="341.7277"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="29.1667" x="150" y="373.0448">foo2</text><rect fill="url(#g113qq6q2fiomb1)" height="52.6917" rx="13.0208" ry="13.0208" style="stroke: #009FDB; stroke-width: 1.5625;" width="66.6667" x="251.0417" y="281.2236"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="29.1667" x="269.7917" y="312.5407">foo3</text><rect fill="#B5BD00" height="6.25" rx="2.6042" ry="2.6042" style="stroke: #B5BD00; stroke-width: 1.0416666666666667;" width="235.4167" x="94.7917" y="427.7527"/><rect fill="url(#g113qq6q2fiomb1)" height="52.6917" rx="13.0208" ry="13.0208" style="stroke: #009FDB; stroke-width: 1.5625;" width="66.6667" x="179.1667" y="507.5277"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="29.1667" x="197.9167" y="538.8448">foo5</text><polygon fill="url(#g113qq6q2fiomb2)" points="189.5833,454.836,235.4167,454.836,247.9167,470.7652,235.4167,486.6943,189.5833,486.6943,177.0833,470.7652,189.5833,454.836" style="stroke: #C2C2C2; stroke-width: 1.5625;"/><text fill="#5A5A5A" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="29.1667" x="197.9167" y="475.7365">foo4</text><rect fill="url(#g113qq6q2fiomb1)" height="52.6917" rx="13.0208" ry="13.0208" style="stroke: #009FDB; stroke-width: 1.5625;" width="66.6667" x="179.1667" y="603.9693"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="29.1667" x="197.9167" y="635.2865">foo6</text><rect fill="url(#g113qq6q2fiomb1)" height="52.6917" rx="13.0208" ry="13.0208" style="stroke: #009FDB; stroke-width: 1.5625;" width="66.6667" x="179.1667" y="667.0776"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="29.1667" x="197.9167" y="698.3948">foo7</text><ellipse cx="212.5" cy="752.061" fill="#FFFFFF" rx="11.4583" ry="11.4583" style="stroke: #0568AE; stroke-width: 1.0416666666666667;"/><ellipse cx="212.5" cy="752.061" fill="#0568AE" rx="6.25" ry="6.25" style="stroke: #82B3D6; stroke-width: 1.0416666666666667;"/><line style="stroke: #009FDB; stroke-width: 1.5625;" x1="212.5" x2="212.5" y1="88.8611" y2="109.6944"/><polygon fill="#009FDB" points="208.3333,99.2778,212.5,109.6944,216.6667,99.2778,212.5,103.4444" style="stroke: #009FDB; stroke-width: 1.0416666666666667;"/><line style="stroke: #009FDB; stroke-width: 1.5625;" x1="164.5833" x2="164.5833" y1="305.2694" y2="341.7277"/><polygon fill="#009FDB" points="160.4167,331.311,164.5833,341.7277,168.75,331.311,164.5833,335.4777" style="stroke: #009FDB; stroke-width: 1.0416666666666667;"/><line style="stroke: #009FDB; stroke-width: 1.5625;" x1="164.5833" x2="164.5833" y1="189.4694" y2="252.5777"/><polygon fill="#009FDB" points="160.4167,242.1611,164.5833,252.5777,168.75,242.1611,164.5833,246.3277" style="stroke: #009FDB; stroke-width: 1.0416666666666667;"/><line style="stroke: #009FDB; stroke-width: 1.5625;" x1="284.375" x2="284.375" y1="189.4694" y2="281.2236"/><polygon fill="#009FDB" points="280.2083,270.8069,284.375,281.2236,288.5417,270.8069,284.375,274.9736" style="stroke: #009FDB; stroke-width: 1.0416666666666667;"/><line style="stroke: #009FDB; stroke-width: 1.5625;" x1="164.5833" x2="164.5833" y1="394.4194" y2="427.7527"/><polygon fill="#009FDB" points="160.4167,417.336,164.5833,427.7527,168.75,417.336,164.5833,421.5027" style="stroke: #009FDB; stroke-width: 1.0416666666666667;"/><line style="stroke: #009FDB; stroke-width: 1.5625;" x1="212.5" x2="212.5" y1="162.3861" y2="183.2194"/><polygon fill="#009FDB" points="208.3333,172.8027,212.5,183.2194,216.6667,172.8027,212.5,176.9694" style="stroke: #009FDB; stroke-width: 1.0416666666666667;"/><line style="stroke: #009FDB; stroke-width: 1.5625;" x1="212.5" x2="212.5" y1="486.6943" y2="507.5277"/><polygon fill="#009FDB" points="208.3333,497.111,212.5,507.5277,216.6667,497.111,212.5,501.2777" style="stroke: #009FDB; stroke-width: 1.0416666666666667;"/><line style="stroke: #009FDB; stroke-width: 1.5625;" x1="247.9167" x2="260.4167" y1="470.7652" y2="470.7652"/><polygon fill="#009FDB" points="256.25,518.6172,260.4167,529.0339,264.5833,518.6172,260.4167,522.7839" style="stroke: #009FDB; stroke-width: 1.5625;"/><line style="stroke: #009FDB; stroke-width: 1.5625;" x1="260.4167" x2="260.4167" y1="470.7652" y2="583.136"/><line style="stroke: #009FDB; stroke-width: 1.5625;" x1="260.4167" x2="212.5" y1="583.136" y2="583.136"/><line style="stroke: #009FDB; stroke-width: 1.5625;" x1="212.5" x2="212.5" y1="583.136" y2="603.9693"/><polygon fill="#009FDB" points="208.3333,593.5527,212.5,603.9693,216.6667,593.5527,212.5,597.7193" style="stroke: #009FDB; stroke-width: 1.0416666666666667;"/><line style="stroke: #009FDB; stroke-width: 1.5625;" x1="212.5" x2="212.5" y1="434.0027" y2="454.836"/><polygon fill="#009FDB" points="208.3333,444.4194,212.5,454.836,216.6667,444.4194,212.5,448.586" style="stroke: #009FDB; stroke-width: 1.0416666666666667;"/><line style="stroke: #009FDB; stroke-width: 1.5625;" x1="212.5" x2="212.5" y1="719.7693" y2="740.6026"/><polygon fill="#009FDB" points="208.3333,730.186,212.5,740.6026,216.6667,730.186,212.5,734.3526" style="stroke: #009FDB; stroke-width: 1.0416666666666667;"/><!--MD5=[150c6cc8b0de0369773f1ffb0adebfb9]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="773.9583px" preserveAspectRatio="none" style="width:421px;height:773px;background:#00000000;" version="1.1" viewBox="0 0 421 773" width="421.875px" zoomAndPan="magnify"><defs><linearGradient id="ghocn8e5u3y90" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#F5F5F5"/><stop offset="100%" stop-color="#F2F2F2"/></linearGradient><linearGradient id="ghocn8e5u3y91" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#33B2E2"/><stop offset="100%" stop-color="#009FDB"/></linearGradient><linearGradient id="ghocn8e5u3y92" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#F5F5F5"/><stop offset="100%" stop-color="#C2C2C2"/></linearGradient></defs><g><rect fill="url(#ghocn8e5u3y90)" height="52.4028" rx="4.1667" ry="4.1667" style="stroke: #C2C2C2; stroke-width: 1.0416666666666667;" width="397.9167" x="12.5" y="12.5"/><text fill="#009FDB" font-family="Verdana" font-size="20.8333" lengthAdjust="spacingAndGlyphs" textLength="364.5833" x="29.1667" y="46.9869">Activity Diagram - bluegray theme</text><ellipse cx="213.0208" cy="78.4444" fill="#0568AE" rx="10.4167" ry="10.4167" style="stroke: none; stroke-width: 1.0416666666666667;"/><rect fill="url(#ghocn8e5u3y91)" height="52.6917" rx="13.0208" ry="13.0208" style="stroke: #009FDB; stroke-width: 1.5625;" width="68.75" x="178.6458" y="109.6944"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="31.25" x="197.3958" y="141.0116">start</text><rect fill="#B5BD00" height="6.25" rx="2.6042" ry="2.6042" style="stroke: #B5BD00; stroke-width: 1.0416666666666667;" width="235.4167" x="95.3125" y="183.2194"/><rect fill="#00000000" height="207.0333" rx="10.4167" ry="10.4167" style="stroke: #009FDB; stroke-width: 2.0833333333333335;" width="114.5833" x="107.8125" y="199.8861"/><path d="M211.9792,199.8861 L211.9792,224.4527 L201.5625,234.8694 L107.8125,234.8694 " fill="none" style="stroke: #009FDB; stroke-width: 2.0833333333333335;"/><text fill="#009FDB" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="77.0833" x="119.2708" y="221.8282">My Partition</text><rect fill="url(#ghocn8e5u3y91)" height="52.6917" rx="13.0208" ry="13.0208" style="stroke: #009FDB; stroke-width: 1.5625;" width="66.6667" x="131.7708" y="252.5777"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="29.1667" x="150.5208" y="283.8949">foo1</text><rect fill="url(#ghocn8e5u3y91)" height="52.6917" rx="13.0208" ry="13.0208" style="stroke: #009FDB; stroke-width: 1.5625;" width="66.6667" x="131.7708" y="341.7277"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="29.1667" x="150.5208" y="373.0448">foo2</text><rect fill="url(#ghocn8e5u3y91)" height="52.6917" rx="13.0208" ry="13.0208" style="stroke: #009FDB; stroke-width: 1.5625;" width="66.6667" x="251.5625" y="281.2236"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="29.1667" x="270.3125" y="312.5407">foo3</text><rect fill="#B5BD00" height="6.25" rx="2.6042" ry="2.6042" style="stroke: #B5BD00; stroke-width: 1.0416666666666667;" width="235.4167" x="95.3125" y="427.7527"/><rect fill="url(#ghocn8e5u3y91)" height="52.6917" rx="13.0208" ry="13.0208" style="stroke: #009FDB; stroke-width: 1.5625;" width="66.6667" x="179.6875" y="507.5277"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="29.1667" x="198.4375" y="538.8448">foo5</text><polygon fill="url(#ghocn8e5u3y92)" points="190.1042,454.836,235.9375,454.836,248.4375,470.7652,235.9375,486.6943,190.1042,486.6943,177.6042,470.7652,190.1042,454.836" style="stroke: #C2C2C2; stroke-width: 1.5625;"/><text fill="#5A5A5A" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="29.1667" x="198.4375" y="475.7365">foo4</text><rect fill="url(#ghocn8e5u3y91)" height="52.6917" rx="13.0208" ry="13.0208" style="stroke: #009FDB; stroke-width: 1.5625;" width="66.6667" x="179.6875" y="603.9693"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="29.1667" x="198.4375" y="635.2865">foo6</text><rect fill="url(#ghocn8e5u3y91)" height="52.6917" rx="13.0208" ry="13.0208" style="stroke: #009FDB; stroke-width: 1.5625;" width="66.6667" x="179.6875" y="667.0776"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="29.1667" x="198.4375" y="698.3948">foo7</text><ellipse cx="213.0208" cy="752.061" fill="#FFFFFF" rx="11.4583" ry="11.4583" style="stroke: #0568AE; stroke-width: 1.0416666666666667;"/><ellipse cx="213.0208" cy="752.061" fill="#0568AE" rx="6.25" ry="6.25" style="stroke: #82B3D6; stroke-width: 1.0416666666666667;"/><line style="stroke: #009FDB; stroke-width: 1.5625;" x1="213.0208" x2="213.0208" y1="88.8611" y2="109.6944"/><polygon fill="#009FDB" points="208.8542,99.2778,213.0208,109.6944,217.1875,99.2778,213.0208,103.4444" style="stroke: #009FDB; stroke-width: 1.0416666666666667;"/><line style="stroke: #009FDB; stroke-width: 1.5625;" x1="165.1042" x2="165.1042" y1="305.2694" y2="341.7277"/><polygon fill="#009FDB" points="160.9375,331.311,165.1042,341.7277,169.2708,331.311,165.1042,335.4777" style="stroke: #009FDB; stroke-width: 1.0416666666666667;"/><line style="stroke: #009FDB; stroke-width: 1.5625;" x1="165.1042" x2="165.1042" y1="189.4694" y2="252.5777"/><polygon fill="#009FDB" points="160.9375,242.1611,165.1042,252.5777,169.2708,242.1611,165.1042,246.3277" style="stroke: #009FDB; stroke-width: 1.0416666666666667;"/><line style="stroke: #009FDB; stroke-width: 1.5625;" x1="284.8958" x2="284.8958" y1="189.4694" y2="281.2236"/><polygon fill="#009FDB" points="280.7292,270.8069,284.8958,281.2236,289.0625,270.8069,284.8958,274.9736" style="stroke: #009FDB; stroke-width: 1.0416666666666667;"/><line style="stroke: #009FDB; stroke-width: 1.5625;" x1="165.1042" x2="165.1042" y1="394.4194" y2="427.7527"/><polygon fill="#009FDB" points="160.9375,417.336,165.1042,427.7527,169.2708,417.336,165.1042,421.5027" style="stroke: #009FDB; stroke-width: 1.0416666666666667;"/><line style="stroke: #009FDB; stroke-width: 1.5625;" x1="213.0208" x2="213.0208" y1="162.3861" y2="183.2194"/><polygon fill="#009FDB" points="208.8542,172.8027,213.0208,183.2194,217.1875,172.8027,213.0208,176.9694" style="stroke: #009FDB; stroke-width: 1.0416666666666667;"/><line style="stroke: #009FDB; stroke-width: 1.5625;" x1="213.0208" x2="213.0208" y1="486.6943" y2="507.5277"/><polygon fill="#009FDB" points="208.8542,497.111,213.0208,507.5277,217.1875,497.111,213.0208,501.2777" style="stroke: #009FDB; stroke-width: 1.0416666666666667;"/><line style="stroke: #009FDB; stroke-width: 1.5625;" x1="248.4375" x2="260.9375" y1="470.7652" y2="470.7652"/><polygon fill="#009FDB" points="256.7708,518.6172,260.9375,529.0339,265.1042,518.6172,260.9375,522.7839" style="stroke: #009FDB; stroke-width: 1.5625;"/><line style="stroke: #009FDB; stroke-width: 1.5625;" x1="260.9375" x2="260.9375" y1="470.7652" y2="583.136"/><line style="stroke: #009FDB; stroke-width: 1.5625;" x1="260.9375" x2="213.0208" y1="583.136" y2="583.136"/><line style="stroke: #009FDB; stroke-width: 1.5625;" x1="213.0208" x2="213.0208" y1="583.136" y2="603.9693"/><polygon fill="#009FDB" points="208.8542,593.5527,213.0208,603.9693,217.1875,593.5527,213.0208,597.7193" style="stroke: #009FDB; stroke-width: 1.0416666666666667;"/><line style="stroke: #009FDB; stroke-width: 1.5625;" x1="213.0208" x2="213.0208" y1="434.0027" y2="454.836"/><polygon fill="#009FDB" points="208.8542,444.4194,213.0208,454.836,217.1875,444.4194,213.0208,448.586" style="stroke: #009FDB; stroke-width: 1.0416666666666667;"/><line style="stroke: #009FDB; stroke-width: 1.5625;" x1="213.0208" x2="213.0208" y1="719.7693" y2="740.6026"/><polygon fill="#009FDB" points="208.8542,730.186,213.0208,740.6026,217.1875,730.186,213.0208,734.3526" style="stroke: #009FDB; stroke-width: 1.0416666666666667;"/><!--MD5=[983c2ef4dbefa94ca1a52efdd102f9ba]
+@startuml
+
+!$THEME = "bluegray"
+
+!if %not(%variable_exists("$BGCOLOR"))
+!$BGCOLOR = "transparent"
+!endif
+
+skinparam backgroundColor $BGCOLOR
+
+
+!$WHITE = "#fff"
+!$GRAY_DARK = "#5a5a5a"
+!$GRAY = "#959595"
+!$PRIMARY = "#009fdb"
+!$SECONDARY = "#f2f2f2"
+!$SUCCESS = "#b5bd00"
+!$INFO = "#0568ae"
+!$WARNING = "#ea7400"
+!$DANGER = "#cf2a2a"
+!$LIGHT = "#d2d2d2"
+!$DARK = "#5a5a5a"
+
+!$FGCOLOR = $DARK
+!$PRIMARY_LIGHT = "#33b2e2"
+!$PRIMARY_DARK = "#007faf"
+!$PRIMARY_TEXT = $WHITE
+!$SECONDARY_LIGHT = "#f5f5f5"
+!$SECONDARY_DARK = "#c2c2c2"
+!$SECONDARY_TEXT = $DARK
+!$INFO_LIGHT = "#3786be"
+!$INFO_DARK = "#04538b"
+!$INFO_TEXT = $WHITE
+!$SUCCESS_LIGHT = "#c4ca33"
+!$SUCCESS_DARK = "#919700"
+!$SUCCESS_TEXT = $WHITE
+!$WARNING_LIGHT = "#ee9033"
+!$WARNING_DARK = "#bb5d00"
+!$WARNING_TEXT = $WHITE
+!$DANGER_LIGHT = "#d95555"
+!$DANGER_DARK = "#a62222"
+!$DANGER_TEXT = $WHITE
+
+!procedure $success($msg)
+  <font color=$SUCCESS><b>$msg
+!endprocedure
+
+!procedure $failure($msg)
+  <font color=$DANGER><b>$msg
+!endprocedure
+
+!procedure $warning($msg)
+  <font color=$WARNING><b>$msg
+!endprocedure
+
+!procedure $primary_scheme()
+
+	FontColor $PRIMARY_TEXT
+	BorderColor $PRIMARY_LIGHT
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+
+!endprocedure
+
+!procedure $secondary_scheme()
+	FontColor $SECONDARY_TEXT
+	BorderColor $SECONDARY_DARK
+	BackgroundColor $WHITE-#fefefe
+!endprocedure
+
+skinparam defaultFontName        "Verdana"
+skinparam defaultFontSize        12
+skinparam dpi                    100
+skinparam shadowing              false
+skinparam roundcorner            20
+skinparam ParticipantPadding     30
+skinparam BoxPadding             40
+skinparam Padding                8
+skinparam ArrowColor             $GRAY
+skinparam stereotype {
+    CBackgroundColor $SECONDARY_LIGHT
+    CBorderColor $SECONDARY_DARK
+    ABackgroundColor $SUCCESS_LIGHT
+    ABorderColor $SUCCESS_DARK
+    IBackgroundColor $DANGER_LIGHT
+    IBorderColor $DANGER_DARK
+    EBackgroundColor $WARNING_LIGHT
+    EBorderColor $WARNING_DARK
+    NBackgroundColor $INFO_LIGHT
+    NBorderColor $INFO_DARK
+}
+skinparam title {
+	FontColor	                 $PRIMARY
+	BorderColor	                 $SECONDARY_DARK
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              $SECONDARY_LIGHT-$SECONDARY
+}
+
+
+skinparam legend {
+	BackgroundColor $SECONDARY
+	BorderColor $SECONDARY_DARK
+	FontColor $DARK
+}
+
+!startsub swimlane
+skinparam swimlane {
+	BorderColor $INFO
+	BorderThickness 2
+	TitleBackgroundColor  $SECONDARY_LIGHT-$SECONDARY
+	TitleFontColor $PRIMARY
+}
+!endsub
+
+!startsub activity
+
+skinparam activity {
+	FontColor $PRIMARY_TEXT
+	BorderColor $PRIMARY
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	BarColor $SUCCESS
+	StartColor $INFO
+	EndColor $INFO
+	DiamondBackgroundColor $SECONDARY_LIGHT-$SECONDARY_DARK
+  	DiamondBorderColor $SECONDARY_DARK
+	DiamondFontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub participant
+
+skinparam participant {
+	$primary_scheme()
+	ParticipantBorderThickness 2
+}
+!endsub
+
+!startsub actor
+
+skinparam actor {
+	$primary_scheme()
+	FontColor $PRIMARY
+}
+!endsub
+
+!startsub arrow
+
+skinparam arrow {
+	Thickness 3
+	Color $PRIMARY
+	FontColor $FGCOLOR
+}
+!endsub
+
+!startsub sequence
+
+skinparam sequence {
+	BorderColor $PRIMARY
+	TitleFontColor $PRIMARY
+	BackgroundColor $BGCOLOR
+	StartColor $PRIMARY
+	EndColor $PRIMARY
+	BoxBackgroundColor $LIGHT
+	BoxBorderColor $GRAY
+	BoxFontColor $DARK
+	LifeLineBorderColor $SECONDARY_DARK
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor $SECONDARY_LIGHT
+	GroupBorderColor $GRAY
+	GroupFontColor $DARK
+	GroupHeaderFontColor $INFO
+	DividerBackgroundColor $WHITE-$LIGHT
+    DividerBorderColor $GRAY
+    DividerBorderThickness 2
+    DividerFontColor $DARK
+	ReferenceBackgroundColor $BGCOLOR
+	ReferenceBorderColor $GRAY
+	ReferenceFontColor $DARK
+	ReferenceHeaderFontColor $INFO
+}
+!endsub
+
+!startsub partition
+
+skinparam partition {
+	BorderColor $PRIMARY
+	FontColor $PRIMARY
+	BackgroundColor $BGCOLOR
+}
+!endsub
+
+!startsub collections
+
+skinparam collections {
+	$primary_scheme()
+}
+!endsub
+
+!startsub control
+
+skinparam control {
+	$primary_scheme()
+	FontColor $PRIMARY
+}
+!endsub
+
+!startsub entity
+
+skinparam entity {
+	$primary_scheme()
+	FontColor $PRIMARY
+}
+!endsub
+
+!startsub boundary
+
+skinparam boundary {
+	$primary_scheme()
+	FontColor $PRIMARY
+}
+!endsub
+
+!startsub agent
+
+skinparam agent {
+	BackgroundColor #orange
+	BorderColor #999999
+	FontColor #333333
+}
+!endsub
+
+!startsub note
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor $INFO_LIGHT-$INFO
+	BorderColor $INFO
+	FontColor $WHITE
+}
+!endsub
+
+!startsub artifact
+
+skinparam artifact {
+	BackgroundColor $WHITE-$LIGHT
+	BorderColor $SECONDARY_DARK
+	FontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub component
+
+skinparam component {
+	$primary_scheme()
+}
+!endsub
+
+!startsub interface
+
+skinparam interface {
+	BackgroundColor  $DANGER_LIGHT
+	BorderColor  $DANGER
+	FontColor $DARK
+}
+!endsub
+
+!startsub storage
+
+skinparam storage {
+	BackgroundColor $WARNING_LIGHT-$WARNING
+  	BorderColor $WARNING
+	FontColor $WARNING_TEXT
+}
+!endsub
+
+!startsub node
+
+skinparam node {
+	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
+	BorderColor $SECONDARY_DARK
+	FontColor $PRIMARY
+}
+!endsub
+
+!startsub cloud
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor $PRIMARY
+}
+!endsub
+
+!startsub database
+
+skinparam database {
+	$primary_scheme()
+	BorderColor $PRIMARY_DARK
+}
+!endsub
+
+!startsub class
+
+skinparam class {
+	$primary_scheme()
+	HeaderBackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	StereotypeFontColor $DARK
+	BorderThickness 1
+	AttributeFontColor $LIGHT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub object
+
+skinparam object {
+	$primary_scheme()
+	StereotypeFontColor $DARK
+	BorderThickness 1
+	AttributeFontColor $LIGHT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub usecase
+
+skinparam usecase {
+	$primary_scheme()
+	BorderThickness 2
+	StereotypeFontColor $PRIMARY
+}
+!endsub
+
+!startsub rectangle
+
+skinparam rectangle {
+	$secondary_scheme()
+	BorderThickness 2
+	StereotypeFontColor $PRIMARY
+}
+!endsub
+
+!startsub package
+
+skinparam package {
+	FontColor $PRIMARY
+	BorderColor $PRIMARY_LIGHT
+	BackgroundColor $BGCOLOR
+	BorderThickness 2
+}
+!endsub
+
+!startsub folder
+
+skinparam folder {
+	BackgroundColor $WHITE-$SECONDARY_LIGHT
+  	BorderColor $WARNING
+	FontColor $WARNING
+	BorderThickness 2
+}
+!endsub
+
+!startsub frame
+
+skinparam frame {
+	BackgroundColor $WHITE-$SECONDARY_LIGHT
+  	BorderColor $INFO
+	FontColor $INFO
+	BorderThickness 2
+}
+!endsub
+
+!startsub state
+
+skinparam state {
+	$primary_scheme()
+	BorderColor $PRIMARY_DARK
+	StartColor $INFO
+	EndColor $INFO
+	AttributeFontColor $LIGHT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub queue
+
+skinparam queue {
+	$primary_scheme()
+}
+!endsub
+
+!startsub card
+
+skinparam card {
+	BackgroundColor $INFO_LIGHT-$INFO
+	BorderColor $INFO
+	FontColor $INFO_TEXT
+}
+!endsub
+
+!startsub file
+
+skinparam file {
+	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
+	BorderColor $INFO
+	FontColor $SECONDARY_TEXT
+
+}
+!endsub
+
+!startsub stack
+
+skinparam stack {
+	$primary_scheme()
+}
+!endsub
+
+!if %variable_exists("$THEME")
+title Activity Diagram - $THEME theme
+!else
+title Activity Diagram
+!endif
+
+'skinparam BackgroundColor transparent
+
+start
+ :start;
+ fork
+  partition "My Partition" {
+   :foo1;
+   :foo2;
+  }
+ fork again
+   :foo3;
+   detach
+ endfork
+ if (foo4) then
+   :foo5;
+   detach
+ endif
+ :foo6;
+ detach
+ :foo7;
+ stop
+@enduml
+
 @startuml
 
 
@@ -316,6 +763,7 @@ skinparam state {
 	BorderColor #33b2e2
 	BackgroundColor #33b2e2-#009fdb
 
+	BorderColor #007faf
 	StartColor #0568ae
 	EndColor #0568ae
 	AttributeFontColor #d2d2d2
@@ -379,13 +827,11 @@ start
  stop
 @enduml
 
-PlantUML version 1.2020.08(Sun Apr 26 07:08:22 PDT 2020)
+PlantUML version 1.2020.16beta7(Unknown compile time)
 (GPL source distribution)
-Java Runtime: Java(TM) SE Runtime Environment
-JVM: Java HotSpot(TM) 64-Bit Server VM
-Java Version: 1.8.0_251-b32
-Operating System: Windows 10
-Default Encoding: Cp1252
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
 Language: en
 Country: US
 --></g></svg>

@@ -394,6 +394,7 @@ skinparam frame {
 
 skinparam state {
 	$primary_scheme()
+	BorderColor $PRIMARY_DARK
 	StartColor $INFO
 	EndColor $INFO
 	AttributeFontColor $SECONDARY_TEXT
