@@ -18,7 +18,7 @@ Remote file (for legacy plantuml, use !includeurl)
 </pre>
 
 ## Gallery
-<table style="background: black; width: 100%">
+<table style="background: white; width: 100%">
     <tr>
         <td>
             <img src="activity-ex.svg">
