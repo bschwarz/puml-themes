@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="516.6667px" preserveAspectRatio="none" style="width:709px;height:516px;background:#00000000;" version="1.1" viewBox="0 0 709 516" width="709.375px" zoomAndPan="magnify"><defs><linearGradient id="gu3j2uinpf47k0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#F4A1A4"/><stop offset="100%" stop-color="#F3969A"/></linearGradient></defs><g><rect fill="url(#gu3j2uinpf47k0)" height="45.0846" rx="4.1667" ry="4.1667" style="stroke: #DB878B; stroke-width: 1.0416666666666667;" width="411.4583" x="95.8333" y="15.625"/><text fill="#6CAF9C" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="390.625" x="106.25" y="45.3796">Mindmap Diagram - minty theme</text><rect fill="#FEFECE" height="48.2259" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="52.0833" x="353.125" y="267.2892"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="20.8333" x="368.75" y="296.4508">OS</text><rect fill="#FEFECE" height="48.2259" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="84.375" x="457.2917" y="180.9652"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="53.125" x="472.9167" y="210.1267">Ubuntu</text><rect fill="#FEFECE" height="48.2259" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="102.0833" x="593.75" y="77.3763"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="70.8333" x="609.375" y="106.5379">Linux Mint</text><path d="M541.6667,205.0781 L552.0833,205.0781 C567.7083,205.0781 567.7083,101.4893 583.3333,101.4893 L593.75,101.4893 " fill="none" style="stroke: #78C2AD; stroke-width: 3.125;"/><rect fill="#FEFECE" height="48.2259" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="92.7083" x="593.75" y="146.4355"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="61.4583" x="609.375" y="175.5971">Kubuntu</text><path d="M541.6667,205.0781 L552.0833,205.0781 C567.7083,205.0781 567.7083,170.5485 583.3333,170.5485 L593.75,170.5485 " fill="none" style="stroke: #78C2AD; stroke-width: 3.125;"/><rect fill="#FEFECE" height="48.2259" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="90.625" x="593.75" y="215.4948"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="609.375" y="244.6564">Lubuntu</text><path d="M541.6667,205.0781 L552.0833,205.0781 C567.7083,205.0781 567.7083,239.6077 583.3333,239.6077 L593.75,239.6077 " fill="none" style="stroke: #78C2AD; stroke-width: 3.125;"/><rect fill="#FEFECE" height="48.2259" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="104.1667" x="593.75" y="284.554"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="72.9167" x="609.375" y="313.7156">KDE Neon</text><path d="M541.6667,205.0781 L552.0833,205.0781 C567.7083,205.0781 567.7083,308.667 583.3333,308.667 L593.75,308.667 " fill="none" style="stroke: #78C2AD; stroke-width: 3.125;"/><path d="M405.2083,291.4022 L415.625,291.4022 C431.25,291.4022 431.25,205.0781 446.875,205.0781 L457.2917,205.0781 " fill="none" style="stroke: #78C2AD; stroke-width: 3.125;"/><rect fill="#FEFECE" height="48.2259" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="71.875" x="457.2917" y="250.0244"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="40.625" x="472.9167" y="279.186">LMDE</text><path d="M405.2083,291.4022 L415.625,291.4022 C431.25,291.4022 431.25,274.1374 446.875,274.1374 L457.2917,274.1374 " fill="none" style="stroke: #78C2AD; stroke-width: 3.125;"/><rect fill="#FEFECE" height="48.2259" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="88.5417" x="457.2917" y="319.0837"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="57.2917" x="472.9167" y="348.2452">SolydXK</text><path d="M405.2083,291.4022 L415.625,291.4022 C431.25,291.4022 431.25,343.1966 446.875,343.1966 L457.2917,343.1966 " fill="none" style="stroke: #78C2AD; stroke-width: 3.125;"/><rect fill="#FEFECE" height="48.2259" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="97.9167" x="457.2917" y="388.1429"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="66.6667" x="472.9167" y="417.3045">SteamOS</text><path d="M405.2083,291.4022 L415.625,291.4022 C431.25,291.4022 431.25,412.2559 446.875,412.2559 L457.2917,412.2559 " fill="none" style="stroke: #78C2AD; stroke-width: 3.125;"/><rect fill="#FEFECE" height="48.2259" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="97.9167" x="457.2917" y="457.2021"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="66.6667" x="472.9167" y="486.3637">Raspbian</text><path d="M405.2083,291.4022 L415.625,291.4022 C431.25,291.4022 431.25,481.3151 446.875,481.3151 L457.2917,481.3151 " fill="none" style="stroke: #78C2AD; stroke-width: 3.125;"/><rect fill="#FEFECE" height="48.2259" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="118.75" x="182.2917" y="180.9652"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="87.5" x="197.9167" y="210.1267">Windows 95</text><path d="M353.125,291.4022 L342.7083,291.4022 C327.0833,291.4022 327.0833,205.0781 311.4583,205.0781 L301.0417,205.0781 " fill="none" style="stroke: #78C2AD; stroke-width: 3.125;"/><rect fill="#FEFECE" height="48.2259" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="118.75" x="182.2917" y="250.0244"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="87.5" x="197.9167" y="279.186">Windows 98</text><path d="M353.125,291.4022 L342.7083,291.4022 C327.0833,291.4022 327.0833,274.1374 311.4583,274.1374 L301.0417,274.1374 " fill="none" style="stroke: #78C2AD; stroke-width: 3.125;"/><rect fill="#FEFECE" height="48.2259" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="119.7917" x="181.25" y="319.0837"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="88.5417" x="196.875" y="348.2452">Windows NT</text><rect fill="#FEFECE" height="48.2259" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="109.375" x="19.7917" y="284.554"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="78.125" x="35.4167" y="313.7156">Windows 8</text><path d="M181.25,343.1966 L170.8333,343.1966 C155.2083,343.1966 155.2083,308.667 139.5833,308.667 L129.1667,308.667 " fill="none" style="stroke: #78C2AD; stroke-width: 3.125;"/><rect fill="#FEFECE" height="48.2259" rx="4.1667" ry="4.1667" style="stroke: #A80036; stroke-width: 1.5625;" width="118.75" x="10.4167" y="353.6133"/><text fill="#000000" font-family="&quot;Verdana&quot;" font-size="14.5833" lengthAdjust="spacingAndGlyphs" textLength="87.5" x="26.0417" y="382.7749">Windows 10</text><path d="M181.25,343.1966 L170.8333,343.1966 C155.2083,343.1966 155.2083,377.7262 139.5833,377.7262 L129.1667,377.7262 " fill="none" style="stroke: #78C2AD; stroke-width: 3.125;"/><path d="M353.125,291.4022 L342.7083,291.4022 C327.0833,291.4022 327.0833,343.1966 311.4583,343.1966 L301.0417,343.1966 " fill="none" style="stroke: #78C2AD; stroke-width: 3.125;"/><!--MD5=[9ecbe51c90237d5859df11c971ef8ff4]
+@startmindmap
+
+!$THEME = "minty"
+
+!if %not(%variable_exists("$BGCOLOR"))
+!$BGCOLOR = "transparent"
+!endif
+
+skinparam backgroundColor $BGCOLOR
+
+!$BLUE = "#007bff"
+!$INDIGO = "#6610f2"
+!$PURPLE = "#6f42c1"
+!$PINK = "#e83e8c"
+!$RED = "#ff7851"
+!$ORANGE = "#fd7e14"
+!$YELLOW = "#ffce67"
+!$GREEN = "#56cc9d"
+!$TEAL = "#20c997"
+!$CYAN = "#6cc3d5"
+!$WHITE = "#fff"
+!$GRAY = "#888"
+!$GRAYDARK = "#343a40"
+!$PRIMARY = "#78c2ad"
+!$SECONDARY = "#f3969a"
+!$SUCCESS = "#56cc9d"
+!$INFO = "#6cc3d5"
+!$WARNING = "#ffce67"
+!$DANGER = "#ff7851"
+!$LIGHT = "#f8f9fa"
+!$DARK = "#343a40"
+
+!$FGCOLOR = $WHITE
+!$PRIMARY_DARK = "#6caf9c"
+!$PRIMARY_LIGHT = "#86c8b5"
+!$PRIMARY_TEXT = $WHITE
+!$SECONDARY_DARK = "#db878b"
+!$SECONDARY_LIGHT = "#f4a1a4"
+!$SECONDARY_TEXT = $WHITE
+!$INFO_DARK = "#61b0c0"
+!$INFO_LIGHT = "#7bc9d9"
+!$INFO_TEXT = $WHITE
+!$SUCCESS_DARK = "#4db88d"
+!$SUCCESS_LIGHT = "#67d1a7"
+!$SUCCESS_TEXT = $WHITE
+!$WARNING_DARK = "#e6b95d"
+!$WARNING_LIGHT = "#ffd376"
+!$WARNING_TEXT = $WHITE
+!$DANGER_DARK = "#e66c49"
+!$DANGER_LIGHT = "#ff8662"
+!$DANGER_TEXT = $WHITE
+!$DARK_DARK = "#2f343a"
+!$DARK_LIGHT = "#484e53"
+!$LIGHT_DARK = "#dfe0e1"
+!$LIGHT_LIGHT = "#f9fafb"
+
+!procedure $success($msg)
+  <font color=$SUCCESS><b>$msg
+!endprocedure
+
+!procedure $failure($msg)
+  <font color=$DANGER><b>$msg
+!endprocedure
+
+!procedure $warning($msg)
+  <font color=$WARNING><b>$msg
+!endprocedure
+
+!procedure $primary_scheme()
+	FontColor $PRIMARY_TEXT
+	BorderColor $PRIMARY
+	BackgroundColor $PRIMARY_LIGHT
+!endprocedure
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            $DARK
+skinparam stereotype {
+    CBackgroundColor $SECONDARY_LIGHT
+    CBorderColor $SECONDARY_DARK
+    ABackgroundColor $SUCCESS_LIGHT
+    ABorderColor $SUCCESS_DARK
+    IBackgroundColor $DANGER_LIGHT
+    IBorderColor $DANGER_DARK
+    EBackgroundColor $WARNING_LIGHT
+    EBorderColor $WARNING_DARK
+    NBackgroundColor $INFO_LIGHT
+    NBorderColor $INFO_DARK
+}
+skinparam title {
+	FontColor	                 $PRIMARY_DARK
+	BorderColor	                 $SECONDARY_DARK
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              $SECONDARY_LIGHT-$SECONDARY
+}
+
+skinparam legend {
+	BackgroundColor $SECONDARY
+	BorderColor $SECONDARY_DARK
+	FontColor $LIGHT
+}
+
+!startsub swimlane
+skinparam swimlane {
+	BorderColor $INFO
+	BorderThickness 2
+	TitleBackgroundColor  $SECONDARY_LIGHT-$SECONDARY
+	TitleFontColor $PRIMARY
+}
+!endsub
+
+!startsub activity
+
+skinparam activity {
+	$primary_scheme()
+	BarColor $SUCCESS
+	StartColor $INFO
+	EndColor $INFO
+	DiamondBackgroundColor $SECONDARY_LIGHT
+  	DiamondBorderColor $SECONDARY_DARK
+  	DiamondFontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub participant
+
+skinparam participant {
+	$primary_scheme()
+	ParticipantBorderThickness 2
+}
+!endsub
+
+!startsub actor
+
+skinparam actor {
+	$primary_scheme()
+}
+!endsub
+
+!startsub arrow
+
+skinparam arrow {
+	Thickness 3
+	Color $PRIMARY
+	FontColor $FGCOLOR
+}
+!endsub
+
+!startsub sequence
+
+skinparam sequence {
+	BorderColor $PRIMARY
+	TitleFontColor $PRIMARY
+	BackgroundColor $BGCOLOR
+	StartColor $PRIMARY
+	EndColor $PRIMARY
+	BoxBackgroundColor $BGCOLOR
+	BoxBorderColor $DARK
+	BoxFontColor $DARk
+	LifeLineBorderColor $SECONDARY
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor $SECONDARY_DARK
+	GroupBorderColor $DARK
+	GroupFontColor $DARK
+	GroupHeaderFontColor $INFO
+	GroupBackgroundColor $SECONDARY
+	GroupHeaderBackgroundColor $BGCOLOR
+	DividerBackgroundColor $DARK
+    DividerBorderColor $DARK
+    DividerBorderThickness 2
+    DividerFontColor $LIGHT
+	ReferenceBackgroundColor $BGCOLOR
+	ReferenceBorderColor $DARK
+	ReferenceFontColor $DARK
+	ReferenceHeaderFontColor $INFO
+	ReferenceHeaderBackgroundColor $SECONDARY
+}
+!endsub
+
+!startsub partition
+
+skinparam partition {
+	BorderColor $PRIMARY
+	FontColor $PRIMARY
+	BackgroundColor $BGCOLOR
+}
+!endsub
+
+!startsub collections
+
+skinparam collections {
+	$primary_scheme()
+}
+!endsub
+
+!startsub control
+
+skinparam control {
+	$primary_scheme()
+}
+!endsub
+
+!startsub entity
+
+skinparam entity {
+	$primary_scheme()
+}
+!endsub
+
+!startsub boundary
+
+skinparam boundary {
+	$primary_scheme()
+}
+!endsub
+
+!startsub agent
+
+skinparam agent {
+	BackgroundColor $WARNING
+	BorderColor $WARNING_LIGHT
+	FontColor $DARK
+}
+!endsub
+
+!startsub note
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor $INFO
+	BorderColor $INFO_DARK
+	FontColor $WHITE
+}
+!endsub
+
+!startsub artifact
+
+skinparam artifact {
+	BackgroundColor $DARK
+	BorderColor $DARK_DARK
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub component
+
+skinparam component {
+	$primary_scheme()
+}
+!endsub
+
+!startsub interface
+
+skinparam interface {
+	BackgroundColor  $DANGER_DARK
+	BorderColor  $DANGER
+	FontColor $DARK
+}
+!endsub
+
+!startsub storage
+
+skinparam storage {
+	BackgroundColor $WARNING
+  	BorderColor $WARNING_DARK
+	FontColor $WARNING_TEXT
+}
+!endsub
+
+!startsub node
+
+skinparam node {
+	BackgroundColor  $SECONDARY
+	BorderColor $LIGHT
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub cloud
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor $DARK
+}
+!endsub
+
+!startsub database
+
+skinparam database {
+	$primary_scheme()
+}
+!endsub
+
+!startsub class
+
+skinparam class {
+	$primary_scheme()
+	HeaderBackgroundColor $PRIMARY_LIGHT
+	StereotypeFontColor $DARK
+	BorderThickness 1
+	AttributeFontColor $DARK
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub object
+
+skinparam object {
+	$primary_scheme()
+	StereotypeFontColor $DARK
+	BorderThickness 1
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub usecase
+
+skinparam usecase {
+	$primary_scheme()
+	BorderThickness 2
+	StereotypeFontColor $PRIMARY
+}
+!endsub
+
+!startsub rectangle
+
+skinparam rectangle {
+	$primary_scheme()
+	BackgroundColor $SECONDARY_LIGHT
+	BorderThickness 2
+	StereotypeFontColor $PRIMARY
+}
+!endsub
+
+!startsub package
+
+skinparam package {
+	BackgroundColor $SECONDARY
+  	BorderColor $PRIMARY
+	FontColor $PRIMARY
+	BorderThickness 2
+}
+!endsub
+
+!startsub folder
+
+skinparam folder {
+	BackgroundColor $SECONDARY_LIGHT
+  	BorderColor $WARNING
+	FontColor $WARNING
+	BorderThickness 2
+}
+!endsub
+
+!startsub frame
+
+skinparam frame {
+	BackgroundColor $SECONDARY_LIGHT
+  	BorderColor $INFO
+	FontColor $INFO
+	BorderThickness 2
+}
+!endsub
+
+!startsub state
+
+skinparam state {
+	$primary_scheme()
+	StartColor $INFO
+	EndColor $INFO
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub queue
+
+skinparam queue {
+	$primary_scheme()
+}
+!endsub
+
+!startsub card
+
+skinparam card {
+	BackgroundColor $INFO
+	BorderColor $INFO_DARK
+	FontColor $INFO_TEXT
+}
+!endsub
+
+!startsub file
+
+skinparam file {
+	BackgroundColor $SECONDARY_DARK
+	BorderColor $LIGHT
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub stack
+
+skinparam stack {
+	$primary_scheme()
+}
+!endsub
+
+!if %variable_exists("$THEME")
+title Mindmap Diagram - $THEME theme
+!else
+title Mindmap Diagram
+!endif
+
+!DIAGRAM = "mindmap"
+
++ OS
+++ Ubuntu
++++ Linux Mint
++++ Kubuntu
++++ Lubuntu
++++ KDE Neon
+++ LMDE
+++ SolydXK
+++ SteamOS
+++ Raspbian
+- - Windows 95
+- - Windows 98
+- - Windows NT
+- - - Windows 8
+- - - Windows 10
+
+@endmindmap
+
+@startmindmap
+
+
+
+skinparam backgroundColor transparent
+
+
+
+
+
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #343a40
+skinparam stereotype {
+    CBackgroundColor #f4a1a4
+    CBorderColor #db878b
+    ABackgroundColor #67d1a7
+    ABorderColor #4db88d
+    IBackgroundColor #ff8662
+    IBorderColor #e66c49
+    EBackgroundColor #ffd376
+    EBorderColor #e6b95d
+    NBackgroundColor #7bc9d9
+    NBorderColor #61b0c0
+}
+skinparam title {
+	FontColor	                 #6caf9c
+	BorderColor	                 #db878b
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #f4a1a4-#f3969a
+}
+
+skinparam legend {
+	BackgroundColor #f3969a
+	BorderColor #db878b
+	FontColor #f8f9fa
+}
+
+skinparam swimlane {
+	BorderColor #6cc3d5
+	BorderThickness 2
+	TitleBackgroundColor  #f4a1a4-#f3969a
+	TitleFontColor #78c2ad
+}
+
+
+skinparam activity {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+	BarColor #56cc9d
+	StartColor #6cc3d5
+	EndColor #6cc3d5
+	DiamondBackgroundColor #f4a1a4
+  	DiamondBorderColor #db878b
+  	DiamondFontColor #fff
+}
+
+
+skinparam participant {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #78c2ad
+	FontColor #fff
+}
+
+
+skinparam sequence {
+	BorderColor #78c2ad
+	TitleFontColor #78c2ad
+	BackgroundColor transparent
+	StartColor #78c2ad
+	EndColor #78c2ad
+	BoxBackgroundColor transparent
+	BoxBorderColor #343a40
+	BoxFontColor $DARk
+	LifeLineBorderColor #f3969a
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #db878b
+	GroupBorderColor #343a40
+	GroupFontColor #343a40
+	GroupHeaderFontColor #6cc3d5
+	GroupBackgroundColor #f3969a
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor #343a40
+    DividerBorderColor #343a40
+    DividerBorderThickness 2
+    DividerFontColor #f8f9fa
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #343a40
+	ReferenceFontColor #343a40
+	ReferenceHeaderFontColor #6cc3d5
+	ReferenceHeaderBackgroundColor #f3969a
+}
+
+
+skinparam partition {
+	BorderColor #78c2ad
+	FontColor #78c2ad
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+}
+
+
+skinparam control {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+}
+
+
+skinparam entity {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+}
+
+
+skinparam boundary {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+}
+
+
+skinparam agent {
+	BackgroundColor #ffce67
+	BorderColor #ffd376
+	FontColor #343a40
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #6cc3d5
+	BorderColor #61b0c0
+	FontColor #fff
+}
+
+
+skinparam artifact {
+	BackgroundColor #343a40
+	BorderColor #2f343a
+	FontColor #f8f9fa
+}
+
+
+skinparam component {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+}
+
+
+skinparam interface {
+	BackgroundColor  #e66c49
+	BorderColor  #ff7851
+	FontColor #343a40
+}
+
+
+skinparam storage {
+	BackgroundColor #ffce67
+  	BorderColor #e6b95d
+	FontColor #fff
+}
+
+
+skinparam node {
+	BackgroundColor  #f3969a
+	BorderColor #f8f9fa
+	FontColor #f8f9fa
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #343a40
+}
+
+
+skinparam database {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+}
+
+
+skinparam class {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+	HeaderBackgroundColor #86c8b5
+	StereotypeFontColor #343a40
+	BorderThickness 1
+	AttributeFontColor #343a40
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+	StereotypeFontColor #343a40
+	BorderThickness 1
+	AttributeFontColor #fff
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+	BorderThickness 2
+	StereotypeFontColor #78c2ad
+}
+
+
+skinparam rectangle {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+	BackgroundColor #f4a1a4
+	BorderThickness 2
+	StereotypeFontColor #78c2ad
+}
+
+
+skinparam package {
+	BackgroundColor #f3969a
+  	BorderColor #78c2ad
+	FontColor #78c2ad
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #f4a1a4
+  	BorderColor #ffce67
+	FontColor #ffce67
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #f4a1a4
+  	BorderColor #6cc3d5
+	FontColor #6cc3d5
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+	StartColor #6cc3d5
+	EndColor #6cc3d5
+	AttributeFontColor #fff
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+}
+
+
+skinparam card {
+	BackgroundColor #6cc3d5
+	BorderColor #61b0c0
+	FontColor #fff
+}
+
+
+skinparam file {
+	BackgroundColor #db878b
+	BorderColor #f8f9fa
+	FontColor #f8f9fa
+}
+
+
+skinparam stack {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+}
+
+title Mindmap Diagram - minty theme
+
+
++ OS
+++ Ubuntu
++++ Linux Mint
++++ Kubuntu
++++ Lubuntu
++++ KDE Neon
+++ LMDE
+++ SolydXK
+++ SteamOS
+++ Raspbian
+- - Windows 95
+- - Windows 98
+- - Windows NT
+- - - Windows 8
+- - - Windows 10
+
+@endmindmap
+
+PlantUML version 1.2020.16beta7(Unknown compile time)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
