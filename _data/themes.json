@@ -91,6 +91,12 @@
       "background": "white"
     },
     {
+      "name": "spacelab",
+      "description": "Spacelab theme",
+      "url": "https://bschwarz.github.io/puml-themes/themes/spacelab/",
+      "background": "white"
+    },
+    {
       "name": "superhero",
       "description": "Dark theme meant for dark backgrounds based off of the <a href='https://bootswatch.com/superhero'>Superhero theme</a> at bootswatch",
       "url": "https://bschwarz.github.io/puml-themes/themes/superhero/",
