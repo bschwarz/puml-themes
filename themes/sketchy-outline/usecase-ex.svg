@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="380.2083px" preserveAspectRatio="none" style="width:476px;height:380px;background:#00000000;" version="1.1" viewBox="0 0 476 380" width="476.0417px" zoomAndPan="magnify"><defs/><g><polygon fill="#00000000" points="6.25,2.0833,6.25,2.3023,16.572,1.6517,26.8939,2.2847,37.2159,2.4997,47.5379,1.3402,57.8598,2.0024,68.1818,1.6391,78.5038,1.6839,88.8258,2.0123,99.1477,1.3632,109.4697,2.66,119.7917,1.4268,130.1136,1.8773,140.4356,2.5333,150.7576,1.994,161.0795,2.1544,171.4015,2.0501,181.7235,2.2693,192.0455,2.3324,202.3674,2.6934,212.6894,2.7823,223.0114,2.7909,233.3333,2.3486,243.6553,2.5662,253.9773,2.8148,264.2992,1.3321,274.6212,2.7901,284.9432,1.7745,295.2652,2.6394,305.5871,1.5677,315.9091,2.012,326.2311,2.8558,336.553,2.0326,346.875,2.193,357.197,2.4361,367.5189,2.5169,377.8409,2.0793,388.1629,2.3825,398.4848,1.4871,408.8068,2.3796,419.1288,2.6544,429.4508,2.5464,439.7727,2.7219,450.0947,1.5801,460.4167,2.0833,460.33,1.8741,460.9234,2.1281,461.5874,2.5526,462.1583,2.7525,462.8642,3.2782,463.3629,3.3037,463.3069,3.2805,463.497,3.8474,463.9243,4.5126,463.8813,4.9829,464.1727,5.5918,464.5833,6.25,464.8087,6.25,464.7346,13.6003,464.8384,20.9505,464.4716,28.3008,464.6942,35.651,464.5833,43.0013,464.7727,43.0798,464.1877,43.5278,464.0644,44.1671,463.8915,44.7858,463.8161,45.4449,463.3629,45.9476,463.3624,45.9462,462.8352,46.34,462.1108,46.2581,461.5052,46.4626,461.0728,47.0854,460.4167,47.168,460.4167,46.4212,450.0947,47.6981,439.7727,47.3832,429.4508,46.8889,419.1288,46.7995,408.8068,47.6458,398.4848,46.8562,388.1629,47.7845,377.8409,46.5922,367.5189,47.8111,357.197,47.6725,346.875,47.4231,336.553,47.2172,326.2311,47.9249,315.9091,47.8071,305.5871,47.3443,295.2652,47.4473,284.9432,47.0323,274.6212,47.9143,264.2992,47.3293,253.9773,47.3477,243.6553,46.5343,233.3333,46.7459,223.0114,47.7208,212.6894,47.6156,202.3674,47.1232,192.0455,46.8324,181.7235,46.9399,171.4015,46.4532,161.0795,47.6,150.7576,47.9383,140.4356,47.7163,130.1136,47.8919,119.7917,47.0255,109.4697,47.2588,99.1477,46.7642,88.8258,47.4638,78.5038,47.425,68.1818,47.7434,57.8598,46.9287,47.5379,47.028,37.2159,47.6299,26.8939,47.7589,16.572,46.6341,6.25,47.168,6.2242,47.1058,5.6806,46.9718,4.9903,46.4839,4.5292,46.5491,3.9273,46.2744,3.3037,45.9476,3.2714,45.9342,3.1053,45.3772,3.0493,44.8659,2.4711,44.1382,2.4285,43.6324,2.0833,43.0013,2.1825,43.0013,2.1235,35.651,2.1323,28.3008,2.1227,20.9505,1.8666,13.6003,2.0833,6.25,1.9548,6.1967,2.1794,5.5994,2.592,5.08,2.8438,4.4939,3.1115,3.9145,3.3037,3.3037,3.2651,3.2104,3.884,3.038,4.4663,2.777,5.1481,2.7565,5.7174,2.4642,6.25,2.0833" style="stroke: #4D4D4D; stroke-width: 1.0416666666666667;"/><text fill="#2E2E2E" font-family="Segoe Print" font-size="20.8333" lengthAdjust="spacingAndGlyphs" textLength="435.4167" x="15.625" y="31.838">Usecase Diagram - sketchy-outline theme</text><!--MD5=[111002b242a260edbcaabc3e471064d0]
+cluster checkout--><polygon fill="#00000000" points="211.4583,57.5846,211.4583,57.8036,222.3958,57.1531,233.3333,57.786,244.2708,58.001,255.2083,56.8415,266.1458,57.5037,277.0833,57.1404,288.0208,57.1852,298.9583,57.5846,298.9493,57.5628,299.4557,57.6069,300.2104,58.2504,300.6424,58.1147,301.2891,58.4975,301.9046,58.805,302.0432,58.8624,302.1212,59.3829,302.4147,59.9926,302.6266,60.5685,302.9382,61.1858,303.125,61.7513,303.3741,61.7513,303.7351,72.3416,303.824,82.9319,303.8326,93.5221,303.3902,104.1124,303.6079,114.7027,303.8565,125.293,302.3738,135.8832,303.8318,146.4735,302.8161,157.0638,303.6811,167.6541,302.6094,178.2444,303.0536,188.8346,303.8975,199.4249,303.0742,210.0152,303.2347,220.6055,303.4777,231.1957,303.5586,241.786,303.1209,252.3763,303.4242,262.9666,302.5287,273.5569,303.4212,284.1471,303.696,294.7374,303.5881,305.3277,303.125,315.918,303.3217,315.9994,302.726,316.443,302.4276,317.0098,302.1934,317.6032,302.1298,318.2672,301.9046,318.8642,301.8785,318.8012,301.4059,319.3269,300.7029,319.2964,300.0913,319.4864,299.5779,319.9138,298.9583,320.0846,298.9583,319.39,288.0208,319.5439,277.0833,320.7606,266.1458,320.5385,255.2083,320.8497,244.2708,319.7494,233.3333,320.4171,222.3958,320.6997,211.4583,320.0846,211.3956,319.9331,210.8563,319.8098,210.2966,319.6369,209.7772,319.5615,209.1008,319.107,208.5121,318.8642,208.6604,318.9257,208.0903,318.2014,207.8066,317.5957,207.9414,317.1634,207.3058,316.412,207.2917,315.918,207.8218,315.918,207.5069,305.3277,207.0126,294.7374,206.9232,284.1471,207.7695,273.5569,206.9799,262.9666,207.9082,252.3763,206.7159,241.786,207.9348,231.1957,207.7961,220.6055,207.5468,210.0152,207.3409,199.4249,208.0486,188.8346,207.9308,178.2444,207.468,167.6541,207.571,157.0638,207.156,146.4735,208.038,135.8832,207.453,125.293,207.4714,114.7027,206.658,104.1124,206.8696,93.5221,207.8445,82.9319,207.7393,72.3416,207.2917,61.7513,207.2779,61.7456,207.4324,61.1192,207.7096,60.5437,207.8038,59.8924,208.401,59.4494,208.5121,58.805,208.6103,59.0423,209.1713,58.7298,209.7829,58.5398,210.2617,58.0289,210.8807,57.8567,211.4583,57.5846" style="stroke: #333333; stroke-width: 2.0833333333333335;"/><text fill="#2E2E2E" font-family="Segoe Print" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="66.6667" x="221.875" y="76.4791">checkout</text><polygon fill="#00000000" points="294.3365,206.7513,293.5432,209.4627,290.515,211.5257,287.0406,213.5811,284.1723,215.9683,278.7607,217.3294,273.8168,218.792,268.0142,219.7357,261.6209,220.1878,256.0687,220.6513,248.538,219.9222,243.7324,219.8411,237.5173,218.6942,231.5373,217.1117,227.3471,215.7001,223.137,213.7227,219.9871,211.6219,217.3796,209.2094,215.8607,206.739,215.0048,204.0847,215.4033,201.5419,216.8493,199.0939,219.6837,196.9527,222.7183,194.7199,226.5126,192.7063,232.7584,191.6817,236.5893,189.7701,243.379,189.2246,248.559,188.283,255.8607,188.5253,261.6213,188.5403,266.8227,188.7811,273.4168,190.0808,278.5668,191.3286,283.0582,192.8616,287.023,194.7401,290.7239,197.0631,292.8003,199.2614,295.1653,202.0732,294.7469,204.2134" style="stroke: #333333; stroke-width: 2.0833333333333335;"/><text fill="#2E2E2E" font-family="Segoe Print" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="60.4167" x="225.1282" y="207.9644">checkout</text><polygon fill="#00000000" points="291.6536,111.8508,290.9083,114.5462,288.0635,116.597,284.7994,118.6403,282.1048,121.0134,277.0209,122.3664,272.3764,123.8204,266.9251,124.7585,260.9191,125.208,255.703,125.6688,248.6283,124.9439,244.1138,124.8633,238.275,123.7232,232.657,122.15,228.7206,120.7468,224.7654,118.781,221.8063,116.6927,219.3567,114.2944,217.9297,111.8385,217.1257,109.1999,217.5,106.6722,218.8585,104.2386,221.5212,102.11,224.3721,99.8904,227.9366,97.8887,233.8042,96.8701,237.4032,94.9699,243.7817,94.4276,248.648,93.4915,255.5076,93.7324,260.9194,93.7473,265.8058,93.9867,272.0006,95.2787,276.8388,96.5191,281.0582,98.0431,284.783,99.9105,288.2597,102.2198,290.2104,104.4051,292.4322,107.2003,292.0391,109.3279" style="stroke: #333333; stroke-width: 2.0833333333333335;"/><text fill="#2E2E2E" font-family="Segoe Print" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="56.25" x="226.8902" y="113.0782">payment</text><polygon fill="#00000000" points="275.7194,299.5978,275.2974,302.0997,273.6868,304.0034,271.8388,305.9,270.3132,308.1027,267.4349,309.3587,264.8053,310.7083,261.719,311.5791,258.3186,311.9963,255.3654,312.424,251.36,311.7512,248.804,311.6764,245.4983,310.6181,242.3176,309.1578,240.0889,307.8553,237.8496,306.0306,236.1743,304.0922,234.7874,301.866,233.9795,299.5864,233.5243,297.1372,233.7362,294.7909,234.5054,292.5319,236.0129,290.5561,237.627,288.4958,239.6451,286.6378,242.9671,285.6923,245.0047,283.9284,248.616,283.4251,251.3711,282.5562,255.2548,282.7798,258.3188,282.7936,261.0853,283.0158,264.5926,284.2151,267.3318,285.3665,269.7207,286.7811,271.8295,288.5145,273.7979,290.6581,274.9023,292.6865,276.1602,295.2811,275.9376,297.2559" style="stroke: #333333; stroke-width: 2.0833333333333335;"/><text fill="#2E2E2E" font-family="Segoe Print" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="28.125" x="240.9135" y="300.9976">help</text><!--MD5=[92848cbaf65985a669855153c5362c37]
+entity customer--><polygon fill="#00000000" points="124.5252,171.5908,123.3037,173.2599,121.8589,175.7045,119.7925,177.352,117.6211,178.2529,115.8898,178.3311,113.6645,177.2044,111.5649,176.4683,109.9712,174.9738,109.1353,173.2629,108.6395,171.9006,108.1538,170.1212,107.3655,168.5899,107.9713,167.0949,108.502,165.4572,110.4938,164.1619,111.895,162.4813,113.6295,161.9232,115.6914,161.4426,118.3355,161.7282,119.7838,162.4112,121.4676,162.7208,123.5149,164.8183,124.2286,167.0327,124.5387,168.5436,124.1875,171.0334" style="stroke: #333333; stroke-width: 1.5625;"/><path d="M116.1458,177.8971 L116.3404,177.8971 L115.7622,183.5221 L116.3248,189.1471 L116.5159,194.7721 L115.4853,200.3971 L116.1458,206.0221 M102.6042,186.2305 L102.6042,186.1585 L108.0208,185.8356 L113.4375,185.8754 L118.8542,186.1674 L124.2708,185.5903 L129.6875,186.2305 M116.1458,206.0221 L116.5332,206.3579 L112.9965,208.7649 L110.5908,212.1522 L108.3231,215.6591 L105.2525,218.4701 L102.6042,221.6471 M116.1458,206.0221 L116.1936,206.0635 L118.8318,209.1278 L121.6874,212.3804 L124.4382,215.5422 L127.389,218.8773 L129.6875,221.6471 " fill="none" style="stroke: #333333; stroke-width: 1.5625;"/><text fill="#2E2E2E" font-family="Segoe Print" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="61.4583" x="85.4167" y="241.0624">customer</text><!--MD5=[ebeabf449828f4e0b33bbb47961e644b]
+entity clerk--><polygon fill="#00000000" points="387.546,171.5908,386.3245,173.2599,384.8797,175.7045,382.8133,177.352,380.642,178.2529,378.9106,178.3311,376.6854,177.2044,374.5857,176.4683,372.9921,174.9738,372.1561,173.2629,371.6604,171.9006,371.1747,170.1212,370.3864,168.5899,370.9921,167.0949,371.5229,165.4572,373.5146,164.1619,374.9159,162.4813,376.6503,161.9232,378.7122,161.4426,381.3564,161.7282,382.8046,162.4112,384.4884,162.7208,386.5357,164.8183,387.2494,167.0327,387.5595,168.5436,387.2083,171.0334" style="stroke: #333333; stroke-width: 1.5625;"/><path d="M379.1667,177.8971 L379.3613,177.8971 L378.783,183.5221 L379.3456,189.1471 L379.5367,194.7721 L378.5061,200.3971 L379.1667,206.0221 M365.625,186.2305 L365.625,186.1585 L371.0417,185.8356 L376.4583,185.8754 L381.875,186.1674 L387.2917,185.5903 L392.7083,186.2305 M379.1667,206.0221 L379.5541,206.3579 L376.0173,208.7649 L373.6116,212.1522 L371.3439,215.6591 L368.2733,218.4701 L365.625,221.6471 M379.1667,206.0221 L379.2144,206.0635 L381.8526,209.1278 L384.7083,212.3804 L387.459,215.5422 L390.4098,218.8773 L392.7083,221.6471 " fill="none" style="stroke: #333333; stroke-width: 1.5625;"/><text fill="#2E2E2E" font-family="Segoe Print" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="31.25" x="363.5417" y="241.0624">clerk</text><!--MD5=[852381a7bb976b86080137fb6d718ea9]
+link customer to checkout--><path d="M152.3199,204.4596 L152.3199,204.7516 L162.8166,203.8842 L173.3134,204.7281 L183.8102,205.0147 L194.3069,203.4688 L204.8037,204.3517 L215.3004,204.4596 " fill="none" style="stroke: #333333; stroke-width: 3.125;"/><!--MD5=[3ad5c6d5c608bfd6b87dc9c07c40a15f]
+link checkout to payment--><path d="M255.2083,187.9482 L255.5003,187.9482 L254.6329,176.6696 L255.4768,165.391 L255.7634,154.1124 L254.2175,142.8338 L255.2083,131.5553 " fill="none" style="stroke: #333333; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><polygon fill="#333333" points="255.2083,125.9902,255.275,126.0198,254.2435,127.8067,253.603,129.7674,252.8351,131.6715,251.6486,133.3896,251.0417,135.3652,251.0226,135.3461,251.7703,134.4271,252.6142,133.6043,253.5249,132.8484,254.2053,131.8621,255.2083,131.1985,255.3443,131.3344,255.8869,131.8771,256.8264,132.8166,257.8144,133.8045,258.5206,134.5108,259.375,135.3652,259.3967,135.3748,258.5315,133.4857,257.765,131.6403,256.9509,129.7739,256.2275,127.9478,255.2083,125.9902" style="stroke: #333333; stroke-width: 3.125;"/><text fill="#2E2E2E" font-family="Segoe Print" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="46.875" x="215.625" y="161.8958">include</text><!--MD5=[739e7928149c8fe27c2b5850560351c7]
+link help to checkout--><path d="M255.2083,282.2728 L255.5003,282.2728 L254.6329,271.1106 L255.4768,259.9485 L255.7634,248.7863 L254.2175,237.6242 L255.2083,226.462 " fill="none" style="stroke: #333333; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><polygon fill="#333333" points="255.2083,220.8806,255.275,220.9102,254.2435,222.6971,253.603,224.6578,252.8351,226.5619,251.6486,228.28,251.0417,230.2556,251.0226,230.2365,251.7703,229.3175,252.6142,228.4947,253.5249,227.7388,254.2053,226.7525,255.2083,226.0889,255.3443,226.2248,255.8869,226.7675,256.8264,227.707,257.8144,228.695,258.5206,229.4012,259.375,230.2556,259.3967,230.2652,258.5315,228.3761,257.765,226.5307,256.9509,224.6643,256.2275,222.8382,255.2083,220.8806" style="stroke: #333333; stroke-width: 3.125;"/><text fill="#2E2E2E" font-family="Segoe Print" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="52.0833" x="213.0208" y="256.427">extends</text><!--MD5=[b4c4ee8f2d94c159d2b9e04bd372cbe0]
+link checkout to clerk--><path d="M295.1119,204.4596 L295.1119,204.7516 L305.6091,203.8842 L316.1063,204.7281 L326.6034,205.0147 L337.1006,203.4688 L347.5978,204.3517 L358.095,204.4596 " fill="none" style="stroke: #333333; stroke-width: 3.125;"/><polygon fill="#00000000" points="171.3542,333.6263,171.3542,333.8452,181.684,333.1947,192.0139,333.8276,202.3438,334.0426,212.6736,332.8832,223.0035,333.5454,233.3333,333.182,243.6632,333.2268,253.9931,333.5553,264.3229,332.9061,274.6528,334.203,284.9826,332.9698,295.3125,333.6263,295.2862,333.5629,296.1065,334.07,296.7742,334.209,297.5313,334.5635,298.2545,334.8364,298.9953,335.1518,299.0526,335.1755,299.3772,335.9201,299.7934,336.7028,300.1259,337.4507,300.4336,338.1883,300.5208,338.8346,300.6092,338.8346,300.6818,343.8281,300.7647,348.8216,300.2704,353.8151,300.7564,358.8086,300.5208,363.8021,300.4257,363.7627,300.387,364.6096,299.7518,365.2094,299.5836,366.0027,299.5383,366.8469,298.9953,367.4849,298.9889,367.4693,298.2728,367.8238,297.5672,368.2038,296.8409,368.5337,296.0486,368.7041,295.3125,369.0104,295.3125,369.3096,284.9826,368.4141,274.6528,369.3067,264.3229,369.5815,253.9931,369.4735,243.6632,369.649,233.3333,368.5072,223.0035,368.3311,212.6736,368.3631,202.3438,368.9491,192.0139,368.8057,181.684,369.7202,171.3542,369.0104,171.331,368.9544,170.572,368.5953,169.9114,368.4734,169.0559,367.8812,168.3389,367.6235,167.6713,367.4849,167.8795,367.5712,167.506,366.8063,167.2967,366.1094,166.6528,365.2325,166.5533,364.5811,166.1458,363.8021,166.3508,363.8021,165.9818,358.8086,166.1125,353.8151,166.1896,348.8216,166.3721,343.8281,166.1458,338.8346,166.1445,338.8341,166.5993,338.1595,166.5784,337.2879,166.8439,336.5349,167.5278,335.9553,167.6713,335.1518,167.5761,334.9218,168.4755,335.01,169.1719,334.6079,169.8454,334.1506,170.5706,333.8179,171.3542,333.6263" style="stroke: #4D4D4D; stroke-width: 1.0416666666666667;"/><text fill="#2E2E2E" font-family="Segoe Print" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="111.4583" x="177.6042" y="355.6458">This is my legend</text><!--MD5=[c3ba840bb6c7a626af1bd1ec789af1eb]
+@startuml
+
+!$THEME = "sketchy-outline"
+
+!if %not(%variable_exists("$BGCOLOR"))
+!$BGCOLOR = "transparent"
+!endif
+
+skinparam backgroundColor $BGCOLOR
+skinparam handwritten true
+skinparam shadowing false
+
+!$BLUE = "#007bff"
+!$INDIGO = "#6610f2"
+!$PURPLE = "#6f42c1"
+!$PINK = "#e83e8c"
+!$RED = "#dc3545"
+!$ORANGE = "#fd7e14"
+!$YELLOW = "#ffc107"
+!$GREEN = "#28a745"
+!$TEAL = "#20c997"
+!$CYAN = "#17a2b8"
+!$WHITE = "#ffffff"
+!$GRAY = "#868e96"
+!$GRAYDARK = "#333333"
+!$PRIMARY = "#333333"
+!$SECONDARY = "#555555"
+!$SUCCESS = "#28a745"
+!$INFO = "#17a2b8"
+!$WARNING = "#ffc107"
+!$DANGER = "#dc3545"
+!$LIGHT = "#ffffff"
+!$DARK = "#555555"
+
+!$FGCOLOR = $WHITE
+!$PRIMARY_DARK = "#2e2e2e"
+!$PRIMARY_LIGHT = "#474747"
+!$PRIMARY_TEXT = "#2e2e2e"
+!$SECONDARY_DARK = "#4d4d4d"
+!$SECONDARY_LIGHT = "#666666"
+!$SECONDARY_TEXT = $WHITE
+!$INFO_DARK = "#1592a6"
+!$INFO_LIGHT = "#2eabbf"
+!$INFO_TEXT = $WHITE
+!$SUCCESS_DARK = "#24963e"
+!$SUCCESS_LIGHT = "#3eb058"
+!$SUCCESS_TEXT = $WHITE
+!$WARNING_DARK = "#e6ae06"
+!$WARNING_LIGHT = "#ffc720"
+!$WARNING_TEXT = $WHITE
+!$DANGER_DARK = "#c6303e"
+!$DANGER_LIGHT = "#e04958"
+!$DANGER_TEXT = $WHITE
+!$DARK_DARK = "#4d4d4d"
+!$DARK_LIGHT = "#666666"
+!$LIGHT_DARK = "#e6e6e6"
+!$LIGHT_LIGHT = "#ffffff"
+
+!procedure $success($msg)
+  <font color=$SUCCESS><b>$msg
+!endprocedure
+
+!procedure $failure($msg)
+  <font color=$DANGER><b>$msg
+!endprocedure
+
+!procedure $warning($msg)
+  <font color=$WARNING><b>$msg
+!endprocedure
+
+!procedure $primary_scheme()
+	FontColor $PRIMARY_TEXT
+	BorderColor $PRIMARY
+	BackgroundColor $BGCOLOR
+!endprocedure
+
+skinparam defaultFontName       "Segoe Print"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            $DARK
+skinparam stereotype {
+    CBackgroundColor $BGCOLOR
+    CBorderColor $SECONDARY_DARK
+    ABackgroundColor $BGCOLOR
+    ABorderColor $SUCCESS_DARK
+    IBackgroundColor $BGCOLOR
+    IBorderColor $DANGER_DARK
+    EBackgroundColor $BGCOLOR
+    EBorderColor $WARNING_DARK
+    NBackgroundColor $BGCOLOR
+    NBorderColor $INFO_DARK
+}
+skinparam title {
+	FontColor	                 $PRIMARY_TEXT
+	BorderColor	                 $SECONDARY_DARK
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              $BGCOLOR
+}
+
+skinparam legend {
+	BackgroundColor $BGCOLOR
+	BorderColor $SECONDARY_DARK
+	FontColor $PRIMARY_TEXT
+}
+
+!startsub swimlane
+skinparam swimlane {
+	BorderColor $INFO
+	BorderThickness 2
+	TitleBackgroundColor  $BGCOLOR
+	TitleFontColor $PRIMARY_TEXT
+}
+!endsub
+
+!startsub activity
+
+skinparam activity {
+	$primary_scheme()
+	BarColor $SUCCESS
+	StartColor $INFO
+	EndColor $INFO
+	DiamondBackgroundColor $BGCOLOR
+  	DiamondBorderColor $SECONDARY_DARK
+  	DiamondFontColor $PRIMARY_TEXT
+}
+!endsub
+
+!startsub participant
+
+skinparam participant {
+	$primary_scheme()
+	ParticipantBorderThickness 2
+}
+!endsub
+
+!startsub actor
+
+skinparam actor {
+	$primary_scheme()
+}
+!endsub
+
+!startsub arrow
+
+skinparam arrow {
+	Thickness 3
+	Color $PRIMARY
+	FontColor $PRIMARY_TEXT
+}
+!endsub
+
+!startsub sequence
+
+skinparam sequence {
+	BorderColor $PRIMARY
+	TitleFontColor $PRIMARY_TEXT
+	BackgroundColor $BGCOLOR
+	StartColor $PRIMARY
+	EndColor $PRIMARY
+	BoxBackgroundColor $BGCOLOR
+	BoxBorderColor $DARK
+	BoxFontColor $DARK
+	LifeLineBorderColor $SECONDARY
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor $SECONDARY_DARK
+	GroupBorderColor $DARK
+	GroupFontColor $DARK
+	GroupHeaderFontColor $INFO
+	GroupBackgroundColor $SECONDARY
+	GroupHeaderBackgroundColor $BGCOLOR
+	DividerBackgroundColor $DARK
+    DividerBorderColor $DARK
+    DividerBorderThickness 2
+    DividerFontColor $LIGHT
+	ReferenceBackgroundColor $BGCOLOR
+	ReferenceBorderColor $DARK
+	ReferenceFontColor $DARK
+	ReferenceHeaderFontColor $INFO
+	ReferenceHeaderBackgroundColor $SECONDARY
+}
+!endsub
+
+!startsub partition
+
+skinparam partition {
+	BorderColor $PRIMARY
+	FontColor $PRIMARY
+	BackgroundColor $BGCOLOR
+}
+!endsub
+
+!startsub collections
+
+skinparam collections {
+	$primary_scheme()
+}
+!endsub
+
+!startsub control
+
+skinparam control {
+	$primary_scheme()
+}
+!endsub
+
+!startsub entity
+
+skinparam entity {
+	$primary_scheme()
+}
+!endsub
+
+!startsub boundary
+
+skinparam boundary {
+	$primary_scheme()
+}
+!endsub
+
+!startsub agent
+
+skinparam agent {
+	BackgroundColor $WARNING
+	BorderColor $WARNING_LIGHT
+	FontColor $DARK
+}
+!endsub
+
+!startsub note
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor $INFO
+	BorderColor $INFO_DARK
+	FontColor $WHITE
+}
+!endsub
+
+!startsub artifact
+
+skinparam artifact {
+	BackgroundColor $BGCOLOR
+	BorderColor $DARK_DARK
+	FontColor $DARK_DARK
+}
+!endsub
+
+!startsub component
+
+skinparam component {
+	$primary_scheme()
+}
+!endsub
+
+!startsub interface
+
+skinparam interface {
+	BackgroundColor  $BGCOLOR
+	BorderColor  $DANGER
+	FontColor $DARK
+}
+!endsub
+
+!startsub storage
+
+skinparam storage {
+	BackgroundColor $BGCOLOR
+  	BorderColor $WARNING_DARK
+	FontColor $WARNING_DARK
+}
+!endsub
+
+!startsub node
+
+skinparam node {
+	BackgroundColor  $BGCOLOR
+	BorderColor $LIGHT
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub cloud
+
+skinparam cloud {
+	BackgroundColor $BGCOLOR
+	BorderColor #F2FCFE
+	FontColor $PRIMARY_TEXT
+}
+!endsub
+
+!startsub database
+
+skinparam database {
+	$primary_scheme()
+}
+!endsub
+
+!startsub class
+
+skinparam class {
+	$primary_scheme()
+	HeaderBackgroundColor $BGCOLOR
+	StereotypeFontColor $DARK
+	BorderThickness 1
+	AttributeFontColor $DARK
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub object
+
+skinparam object {
+	$primary_scheme()
+	StereotypeFontColor $PRIMARY_TEXT
+	BorderThickness 1
+	AttributeFontColor $PRIMARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub usecase
+
+skinparam usecase {
+	$primary_scheme()
+	BorderThickness 2
+	StereotypeFontColor $PRIMARY
+}
+!endsub
+
+!startsub rectangle
+
+skinparam rectangle {
+	$primary_scheme()
+	BorderThickness 2
+	StereotypeFontColor $PRIMARY
+}
+!endsub
+
+!startsub package
+
+skinparam package {
+	BackgroundColor $BGCOLOR
+  	BorderColor $PRIMARY
+	FontColor $PRIMARY
+	BorderThickness 2
+}
+!endsub
+
+!startsub folder
+
+skinparam folder {
+	BackgroundColor $BGCOLOR
+  	BorderColor $WARNING
+	FontColor $WARNING
+	BorderThickness 2
+}
+!endsub
+
+!startsub frame
+
+skinparam frame {
+	BackgroundColor $BGCOLOR
+  	BorderColor $INFO
+	FontColor $INFO
+	BorderThickness 2
+}
+!endsub
+
+!startsub state
+
+skinparam state {
+	$primary_scheme()
+	StartColor $INFO
+	EndColor $INFO
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub queue
+
+skinparam queue {
+	$primary_scheme()
+}
+!endsub
+
+!startsub card
+
+skinparam card {
+	BackgroundColor $BGCOLOR
+	BorderColor $INFO_DARK
+	FontColor $INFO_DARK
+}
+!endsub
+
+!startsub file
+
+skinparam file {
+	BackgroundColor $BGCOLOR
+	BorderColor $LIGHT
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub stack
+
+skinparam stack {
+	$primary_scheme()
+}
+!endsub
+
+!if %variable_exists("$THEME")
+title Usecase Diagram - $THEME theme
+!else
+title Usecase Diagram
+!endif
+
+legend
+This is my legend
+endlegend
+
+'skinparam BackgroundColor transparent
+
+left to right direction
+actor customer
+actor clerk
+rectangle checkout {
+  customer - - (checkout)
+  (checkout) .> (payment) : include
+  (help) .> (checkout) : extends
+  (checkout) - - clerk
+}
+@enduml
+
+@startuml
+
+
+
+skinparam backgroundColor transparent
+skinparam handwritten true
+skinparam shadowing false
+
+
+
+
+
+
+
+skinparam defaultFontName       "Segoe Print"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #555555
+skinparam stereotype {
+    CBackgroundColor transparent
+    CBorderColor #4d4d4d
+    ABackgroundColor transparent
+    ABorderColor #24963e
+    IBackgroundColor transparent
+    IBorderColor #c6303e
+    EBackgroundColor transparent
+    EBorderColor #e6ae06
+    NBackgroundColor transparent
+    NBorderColor #1592a6
+}
+skinparam title {
+	FontColor	                 #2e2e2e
+	BorderColor	                 #4d4d4d
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              transparent
+}
+
+skinparam legend {
+	BackgroundColor transparent
+	BorderColor #4d4d4d
+	FontColor #2e2e2e
+}
+
+skinparam swimlane {
+	BorderColor #17a2b8
+	BorderThickness 2
+	TitleBackgroundColor  transparent
+	TitleFontColor #2e2e2e
+}
+
+
+skinparam activity {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+	BarColor #28a745
+	StartColor #17a2b8
+	EndColor #17a2b8
+	DiamondBackgroundColor transparent
+  	DiamondBorderColor #4d4d4d
+  	DiamondFontColor #2e2e2e
+}
+
+
+skinparam participant {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #333333
+	FontColor #2e2e2e
+}
+
+
+skinparam sequence {
+	BorderColor #333333
+	TitleFontColor #2e2e2e
+	BackgroundColor transparent
+	StartColor #333333
+	EndColor #333333
+	BoxBackgroundColor transparent
+	BoxBorderColor #555555
+	BoxFontColor #555555
+	LifeLineBorderColor #555555
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #4d4d4d
+	GroupBorderColor #555555
+	GroupFontColor #555555
+	GroupHeaderFontColor #17a2b8
+	GroupBackgroundColor #555555
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor #555555
+    DividerBorderColor #555555
+    DividerBorderThickness 2
+    DividerFontColor #ffffff
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #555555
+	ReferenceFontColor #555555
+	ReferenceHeaderFontColor #17a2b8
+	ReferenceHeaderBackgroundColor #555555
+}
+
+
+skinparam partition {
+	BorderColor #333333
+	FontColor #333333
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+}
+
+
+skinparam control {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+}
+
+
+skinparam entity {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+}
+
+
+skinparam boundary {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+}
+
+
+skinparam agent {
+	BackgroundColor #ffc107
+	BorderColor #ffc720
+	FontColor #555555
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #17a2b8
+	BorderColor #1592a6
+	FontColor #ffffff
+}
+
+
+skinparam artifact {
+	BackgroundColor transparent
+	BorderColor #4d4d4d
+	FontColor #4d4d4d
+}
+
+
+skinparam component {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+}
+
+
+skinparam interface {
+	BackgroundColor  transparent
+	BorderColor  #dc3545
+	FontColor #555555
+}
+
+
+skinparam storage {
+	BackgroundColor transparent
+  	BorderColor #e6ae06
+	FontColor #e6ae06
+}
+
+
+skinparam node {
+	BackgroundColor  transparent
+	BorderColor #ffffff
+	FontColor #ffffff
+}
+
+
+skinparam cloud {
+	BackgroundColor transparent
+	BorderColor #F2FCFE
+	FontColor #2e2e2e
+}
+
+
+skinparam database {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+}
+
+
+skinparam class {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+	HeaderBackgroundColor transparent
+	StereotypeFontColor #555555
+	BorderThickness 1
+	AttributeFontColor #555555
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+	StereotypeFontColor #2e2e2e
+	BorderThickness 1
+	AttributeFontColor #2e2e2e
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+	BorderThickness 2
+	StereotypeFontColor #333333
+}
+
+
+skinparam rectangle {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+	BorderThickness 2
+	StereotypeFontColor #333333
+}
+
+
+skinparam package {
+	BackgroundColor transparent
+  	BorderColor #333333
+	FontColor #333333
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor transparent
+  	BorderColor #ffc107
+	FontColor #ffc107
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor transparent
+  	BorderColor #17a2b8
+	FontColor #17a2b8
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+	StartColor #17a2b8
+	EndColor #17a2b8
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+}
+
+
+skinparam card {
+	BackgroundColor transparent
+	BorderColor #1592a6
+	FontColor #1592a6
+}
+
+
+skinparam file {
+	BackgroundColor transparent
+	BorderColor #ffffff
+	FontColor #ffffff
+}
+
+
+skinparam stack {
+		FontColor #2e2e2e
+	BorderColor #333333
+	BackgroundColor transparent
+}
+
+title Usecase Diagram - sketchy-outline theme
+
+legend
+This is my legend
+endlegend
+
+
+left to right direction
+actor customer
+actor clerk
+rectangle checkout {
+  customer - - (checkout)
+  (checkout) .> (payment) : include
+  (help) .> (checkout) : extends
+  (checkout) - - clerk
+}
+@enduml
+
+PlantUML version 1.2020.16beta7(Unknown compile time)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
