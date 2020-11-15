@@ -91,6 +91,12 @@
       "background": "white"
     },
     {
+      "name": "sketchy-outline",
+      "description": "Sketchy outline theme",
+      "url": "https://bschwarz.github.io/puml-themes/themes/sketchy-outline/",
+      "background": "white"
+    },
+    {
       "name": "spacelab",
       "description": "Spacelab theme",
       "url": "https://bschwarz.github.io/puml-themes/themes/spacelab/",
