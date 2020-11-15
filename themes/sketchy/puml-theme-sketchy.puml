@@ -131,7 +131,7 @@ skinparam swimlane {
 	BorderColor $INFO
 	BorderThickness 2
 	TitleBackgroundColor  $SECONDARY_LIGHT-$SECONDARY
-	TitleFontColor $PRIMARY
+	TitleFontColor $FGCOLOR
 }
 !endsub
 
