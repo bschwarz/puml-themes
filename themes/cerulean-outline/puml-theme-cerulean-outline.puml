@@ -319,6 +319,7 @@ skinparam database {
 
 skinparam class {
 	$primary_scheme()
+	FontColor $LIGHT
 	HeaderBackgroundColor $PRIMARY-$PRIMARY_DARK
 	StereotypeFontColor $DARK
 	BorderThickness 1
@@ -443,7 +444,7 @@ skinparam useBetaStyle true
 
 !startsub mindmap
 
-<style> 
+<style>
 style mindmapDiagram {
   'Padding 8
   Margin 8
