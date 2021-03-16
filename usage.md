@@ -31,7 +31,7 @@ java -jar plantuml.jar -config <path to file>/puml-theme-<THEME NAME>.puml
 Currently, the default background color is transparent. However, you can easily set the background color, before you include the theme. For example:
 ```
 @startuml
-!$BGCOLOR="transparent"
+!$BGCOLOR="black"
 
 !include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/cyborg-outline/puml-theme-cyborg-outline.puml
 
