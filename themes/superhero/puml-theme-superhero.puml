@@ -152,7 +152,7 @@ skinparam activity {
 
 skinparam participant {
 	$primary_scheme()
-	ParticipantBorderThickness 2
+	BorderThickness 2
 }
 !endsub
 
@@ -190,10 +190,10 @@ skinparam sequence {
 	LifeLineBorderThickness 2
 	LifeLineBackgroundColor $SECONDARY_DARK
 	''
+	GroupBackgroundColor $SECONDARY
 	GroupBorderColor $DARK
 	GroupFontColor $DARK
 	GroupHeaderFontColor $INFO
-	GroupBackgroundColor $SECONDARY
 	GroupHeaderBackgroundColor $BGCOLOR
 	''
 	DividerBackgroundColor $DARK
