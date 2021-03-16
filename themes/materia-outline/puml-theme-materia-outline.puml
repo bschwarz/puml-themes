@@ -343,6 +343,7 @@ skinparam database {
 
 skinparam class {
 	$primary_scheme()
+	FontColor $LIGHT
 	HeaderBackgroundColor $PRIMARY-$PRIMARY_DARK
 	' FontColor $PRIMARY_TEXT
 	' BackgroundColor $BGCOLOR

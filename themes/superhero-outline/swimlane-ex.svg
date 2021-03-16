@@ -1,4 +1,446 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="438.5417px" preserveAspectRatio="none" style="width:602px;height:438px;background:#000000;" version="1.1" viewBox="0 0 602 438" width="602.0833px" zoomAndPan="magnify"><defs><linearGradient id="g12ldvy8bmrmnw0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#3E4A56"/><stop offset="100%" stop-color="#4E5D6C"/></linearGradient></defs><g><rect fill="#000000" height="46.1528" rx="4.1667" ry="4.1667" style="stroke: #717D89; stroke-width: 1.0416666666666667;" width="511.4583" x="43.75" y="12.5"/><text fill="#DF691A" font-family="Verdana" font-size="20.8333" lengthAdjust="spacingAndGlyphs" textLength="484.375" x="57.2917" y="43.8619">Swimlane Diagram - superhero-outline theme</text><rect fill="url(#g12ldvy8bmrmnw0)" height="25.6083" style="stroke: url(#g12ldvy8bmrmnw0); stroke-width: 1.0416666666666667;" width="567.7083" x="15.625" y="61.7778"/><ellipse cx="105.7292" cy="103.0111" fill="#5BC0DE" rx="10.4167" ry="10.4167" style="stroke: none; stroke-width: 1.0416666666666667;"/><rect fill="#000000" height="46.4417" rx="13.0208" ry="13.0208" style="stroke: #E58748; stroke-width: 1.5625;" width="169.7917" x="20.8333" y="134.2611"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="138.5417" x="36.4583" y="162.4532">Do something in First</text><rect fill="#000000" height="46.4417" rx="13.0208" ry="13.0208" style="stroke: #E58748; stroke-width: 1.5625;" width="153.125" x="29.1667" y="201.5361"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="121.875" x="44.7917" y="229.7282">Do something else</text><line style="stroke: #5BC0DE; stroke-width: 2.0833333333333335;" x1="15.625" x2="15.625" y1="61.7778" y2="426.2777"/><rect fill="#000000" height="46.4417" rx="13.0208" ry="13.0208" style="stroke: #E58748; stroke-width: 1.5625;" width="189.5833" x="200" y="268.811"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="158.3333" x="215.625" y="297.0032">Do something in Second</text><line style="stroke: #5BC0DE; stroke-width: 2.0833333333333335;" x1="194.7917" x2="194.7917" y1="61.7778" y2="426.2777"/><rect fill="#000000" height="46.4417" rx="13.0208" ry="13.0208" style="stroke: #E58748; stroke-width: 1.5625;" width="173.9583" x="398.9583" y="336.086"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="142.7083" x="414.5833" y="364.2782">Do something in Third</text><ellipse cx="485.9375" cy="414.8193" fill="#FFFFFF" rx="11.4583" ry="11.4583" style="stroke: #5BC0DE; stroke-width: 1.0416666666666667;"/><ellipse cx="485.9375" cy="414.8193" fill="#5BC0DE" rx="6.25" ry="6.25" style="stroke: #ADDFEE; stroke-width: 1.0416666666666667;"/><line style="stroke: #5BC0DE; stroke-width: 2.0833333333333335;" x1="393.75" x2="393.75" y1="61.7778" y2="426.2777"/><line style="stroke: #5BC0DE; stroke-width: 2.0833333333333335;" x1="577.0833" x2="577.0833" y1="61.7778" y2="426.2777"/><line style="stroke: #DF691A; stroke-width: 1.5625;" x1="105.7292" x2="105.7292" y1="113.4277" y2="134.2611"/><polygon fill="#DF691A" points="101.5625,123.8444,105.7292,134.2611,109.8958,123.8444,105.7292,128.0111" style="stroke: #DF691A; stroke-width: 1.0416666666666667;"/><line style="stroke: #DF691A; stroke-width: 1.5625;" x1="105.7292" x2="105.7292" y1="180.7027" y2="201.5361"/><polygon fill="#DF691A" points="101.5625,191.1194,105.7292,201.5361,109.8958,191.1194,105.7292,195.2861" style="stroke: #DF691A; stroke-width: 1.0416666666666667;"/><line style="stroke: #DF691A; stroke-width: 1.5625;" x1="485.9375" x2="485.9375" y1="382.5277" y2="403.361"/><polygon fill="#DF691A" points="481.7708,392.9443,485.9375,403.361,490.1042,392.9443,485.9375,397.111" style="stroke: #DF691A; stroke-width: 1.0416666666666667;"/><line style="stroke: #DF691A; stroke-width: 1.5625;" x1="105.7292" x2="105.7292" y1="247.9777" y2="253.186"/><line style="stroke: #DF691A; stroke-width: 1.5625;" x1="105.7292" x2="294.7917" y1="253.186" y2="253.186"/><line style="stroke: #DF691A; stroke-width: 1.5625;" x1="294.7917" x2="294.7917" y1="253.186" y2="268.811"/><polygon fill="#DF691A" points="290.625,258.3944,294.7917,268.811,298.9583,258.3944,294.7917,262.561" style="stroke: #DF691A; stroke-width: 1.0416666666666667;"/><line style="stroke: #DF691A; stroke-width: 1.5625;" x1="294.7917" x2="294.7917" y1="315.2527" y2="320.461"/><line style="stroke: #DF691A; stroke-width: 1.5625;" x1="294.7917" x2="485.9375" y1="320.461" y2="320.461"/><line style="stroke: #DF691A; stroke-width: 1.5625;" x1="485.9375" x2="485.9375" y1="320.461" y2="336.086"/><polygon fill="#DF691A" points="481.7708,325.6694,485.9375,336.086,490.1042,325.6694,485.9375,329.836" style="stroke: #DF691A; stroke-width: 1.0416666666666667;"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="94.7917" x="57.8125" y="79.5532">First Swimlane</text><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="114.5833" x="236.9792" y="79.5532">Second Swimlane</text><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="98.9583" x="435.9375" y="79.5532">Third Swimlane</text><!--MD5=[6ee99b60a983bb32015b3a9d87d5e55c]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="439.5833px" preserveAspectRatio="none" style="width:605px;height:439px;background:#000000;" version="1.1" viewBox="0 0 605 439" width="605.2083px" zoomAndPan="magnify"><defs><linearGradient id="g1b4hy703cn9710" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#3E4A56"/><stop offset="100%" stop-color="#4E5D6C"/></linearGradient></defs><g><rect fill="#000000" height="46.1528" rx="4.1667" ry="4.1667" style="stroke:#717D89;stroke-width:1.0416666666666667;" width="511.4583" x="45.3125" y="12.5"/><text fill="#DF691A" font-family="Verdana" font-size="20.8333" lengthAdjust="spacing" textLength="484.375" x="58.8542" y="43.8619">Swimlane Diagram - superhero-outline theme</text><rect fill="url(#g1b4hy703cn9710)" height="25.6083" style="stroke:url(#g1b4hy703cn9710);stroke-width:1.0416666666666667;" width="570.8333" x="15.625" y="62.8194"/><ellipse cx="106.7708" cy="104.0527" fill="#5BC0DE" rx="10.4167" ry="10.4167" style="stroke:none;stroke-width:1.0416666666666667;"/><rect fill="#000000" height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#E58748;stroke-width:1.5625;" width="169.7917" x="21.875" y="135.3027"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="138.5417" x="37.5" y="163.4949">Do something in First</text><rect fill="#000000" height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#E58748;stroke-width:1.5625;" width="153.125" x="30.2083" y="202.5777"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="121.875" x="45.8333" y="230.7699">Do something else</text><line style="stroke:#5BC0DE;stroke-width:2.0833333333333335;" x1="15.625" x2="15.625" y1="62.8194" y2="427.3193"/><rect fill="#000000" height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#E58748;stroke-width:1.5625;" width="189.5833" x="202.0833" y="269.8527"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="158.3333" x="217.7083" y="298.0448">Do something in Second</text><line style="stroke:#5BC0DE;stroke-width:2.0833333333333335;" x1="195.8333" x2="195.8333" y1="62.8194" y2="427.3193"/><rect fill="#000000" height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#E58748;stroke-width:1.5625;" width="173.9583" x="402.0833" y="337.1277"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="142.7083" x="417.7083" y="365.3198">Do something in Third</text><ellipse cx="489.0625" cy="415.861" fill="#000000" rx="11.4583" ry="11.4583" style="stroke:#5BC0DE;stroke-width:1.0416666666666667;"/><ellipse cx="489.0625" cy="415.861" fill="#5BC0DE" rx="6.25" ry="6.25" style="stroke:#2D606F;stroke-width:1.0416666666666667;"/><line style="stroke:#5BC0DE;stroke-width:2.0833333333333335;" x1="395.8333" x2="395.8333" y1="62.8194" y2="427.3193"/><line style="stroke:#5BC0DE;stroke-width:2.0833333333333335;" x1="580.2083" x2="580.2083" y1="62.8194" y2="427.3193"/><line style="stroke:#DF691A;stroke-width:1.5625;" x1="106.7708" x2="106.7708" y1="114.4694" y2="135.3027"/><polygon fill="#DF691A" points="102.6042,124.8861,106.7708,135.3027,110.9375,124.8861,106.7708,129.0527" style="stroke:#DF691A;stroke-width:1.0416666666666667;"/><line style="stroke:#DF691A;stroke-width:1.5625;" x1="106.7708" x2="106.7708" y1="181.7444" y2="202.5777"/><polygon fill="#DF691A" points="102.6042,192.1611,106.7708,202.5777,110.9375,192.1611,106.7708,196.3277" style="stroke:#DF691A;stroke-width:1.0416666666666667;"/><line style="stroke:#DF691A;stroke-width:1.5625;" x1="489.0625" x2="489.0625" y1="383.5693" y2="404.4027"/><polygon fill="#DF691A" points="484.8958,393.986,489.0625,404.4027,493.2292,393.986,489.0625,398.1527" style="stroke:#DF691A;stroke-width:1.0416666666666667;"/><line style="stroke:#DF691A;stroke-width:1.5625;" x1="106.7708" x2="106.7708" y1="249.0194" y2="254.2277"/><line style="stroke:#DF691A;stroke-width:1.5625;" x1="106.7708" x2="296.875" y1="254.2277" y2="254.2277"/><line style="stroke:#DF691A;stroke-width:1.5625;" x1="296.875" x2="296.875" y1="254.2277" y2="269.8527"/><polygon fill="#DF691A" points="292.7083,259.436,296.875,269.8527,301.0417,259.436,296.875,263.6027" style="stroke:#DF691A;stroke-width:1.0416666666666667;"/><line style="stroke:#DF691A;stroke-width:1.5625;" x1="296.875" x2="296.875" y1="316.2944" y2="321.5027"/><line style="stroke:#DF691A;stroke-width:1.5625;" x1="296.875" x2="489.0625" y1="321.5027" y2="321.5027"/><line style="stroke:#DF691A;stroke-width:1.5625;" x1="489.0625" x2="489.0625" y1="321.5027" y2="337.1277"/><polygon fill="#DF691A" points="484.8958,326.711,489.0625,337.1277,493.2292,326.711,489.0625,330.8777" style="stroke:#DF691A;stroke-width:1.0416666666666667;"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="94.7917" x="58.3333" y="80.5949">First Swimlane</text><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="114.5833" x="238.5417" y="80.5949">Second Swimlane</text><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="98.9583" x="438.5417" y="80.5949">Third Swimlane</text><!--MD5=[4b6b965b03c1995af98e598d2a7b26d4]
+@startuml
+
+!$THEME = "superhero-outline"
+
+!if %not(%variable_exists("$BGCOLOR"))
+!$BGCOLOR = "black"
+!endif
+
+skinparam backgroundColor $BGCOLOR
+
+!$BLUE = "#DF691A"
+!$INDIGO = "#6610f2"
+!$PURPLE = "#6f42c1"
+!$PINK = "#e83e8c"
+!$RED = "#d9534f"
+!$ORANGE = "#f0ad4e"
+!$YELLOW = "#f0ad4e"
+!$GREEN = "#5cb85c"
+!$TEAL = "#20c997"
+!$CYAN = "#5bc0de"
+!$WHITE = "#FFF"
+!$GRAY_LIGHT = "#222"
+!$GRAY = "#868e96"
+!$PRIMARY = "#DF691A"
+!$SECONDARY = "#4E5D6C"
+!$SUCCESS = "#5cb85c"
+!$INFO = "#5bc0de"
+!$WARNING = "#f0ad4e"
+!$DANGER = "#d9534f"
+!$LIGHT = "#abb6c2"
+!$DARK = "#4E5D6C"
+
+!$FGCOLOR = $WHITE
+!$PRIMARY_DARK = "#e58748"
+!$PRIMARY_LIGHT = "#b25415"
+!$PRIMARY_TEXT = $PRIMARY
+!$SECONDARY_DARK = "#717d89"
+!$SECONDARY_LIGHT = "#3e4a56"
+!$SECONDARY_TEXT = $SECONDARY_DARK 
+!$INFO_DARK = "#7ccde5"
+!$INFO_LIGHT = "#499AB2"
+!$INFO_TEXT = $INFO
+!$SUCCESS_DARK = "#4a934a"
+!$SUCCESS_LIGHT = "#5F8F00"
+!$SUCCESS_TEXT = $SUCCESS
+!$WARNING_DARK = "#f3bd71"
+!$WARNING_LIGHT = "#C08A3E"
+!$WARNING_TEXT = $WARNING
+!$DANGER_DARK = "#e17572"
+!$DANGER_LIGHT = "#AE423F"
+!$DANGER_TEXT = $WHITE
+!$DARK_DARK = "#717d89"
+!$DARK_LIGHT = "#3e4a56"
+!$LIGHT_DARK = "#bcc5ce"
+!$LIGHT_LIGHT = "#89929b"
+
+!procedure $success($msg)
+  <font color=$SUCCESS><b>$msg
+!endprocedure
+
+!procedure $failure($msg)
+  <font color=$DANGER><b>$msg
+!endprocedure
+
+!procedure $warning($msg)
+  <font color=$WARNING><b>$msg
+!endprocedure
+
+!procedure $primary_scheme()
+	FontColor $PRIMARY_TEXT
+	BorderColor $PRIMARY_DARK
+	BackgroundColor $BGCOLOR
+!endprocedure
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam TitleFontColor	    $DARK
+skinparam TitleFontSize	    	20
+skinparam TitleBorderThickness 	0
+skinparam ArrowColor            $DARK
+skinparam stereotype {
+    CBackgroundColor $SECONDARY_DARK
+    CBorderColor $SECONDARY_LIGHT
+    ABackgroundColor $SUCCESS_LIGHT
+    ABorderColor $SUCCESS_DARK
+    IBackgroundColor $DANGER_LIGHT
+    IBorderColor $DANGER_DARK
+    EBackgroundColor $WARNING_LIGHT
+    EBorderColor $WARNING_DARK
+    NBackgroundColor $INFO_LIGHT
+    NBorderColor $INFO_DARK
+}
+skinparam title {
+	FontColor	                 $PRIMARY
+	BorderColor	                 $SECONDARY_DARK
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              $BGCOLOR
+}
+
+
+skinparam legend {
+	BackgroundColor $BGCOLOR
+	BorderColor $SECONDARY_DARK
+	FontColor $LIGHT
+}
+
+!startsub swimlane
+skinparam swimlane {
+	BorderColor $INFO
+	BorderThickness 2
+	TitleBackgroundColor  $SECONDARY_LIGHT-$SECONDARY
+	TitleFontColor $PRIMARY
+}
+!endsub
+
+!startsub activity
+
+skinparam activity {
+	$primary_scheme()
+	BarColor $SUCCESS
+	StartColor $INFO
+	EndColor $INFO
+	DiamondBackgroundColor $BGCOLOR
+  	DiamondBorderColor $SECONDARY_DARK
+  	DiamondFontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub participant
+
+skinparam participant {
+	$primary_scheme()
+	ParticipantBorderThickness 2
+}
+!endsub
+
+!startsub actor
+
+skinparam actor {
+	$primary_scheme()
+	FontColor $PRIMARY
+}
+!endsub
+
+!startsub arrow
+
+skinparam arrow {
+	Thickness 3
+	Color $PRIMARY
+	FontColor $FGCOLOR
+}
+!endsub
+
+!startsub sequence
+
+skinparam sequence {
+	BorderColor $PRIMARY
+	TitleFontColor $PRIMARY
+	BackgroundColor $BGCOLOR
+	StartColor $PRIMARY
+	EndColor $PRIMARY
+	BoxBackgroundColor $BGCOLOR
+	BoxBorderColor $DARK
+	BoxFontColor $DARk
+	LifeLineBorderColor $SECONDARY
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor $BGCOLOR
+	GroupBorderColor $DARK
+	GroupFontColor $DARK
+	GroupHeaderFontColor $INFO
+	GroupBackgroundColor $BGCOLOR
+	GroupHeaderBackgroundColor $BGCOLOR
+	DividerBackgroundColor $BGCOLOR
+    DividerBorderColor $DARK
+    DividerBorderThickness 2
+    DividerFontColor $LIGHT
+	ReferenceBackgroundColor $BGCOLOR
+	ReferenceBorderColor $LIGHT
+	ReferenceFontColor $LIGHT
+	ReferenceHeaderFontColor $INFO
+	ReferenceHeaderBackgroundColor $BGCOLOR
+}
+!endsub
+
+!startsub partition
+
+skinparam partition {
+	BorderColor $PRIMARY
+	FontColor $PRIMARY
+	BackgroundColor $BGCOLOR
+}
+!endsub
+
+!startsub collections
+
+skinparam collections {
+	$primary_scheme()
+}
+!endsub
+
+!startsub control
+
+skinparam control {
+	$primary_scheme()
+}
+!endsub
+
+!startsub entity
+
+skinparam entity {
+	$primary_scheme()
+}
+!endsub
+
+!startsub boundary
+
+skinparam boundary {
+	$primary_scheme()
+}
+!endsub
+
+!startsub agent
+
+skinparam agent {
+	BackgroundColor $BGCOLOR
+	BorderColor $WARNING_LIGHT
+	FontColor $DARK
+}
+!endsub
+
+!startsub note
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor $BGCOLOR
+	BorderColor $INFO_DARK
+	FontColor $INFO_DARK
+}
+!endsub
+
+!startsub artifact
+
+skinparam artifact {
+	BackgroundColor $BGCOLOR
+	BorderColor $DARK_DARK
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub component
+
+skinparam component {
+	$primary_scheme()
+}
+!endsub
+
+!startsub interface
+
+skinparam interface {
+	BackgroundColor  $BGCOLOR
+	BorderColor  $DANGER
+	FontColor $DARK
+}
+!endsub
+
+!startsub storage
+
+skinparam storage {
+	BackgroundColor $BGCOLOR
+  	BorderColor $WARNING_DARK
+	FontColor $WARNING_TEXT
+}
+!endsub
+
+!startsub node
+
+skinparam node {
+	BackgroundColor  $BGCOLOR
+	BorderColor $LIGHT
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub cloud
+
+skinparam cloud {
+	BackgroundColor $BGCOLOR
+	BorderColor #F2FCFE
+	FontColor $DARK
+}
+!endsub
+
+!startsub database
+
+skinparam database {
+	$primary_scheme()
+	FontColor $PRIMARY
+}
+!endsub
+
+!startsub class
+
+skinparam class {
+	$primary_scheme()
+	FontColor $LIGHT
+	HeaderBackgroundColor $PRIMARY_LIGHT
+	StereotypeFontColor $DARK
+	BorderThickness 1
+	AttributeFontColor $DARK
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub object
+
+skinparam object {
+	$primary_scheme()
+	StereotypeFontColor $DARK
+	BorderThickness 1
+	AttributeFontColor $SECONDARY_DARK
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub usecase
+
+skinparam usecase {
+	$primary_scheme()
+	BorderThickness 2
+	StereotypeFontColor $PRIMARY
+}
+!endsub
+
+!startsub rectangle
+
+skinparam rectangle {
+	$primary_scheme()
+	BorderThickness 2
+	StereotypeFontColor $PRIMARY
+}
+!endsub
+
+!startsub package
+
+skinparam package {
+	BackgroundColor $BGCOLOR
+  	BorderColor $PRIMARY
+	FontColor $PRIMARY
+	BorderThickness 2
+}
+!endsub
+
+!startsub folder
+
+skinparam folder {
+	BackgroundColor $BGCOLOR
+  	BorderColor $WARNING
+	FontColor $WARNING
+	BorderThickness 2
+}
+!endsub
+
+!startsub frame
+
+skinparam frame {
+	BackgroundColor $BGCOLOR
+  	BorderColor $INFO
+	FontColor $INFO
+	BorderThickness 2
+}
+!endsub
+
+!startsub state
+
+skinparam state {
+	$primary_scheme()
+	StartColor $INFO
+	EndColor $INFO
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub queue
+
+skinparam queue {
+	$primary_scheme()
+}
+!endsub
+
+!startsub card
+
+skinparam card {
+	BackgroundColor $BGCOLOR
+	BorderColor $INFO
+	FontColor $INFO_TEXT
+}
+!endsub
+
+!startsub file
+
+skinparam file {
+	BackgroundColor $BGCOLOR
+	BorderColor $LIGHT
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub stack
+
+skinparam stack {
+	$primary_scheme()
+}
+!endsub
+
+!if %variable_exists("$THEME")
+title Swimlane Diagram - $THEME theme
+!else
+title Swimlane Diagram
+!endif
+
+'skinparam BackgroundColor transparent
+
+|First Swimlane|
+start
+    :Do something in First;
+    :Do something else;
+    |Second Swimlane|
+    :Do something in Second;
+        |Third Swimlane|
+        :Do something in Third;
+stop
+@enduml
+
 @startuml
 
 
@@ -228,6 +670,7 @@ skinparam class {
 		FontColor #DF691A
 	BorderColor #e58748
 	BackgroundColor black
+	FontColor #abb6c2
 	HeaderBackgroundColor #b25415
 	StereotypeFontColor #4E5D6C
 	BorderThickness 1
@@ -341,13 +784,11 @@ start
 stop
 @enduml
 
-PlantUML version 1.2020.08(Sun Apr 26 07:08:22 PDT 2020)
+PlantUML version 1.2021.01(Mon Feb 01 23:55:08 PST 2021)
 (GPL source distribution)
-Java Runtime: Java(TM) SE Runtime Environment
-JVM: Java HotSpot(TM) 64-Bit Server VM
-Java Version: 1.8.0_251-b32
-Operating System: Windows 10
-Default Encoding: Cp1252
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
 Language: en
 Country: US
 --></g></svg>
