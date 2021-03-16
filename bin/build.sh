@@ -18,8 +18,9 @@ THEME=$1
 #PLANT=~/devcontent/bin/plantuml.1.2019.12.jar
 #PLANT=~/devcontent/bin/plantuml.1.2019.13.jar
 #PLANT=~/devcontent/bin/plantuml.1.2020.0.jar
-PLANT=~/devcontent/bin/plantuml.1.2020.8.jar
-PLANT=~/devcontent/bin/plantuml-beta.jar
+#PLANT=~/devcontent/bin/plantuml.1.2020.8.jar
+#PLANT=~/devcontent/bin/plantuml-beta.jar
+PLANT=bin/plantuml.1.2021.1.jar
 
 ##
 ## Build the examples for each type of diagram
@@ -29,7 +30,8 @@ EX=examples/*.puml
 if [ -f $FILE ]; then
 # FF=$(pwd)/$FILE
 # echo $FF
-	java -Djava.awt.headless=true  -jar $PLANT $EX -DDIAGRAM=activity -tsvg -config $FILE -o ${PWD}/themes/$THEME/
+	#java -Djava.awt.headless=true  -jar $PLANT $EX -DDIAGRAM=activity -tsvg -config $FILE -o ${PWD}/themes/$THEME/
+	java -Djava.awt.headless=true  -jar $PLANT $EX -tsvg -config $FILE -o ${PWD}/themes/$THEME/
 	echo "$THEME"
 fi
 

@@ -4,7 +4,8 @@
 # PLANT=~/devcontent/bin/plantuml.1.2019.11.jar
 #PLANT=~/devcontent/bin/plantuml.1.2019.12.jar
 #PLANT=~/devcontent/bin/plantuml.1.2020.0.jar
-PLANT=~/devcontent/bin/plantuml.1.2020.8.jar
+#PLANT=~/devcontent/bin/plantuml.1.2020.8.jar
+PLANT=bin/plantuml.1.2021.1.jar
 
 ##
 ## examples for each type of diagram
