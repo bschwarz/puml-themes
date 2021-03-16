@@ -27,6 +27,28 @@ java -jar plantuml.jar -config <path to file>/puml-theme-<THEME NAME>.puml
   
     **Note** in previous versions of plantuml you had to use <code>!includeurl ...</code> syntax to include files from the internet.
 
+#### Setting Background Color
+Currently, the default background color is transparent. However, you can easily set the background color, before you include the theme. For example:
+```
+@startuml
+!$BGCOLOR="transparent"
+
+!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/cyborg-outline/puml-theme-cyborg-outline.puml
+
+Bob -> Alice : hello
+@enduml
+```
+Or if you run from the command line, you can create a separate config file, and set the background color in the config file:
+```
+!$BGCOLOR="black"
+```
+And then pass the config file on the command line:
+```
+java -jar -plantuml /path/to/diagram.puml -config /path/to/background-file -config /path/to/theme-file
+```
+
+**Note**: *background-file* should come before *theme-file*
+
 #### Overriding skinparams
 If you like a theme, but don't like one or more attributes about it, you can override that attribute by just including a skinparam *after* the theme ``!include``. For example, if you want the title font size to be larger than what the theme has specified, you can just do somethine like:
 ~~~
