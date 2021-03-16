@@ -331,7 +331,7 @@ skinparam class {
 	HeaderBackgroundColor $PRIMARY_LIGHT
 	StereotypeFontColor $DARK
 	BorderThickness 1
-	AttributeFontColor $DARK
+	AttributeFontColor $PRIMARY_TEXT
 	AttributeFontSize 11
 }
 !endsub
