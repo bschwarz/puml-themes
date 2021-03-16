@@ -10,7 +10,8 @@
 !$BGCOLOR = "transparent"
 !endif
 
-skinparam backgroundColor $BGCOLOR
+skinparam BackgroundColor $BGCOLOR
+skinparam useBetaStyle false
 
 ''
 '' Colors taken from the _default_colors.scss file for jekyll hacker theme
@@ -165,6 +166,7 @@ skinparam sequence {
 	GroupBorderColor $DARK
 	GroupFontColor $DARK
 	GroupHeaderFontColor $INFO
+	GroupHeaderBackgroundColor $BGCOLOR
 	''
 	DividerBackgroundColor $DARK
     DividerBorderColor $DARK
@@ -283,8 +285,8 @@ skinparam node {
 !startsub cloud
 
 skinparam cloud {
-	BackgroundColor $LIGHT-black
-	BorderColor $LIGHT
+	BackgroundColor $BGCOLOR
+	BorderColor $DARK
 	FontColor $DARK
 }
 !endsub
