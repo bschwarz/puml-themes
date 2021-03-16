@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="717.7083px" preserveAspectRatio="none" style="width:480px;height:717px;background:#000000;" version="1.1" viewBox="0 0 480 717" width="480.2083px" zoomAndPan="magnify"><defs/><g><rect fill="#000000" height="46.1528" rx="4.1667" ry="4.1667" style="stroke:#777777;stroke-width:1.0416666666666667;" width="452.0833" x="12.5" y="12.5"/><text fill="#2A9FD6" font-family="Verdana" font-size="20.8333" lengthAdjust="spacing" textLength="425" x="26.0417" y="43.8619">Activity Diagram - cyborg-outline theme</text><ellipse cx="240.1042" cy="72.1944" fill="#9933CC" rx="10.4167" ry="10.4167" style="stroke:none;stroke-width:1.0416666666666667;"/><rect fill="#000000" height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#55B2DE;stroke-width:1.5625;" width="62.5" x="208.8542" y="103.4444"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="31.25" x="224.4792" y="131.6366">start</text><rect fill="#77B300" height="6.25" rx="2.6042" ry="2.6042" style="stroke:#77B300;stroke-width:1.0416666666666667;" width="222.9167" x="128.6458" y="170.7194"/><rect fill="#000000" height="188.2833" rx="4.1667" ry="4.1667" style="stroke:#2A9FD6;stroke-width:2.0833333333333335;" width="108.3333" x="141.1458" y="187.3861"/><path d="M239.0625,187.3861 L239.0625,205.7027 L228.6458,216.1194 L141.1458,216.1194 " fill="none" style="stroke:#2A9FD6;stroke-width:2.0833333333333335;"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="77.0833" x="149.4792" y="206.2032">My Partition</text><rect fill="#000000" height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#55B2DE;stroke-width:1.5625;" width="60.4167" x="165.1042" y="233.8277"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="29.1667" x="180.7292" y="262.0199">foo1</text><rect fill="#000000" height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#55B2DE;stroke-width:1.5625;" width="60.4167" x="165.1042" y="316.7277"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="29.1667" x="180.7292" y="344.9198">foo2</text><rect fill="#000000" height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#55B2DE;stroke-width:1.5625;" width="60.4167" x="278.6458" y="262.4736"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="29.1667" x="294.2708" y="290.6657">foo3</text><rect fill="#77B300" height="6.25" rx="2.6042" ry="2.6042" style="stroke:#77B300;stroke-width:1.0416666666666667;" width="222.9167" x="128.6458" y="396.5027"/><rect fill="#000000" height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#55B2DE;stroke-width:1.5625;" width="60.4167" x="209.8958" y="470.0277"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="29.1667" x="225.5208" y="498.2198">foo5</text><polygon fill="#000000" points="220.3125,423.586,259.8958,423.586,272.3958,436.3902,259.8958,449.1943,220.3125,449.1943,207.8125,436.3902,220.3125,423.586" style="stroke:#777777;stroke-width:1.5625;"/><text fill="#777777" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="29.1667" x="225.5208" y="441.3615">foo4</text><rect fill="#000000" height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#55B2DE;stroke-width:1.5625;" width="60.4167" x="209.8958" y="560.2193"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="29.1667" x="225.5208" y="588.4115">foo6</text><rect fill="#000000" height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#55B2DE;stroke-width:1.5625;" width="60.4167" x="209.8958" y="617.0776"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="29.1667" x="225.5208" y="645.2698">foo7</text><ellipse cx="240.1042" cy="695.811" fill="#000000" rx="11.4583" ry="11.4583" style="stroke:#9933CC;stroke-width:1.0416666666666667;"/><ellipse cx="240.1042" cy="695.811" fill="#9933CC" rx="6.25" ry="6.25" style="stroke:#4C1966;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="240.1042" x2="240.1042" y1="82.6111" y2="103.4444"/><polygon fill="#2A9FD6" points="235.9375,93.0278,240.1042,103.4444,244.2708,93.0278,240.1042,97.1944" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="195.3125" x2="195.3125" y1="280.2694" y2="316.7277"/><polygon fill="#2A9FD6" points="191.1458,306.311,195.3125,316.7277,199.4792,306.311,195.3125,310.4777" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="195.3125" x2="195.3125" y1="176.9694" y2="233.8277"/><polygon fill="#2A9FD6" points="191.1458,223.4111,195.3125,233.8277,199.4792,223.4111,195.3125,227.5777" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="308.8542" x2="308.8542" y1="176.9694" y2="262.4736"/><polygon fill="#2A9FD6" points="304.6875,252.0569,308.8542,262.4736,313.0208,252.0569,308.8542,256.2236" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="195.3125" x2="195.3125" y1="363.1694" y2="396.5027"/><polygon fill="#2A9FD6" points="191.1458,386.086,195.3125,396.5027,199.4792,386.086,195.3125,390.2527" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="240.1042" x2="240.1042" y1="149.8861" y2="170.7194"/><polygon fill="#2A9FD6" points="235.9375,160.3027,240.1042,170.7194,244.2708,160.3027,240.1042,164.4694" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="240.1042" x2="240.1042" y1="449.1943" y2="470.0277"/><polygon fill="#2A9FD6" points="235.9375,459.611,240.1042,470.0277,244.2708,459.611,240.1042,463.7777" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="272.3958" x2="284.8958" y1="436.3902" y2="436.3902"/><polygon fill="#2A9FD6" points="280.7292,479.5547,284.8958,489.9714,289.0625,479.5547,284.8958,483.7214" style="stroke:#2A9FD6;stroke-width:1.5625;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="284.8958" x2="284.8958" y1="436.3902" y2="539.386"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="284.8958" x2="240.1042" y1="539.386" y2="539.386"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="240.1042" x2="240.1042" y1="539.386" y2="560.2193"/><polygon fill="#2A9FD6" points="235.9375,549.8027,240.1042,560.2193,244.2708,549.8027,240.1042,553.9693" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="240.1042" x2="240.1042" y1="402.7527" y2="423.586"/><polygon fill="#2A9FD6" points="235.9375,413.1694,240.1042,423.586,244.2708,413.1694,240.1042,417.336" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="240.1042" x2="240.1042" y1="663.5193" y2="684.3526"/><polygon fill="#2A9FD6" points="235.9375,673.936,240.1042,684.3526,244.2708,673.936,240.1042,678.1026" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><!--MD5=[09b1404c45826fe62037e67a16ab71d0]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="717.7083px" preserveAspectRatio="none" style="width:480px;height:717px;background:#00000000;" version="1.1" viewBox="0 0 480 717" width="480.2083px" zoomAndPan="magnify"><defs/><g><rect height="46.1528" rx="4.1667" ry="4.1667" style="stroke:#777777;stroke-width:1.0416666666666667;fill:none;" width="452.0833" x="12.5" y="12.5"/><text fill="#2A9FD6" font-family="Verdana" font-size="20.8333" lengthAdjust="spacing" textLength="425" x="26.0417" y="43.8619">Activity Diagram - cyborg-outline theme</text><ellipse cx="240.1042" cy="72.1944" fill="#9933CC" rx="10.4167" ry="10.4167" style="stroke:none;stroke-width:1.0416666666666667;"/><rect height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#55B2DE;stroke-width:1.5625;fill:none;" width="62.5" x="208.8542" y="103.4444"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="31.25" x="224.4792" y="131.6366">start</text><rect fill="#77B300" height="6.25" rx="2.6042" ry="2.6042" style="stroke:#77B300;stroke-width:1.0416666666666667;" width="222.9167" x="128.6458" y="170.7194"/><rect height="188.2833" rx="4.1667" ry="4.1667" style="stroke:#2A9FD6;stroke-width:2.0833333333333335;fill:none;" width="108.3333" x="141.1458" y="187.3861"/><path d="M239.0625,187.3861 L239.0625,205.7027 L228.6458,216.1194 L141.1458,216.1194 " fill="none" style="stroke:#2A9FD6;stroke-width:2.0833333333333335;"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="77.0833" x="149.4792" y="206.2032">My Partition</text><rect height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#55B2DE;stroke-width:1.5625;fill:none;" width="60.4167" x="165.1042" y="233.8277"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="29.1667" x="180.7292" y="262.0199">foo1</text><rect height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#55B2DE;stroke-width:1.5625;fill:none;" width="60.4167" x="165.1042" y="316.7277"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="29.1667" x="180.7292" y="344.9198">foo2</text><rect height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#55B2DE;stroke-width:1.5625;fill:none;" width="60.4167" x="278.6458" y="262.4736"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="29.1667" x="294.2708" y="290.6657">foo3</text><rect fill="#77B300" height="6.25" rx="2.6042" ry="2.6042" style="stroke:#77B300;stroke-width:1.0416666666666667;" width="222.9167" x="128.6458" y="396.5027"/><rect height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#55B2DE;stroke-width:1.5625;fill:none;" width="60.4167" x="209.8958" y="470.0277"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="29.1667" x="225.5208" y="498.2198">foo5</text><polygon points="220.3125,423.586,259.8958,423.586,272.3958,436.3902,259.8958,449.1943,220.3125,449.1943,207.8125,436.3902,220.3125,423.586" style="stroke:#777777;stroke-width:1.5625;fill:none;"/><text fill="#777777" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="29.1667" x="225.5208" y="441.3615">foo4</text><rect height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#55B2DE;stroke-width:1.5625;fill:none;" width="60.4167" x="209.8958" y="560.2193"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="29.1667" x="225.5208" y="588.4115">foo6</text><rect height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#55B2DE;stroke-width:1.5625;fill:none;" width="60.4167" x="209.8958" y="617.0776"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="29.1667" x="225.5208" y="645.2698">foo7</text><ellipse cx="240.1042" cy="695.811" rx="11.4583" ry="11.4583" style="stroke:#9933CC;stroke-width:1.0416666666666667;fill:none;"/><ellipse cx="240.1042" cy="695.811" fill="#9933CC" rx="6.25" ry="6.25" style="stroke:#4C1966;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="240.1042" x2="240.1042" y1="82.6111" y2="103.4444"/><polygon fill="#2A9FD6" points="235.9375,93.0278,240.1042,103.4444,244.2708,93.0278,240.1042,97.1944" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="195.3125" x2="195.3125" y1="280.2694" y2="316.7277"/><polygon fill="#2A9FD6" points="191.1458,306.311,195.3125,316.7277,199.4792,306.311,195.3125,310.4777" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="195.3125" x2="195.3125" y1="176.9694" y2="233.8277"/><polygon fill="#2A9FD6" points="191.1458,223.4111,195.3125,233.8277,199.4792,223.4111,195.3125,227.5777" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="308.8542" x2="308.8542" y1="176.9694" y2="262.4736"/><polygon fill="#2A9FD6" points="304.6875,252.0569,308.8542,262.4736,313.0208,252.0569,308.8542,256.2236" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="195.3125" x2="195.3125" y1="363.1694" y2="396.5027"/><polygon fill="#2A9FD6" points="191.1458,386.086,195.3125,396.5027,199.4792,386.086,195.3125,390.2527" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="240.1042" x2="240.1042" y1="149.8861" y2="170.7194"/><polygon fill="#2A9FD6" points="235.9375,160.3027,240.1042,170.7194,244.2708,160.3027,240.1042,164.4694" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="240.1042" x2="240.1042" y1="449.1943" y2="470.0277"/><polygon fill="#2A9FD6" points="235.9375,459.611,240.1042,470.0277,244.2708,459.611,240.1042,463.7777" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="272.3958" x2="284.8958" y1="436.3902" y2="436.3902"/><polygon fill="#2A9FD6" points="280.7292,479.5547,284.8958,489.9714,289.0625,479.5547,284.8958,483.7214" style="stroke:#2A9FD6;stroke-width:1.5625;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="284.8958" x2="284.8958" y1="436.3902" y2="539.386"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="284.8958" x2="240.1042" y1="539.386" y2="539.386"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="240.1042" x2="240.1042" y1="539.386" y2="560.2193"/><polygon fill="#2A9FD6" points="235.9375,549.8027,240.1042,560.2193,244.2708,549.8027,240.1042,553.9693" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="240.1042" x2="240.1042" y1="402.7527" y2="423.586"/><polygon fill="#2A9FD6" points="235.9375,413.1694,240.1042,423.586,244.2708,413.1694,240.1042,417.336" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="240.1042" x2="240.1042" y1="663.5193" y2="684.3526"/><polygon fill="#2A9FD6" points="235.9375,673.936,240.1042,684.3526,244.2708,673.936,240.1042,678.1026" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><!--MD5=[353affbda253bad1e708d16b689fe5eb]
 @startuml
 
 !$THEME = "cyborg-outline"
 
 !if %not(%variable_exists("$BGCOLOR"))
-!$BGCOLOR = "black"
+!$BGCOLOR = "transparent"
 !endif
 
 skinparam backgroundColor $BGCOLOR
@@ -455,7 +455,7 @@ start
 
 
 
-skinparam backgroundColor black
+skinparam backgroundColor transparent
 
 
 
@@ -490,11 +490,11 @@ skinparam title {
 	FontSize	    	         20
 	BorderRoundCorner            8
 	BorderThickness 	         1
-	BackgroundColor              black
+	BackgroundColor              transparent
 }
 
 skinparam legend {
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #777777
 	FontColor #ADAFAE
 }
@@ -510,11 +510,11 @@ skinparam swimlane {
 skinparam activity {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 	BarColor #77B300
 	StartColor #9933CC
 	EndColor #9933CC
-	DiamondBackgroundColor black
+	DiamondBackgroundColor transparent
   	DiamondBorderColor #777777
   	DiamondFontColor #777777
 }
@@ -523,7 +523,7 @@ skinparam activity {
 skinparam participant {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 	ParticipantBorderThickness 2
 }
 
@@ -531,7 +531,7 @@ skinparam participant {
 skinparam actor {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 	FontColor #2A9FD6
 }
 
@@ -546,50 +546,50 @@ skinparam arrow {
 skinparam sequence {
 	BorderColor #2A9FD6
 	TitleFontColor #2A9FD6
-	BackgroundColor black
+	BackgroundColor transparent
 	StartColor #2A9FD6
 	EndColor #2A9FD6
-	BoxBackgroundColor black
+	BoxBackgroundColor transparent
 	BoxBorderColor #ADAFAE
 	BoxFontColor $DARk
 	LifeLineBorderColor #555
 	LifeLineBorderThickness 2
-	LifeLineBackgroundColor black
+	LifeLineBackgroundColor transparent
 	GroupBorderColor #ADAFAE
 	GroupFontColor #ADAFAE
 	GroupHeaderFontColor #9933CC
-	GroupBackgroundColor black
-	GroupHeaderBackgroundColor black
-	DividerBackgroundColor black
+	GroupBackgroundColor transparent
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor transparent
     DividerBorderColor #ADAFAE
     DividerBorderThickness 2
     DividerFontColor #ADAFAE
-	ReferenceBackgroundColor black
+	ReferenceBackgroundColor transparent
 	ReferenceBorderColor #ADAFAE
 	ReferenceFontColor #ADAFAE
 	ReferenceHeaderFontColor #9933CC
-	ReferenceHeaderBackgroundColor black
+	ReferenceHeaderBackgroundColor transparent
 }
 
 
 skinparam partition {
 	BorderColor #2A9FD6
 	FontColor #2A9FD6
-	BackgroundColor black
+	BackgroundColor transparent
 }
 
 
 skinparam collections {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 }
 
 
 skinparam control {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 	FontColor #2A9FD6
 }
 
@@ -597,7 +597,7 @@ skinparam control {
 skinparam entity {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 	FontColor #2A9FD6
 }
 
@@ -605,13 +605,13 @@ skinparam entity {
 skinparam boundary {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 	FontColor #2A9FD6
 }
 
 
 skinparam agent {
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #cc6d00
 	FontColor #ADAFAE
 }
@@ -619,14 +619,14 @@ skinparam agent {
 
 skinparam note {
 	BorderThickness 1
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #AD5CD6
 	FontColor #AD5CD6
 }
 
 
 skinparam artifact {
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #BDBFBE
 	FontColor #BDBFBE
 }
@@ -635,33 +635,33 @@ skinparam artifact {
 skinparam component {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 }
 
 
 skinparam interface {
-	BackgroundColor  black
+	BackgroundColor  transparent
 	BorderColor  #CC0000
 	FontColor #ADAFAE
 }
 
 
 skinparam storage {
-	BackgroundColor black
+	BackgroundColor transparent
   	BorderColor #FFA033
 	FontColor #FF8800
 }
 
 
 skinparam node {
-	BackgroundColor  black
+	BackgroundColor  transparent
 	BorderColor #ADAFAE
 	FontColor #ADAFAE
 }
 
 
 skinparam cloud {
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #F2FCFE
 	FontColor #ADAFAE
 }
@@ -670,7 +670,7 @@ skinparam cloud {
 skinparam database {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 	FontColor #2A9FD6
 }
 
@@ -679,7 +679,7 @@ skinparam database {
 skinparam class {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
         FontColor #222
 	HeaderBackgroundColor #227FAB
 	StereotypeFontColor #ADAFAE
@@ -692,7 +692,7 @@ skinparam class {
 skinparam object {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 	StereotypeFontColor #ADAFAE
 	BorderThickness 1
 	AttributeFontColor #777777
@@ -703,7 +703,7 @@ skinparam object {
 skinparam usecase {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderThickness 2
 	StereotypeFontColor #2A9FD6
 }
@@ -712,14 +712,14 @@ skinparam usecase {
 skinparam rectangle {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderThickness 2
 	StereotypeFontColor #2A9FD6
 }
 
 
 skinparam package {
-	BackgroundColor black
+	BackgroundColor transparent
   	BorderColor #2A9FD6
 	FontColor #2A9FD6
 	BorderThickness 2
@@ -727,7 +727,7 @@ skinparam package {
 
 
 skinparam folder {
-	BackgroundColor black
+	BackgroundColor transparent
   	BorderColor #FF8800
 	FontColor #FF8800
 	BorderThickness 2
@@ -735,7 +735,7 @@ skinparam folder {
 
 
 skinparam frame {
-	BackgroundColor black
+	BackgroundColor transparent
   	BorderColor #9933CC
 	FontColor #9933CC
 	BorderThickness 2
@@ -745,7 +745,7 @@ skinparam frame {
 skinparam state {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 	StartColor #9933CC
 	EndColor #9933CC
 	AttributeFontColor #777777
@@ -756,19 +756,19 @@ skinparam state {
 skinparam queue {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 }
 
 
 skinparam card {
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #9933CC
 	FontColor #9933CC
 }
 
 
 skinparam file {
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #555
 	FontColor #555
 }
@@ -777,7 +777,7 @@ skinparam file {
 skinparam stack {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 }
 
 title Activity Diagram - cyborg-outline theme

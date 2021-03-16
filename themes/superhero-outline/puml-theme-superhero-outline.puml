@@ -8,7 +8,7 @@
 !$THEME = "superhero-outline"
 
 !if %not(%variable_exists("$BGCOLOR"))
-!$BGCOLOR = "black"
+!$BGCOLOR = "transparent"
 !endif
 
 skinparam backgroundColor $BGCOLOR

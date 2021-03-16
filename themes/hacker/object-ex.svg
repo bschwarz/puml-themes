@@ -1,13 +1,500 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="300px" preserveAspectRatio="none" style="width:512px;height:300px;background:#000000;" version="1.1" viewBox="0 0 512 300" width="512.5px" zoomAndPan="magnify"><defs><linearGradient id="g1xszeaydg1evf0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#151515"/><stop offset="100%" stop-color="#000000"/></linearGradient><linearGradient id="g1xszeaydg1evf1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#D3F198"/><stop offset="100%" stop-color="#B5E853"/></linearGradient></defs><g><rect fill="url(#g1xszeaydg1evf0)" height="47.0378" rx="4.1667" ry="4.1667" style="stroke: #B5E853; stroke-width: 1.0416666666666667;" width="326.0417" x="99.4792" y="5.2083"/><text fill="#B5E853" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="305.2083" x="109.8958" y="37.2518">Object Diagram - hacker theme</text><rect fill="url(#g1xszeaydg1evf1)" height="46.4417" rx="20.8333" ry="20.8333" style="stroke: #D3F198; stroke-width: 1.0416666666666667;" width="84.375" x="6.25" y="66.8294"/><text fill="#151515" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="18.75" y="86.6882">Object01</text><line style="stroke: #D3F198; stroke-width: 1.0416666666666667;" x1="7.2917" x2="89.5833" y1="96.6044" y2="96.6044"/><rect fill="url(#g1xszeaydg1evf1)" height="46.4417" rx="20.8333" ry="20.8333" style="stroke: #D3F198; stroke-width: 1.0416666666666667;" width="84.375" x="6.25" y="222.0378"/><text fill="#151515" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="18.75" y="241.8966">Object02</text><line style="stroke: #D3F198; stroke-width: 1.0416666666666667;" x1="7.2917" x2="89.5833" y1="251.8127" y2="251.8127"/><rect fill="url(#g1xszeaydg1evf1)" height="46.4417" rx="20.8333" ry="20.8333" style="stroke: #D3F198; stroke-width: 1.0416666666666667;" width="84.375" x="127.0833" y="66.8294"/><text fill="#151515" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="139.5833" y="86.6882">Object03</text><line style="stroke: #D3F198; stroke-width: 1.0416666666666667;" x1="128.125" x2="210.4167" y1="96.6044" y2="96.6044"/><rect fill="url(#g1xszeaydg1evf1)" height="46.4417" rx="20.8333" ry="20.8333" style="stroke: #D3F198; stroke-width: 1.0416666666666667;" width="84.375" x="127.0833" y="222.0378"/><text fill="#151515" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="139.5833" y="241.8966">Object04</text><line style="stroke: #D3F198; stroke-width: 1.0416666666666667;" x1="128.125" x2="210.4167" y1="251.8127" y2="251.8127"/><rect fill="url(#g1xszeaydg1evf1)" height="46.4417" rx="20.8333" ry="20.8333" style="stroke: #D3F198; stroke-width: 1.0416666666666667;" width="84.375" x="247.9167" y="66.8294"/><text fill="#151515" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="260.4167" y="86.6882">Object05</text><line style="stroke: #D3F198; stroke-width: 1.0416666666666667;" x1="248.9583" x2="331.25" y1="96.6044" y2="96.6044"/><rect fill="url(#g1xszeaydg1evf1)" height="46.4417" rx="20.8333" ry="20.8333" style="stroke: #D3F198; stroke-width: 1.0416666666666667;" width="84.375" x="247.9167" y="222.0378"/><text fill="#151515" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="260.4167" y="241.8966">Object06</text><line style="stroke: #D3F198; stroke-width: 1.0416666666666667;" x1="248.9583" x2="331.25" y1="251.8127" y2="251.8127"/><rect fill="url(#g1xszeaydg1evf1)" height="46.4417" rx="20.8333" ry="20.8333" style="stroke: #D3F198; stroke-width: 1.0416666666666667;" width="84.375" x="392.7083" y="66.8294"/><text fill="#151515" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="405.2083" y="86.6882">Object07</text><line style="stroke: #D3F198; stroke-width: 1.0416666666666667;" x1="393.75" x2="476.0417" y1="96.6044" y2="96.6044"/><rect fill="url(#g1xszeaydg1evf1)" height="86.793" rx="20.8333" ry="20.8333" style="stroke: #D3F198; stroke-width: 1.0416666666666667;" width="131.25" x="369.2708" y="202.2461"/><text fill="#151515" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="405.2083" y="222.1049">Object08</text><line style="stroke: #D3F198; stroke-width: 1.0416666666666667;" x1="370.3125" x2="499.4792" y1="232.0211" y2="232.0211"/><text fill="#151515" font-family="Verdana" font-size="11.4583" lengthAdjust="spacingAndGlyphs" textLength="108.3333" x="380.7292" y="252.916">name = "Dummy"</text><text fill="#151515" font-family="Verdana" font-size="11.4583" lengthAdjust="spacingAndGlyphs" textLength="50" x="380.7292" y="277.2583">id = 123</text><!--MD5=[507381b32e0a49e7abc7210229a8ee60]
-reverse link Object01 to Object02--><path d="M48.4375,135.0482 C48.4375,163.3294 48.4375,198.9808 48.4375,221.7468 " fill="none" id="Object01&lt;-Object02" style="stroke: #B5E853; stroke-width: 3.125;"/><polygon fill="none" points="41.1459,134.7357,48.4375,113.9023,55.7293,134.7357,41.1459,134.7357" style="stroke: #B5E853; stroke-width: 3.125;"/><!--MD5=[d21c20b16b3ff22abbc2c8af84931b60]
-reverse link Object03 to Object04--><path d="M169.2708,127.6419 C169.2708,156.8409 169.2708,196.9421 169.2708,221.7468 " fill="none" id="Object03&lt;-Object04" style="stroke: #B5E853; stroke-width: 3.125;"/><polygon fill="#B5E853" points="169.2708,113.9023,165.1042,120.1523,169.2708,126.4023,173.4375,120.1523,169.2708,113.9023" style="stroke: #B5E853; stroke-width: 3.125;"/><!--MD5=[ade907096602ef8d7fe19339b46bff0e]
-reverse link Object05 to Object06--><path d="M290.1042,127.6419 C290.1042,156.8409 290.1042,196.9421 290.1042,221.7468 " fill="none" id="Object05&lt;-Object06" style="stroke: #B5E853; stroke-width: 3.125;"/><polygon fill="#000000" points="290.1042,113.9023,285.9375,120.1523,290.1042,126.4023,294.2708,120.1523,290.1042,113.9023" style="stroke: #B5E853; stroke-width: 3.125;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacingAndGlyphs" textLength="6.25" x="276.5104" y="205.9086">4</text><!--MD5=[17488501a7bed181c851ca0c615fb4f2]
-link Object07 to Object08--><path d="M434.8958,113.9023 C434.8958,137.0305 434.8958,173.5253 434.8958,202.053 " fill="none" id="Object07-Object08" style="stroke: #B5E853; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="11.4583" lengthAdjust="spacingAndGlyphs" textLength="59.375" x="441.1458" y="163.0992">some labels</text><!--MD5=[d9f0682130ccba4635f96fca3d72d6de]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="289.5833px" preserveAspectRatio="none" style="width:530px;height:289px;" version="1.1" viewBox="0 0 530 289" width="530.2083px" zoomAndPan="magnify"><defs><linearGradient id="g1d1e87bbbamb90" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#151515"/><stop offset="100%" stop-color="#000000"/></linearGradient><linearGradient id="g1d1e87bbbamb91" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#D3F198"/><stop offset="100%" stop-color="#B5E853"/></linearGradient></defs><g><rect fill="url(#g1d1e87bbbamb90)" height="45.0846" rx="4.1667" ry="4.1667" style="stroke:#B5E853;stroke-width:1.0416666666666667;" width="392.7083" x="64.3229" y="5.2083"/><text fill="#B5E853" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacing" textLength="371.875" x="74.7396" y="34.963">Object Diagram - hacker theme</text><rect fill="url(#g1d1e87bbbamb91)" height="46.4417" rx="20.8333" ry="20.8333" style="stroke:#D3F198;stroke-width:1.0416666666666667;" width="84.375" x="7.2917" y="63.8346"/><text fill="#151515" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="59.375" x="19.7917" y="83.6934">Object01</text><line style="stroke:#D3F198;stroke-width:1.0416666666666667;" x1="8.3333" x2="90.625" y1="93.6096" y2="93.6096"/><rect fill="url(#g1d1e87bbbamb91)" height="46.4417" rx="20.8333" ry="20.8333" style="stroke:#D3F198;stroke-width:1.0416666666666667;" width="84.375" x="7.2917" y="221.1263"/><text fill="#151515" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="59.375" x="19.7917" y="240.9851">Object02</text><line style="stroke:#D3F198;stroke-width:1.0416666666666667;" x1="8.3333" x2="90.625" y1="250.9013" y2="250.9013"/><rect fill="url(#g1d1e87bbbamb91)" height="46.4417" rx="20.8333" ry="20.8333" style="stroke:#D3F198;stroke-width:1.0416666666666667;" width="84.375" x="128.125" y="63.8346"/><text fill="#151515" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="59.375" x="140.625" y="83.6934">Object03</text><line style="stroke:#D3F198;stroke-width:1.0416666666666667;" x1="129.1667" x2="211.4583" y1="93.6096" y2="93.6096"/><rect fill="url(#g1d1e87bbbamb91)" height="46.4417" rx="20.8333" ry="20.8333" style="stroke:#D3F198;stroke-width:1.0416666666666667;" width="84.375" x="128.125" y="221.1263"/><text fill="#151515" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="59.375" x="140.625" y="240.9851">Object04</text><line style="stroke:#D3F198;stroke-width:1.0416666666666667;" x1="129.1667" x2="211.4583" y1="250.9013" y2="250.9013"/><rect fill="url(#g1d1e87bbbamb91)" height="46.4417" rx="20.8333" ry="20.8333" style="stroke:#D3F198;stroke-width:1.0416666666666667;" width="84.375" x="248.9583" y="63.8346"/><text fill="#151515" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="59.375" x="261.4583" y="83.6934">Object05</text><line style="stroke:#D3F198;stroke-width:1.0416666666666667;" x1="250" x2="332.2917" y1="93.6096" y2="93.6096"/><rect fill="url(#g1d1e87bbbamb91)" height="46.4417" rx="20.8333" ry="20.8333" style="stroke:#D3F198;stroke-width:1.0416666666666667;" width="84.375" x="248.9583" y="221.1263"/><text fill="#151515" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="59.375" x="261.4583" y="240.9851">Object06</text><line style="stroke:#D3F198;stroke-width:1.0416666666666667;" x1="250" x2="332.2917" y1="250.9013" y2="250.9013"/><rect fill="url(#g1d1e87bbbamb91)" height="46.4417" rx="20.8333" ry="20.8333" style="stroke:#D3F198;stroke-width:1.0416666666666667;" width="84.375" x="393.75" y="63.8346"/><text fill="#151515" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="59.375" x="406.25" y="83.6934">Object07</text><line style="stroke:#D3F198;stroke-width:1.0416666666666667;" x1="394.7917" x2="477.0833" y1="93.6096" y2="93.6096"/><rect fill="url(#g1d1e87bbbamb91)" height="86.793" rx="20.8333" ry="20.8333" style="stroke:#D3F198;stroke-width:1.0416666666666667;" width="131.25" x="370.3125" y="201.3346"/><text fill="#151515" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="59.375" x="406.25" y="221.1934">Object08</text><line style="stroke:#D3F198;stroke-width:1.5625;" x1="371.3542" x2="500.5208" y1="231.1096" y2="231.1096"/><text fill="#151515" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="108.3333" x="381.7708" y="252.0045">name = "Dummy"</text><text fill="#151515" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="50" x="381.7708" y="276.3468">id = 123</text><!--MD5=[507381b32e0a49e7abc7210229a8ee60]
+reverse link Object01 to Object02--><path codeLine="21" d="M49.4792,132.0013 C49.4792,160.9284 49.4792,197.6992 49.4792,220.9284 " fill="none" id="Object01-backto-Object02" style="stroke:#B5E853;stroke-width:3.125;"/><polygon fill="none" points="42.1875,131.7201,49.4792,110.8867,56.7708,131.7201,42.1875,131.7201" style="stroke:#B5E853;stroke-width:3.125;"/><!--MD5=[d21c20b16b3ff22abbc2c8af84931b60]
+reverse link Object03 to Object04--><path codeLine="22" d="M170.3125,124.4701 C170.3125,154.2721 170.3125,195.6263 170.3125,220.9284 " fill="none" id="Object03-backto-Object04" style="stroke:#B5E853;stroke-width:3.125;"/><polygon fill="#B5E853" points="170.3125,110.8867,166.1458,117.1367,170.3125,123.3867,174.4792,117.1367,170.3125,110.8867" style="stroke:#B5E853;stroke-width:3.125;"/><!--MD5=[ade907096602ef8d7fe19339b46bff0e]
+reverse link Object05 to Object06--><path codeLine="23" d="M291.1458,124.4701 C291.1458,154.2721 291.1458,195.6263 291.1458,220.9284 " fill="none" id="Object05-backto-Object06" style="stroke:#B5E853;stroke-width:3.125;"/><polygon points="291.1458,110.8867,286.9792,117.1367,291.1458,123.3867,295.3125,117.1367,291.1458,110.8867" style="stroke:#B5E853;stroke-width:3.125;fill:none;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="13.5417" lengthAdjust="spacing" textLength="8.3333" x="275.4362" y="204.2541">4</text><!--MD5=[17488501a7bed181c851ca0c615fb4f2]
+link Object07 to Object08--><path codeLine="24" d="M435.9375,110.8867 C435.9375,134.5117 435.9375,172.1576 435.9375,201.3138 " fill="none" id="Object07-Object08" style="stroke:#B5E853;stroke-width:3.125;stroke-dasharray:7.0,7.0;"/><text fill="#FFFFFF" font-family="&quot;Verdana&quot;" font-size="13.5417" lengthAdjust="spacing" textLength="80.2083" x="442.1875" y="160.7793">some labels</text><!--MD5=[9346bacf4295ca4d3fb0a82d0df75689]
+@startuml
+
+!$THEME = "hacker"
+
+!if %not(%variable_exists("$BGCOLOR"))
+!$BGCOLOR = "transparent"
+!endif
+
+skinparam backgroundColor $BGCOLOR
+skinparam useBetaStyle true
+
+!$PRIMARY = "#b5e853"
+!$PRIMARY_LIGHT = "#d3f198"
+!$PRIMARY_DARK = "#6d8b32"
+!$PRIMARY_TEXT = "#151515"
+!$SECONDARY = "#6a9fb5"
+!$SECONDARY_LIGHT = "#88b2c4"
+!$SECONDARY_DARK = "#557f91"
+!$SECONDARY_TEXT = "#fefefe"
+!$SUCCESS = "#90a959"
+!$SUCCESS_LIGHT = "#a6ba7a"
+!$INFO = "#aa759f"
+!$INFO_LIGHT = "#bb91b2"
+!$INFO_DARK = "#885E7F"
+!$WARNING = "#f4bf75"
+!$WARNING_LIGHT = "#f6cc91"
+!$WARNING_TEXT = "#151515"
+!$DANGER = "#ac4142"
+!$DANGER_LIGHT = "#bd6768"
+!$LIGHT = "#151515"
+!$DARK = "#eaeaea"
+
+!procedure $success($msg)
+  <font color=$SUCCESS><b>$msg
+!endprocedure
+
+!procedure $failure($msg)
+  <font color=$DANGER><b>$msg
+!endprocedure
+
+!procedure $warning($msg)
+  <font color=$WARNING><b>$msg
+!endprocedure
+
+!procedure $primary_scheme()
+	FontColor $PRIMARY_TEXT
+	BorderColor $PRIMARY_LIGHT
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+!endprocedure
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           40
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            $DARK
+skinparam stereotype {
+    CBackgroundColor $SECONDARY_DARK
+    CBorderColor $SECONDARY_LIGHT
+    ABackgroundColor $SUCCESS_LIGHT
+    ABorderColor $SUCCESS_DARK
+    IBackgroundColor $DANGER_LIGHT
+    IBorderColor $DANGER_DARK
+    EBackgroundColor $WARNING_LIGHT
+    EBorderColor $WARNING_DARK
+    NBackgroundColor $INFO_LIGHT
+    NBorderColor $INFO_DARK
+}
+skinparam title {
+	FontColor	                 $PRIMARY
+	BorderColor	                 $PRIMARY
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              $LIGHT-black
+}
+
+
+skinparam legend {
+	BackgroundColor $SECONDARY
+	BorderColor $SECONDARY_DARK
+	FontColor $DARK
+}
+
+!startsub swimlane
+skinparam swimlane {
+	BorderColor $INFO
+	BorderThickness 2
+	TitleBackgroundColor  $SECONDARY_LIGHT-$SECONDARY
+	TitleFontColor $PRIMARY
+}
+!endsub
+
+!startsub activity
+
+skinparam activity {
+	$primary_scheme()
+	BarColor $SUCCESS
+	StartColor $INFO
+	EndColor $INFO
+	DiamondBackgroundColor $SECONDARY_LIGHT-$SECONDARY
+  	DiamondBorderColor $SECONDARY_LIGHT
+  	DiamondFontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub participant
+
+skinparam participant {
+	$primary_scheme()
+	BorderThickness 2
+}
+!endsub
+
+!startsub actor
+
+skinparam actor {
+	$primary_scheme()
+	FontColor $DARK
+}
+!endsub
+
+!startsub arrow
+
+skinparam arrow {
+	Thickness 3
+	Color $PRIMARY
+	FontColor $FGCOLOR
+}
+!endsub
+
+!startsub sequence
+
+skinparam sequence {
+	BorderColor $PRIMARY
+	TitleFontColor $PRIMARY
+	BackgroundColor $BGCOLOR
+	StartColor $PRIMARY
+	EndColor $PRIMARY
+	BoxBackgroundColor $BGCOLOR
+	BoxBorderColor $DARK
+	BoxFontColor $DARk
+	LifeLineBorderColor $SECONDARY
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor $SECONDARY_DARK
+	GroupBackgroundColor $LIGHT
+	GroupBorderColor $DARK
+	GroupFontColor $DARK
+	GroupHeaderFontColor $INFO
+	DividerBackgroundColor $DARK
+    DividerBorderColor $DARK
+    DividerBorderThickness 2
+    DividerFontColor $LIGHT
+	ReferenceBackgroundColor $LIGHT
+	ReferenceBorderColor $DARK
+	ReferenceFontColor $DARK
+	ReferenceHeaderBackgroundColor $LIGHT
+}
+!endsub
+
+!startsub partition
+
+skinparam partition {
+	BorderColor $PRIMARY
+	FontColor $PRIMARY
+	BackgroundColor $LIGHT-black
+}
+!endsub
+
+!startsub collections
+
+skinparam collections {
+	$primary_scheme()
+}
+!endsub
+
+!startsub control
+
+skinparam control {
+	$primary_scheme()
+	FontColor $DARK
+}
+!endsub
+
+!startsub entity
+
+skinparam entity {
+	$primary_scheme()
+	FontColor $DARK
+}
+!endsub
+
+!startsub boundary
+
+skinparam boundary {
+	$primary_scheme()
+	FontColor $DARK
+}
+!endsub
+
+!startsub agent
+
+skinparam agent {
+	BackgroundColor $WARNING_LIGHT-$WARNING
+	BorderColor $WARNING_LIGHT
+	FontColor $DARK
+}
+!endsub
+
+!startsub note
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor $INFO_LIGHT-$INFO_DARK
+	BorderColor $INFO_DARK
+	FontColor $WHITE
+}
+!endsub
+
+!startsub artifact
+
+skinparam artifact {
+	BackgroundColor $DARK
+	BorderColor white
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub component
+
+skinparam component {
+	$primary_scheme()
+}
+!endsub
+
+!startsub interface
+
+skinparam interface {
+	BackgroundColor  $DANGER_LIGHT-$DANGER
+	BorderColor  $DANGER_LIGHT
+	FontColor $DARK
+}
+!endsub
+
+!startsub storage
+
+skinparam storage {
+	BackgroundColor $WARNING_LIGHT-$WARNING
+  	BorderColor $WARNING_LIGHT
+	FontColor $WARNING_TEXT
+}
+!endsub
+
+!startsub node
+
+skinparam node {
+	BackgroundColor  $LIGHT-black
+	BorderColor $PRIMARY_LIGHT
+	FontColor $DARK
+}
+!endsub
+
+!startsub cloud
+
+skinparam cloud {
+	BackgroundColor $LIGHT-black
+	BorderColor $LIGHT
+	FontColor $DARK
+}
+!endsub
+
+!startsub database
+
+skinparam database {
+	BackgroundColor  $LIGHT-black
+	BorderColor $PRIMARY_LIGHT
+	FontColor $DARK
+}
+!endsub
+
+!startsub class
+
+skinparam class {
+	$primary_scheme()
+	HeaderBackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	StereotypeFontColor $DARK
+	BorderThickness 1
+	AttributeFontColor $LIGHT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub object
+
+skinparam object {
+	$primary_scheme()
+	StereotypeFontColor $DARK
+	BorderThickness 1
+	AttributeFontColor $LIGHT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub usecase
+
+skinparam usecase {
+	$primary_scheme()
+	BorderThickness 2
+	StereotypeFontColor $PRIMARY
+}
+!endsub
+
+!startsub rectangle
+
+skinparam rectangle {
+	BackgroundColor $BGCOLOR
+	BorderColor $PRIMARY
+	BorderThickness 2
+	FontColor $PRIMARY_DARK
+	StereotypeFontColor $PRIMARY
+}
+!endsub
+
+!startsub package
+
+skinparam package {
+	BackgroundColor $LIGHT
+  	BorderColor $PRIMARY
+	FontColor $PRIMARY
+	BorderThickness 2
+}
+!endsub
+
+!startsub folder
+
+skinparam folder {
+	BackgroundColor $LIGHT-black
+  	BorderColor $WARNING
+	FontColor $WARNING
+	BorderThickness 2
+}
+!endsub
+
+!startsub frame
+
+skinparam frame {
+	BackgroundColor $LIGHT-black
+  	BorderColor $INFO
+	FontColor $INFO
+	BorderThickness 2
+}
+!endsub
+
+!startsub state
+
+skinparam state {
+	$primary_scheme()
+	StartColor $INFO
+	EndColor $INFO
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub queue
+
+skinparam queue {
+	$primary_scheme()
+}
+!endsub
+
+!startsub card
+
+skinparam card {
+	BackgroundColor $INFO_LIGHT-$INFO
+	BorderColor $INFO_LIGHT
+	FontColor $INFO_TEXT
+}
+!endsub
+
+!startsub file
+
+skinparam file {
+	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
+	BorderColor $SECONDARY_LIGHT
+	FontColor $DARK
+}
+!endsub
+
+!startsub stack
+
+skinparam stack {
+	$primary_scheme()
+}
+!endsub
+
+!if %variable_exists("NEWSTYLE")
+<style>
+wbsDiagram {
+    LineColor $PRIMARY
+    BorderThickness 3
+    BackgroundColor $LIGHT-black
+    FontColor $PRIMARY
+    :depth(0) {
+        fontSize 16
+        fontStyle bold
+        fontColor $SECONDARY
+    }
+    :depth(1) {
+        fontSize 14
+        padding 5
+        fontStyle bold
+    }
+    :depth(2) {
+        fontSize 12
+        padding 4
+    }
+    :depth(3) {
+        fontSize 11
+        padding 3
+        fontColor $INFO
+    }
+
+}
+</style>
+
+<style>
+mindmapDiagram {
+    LineColor $PRIMARY
+    BorderThickness 3
+    BackgroundColor $LIGHT-black
+    FontColor $PRIMARY
+    :depth(0) {
+        fontSize 16
+        fontStyle bold
+        fontColor $SECONDARY
+    }
+    :depth(1) {
+        fontSize 14
+        padding 5
+        fontStyle bold
+    }
+    :depth(2) {
+        fontSize 12
+        padding 4
+    }
+    :depth(3) {
+        fontSize 11
+        padding 3
+        fontColor $INFO
+    }
+
+}
+</style>
+!endif
+
+
+!if %variable_exists("$THEME")
+title Object Diagram - $THEME theme
+!else
+title Object Diagram
+!endif
+
+'skinparam BackgroundColor transparent
+
+object Object01
+object Object02
+object Object03
+object Object04
+object Object05
+object Object06
+object Object07
+object Object08
+Object08 : name = "Dummy"
+Object08 : id = 123
+
+Object01 <|- - Object02
+Object03 *- - Object04
+Object05 o- - "4" Object06
+Object07 .. Object08 : some labels
+
+@enduml
+
 @startuml
 
 
 
-skinparam backgroundColor black
+skinparam backgroundColor transparent
 skinparam useBetaStyle true
 
 
@@ -100,10 +587,10 @@ skinparam arrow {
 skinparam sequence {
 	BorderColor #b5e853
 	TitleFontColor #b5e853
-	BackgroundColor black
+	BackgroundColor transparent
 	StartColor #b5e853
 	EndColor #b5e853
-	BoxBackgroundColor black
+	BoxBackgroundColor transparent
 	BoxBorderColor #eaeaea
 	BoxFontColor $DARk
 	LifeLineBorderColor #6a9fb5
@@ -259,7 +746,7 @@ skinparam usecase {
 
 
 skinparam rectangle {
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #b5e853
 	BorderThickness 2
 	FontColor #6d8b32
@@ -352,13 +839,11 @@ Object07 .. Object08 : some labels
 
 @enduml
 
-PlantUML version 1.2020.08(Sun Apr 26 07:08:22 PDT 2020)
+PlantUML version 1.2021.01(Mon Feb 01 23:55:08 PST 2021)
 (GPL source distribution)
-Java Runtime: Java(TM) SE Runtime Environment
-JVM: Java HotSpot(TM) 64-Bit Server VM
-Java Version: 1.8.0_251-b32
-Operating System: Windows 10
-Default Encoding: Cp1252
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
 Language: en
 Country: US
 --></g></svg>

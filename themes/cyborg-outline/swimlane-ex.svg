@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="439.5833px" preserveAspectRatio="none" style="width:605px;height:439px;background:#000000;" version="1.1" viewBox="0 0 605 439" width="605.2083px" zoomAndPan="magnify"><defs><linearGradient id="g9vt3highil130" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#444444"/><stop offset="100%" stop-color="#555555"/></linearGradient></defs><g><rect fill="#000000" height="46.1528" rx="4.1667" ry="4.1667" style="stroke:#777777;stroke-width:1.0416666666666667;" width="475" x="63.5417" y="12.5"/><text fill="#2A9FD6" font-family="Verdana" font-size="20.8333" lengthAdjust="spacing" textLength="447.9167" x="77.0833" y="43.8619">Swimlane Diagram - cyborg-outline theme</text><rect fill="url(#g9vt3highil130)" height="25.6083" style="stroke:url(#g9vt3highil130);stroke-width:1.0416666666666667;" width="570.8333" x="15.625" y="62.8194"/><ellipse cx="106.7708" cy="104.0527" fill="#9933CC" rx="10.4167" ry="10.4167" style="stroke:none;stroke-width:1.0416666666666667;"/><rect fill="#000000" height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#55B2DE;stroke-width:1.5625;" width="169.7917" x="21.875" y="135.3027"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="138.5417" x="37.5" y="163.4949">Do something in First</text><rect fill="#000000" height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#55B2DE;stroke-width:1.5625;" width="153.125" x="30.2083" y="202.5777"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="121.875" x="45.8333" y="230.7699">Do something else</text><line style="stroke:#9933CC;stroke-width:2.0833333333333335;" x1="15.625" x2="15.625" y1="62.8194" y2="427.3193"/><rect fill="#000000" height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#55B2DE;stroke-width:1.5625;" width="189.5833" x="202.0833" y="269.8527"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="158.3333" x="217.7083" y="298.0448">Do something in Second</text><line style="stroke:#9933CC;stroke-width:2.0833333333333335;" x1="195.8333" x2="195.8333" y1="62.8194" y2="427.3193"/><rect fill="#000000" height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#55B2DE;stroke-width:1.5625;" width="173.9583" x="402.0833" y="337.1277"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="142.7083" x="417.7083" y="365.3198">Do something in Third</text><ellipse cx="489.0625" cy="415.861" fill="#000000" rx="11.4583" ry="11.4583" style="stroke:#9933CC;stroke-width:1.0416666666666667;"/><ellipse cx="489.0625" cy="415.861" fill="#9933CC" rx="6.25" ry="6.25" style="stroke:#4C1966;stroke-width:1.0416666666666667;"/><line style="stroke:#9933CC;stroke-width:2.0833333333333335;" x1="395.8333" x2="395.8333" y1="62.8194" y2="427.3193"/><line style="stroke:#9933CC;stroke-width:2.0833333333333335;" x1="580.2083" x2="580.2083" y1="62.8194" y2="427.3193"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="106.7708" x2="106.7708" y1="114.4694" y2="135.3027"/><polygon fill="#2A9FD6" points="102.6042,124.8861,106.7708,135.3027,110.9375,124.8861,106.7708,129.0527" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="106.7708" x2="106.7708" y1="181.7444" y2="202.5777"/><polygon fill="#2A9FD6" points="102.6042,192.1611,106.7708,202.5777,110.9375,192.1611,106.7708,196.3277" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="489.0625" x2="489.0625" y1="383.5693" y2="404.4027"/><polygon fill="#2A9FD6" points="484.8958,393.986,489.0625,404.4027,493.2292,393.986,489.0625,398.1527" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="106.7708" x2="106.7708" y1="249.0194" y2="254.2277"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="106.7708" x2="296.875" y1="254.2277" y2="254.2277"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="296.875" x2="296.875" y1="254.2277" y2="269.8527"/><polygon fill="#2A9FD6" points="292.7083,259.436,296.875,269.8527,301.0417,259.436,296.875,263.6027" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="296.875" x2="296.875" y1="316.2944" y2="321.5027"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="296.875" x2="489.0625" y1="321.5027" y2="321.5027"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="489.0625" x2="489.0625" y1="321.5027" y2="337.1277"/><polygon fill="#2A9FD6" points="484.8958,326.711,489.0625,337.1277,493.2292,326.711,489.0625,330.8777" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="94.7917" x="58.3333" y="80.5949">First Swimlane</text><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="114.5833" x="238.5417" y="80.5949">Second Swimlane</text><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="98.9583" x="438.5417" y="80.5949">Third Swimlane</text><!--MD5=[508c999ab8eeff76793cc580c7c7cd1d]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="439.5833px" preserveAspectRatio="none" style="width:605px;height:439px;background:#00000000;" version="1.1" viewBox="0 0 605 439" width="605.2083px" zoomAndPan="magnify"><defs><linearGradient id="g15ep5glsmyfq40" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#444444"/><stop offset="100%" stop-color="#555555"/></linearGradient></defs><g><rect height="46.1528" rx="4.1667" ry="4.1667" style="stroke:#777777;stroke-width:1.0416666666666667;fill:none;" width="475" x="63.5417" y="12.5"/><text fill="#2A9FD6" font-family="Verdana" font-size="20.8333" lengthAdjust="spacing" textLength="447.9167" x="77.0833" y="43.8619">Swimlane Diagram - cyborg-outline theme</text><rect fill="url(#g15ep5glsmyfq40)" height="25.6083" style="stroke:url(#g15ep5glsmyfq40);stroke-width:1.0416666666666667;" width="570.8333" x="15.625" y="62.8194"/><ellipse cx="106.7708" cy="104.0527" fill="#9933CC" rx="10.4167" ry="10.4167" style="stroke:none;stroke-width:1.0416666666666667;"/><rect height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#55B2DE;stroke-width:1.5625;fill:none;" width="169.7917" x="21.875" y="135.3027"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="138.5417" x="37.5" y="163.4949">Do something in First</text><rect height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#55B2DE;stroke-width:1.5625;fill:none;" width="153.125" x="30.2083" y="202.5777"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="121.875" x="45.8333" y="230.7699">Do something else</text><line style="stroke:#9933CC;stroke-width:2.0833333333333335;" x1="15.625" x2="15.625" y1="62.8194" y2="427.3193"/><rect height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#55B2DE;stroke-width:1.5625;fill:none;" width="189.5833" x="202.0833" y="269.8527"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="158.3333" x="217.7083" y="298.0448">Do something in Second</text><line style="stroke:#9933CC;stroke-width:2.0833333333333335;" x1="195.8333" x2="195.8333" y1="62.8194" y2="427.3193"/><rect height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#55B2DE;stroke-width:1.5625;fill:none;" width="173.9583" x="402.0833" y="337.1277"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="142.7083" x="417.7083" y="365.3198">Do something in Third</text><ellipse cx="489.0625" cy="415.861" rx="11.4583" ry="11.4583" style="stroke:#9933CC;stroke-width:1.0416666666666667;fill:none;"/><ellipse cx="489.0625" cy="415.861" fill="#9933CC" rx="6.25" ry="6.25" style="stroke:#4C1966;stroke-width:1.0416666666666667;"/><line style="stroke:#9933CC;stroke-width:2.0833333333333335;" x1="395.8333" x2="395.8333" y1="62.8194" y2="427.3193"/><line style="stroke:#9933CC;stroke-width:2.0833333333333335;" x1="580.2083" x2="580.2083" y1="62.8194" y2="427.3193"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="106.7708" x2="106.7708" y1="114.4694" y2="135.3027"/><polygon fill="#2A9FD6" points="102.6042,124.8861,106.7708,135.3027,110.9375,124.8861,106.7708,129.0527" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="106.7708" x2="106.7708" y1="181.7444" y2="202.5777"/><polygon fill="#2A9FD6" points="102.6042,192.1611,106.7708,202.5777,110.9375,192.1611,106.7708,196.3277" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="489.0625" x2="489.0625" y1="383.5693" y2="404.4027"/><polygon fill="#2A9FD6" points="484.8958,393.986,489.0625,404.4027,493.2292,393.986,489.0625,398.1527" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="106.7708" x2="106.7708" y1="249.0194" y2="254.2277"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="106.7708" x2="296.875" y1="254.2277" y2="254.2277"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="296.875" x2="296.875" y1="254.2277" y2="269.8527"/><polygon fill="#2A9FD6" points="292.7083,259.436,296.875,269.8527,301.0417,259.436,296.875,263.6027" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="296.875" x2="296.875" y1="316.2944" y2="321.5027"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="296.875" x2="489.0625" y1="321.5027" y2="321.5027"/><line style="stroke:#2A9FD6;stroke-width:1.5625;" x1="489.0625" x2="489.0625" y1="321.5027" y2="337.1277"/><polygon fill="#2A9FD6" points="484.8958,326.711,489.0625,337.1277,493.2292,326.711,489.0625,330.8777" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="94.7917" x="58.3333" y="80.5949">First Swimlane</text><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="114.5833" x="238.5417" y="80.5949">Second Swimlane</text><text fill="#2A9FD6" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="98.9583" x="438.5417" y="80.5949">Third Swimlane</text><!--MD5=[8632533eaf5292410115c71cec38b51f]
 @startuml
 
 !$THEME = "cyborg-outline"
 
 !if %not(%variable_exists("$BGCOLOR"))
-!$BGCOLOR = "black"
+!$BGCOLOR = "transparent"
 !endif
 
 skinparam backgroundColor $BGCOLOR
@@ -445,7 +445,7 @@ stop
 
 
 
-skinparam backgroundColor black
+skinparam backgroundColor transparent
 
 
 
@@ -480,11 +480,11 @@ skinparam title {
 	FontSize	    	         20
 	BorderRoundCorner            8
 	BorderThickness 	         1
-	BackgroundColor              black
+	BackgroundColor              transparent
 }
 
 skinparam legend {
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #777777
 	FontColor #ADAFAE
 }
@@ -500,11 +500,11 @@ skinparam swimlane {
 skinparam activity {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 	BarColor #77B300
 	StartColor #9933CC
 	EndColor #9933CC
-	DiamondBackgroundColor black
+	DiamondBackgroundColor transparent
   	DiamondBorderColor #777777
   	DiamondFontColor #777777
 }
@@ -513,7 +513,7 @@ skinparam activity {
 skinparam participant {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 	ParticipantBorderThickness 2
 }
 
@@ -521,7 +521,7 @@ skinparam participant {
 skinparam actor {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 	FontColor #2A9FD6
 }
 
@@ -536,50 +536,50 @@ skinparam arrow {
 skinparam sequence {
 	BorderColor #2A9FD6
 	TitleFontColor #2A9FD6
-	BackgroundColor black
+	BackgroundColor transparent
 	StartColor #2A9FD6
 	EndColor #2A9FD6
-	BoxBackgroundColor black
+	BoxBackgroundColor transparent
 	BoxBorderColor #ADAFAE
 	BoxFontColor $DARk
 	LifeLineBorderColor #555
 	LifeLineBorderThickness 2
-	LifeLineBackgroundColor black
+	LifeLineBackgroundColor transparent
 	GroupBorderColor #ADAFAE
 	GroupFontColor #ADAFAE
 	GroupHeaderFontColor #9933CC
-	GroupBackgroundColor black
-	GroupHeaderBackgroundColor black
-	DividerBackgroundColor black
+	GroupBackgroundColor transparent
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor transparent
     DividerBorderColor #ADAFAE
     DividerBorderThickness 2
     DividerFontColor #ADAFAE
-	ReferenceBackgroundColor black
+	ReferenceBackgroundColor transparent
 	ReferenceBorderColor #ADAFAE
 	ReferenceFontColor #ADAFAE
 	ReferenceHeaderFontColor #9933CC
-	ReferenceHeaderBackgroundColor black
+	ReferenceHeaderBackgroundColor transparent
 }
 
 
 skinparam partition {
 	BorderColor #2A9FD6
 	FontColor #2A9FD6
-	BackgroundColor black
+	BackgroundColor transparent
 }
 
 
 skinparam collections {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 }
 
 
 skinparam control {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 	FontColor #2A9FD6
 }
 
@@ -587,7 +587,7 @@ skinparam control {
 skinparam entity {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 	FontColor #2A9FD6
 }
 
@@ -595,13 +595,13 @@ skinparam entity {
 skinparam boundary {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 	FontColor #2A9FD6
 }
 
 
 skinparam agent {
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #cc6d00
 	FontColor #ADAFAE
 }
@@ -609,14 +609,14 @@ skinparam agent {
 
 skinparam note {
 	BorderThickness 1
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #AD5CD6
 	FontColor #AD5CD6
 }
 
 
 skinparam artifact {
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #BDBFBE
 	FontColor #BDBFBE
 }
@@ -625,33 +625,33 @@ skinparam artifact {
 skinparam component {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 }
 
 
 skinparam interface {
-	BackgroundColor  black
+	BackgroundColor  transparent
 	BorderColor  #CC0000
 	FontColor #ADAFAE
 }
 
 
 skinparam storage {
-	BackgroundColor black
+	BackgroundColor transparent
   	BorderColor #FFA033
 	FontColor #FF8800
 }
 
 
 skinparam node {
-	BackgroundColor  black
+	BackgroundColor  transparent
 	BorderColor #ADAFAE
 	FontColor #ADAFAE
 }
 
 
 skinparam cloud {
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #F2FCFE
 	FontColor #ADAFAE
 }
@@ -660,7 +660,7 @@ skinparam cloud {
 skinparam database {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 	FontColor #2A9FD6
 }
 
@@ -669,7 +669,7 @@ skinparam database {
 skinparam class {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
         FontColor #222
 	HeaderBackgroundColor #227FAB
 	StereotypeFontColor #ADAFAE
@@ -682,7 +682,7 @@ skinparam class {
 skinparam object {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 	StereotypeFontColor #ADAFAE
 	BorderThickness 1
 	AttributeFontColor #777777
@@ -693,7 +693,7 @@ skinparam object {
 skinparam usecase {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderThickness 2
 	StereotypeFontColor #2A9FD6
 }
@@ -702,14 +702,14 @@ skinparam usecase {
 skinparam rectangle {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderThickness 2
 	StereotypeFontColor #2A9FD6
 }
 
 
 skinparam package {
-	BackgroundColor black
+	BackgroundColor transparent
   	BorderColor #2A9FD6
 	FontColor #2A9FD6
 	BorderThickness 2
@@ -717,7 +717,7 @@ skinparam package {
 
 
 skinparam folder {
-	BackgroundColor black
+	BackgroundColor transparent
   	BorderColor #FF8800
 	FontColor #FF8800
 	BorderThickness 2
@@ -725,7 +725,7 @@ skinparam folder {
 
 
 skinparam frame {
-	BackgroundColor black
+	BackgroundColor transparent
   	BorderColor #9933CC
 	FontColor #9933CC
 	BorderThickness 2
@@ -735,7 +735,7 @@ skinparam frame {
 skinparam state {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 	StartColor #9933CC
 	EndColor #9933CC
 	AttributeFontColor #777777
@@ -746,19 +746,19 @@ skinparam state {
 skinparam queue {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 }
 
 
 skinparam card {
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #9933CC
 	FontColor #9933CC
 }
 
 
 skinparam file {
-	BackgroundColor black
+	BackgroundColor transparent
 	BorderColor #555
 	FontColor #555
 }
@@ -767,7 +767,7 @@ skinparam file {
 skinparam stack {
 		FontColor #2A9FD6
 	BorderColor #55B2DE
-	BackgroundColor black
+	BackgroundColor transparent
 }
 
 title Swimlane Diagram - cyborg-outline theme
