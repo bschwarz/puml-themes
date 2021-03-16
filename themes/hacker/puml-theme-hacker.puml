@@ -11,7 +11,6 @@
 !endif
 
 skinparam backgroundColor $BGCOLOR
-skinparam useBetaStyle true
 
 ''
 '' Colors taken from the _default_colors.scss file for jekyll hacker theme
