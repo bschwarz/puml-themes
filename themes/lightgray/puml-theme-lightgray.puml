@@ -11,6 +11,7 @@
 !endif
 
 skinparam backgroundColor $BGCOLOR
+skinparam useBetaStyle false
 
 !$WHITE = "#FFF"
 !$GRAY_DARK = "#4d4d4d"

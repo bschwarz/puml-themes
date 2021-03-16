@@ -9,6 +9,7 @@
 !endif
 
 skinparam backgroundColor $BGCOLOR
+skinparam useBetaStyle false
 
 
 skinparam  {

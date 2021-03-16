@@ -5,7 +5,7 @@ entity clerk--><ellipse cx="398.9583" cy="196.1528" fill="none" rx="8.3333" ry="
 link customer to checkout--><path d="M126.7708,231.5694 C145.8125,231.5694 169.9792,231.5694 191.9583,231.5694 " fill="none" id="customer-checkout" style="stroke:#2A9FD6;stroke-width:3.125;"/><!--MD5=[3ad5c6d5c608bfd6b87dc9c07c40a15f]
 link checkout to payment--><path d="M252.6042,210.0694 C252.6042,193.3611 252.6042,170.1007 252.6042,152.1632 " fill="none" id="checkout-to-payment" style="stroke:#2A9FD6;stroke-width:3.125;stroke-dasharray:7.0,7.0;"/><polygon fill="#2A9FD6" points="252.6042,146.7882,248.4375,156.1632,252.6042,151.9965,256.7708,156.1632,252.6042,146.7882" style="stroke:#2A9FD6;stroke-width:3.125;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="45.8333" x="213.0208" y="183.7199">include</text><!--MD5=[739e7928149c8fe27c2b5850560351c7]
 link help to checkout--><path d="M252.6042,316.3194 C252.6042,299.6111 252.6042,276.3507 252.6042,258.4132 " fill="none" id="help-to-checkout" style="stroke:#2A9FD6;stroke-width:3.125;stroke-dasharray:7.0,7.0;"/><polygon fill="#2A9FD6" points="252.6042,253.0382,248.4375,262.4132,252.6042,258.2465,256.7708,262.4132,252.6042,253.0382" style="stroke:#2A9FD6;stroke-width:3.125;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="53.125" x="209.375" y="289.9699">extends</text><!--MD5=[b4c4ee8f2d94c159d2b9e04bd372cbe0]
-link checkout to clerk--><path d="M313.1563,231.5694 C336.4479,231.5694 361.5417,231.5694 378.3333,231.5694 " fill="none" id="checkout-clerk" style="stroke:#2A9FD6;stroke-width:3.125;"/><rect height="36.025" rx="5.2083" ry="5.2083" style="stroke:#777777;stroke-width:1.0416666666666667;fill:none;" width="135.4167" x="163.0208" y="389.9028"/><text fill="#ADAFAE" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="112.5" x="174.4792" y="412.8866">This is my legend</text><!--MD5=[f5a840acf5b0a370759a9910fd05ec7c]
+link checkout to clerk--><path d="M313.1563,231.5694 C336.4479,231.5694 361.5417,231.5694 378.3333,231.5694 " fill="none" id="checkout-clerk" style="stroke:#2A9FD6;stroke-width:3.125;"/><rect height="36.025" rx="5.2083" ry="5.2083" style="stroke:#777777;stroke-width:1.0416666666666667;fill:none;" width="135.4167" x="163.0208" y="389.9028"/><text fill="#ADAFAE" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="112.5" x="174.4792" y="412.8866">This is my legend</text><!--MD5=[2d1402f79820cd00f245492c6bdfe3e2]
 @startuml
 
 !$THEME = "cyborg-outline"
@@ -15,6 +15,7 @@ link checkout to clerk--><path d="M313.1563,231.5694 C336.4479,231.5694 361.5417
 !endif
 
 skinparam backgroundColor $BGCOLOR
+skinparam useBetaStyle false
 
 !$BLUE = "#2A9FD6"
 !$INDIGO = "#6610f2"
@@ -457,6 +458,7 @@ rectangle checkout {
 
 
 skinparam backgroundColor transparent
+skinparam useBetaStyle false
 
 
 

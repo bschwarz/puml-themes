@@ -36,7 +36,7 @@ link MyCollection2 to My Queue--><!--MD5=[0babb46f3d0f67f91c828a5eda35ab7d]
 link My Queue to My Interface--><!--MD5=[9bfee3aea78949ae207e8bd3b67fed50]
 link My Interface to My Card--><!--MD5=[afe9315598834b0b9f57a7a5b2c7ee2a]
 link My Queue to My File--><!--MD5=[f6296be58d13482500ae3b999db2843f]
-link My File to My Stack--><!--MD5=[9876316690fb07fab562f015be191164]
+link My File to My Stack--><!--MD5=[451debe336ec9b51b1490e902f7891dc]
 @startuml
 
 !$THEME = "superhero-outline"
@@ -46,6 +46,7 @@ link My File to My Stack--><!--MD5=[9876316690fb07fab562f015be191164]
 !endif
 
 skinparam backgroundColor $BGCOLOR
+skinparam useBetaStyle false
 
 !$BLUE = "#DF691A"
 !$INDIGO = "#6610f2"
@@ -515,6 +516,7 @@ stack "My Stack"
 
 
 skinparam backgroundColor transparent
+skinparam useBetaStyle false
 
 
 

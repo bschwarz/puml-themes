@@ -12,6 +12,7 @@
 !endif
 
 skinparam backgroundColor $BGCOLOR
+skinparam useBetaStyle false
 
 ''
 '' Colors taken from the css file of the BS theme

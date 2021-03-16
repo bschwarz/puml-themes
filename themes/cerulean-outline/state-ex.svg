@@ -14,7 +14,7 @@ link fork_state to State3--><path d="M236.5104,149.6944 C242.1667,159.0694 258.0
 link State2 to join_state--><path d="M195.7292,269.434 C207.2917,288.9653 221.9479,313.7048 229.4479,326.3819 " fill="none" id="State2-to-join_state" style="stroke:#2FA4E7;stroke-width:3.125;"/><polygon fill="#2FA4E7" points="232.1979,331.0278,230.9873,320.8402,229.5358,326.5512,223.8248,325.0996,232.1979,331.0278" style="stroke:#2FA4E7;stroke-width:3.125;"/><!--MD5=[183fde86cac17ac230b97143534e47db]
 link State3 to join_state--><path d="M273.75,269.434 C261.9688,288.9653 247.0417,313.7048 239.3854,326.3819 " fill="none" id="State3-to-join_state" style="stroke:#2FA4E7;stroke-width:3.125;"/><polygon fill="#2FA4E7" points="236.5938,331.0278,245.0044,325.1531,239.2843,326.5682,237.8692,320.8481,236.5938,331.0278" style="stroke:#2FA4E7;stroke-width:3.125;"/><!--MD5=[1e473d623208eebf6d5ebd6e9bc5a11d]
 link join_state to State4--><path d="M234.375,340.3194 C234.375,349.5798 234.375,375.2882 234.375,396.8194 " fill="none" id="join_state-to-State4" style="stroke:#2FA4E7;stroke-width:3.125;"/><polygon fill="#2FA4E7" points="234.375,402.184,238.5417,392.809,234.375,396.9757,230.2083,392.809,234.375,402.184" style="stroke:#2FA4E7;stroke-width:3.125;"/><!--MD5=[0a70b1a7cf318979336334b4227eefe4]
-link State4 to Active--><path d="M234.375,459.8298 C234.375,474.3923 234.375,493.8715 234.375,516.3298 " fill="none" id="State4-to-Active" style="stroke:#2FA4E7;stroke-width:3.125;"/><polygon fill="#2FA4E7" points="234.375,521.7778,238.5417,512.4028,234.375,516.5694,230.2083,512.4028,234.375,521.7778" style="stroke:#2FA4E7;stroke-width:3.125;"/><!--MD5=[c672137e9908b9eddca7543e53a5af6e]
+link State4 to Active--><path d="M234.375,459.8298 C234.375,474.3923 234.375,493.8715 234.375,516.3298 " fill="none" id="State4-to-Active" style="stroke:#2FA4E7;stroke-width:3.125;"/><polygon fill="#2FA4E7" points="234.375,521.7778,238.5417,512.4028,234.375,516.5694,230.2083,512.4028,234.375,521.7778" style="stroke:#2FA4E7;stroke-width:3.125;"/><!--MD5=[fac54a26ec9d4cdc7ce4ec6ede128243]
 @startuml
 
 !$THEME = "cerulean-outline"
@@ -24,6 +24,7 @@ link State4 to Active--><path d="M234.375,459.8298 C234.375,474.3923 234.375,493
 !endif
 
 skinparam backgroundColor $BGCOLOR
+skinparam useBetaStyle false
 
 !$BLUE = "#033C73"
 !$INDIGO = "#6610F2"
@@ -494,6 +495,7 @@ state Active {
 
 
 skinparam backgroundColor transparent
+skinparam useBetaStyle false
 
 
 

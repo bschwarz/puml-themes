@@ -14,7 +14,7 @@ link fork_state to State3--><path d="M226.0938,149.6944 C231.75,159.0694 247.593
 link State2 to join_state--><path d="M185.3125,269.434 C196.875,288.9653 211.5313,313.7048 219.0313,326.3819 " fill="none" id="State2-to-join_state" style="stroke:#2A9FD6;stroke-width:3.125;"/><polygon fill="#2A9FD6" points="221.7813,331.0278,220.5706,320.8402,219.1191,326.5512,213.4081,325.0996,221.7813,331.0278" style="stroke:#2A9FD6;stroke-width:3.125;"/><!--MD5=[183fde86cac17ac230b97143534e47db]
 link State3 to join_state--><path d="M263.3333,269.434 C251.5521,288.9653 236.625,313.7048 228.9688,326.3819 " fill="none" id="State3-to-join_state" style="stroke:#2A9FD6;stroke-width:3.125;"/><polygon fill="#2A9FD6" points="226.1771,331.0278,234.5878,325.1531,228.8677,326.5682,227.4525,320.8481,226.1771,331.0278" style="stroke:#2A9FD6;stroke-width:3.125;"/><!--MD5=[1e473d623208eebf6d5ebd6e9bc5a11d]
 link join_state to State4--><path d="M223.9583,340.3194 C223.9583,349.5798 223.9583,375.2882 223.9583,396.8194 " fill="none" id="join_state-to-State4" style="stroke:#2A9FD6;stroke-width:3.125;"/><polygon fill="#2A9FD6" points="223.9583,402.184,228.125,392.809,223.9583,396.9757,219.7917,392.809,223.9583,402.184" style="stroke:#2A9FD6;stroke-width:3.125;"/><!--MD5=[0a70b1a7cf318979336334b4227eefe4]
-link State4 to Active--><path d="M223.9583,459.8298 C223.9583,474.3923 223.9583,493.8715 223.9583,516.3298 " fill="none" id="State4-to-Active" style="stroke:#2A9FD6;stroke-width:3.125;"/><polygon fill="#2A9FD6" points="223.9583,521.7778,228.125,512.4028,223.9583,516.5694,219.7917,512.4028,223.9583,521.7778" style="stroke:#2A9FD6;stroke-width:3.125;"/><!--MD5=[86c86241e454e416bc40020794ba9819]
+link State4 to Active--><path d="M223.9583,459.8298 C223.9583,474.3923 223.9583,493.8715 223.9583,516.3298 " fill="none" id="State4-to-Active" style="stroke:#2A9FD6;stroke-width:3.125;"/><polygon fill="#2A9FD6" points="223.9583,521.7778,228.125,512.4028,223.9583,516.5694,219.7917,512.4028,223.9583,521.7778" style="stroke:#2A9FD6;stroke-width:3.125;"/><!--MD5=[021d7b598184b09e79a68f79e9e4eeed]
 @startuml
 
 !$THEME = "cyborg-outline"
@@ -24,6 +24,7 @@ link State4 to Active--><path d="M223.9583,459.8298 C223.9583,474.3923 223.9583,
 !endif
 
 skinparam backgroundColor $BGCOLOR
+skinparam useBetaStyle false
 
 !$BLUE = "#2A9FD6"
 !$INDIGO = "#6610f2"
@@ -478,6 +479,7 @@ state Active {
 
 
 skinparam backgroundColor transparent
+skinparam useBetaStyle false
 
 
 

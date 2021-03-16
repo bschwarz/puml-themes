@@ -10,7 +10,7 @@ reverse link List to AbstractList--><path codeLine="15" d="M246.4271,169.6215 C2
 reverse link Collection to AbstractCollection--><path codeLine="16" d="M101.8229,169.2361 C97.3854,194.7673 92.0625,225.4653 88.3646,246.7673 " fill="none" id="Collection-backto-AbstractCollection" style="stroke:#DF691A;stroke-width:3.125;"/><polygon fill="none" points="94.6667,167.7778,105.4167,148.4965,109.0417,170.2778,94.6667,167.7778" style="stroke:#DF691A;stroke-width:3.125;"/><!--MD5=[0159284274f96a472eb2618ad803aaca]
 reverse link Collection to List--><path codeLine="18" d="M181.6458,121.6736 C190.9792,121.6736 200.3229,121.6736 209.6563,121.6736 " fill="none" id="Collection-backto-List" style="stroke:#DF691A;stroke-width:3.125;"/><polygon fill="none" points="181.375,128.9653,160.5417,121.6736,181.375,114.3819,181.375,128.9653" style="stroke:#DF691A;stroke-width:3.125;"/><!--MD5=[7a3a52e8f65ef1a8d8d29530ea5cd870]
 reverse link AbstractCollection to AbstractList--><path codeLine="19" d="M181.75,273.7569 C186.8646,273.7569 191.9792,273.7569 197.0938,273.7569 " fill="none" id="AbstractCollection-backto-AbstractList" style="stroke:#DF691A;stroke-width:3.125;"/><polygon fill="none" points="181.5625,281.0486,160.7292,273.7569,181.5625,266.4653,181.5625,281.0486" style="stroke:#DF691A;stroke-width:3.125;"/><!--MD5=[40e4bb1af59cca28d4643aaff05088cc]
-reverse link AbstractList to ArrayList--><path codeLine="20" d="M255.7292,321.1944 C255.7292,334.5382 255.7292,349.1423 255.7292,362.6736 " fill="none" id="AbstractList-backto-ArrayList" style="stroke:#DF691A;stroke-width:3.125;"/><polygon fill="none" points="248.4375,321.1736,255.7292,300.3403,263.0208,321.1736,248.4375,321.1736" style="stroke:#DF691A;stroke-width:3.125;"/><!--MD5=[ba11f76a44d2a31c086f70f919031bf4]
+reverse link AbstractList to ArrayList--><path codeLine="20" d="M255.7292,321.1944 C255.7292,334.5382 255.7292,349.1423 255.7292,362.6736 " fill="none" id="AbstractList-backto-ArrayList" style="stroke:#DF691A;stroke-width:3.125;"/><polygon fill="none" points="248.4375,321.1736,255.7292,300.3403,263.0208,321.1736,248.4375,321.1736" style="stroke:#DF691A;stroke-width:3.125;"/><!--MD5=[83494cd8b4a5f903b232ccaed6d20f3d]
 @startuml
 
 !$THEME = "superhero-outline"
@@ -20,6 +20,7 @@ reverse link AbstractList to ArrayList--><path codeLine="20" d="M255.7292,321.19
 !endif
 
 skinparam backgroundColor $BGCOLOR
+skinparam useBetaStyle false
 
 !$BLUE = "#DF691A"
 !$INDIGO = "#6610f2"
@@ -474,6 +475,7 @@ annotation SuppressWarnings
 
 
 skinparam backgroundColor transparent
+skinparam useBetaStyle false
 
 
 

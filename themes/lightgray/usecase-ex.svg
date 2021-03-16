@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="448.9583px" preserveAspectRatio="none" style="width:422px;height:448px;background:#00000000;" version="1.1" viewBox="0 0 422 448" width="422.9167px" zoomAndPan="magnify"><defs><linearGradient id="g1ahqsvktl0rol0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#DBDBDB"/><stop offset="100%" stop-color="#D2D2D2"/></linearGradient><linearGradient id="g1ahqsvktl0rol1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#F3F3F3"/><stop offset="100%" stop-color="#E2E2E2"/></linearGradient></defs><g><rect fill="url(#g1ahqsvktl0rol0)" height="56.5694" rx="4.1667" ry="4.1667" style="stroke: #D2D2D2; stroke-width: 1.0416666666666667;" width="409.375" x="2.0833" y="2.0833"/><text fill="#FFFFFF" font-family="Verdana" font-size="20.8333" lengthAdjust="spacingAndGlyphs" textLength="371.875" x="20.8333" y="38.6536">Usecase Diagram - lightgray theme</text><!--MD5=[111002b242a260edbcaabc3e471064d0]
-cluster checkout--><rect fill="#00000000" height="309.375" rx="7.8125" ry="7.8125" style="stroke: #F3F3F3; stroke-width: 2.0833333333333335;" width="98.9583" x="179.1667" y="69.0694"/><text fill="#336699" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="61.4583" x="197.9167" y="94.1366">checkout</text><ellipse cx="228.3971" cy="245.2991" fill="url(#g1ahqsvktl0rol1)" rx="36.7304" ry="18.4172" style="stroke: #F3F3F3; stroke-width: 2.0833333333333335;"/><text fill="#336699" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="58.3333" x="199.2304" y="249.2491">checkout</text><ellipse cx="228.8777" cy="134.8277" fill="url(#g1ahqsvktl0rol1)" rx="36.1694" ry="18.3624" style="stroke: #F3F3F3; stroke-width: 2.0833333333333335;"/><text fill="#336699" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="57.2917" x="200.2319" y="138.7776">payment</text><ellipse cx="228.9029" cy="353.2598" fill="url(#g1ahqsvktl0rol1)" rx="20.5696" ry="15.9613" style="stroke: #F3F3F3; stroke-width: 2.0833333333333335;"/><text fill="#336699" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="28.125" x="214.8404" y="357.2098">help</text><!--MD5=[92848cbaf65985a669855153c5362c37]
-entity customer--><ellipse cx="83.3333" cy="204.4861" fill="url(#g1ahqsvktl0rol1)" rx="8.3333" ry="8.3333" style="stroke: #F3F3F3; stroke-width: 1.5625;"/><path d="M83.3333,212.8194 L83.3333,240.9444 M69.7917,221.1528 L96.875,221.1528 M83.3333,240.9444 L69.7917,256.5694 M83.3333,240.9444 L96.875,256.5694 " fill="none" style="stroke: #F3F3F3; stroke-width: 1.5625;"/><text fill="#336699" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="60.4167" x="53.125" y="282.1574">customer</text><!--MD5=[ebeabf449828f4e0b33bbb47961e644b]
-entity clerk--><ellipse cx="358.8542" cy="204.4861" fill="url(#g1ahqsvktl0rol1)" rx="8.3333" ry="8.3333" style="stroke: #F3F3F3; stroke-width: 1.5625;"/><path d="M358.8542,212.8194 L358.8542,240.9444 M345.3125,221.1528 L372.3958,221.1528 M358.8542,240.9444 L345.3125,256.5694 M358.8542,240.9444 L372.3958,256.5694 " fill="none" style="stroke: #F3F3F3; stroke-width: 1.5625;"/><text fill="#336699" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="30.2083" x="343.75" y="282.1574">clerk</text><!--MD5=[852381a7bb976b86080137fb6d718ea9]
-link customer to checkout--><path d="M124.1977,245.1111 C145.3518,245.1111 170.9848,245.1111 191.5631,245.1111 " fill="none" id="customer-checkout" style="stroke: #E2E2E2; stroke-width: 3.125;"/><!--MD5=[3ad5c6d5c608bfd6b87dc9c07c40a15f]
-link checkout to payment--><path d="M228.6458,226.8781 C228.6458,208.0979 228.6458,178.7531 228.6458,158.231 " fill="none" id="checkout-&gt;payment" style="stroke: #E2E2E2; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><polygon fill="#E2E2E2" points="228.6458,152.9545,224.4792,162.3295,228.6458,158.1629,232.8125,162.3295,228.6458,152.9545" style="stroke: #E2E2E2; stroke-width: 3.125;"/><text fill="#303030" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="45.8333" x="183.8542" y="195.1782">include</text><!--MD5=[739e7928149c8fe27c2b5850560351c7]
-link help to checkout--><path d="M228.6458,336.9909 C228.6458,318.8428 228.6458,289.482 228.6458,268.8455 " fill="none" id="help-&gt;checkout" style="stroke: #E2E2E2; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><polygon fill="#E2E2E2" points="228.6458,263.5363,224.4792,272.9113,228.6458,268.7446,232.8125,272.9113,228.6458,263.5363" style="stroke: #E2E2E2; stroke-width: 3.125;"/><text fill="#303030" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="53.125" x="180.2083" y="305.5949">extends</text><!--MD5=[b4c4ee8f2d94c159d2b9e04bd372cbe0]
-link checkout to clerk--><path d="M265.9583,245.1111 C287.4509,245.1111 313.9183,245.1111 333.0964,245.1111 " fill="none" id="checkout-clerk" style="stroke: #E2E2E2; stroke-width: 3.125;"/><rect fill="#E2E2E2" height="46.4417" rx="5.2083" ry="5.2083" style="stroke: #888888; stroke-width: 1.0416666666666667;" width="145.8333" x="133.8542" y="391.9861"/><text fill="#336699" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="112.5" x="150.5208" y="420.1782">This is my legend</text><!--MD5=[70bac7968879679fc624f0443e7fe857]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="537.5px" preserveAspectRatio="none" style="width:421px;height:537px;background:#00000000;" version="1.1" viewBox="0 0 421 537" width="421.875px" zoomAndPan="magnify"><defs><linearGradient id="gv30ewbjkbt1w0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#DBDBDB"/><stop offset="100%" stop-color="#D2D2D2"/></linearGradient><linearGradient id="gv30ewbjkbt1w1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#F3F3F3"/><stop offset="100%" stop-color="#E2E2E2"/></linearGradient></defs><g><rect fill="url(#gv30ewbjkbt1w0)" height="56.5694" rx="4.1667" ry="4.1667" style="stroke:#D2D2D2;stroke-width:1.0416666666666667;" width="409.375" x="2.0833" y="2.0833"/><text fill="#FFFFFF" font-family="Verdana" font-size="20.8333" lengthAdjust="spacing" textLength="371.875" x="20.8333" y="38.6536">Usecase Diagram - lightgray theme</text><!--MD5=[111002b242a260edbcaabc3e471064d0]
+cluster checkout--><rect height="392.7083" rx="7.8125" ry="7.8125" style="stroke:#F3F3F3;stroke-width:2.0833333333333335;fill:none;" width="168.75" x="144.2708" y="69.0694"/><text fill="#336699" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="61.4583" x="197.9167" y="94.1366">checkout</text><ellipse cx="228.8806" cy="284.6471" fill="url(#gv30ewbjkbt1w1)" rx="67.9431" ry="28.5985" style="stroke:#F3F3F3;stroke-width:2.0833333333333335;"/><text fill="#336699" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="58.3333" x="199.714" y="287.5351">checkout</text><ellipse cx="228.6649" cy="153.3971" fill="url(#gv30ewbjkbt1w1)" rx="67.2066" ry="28.5985" style="stroke:#F3F3F3;stroke-width:2.0833333333333335;"/><text fill="#336699" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="57.2917" x="200.0191" y="156.2851">payment</text><ellipse cx="228.8743" cy="415.8971" fill="url(#gv30ewbjkbt1w1)" rx="46.5826" ry="28.5985" style="stroke:#F3F3F3;stroke-width:2.0833333333333335;"/><text fill="#336699" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="28.125" x="214.8118" y="418.7851">help</text><!--MD5=[92848cbaf65985a669855153c5362c37]
+entity customer--><ellipse cx="54.6875" cy="244.0694" fill="url(#gv30ewbjkbt1w1)" rx="8.3333" ry="8.3333" style="stroke:#F3F3F3;stroke-width:1.5625;"/><path d="M54.6875,252.4028 L54.6875,280.5278 M41.1458,260.7361 L68.2292,260.7361 M54.6875,280.5278 L41.1458,296.1528 M54.6875,280.5278 L68.2292,296.1528 " fill="none" style="stroke:#F3F3F3;stroke-width:1.5625;"/><text fill="#336699" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="60.4167" x="24.4792" y="321.7407">customer</text><!--MD5=[ebeabf449828f4e0b33bbb47961e644b]
+entity clerk--><ellipse cx="387.5" cy="244.0694" fill="url(#gv30ewbjkbt1w1)" rx="8.3333" ry="8.3333" style="stroke:#F3F3F3;stroke-width:1.5625;"/><path d="M387.5,252.4028 L387.5,280.5278 M373.9583,260.7361 L401.0417,260.7361 M387.5,280.5278 L373.9583,296.1528 M387.5,280.5278 L401.0417,296.1528 " fill="none" style="stroke:#F3F3F3;stroke-width:1.5625;"/><text fill="#336699" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="30.2083" x="372.3958" y="321.7407">clerk</text><!--MD5=[852381a7bb976b86080137fb6d718ea9]
+link customer to checkout--><path d="M95.5938,284.6944 C114.9271,284.6944 138.6875,284.6944 160.6875,284.6944 " fill="none" id="customer-checkout" style="stroke:#E2E2E2;stroke-width:3.125;"/><!--MD5=[3ad5c6d5c608bfd6b87dc9c07c40a15f]
+link checkout to payment--><path d="M228.6458,255.8923 C228.6458,235.7153 228.6458,208.684 228.6458,187.4444 " fill="none" id="checkout-to-payment" style="stroke:#E2E2E2;stroke-width:3.125;stroke-dasharray:7.0,7.0;"/><polygon fill="#E2E2E2" points="228.6458,182.184,224.4792,191.559,228.6458,187.3923,232.8125,191.559,228.6458,182.184" style="stroke:#E2E2E2;stroke-width:3.125;"/><text fill="#303030" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="45.8333" x="183.8542" y="224.3449">include</text><!--MD5=[739e7928149c8fe27c2b5850560351c7]
+link help to checkout--><path d="M228.6458,387.1423 C228.6458,366.9653 228.6458,339.934 228.6458,318.6944 " fill="none" id="help-to-checkout" style="stroke:#E2E2E2;stroke-width:3.125;stroke-dasharray:7.0,7.0;"/><polygon fill="#E2E2E2" points="228.6458,313.434,224.4792,322.809,228.6458,318.6423,232.8125,322.809,228.6458,313.434" style="stroke:#E2E2E2;stroke-width:3.125;"/><text fill="#303030" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="53.125" x="180.2083" y="355.5949">extends</text><!--MD5=[b4c4ee8f2d94c159d2b9e04bd372cbe0]
+link checkout to clerk--><path d="M296.625,284.6944 C319.7604,284.6944 344.2604,284.6944 361.8125,284.6944 " fill="none" id="checkout-clerk" style="stroke:#E2E2E2;stroke-width:3.125;"/><rect fill="#E2E2E2" height="46.4417" rx="5.2083" ry="5.2083" style="stroke:#888888;stroke-width:1.0416666666666667;" width="145.8333" x="133.8542" y="475.3194"/><text fill="#336699" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="112.5" x="150.5208" y="503.5116">This is my legend</text><!--MD5=[fc04007a5ff7362b5c4ad2d92653928b]
 @startuml
 
 !$THEME = "lightgray"
@@ -15,6 +15,7 @@ link checkout to clerk--><path d="M265.9583,245.1111 C287.4509,245.1111 313.9183
 !endif
 
 skinparam backgroundColor $BGCOLOR
+skinparam useBetaStyle false
 
 !$WHITE = "#FFF"
 !$GRAY_DARK = "#4d4d4d"
@@ -369,7 +370,7 @@ skinparam frame {
 
 skinparam state {
 	$primary_scheme()
-	BorderColor $PRIMARY
+	BorderColor $PRIMARY_DARK
 	StartColor $INFO
 	EndColor $INFO
 	AttributeFontColor $SECONDARY_TEXT
@@ -438,6 +439,7 @@ rectangle checkout {
 
 
 skinparam backgroundColor transparent
+skinparam useBetaStyle false
 
 
 
@@ -723,7 +725,7 @@ skinparam state {
 		FontColor #336699
 	BorderColor #f3f3f3
 	BackgroundColor #f3f3f3-#e2e2e2
-	BorderColor #e2e2e2
+	BorderColor #888888
 	StartColor #336699
 	EndColor #336699
 	AttributeFontColor white
@@ -777,7 +779,7 @@ rectangle checkout {
 }
 @enduml
 
-PlantUML version 1.2020.16beta7(Unknown compile time)
+PlantUML version 1.2021.01(Mon Feb 01 23:55:08 PST 2021)
 (GPL source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM

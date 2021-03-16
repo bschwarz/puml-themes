@@ -1,16 +1,474 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="480.2083px" preserveAspectRatio="none" style="width:382px;height:480px;background:#00000000;" version="1.1" viewBox="0 0 382 480" width="382.2917px" zoomAndPan="magnify"><defs><linearGradient id="g16oej3awy3d3p0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#DEDEDE"/><stop offset="100%" stop-color="#D6D6D6"/></linearGradient><linearGradient id="g16oej3awy3d3p1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#EEEEEE"/><stop offset="100%" stop-color="#BEBEBE"/></linearGradient></defs><g><rect fill="url(#g16oej3awy3d3p0)" height="52.4028" rx="4.1667" ry="4.1667" style="stroke: #ABABAB; stroke-width: 1.0416666666666667;" width="368.75" x="2.0833" y="2.0833"/><text fill="#EEEEEE" font-family="Verdana" font-size="20.8333" lengthAdjust="spacingAndGlyphs" textLength="335.4167" x="18.75" y="36.5702">Usecase Diagram - silver theme</text><!--MD5=[111002b242a260edbcaabc3e471064d0]
-cluster checkout--><rect fill="#F1F1F1" height="309.375" rx="7.8125" ry="7.8125" style="stroke: #F1F1F1; stroke-width: 2.0833333333333335;" width="108.3333" x="141.6667" y="82.6111"/><text fill="#336699" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="61.4583" x="165.1042" y="105.5949">checkout</text><ellipse cx="195.6703" cy="256.5185" fill="url(#g16oej3awy3d3p1)" rx="37.3369" ry="17.6575" style="stroke: #F1F1F1; stroke-width: 2.0833333333333335;"/><text fill="#336699" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="58.3333" x="166.5036" y="260.4685">checkout</text><ellipse cx="195.6173" cy="151.2677" fill="url(#g16oej3awy3d3p1)" rx="36.7631" ry="17.615" style="stroke: #F1F1F1; stroke-width: 2.0833333333333335;"/><text fill="#336699" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="57.2917" x="166.9715" y="155.2177">payment</text><ellipse cx="195.783" cy="359.7538" fill="url(#g16oej3awy3d3p1)" rx="20.783" ry="15.6843" style="stroke: #F1F1F1; stroke-width: 2.0833333333333335;"/><text fill="#336699" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="28.125" x="181.7205" y="363.7038">help</text><!--MD5=[92848cbaf65985a669855153c5362c37]
-entity customer--><ellipse cx="54.1667" cy="218.0278" fill="url(#g16oej3awy3d3p1)" rx="8.3333" ry="8.3333" style="stroke: #F1F1F1; stroke-width: 1.5625;"/><path d="M54.1667,226.3611 L54.1667,254.4861 M40.625,234.6944 L67.7083,234.6944 M54.1667,254.4861 L40.625,270.1111 M54.1667,254.4861 L67.7083,270.1111 " fill="none" style="stroke: #F1F1F1; stroke-width: 1.5625;"/><text fill="#303030" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="60.4167" x="23.9583" y="293.6157">customer</text><!--MD5=[ebeabf449828f4e0b33bbb47961e644b]
-entity clerk--><ellipse cx="322.3958" cy="218.0278" fill="url(#g16oej3awy3d3p1)" rx="8.3333" ry="8.3333" style="stroke: #F1F1F1; stroke-width: 1.5625;"/><path d="M322.3958,226.3611 L322.3958,254.4861 M308.8542,234.6944 L335.9375,234.6944 M322.3958,254.4861 L308.8542,270.1111 M322.3958,254.4861 L335.9375,270.1111 " fill="none" style="stroke: #F1F1F1; stroke-width: 1.5625;"/><text fill="#303030" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="30.2083" x="307.2917" y="293.6157">clerk</text><!--MD5=[852381a7bb976b86080137fb6d718ea9]
-link customer to checkout--><path d="M92.9816,256.5694 C113.1663,256.5694 137.9125,256.5694 157.9542,256.5694 " fill="none" id="customer-checkout" style="stroke: #EEEEEE; stroke-width: 3.125;"/><!--MD5=[3ad5c6d5c608bfd6b87dc9c07c40a15f]
-link checkout to payment--><path d="M195.8333,238.7225 C195.8333,221.0382 195.8333,193.8694 195.8333,174.5288 " fill="none" id="checkout-&gt;payment" style="stroke: #EEEEEE; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><polygon fill="#EEEEEE" points="195.8333,169.2955,191.6667,178.6705,195.8333,174.5038,200,178.6705,195.8333,169.2955" style="stroke: #EEEEEE; stroke-width: 3.125;"/><text fill="#303030" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="45.8333" x="153.125" y="209.2407">include</text><!--MD5=[739e7928149c8fe27c2b5850560351c7]
-link help to checkout--><path d="M195.8333,344.0319 C195.8333,326.9329 195.8333,299.3767 195.8333,279.7673 " fill="none" id="help-&gt;checkout" style="stroke: #EEEEEE; stroke-width: 3.125; stroke-dasharray: 7.0,7.0;"/><polygon fill="#EEEEEE" points="195.8333,274.4621,191.6667,283.8371,195.8333,279.6705,200,283.8371,195.8333,274.4621" style="stroke: #EEEEEE; stroke-width: 3.125;"/><text fill="#303030" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="53.125" x="149.4792" y="314.4491">extends</text><!--MD5=[b4c4ee8f2d94c159d2b9e04bd372cbe0]
-link checkout to clerk--><path d="M233.55,256.5694 C254.6344,256.5694 280.4563,256.5694 298.6219,256.5694 " fill="none" id="checkout-clerk" style="stroke: #EEEEEE; stroke-width: 3.125;"/><rect fill="#D6D6D6" height="42.275" rx="5.2083" ry="5.2083" style="stroke: #ABABAB; stroke-width: 1.0416666666666667;" width="141.6667" x="115.625" y="427.4028"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacingAndGlyphs" textLength="112.5" x="130.2083" y="453.5116">This is my legend</text><!--MD5=[159a8a179eb444026f0060418fff10a1]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="497.9167px" preserveAspectRatio="none" style="width:384px;height:497px;background:#00000000;" version="1.1" viewBox="0 0 384 497" width="384.375px" zoomAndPan="magnify"><defs><linearGradient id="g1kj0re8n40tbf0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#DEDEDE"/><stop offset="100%" stop-color="#D6D6D6"/></linearGradient><linearGradient id="g1kj0re8n40tbf1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#EEEEEE"/><stop offset="100%" stop-color="#BEBEBE"/></linearGradient></defs><g><rect fill="url(#g1kj0re8n40tbf0)" height="52.4028" rx="4.1667" ry="4.1667" style="stroke:#ABABAB;stroke-width:1.0416666666666667;" width="368.75" x="2.0833" y="2.0833"/><text fill="#EEEEEE" font-family="Verdana" font-size="20.8333" lengthAdjust="spacing" textLength="335.4167" x="18.75" y="36.5702">Usecase Diagram - silver theme</text><!--MD5=[111002b242a260edbcaabc3e471064d0]
+cluster checkout--><rect fill="#F1F1F1" height="361.4583" rx="7.8125" ry="7.8125" style="stroke:#F1F1F1;stroke-width:2.0833333333333335;" width="163.5417" x="126.5625" y="64.9028"/><text fill="#336699" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="61.4583" x="177.6042" y="87.8866">checkout</text><ellipse cx="208.226" cy="262.9508" fill="url(#g1kj0re8n40tbf1)" rx="64.9968" ry="25.6522" style="stroke:#F1F1F1;stroke-width:2.0833333333333335;"/><text fill="#336699" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="58.3333" x="179.0593" y="265.8388">checkout</text><ellipse cx="208.5311" cy="142.1175" fill="url(#g1kj0re8n40tbf1)" rx="64.2603" ry="25.6522" style="stroke:#F1F1F1;stroke-width:2.0833333333333335;"/><text fill="#336699" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="57.2917" x="179.8853" y="145.0055">payment</text><ellipse cx="208.2197" cy="383.7841" fill="url(#g1kj0re8n40tbf1)" rx="43.6363" ry="25.6522" style="stroke:#F1F1F1;stroke-width:2.0833333333333335;"/><text fill="#336699" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="28.125" x="194.1572" y="386.6721">help</text><!--MD5=[92848cbaf65985a669855153c5362c37]
+entity customer--><ellipse cx="39.0625" cy="224.2778" fill="url(#g1kj0re8n40tbf1)" rx="8.3333" ry="8.3333" style="stroke:#F1F1F1;stroke-width:1.5625;"/><path d="M39.0625,232.6111 L39.0625,260.7361 M25.5208,240.9444 L52.6042,240.9444 M39.0625,260.7361 L25.5208,276.3611 M39.0625,260.7361 L52.6042,276.3611 " fill="none" style="stroke:#F1F1F1;stroke-width:1.5625;"/><text fill="#303030" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="60.4167" x="8.8542" y="299.8657">customer</text><!--MD5=[ebeabf449828f4e0b33bbb47961e644b]
+entity clerk--><ellipse cx="362.5" cy="224.2778" fill="url(#g1kj0re8n40tbf1)" rx="8.3333" ry="8.3333" style="stroke:#F1F1F1;stroke-width:1.5625;"/><path d="M362.5,232.6111 L362.5,260.7361 M348.9583,240.9444 L376.0417,240.9444 M362.5,260.7361 L348.9583,276.3611 M362.5,260.7361 L376.0417,276.3611 " fill="none" style="stroke:#F1F1F1;stroke-width:1.5625;"/><text fill="#303030" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="30.2083" x="347.3958" y="299.8657">clerk</text><!--MD5=[852381a7bb976b86080137fb6d718ea9]
+link customer to checkout--><path d="M77.625,262.8194 C96.875,262.8194 120.875,262.8194 142.9688,262.8194 " fill="none" id="customer-checkout" style="stroke:#EEEEEE;stroke-width:3.125;"/><!--MD5=[3ad5c6d5c608bfd6b87dc9c07c40a15f]
+link checkout to payment--><path d="M208.3333,237.1944 C208.3333,218.4548 208.3333,192.934 208.3333,173.0278 " fill="none" id="checkout-to-payment" style="stroke:#EEEEEE;stroke-width:3.125;stroke-dasharray:7.0,7.0;"/><polygon fill="#EEEEEE" points="208.3333,167.5798,204.1667,176.9548,208.3333,172.7882,212.5,176.9548,208.3333,167.5798" style="stroke:#EEEEEE;stroke-width:3.125;"/><text fill="#303030" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="45.8333" x="165.625" y="207.6782">include</text><!--MD5=[739e7928149c8fe27c2b5850560351c7]
+link help to checkout--><path d="M208.3333,358.0278 C208.3333,339.2882 208.3333,313.7673 208.3333,293.8611 " fill="none" id="help-to-checkout" style="stroke:#EEEEEE;stroke-width:3.125;stroke-dasharray:7.0,7.0;"/><polygon fill="#EEEEEE" points="208.3333,288.4132,204.1667,297.7882,208.3333,293.6215,212.5,297.7882,208.3333,288.4132" style="stroke:#EEEEEE;stroke-width:3.125;"/><text fill="#303030" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="53.125" x="161.9792" y="328.5116">extends</text><!--MD5=[b4c4ee8f2d94c159d2b9e04bd372cbe0]
+link checkout to clerk--><path d="M273.875,262.8194 C297.0208,262.8194 321.6458,262.8194 338.8646,262.8194 " fill="none" id="checkout-clerk" style="stroke:#EEEEEE;stroke-width:3.125;"/><rect fill="#D6D6D6" height="42.275" rx="5.2083" ry="5.2083" style="stroke:#ABABAB;stroke-width:1.0416666666666667;" width="141.6667" x="115.625" y="439.9028"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="112.5" x="130.2083" y="466.0116">This is my legend</text><!--MD5=[92f9b890bd772ce184cb80452d2dda9c]
+@startuml
+
+!$THEME = "silver"
+
+!if %not(%variable_exists("$BGCOLOR"))
+!$BGCOLOR = "transparent"
+!endif
+
+skinparam backgroundColor $BGCOLOR
+skinparam useBetaStyle false
+
+!$WHITE = "#FFF"
+!$GRAY_DARK = "#4d4d4d"
+!$GRAY = "#737373"
+!$LIGHT = "#ffffff"
+!$DARK = "#303030"
+
+!$FGCOLOR = $DARK
+!$PRIMARY = "#eeeeee"
+!$PRIMARY_LIGHT = "#f1f1f1"
+!$PRIMARY_DARK = "#bebebe"
+!$PRIMARY_TEXT = "#336699"
+!$SECONDARY = "#d6d6d6"
+!$SECONDARY_LIGHT = "#dedede"
+!$SECONDARY_DARK = "#ababab"
+!$SECONDARY_TEXT = $LIGHT
+!$INFO = "#336699"
+!$INFO_LIGHT = "#5c85ad"
+!$INFO_DARK = "#29527a"
+!$INFO_TEXT = $WHITE
+!$SUCCESS = "#339933"
+!$SUCCESS_LIGHT = "#5cad5c"
+!$SUCCESS_DARK = "#297a29"
+!$SUCCESS_TEXT = $WHITE
+!$WARNING = "#ffae42"
+!$WARNING_LIGHT = "#ffbe68"
+!$WARNING_DARK = "#cc8b35"
+!$WARNING_TEXT = $WHITE
+!$DANGER = "#ff3333"
+!$DANGER_LIGHT = "#ff5c5c"
+!$DANGER_DARK = "#cc2929"
+!$DANGER_TEXT = $WHITE
+
+!procedure $success($msg)
+  <font color=$SUCCESS><b>$msg
+!endprocedure
+
+!procedure $failure($msg)
+  <font color=$DANGER><b>$msg
+!endprocedure
+
+!procedure $warning($msg)
+  <font color=$WARNING><b>$msg
+!endprocedure
+
+!procedure $primary_scheme()
+	FontColor $PRIMARY_TEXT
+	BorderColor $PRIMARY_LIGHT
+	BackgroundColor $PRIMARY-$PRIMARY_DARK
+!endprocedure
+
+skinparam defaultFontName        "Verdana"
+skinparam defaultFontSize        12
+skinparam dpi                    100
+skinparam shadowing              false
+skinparam roundcorner            15
+skinparam ParticipantPadding     30
+skinparam BoxPadding             30
+skinparam Padding                8
+skinparam ArrowColor             $GRAY
+skinparam stereotype {
+    CBackgroundColor $SECONDARY_LIGHT
+    CBorderColor $SECONDARY_DARK
+    ABackgroundColor $SUCCESS_LIGHT
+    ABorderColor $SUCCESS_DARK
+    IBackgroundColor $DANGER_LIGHT
+    IBorderColor $DANGER_DARK
+    EBackgroundColor $WARNING_LIGHT
+    EBorderColor $WARNING_DARK
+    NBackgroundColor $INFO_LIGHT
+    NBorderColor $INFO_DARK
+}
+skinparam title {
+	FontColor	                 $PRIMARY
+	BorderColor	                 $SECONDARY_DARK
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              $SECONDARY_LIGHT-$SECONDARY
+}
+
+
+skinparam legend {
+	BackgroundColor $SECONDARY
+	BorderColor $SECONDARY_DARK
+	FontColor $SECONDARY_TEXT
+}
+
+!startsub swimlane
+skinparam swimlane {
+	BorderColor $INFO
+	BorderThickness 2
+	TitleBackgroundColor  $SECONDARY_LIGHT-$SECONDARY
+	TitleFontColor $PRIMARY
+}
+!endsub
+
+!startsub activity
+
+skinparam activity {
+	$primary_scheme()
+	BarColor $SUCCESS
+	StartColor $INFO
+	EndColor $INFO
+	DiamondBackgroundColor $SECONDARY-$SECONDARY_DARK
+  	DiamondBorderColor $SECONDARY_DARK
+	DiamondFontColor $SECONDARY_TEXT
+}
+
+!endsub
+
+!startsub participant
+
+skinparam participant {
+	$primary_scheme()
+	ParticipantBorderThickness 2
+}
+
+!endsub
+
+!startsub actor
+
+skinparam actor {
+	$primary_scheme()
+	FontColor $DARK
+}
+
+!endsub
+
+!startsub arrow
+
+skinparam arrow {
+	Thickness 3
+	Color $PRIMARY
+	FontColor $FGCOLOR
+}
+
+!endsub
+
+!startsub sequence
+
+skinparam sequence {
+	BorderColor $PRIMARY
+	TitleFontColor $PRIMARY
+	BackgroundColor $BGCOLOR
+	StartColor $PRIMARY
+	EndColor $PRIMARY
+	BoxBackgroundColor $LIGHT
+	BoxBorderColor $GRAY
+	BoxFontColor $DARK
+	LifeLineBorderColor $SECONDARY_DARK
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor $SECONDARY_LIGHT
+	GroupBorderColor $GRAY
+	GroupFontColor $DARK
+	GroupHeaderFontColor $INFO
+	DividerBackgroundColor $WHITE-$LIGHT
+    DividerBorderColor $GRAY
+    DividerBorderThickness 2
+    DividerFontColor $DARK
+	ReferenceBackgroundColor $BGCOLOR
+	ReferenceBorderColor $GRAY
+	ReferenceFontColor $DARK
+	ReferenceHeaderFontColor $INFO
+}
+
+!endsub
+
+!startsub partition
+
+skinparam partition {
+	BorderColor $PRIMARY
+	FontColor $PRIMARY_DARK
+	BackgroundColor $BGCOLOR
+}
+
+!endsub
+
+!startsub collections
+
+skinparam collections {
+	$primary_scheme()
+}
+
+!endsub
+
+!startsub control
+
+skinparam control {
+	$primary_scheme()
+}
+
+!endsub
+
+!startsub entity
+
+skinparam entity {
+	$primary_scheme()
+}
+
+!endsub
+
+!startsub boundary
+
+skinparam boundary {
+	$primary_scheme()
+}
+
+!endsub
+
+!startsub agent
+
+skinparam agent {
+	BackgroundColor #orange
+	BorderColor #999999
+	FontColor #333333
+}
+
+!endsub
+
+!startsub note
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor $INFO_LIGHT-$INFO
+	BorderColor $INFO
+	FontColor $WHITE
+}
+
+!endsub
+
+!startsub artifact
+
+skinparam artifact {
+	BackgroundColor $SECONDARY_LIGHT-$SECONDARY_DARK
+	BorderColor $SECONDARY_DARK
+	FontColor $SECONDARY_TEXT
+}
+
+!endsub
+
+!startsub component
+
+skinparam component {
+	$primary_scheme()
+}
+
+!endsub
+
+!startsub interface
+
+skinparam interface {
+	BackgroundColor  $DANGER_LIGHT
+	BorderColor  $DANGER
+	FontColor $DARK
+}
+
+!endsub
+
+!startsub storage
+
+skinparam storage {
+	BackgroundColor $WARNING_LIGHT-$WARNING
+  	BorderColor $WARNING
+	FontColor $WARNING_TEXT
+}
+
+!endsub
+
+!startsub node
+
+skinparam node {
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY_DARK
+	BorderColor $PRIMARY_LIGHT
+	FontColor $PRIMARY_TEXT
+}
+
+!endsub
+
+!startsub cloud
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor $DARK
+}
+
+!endsub
+
+!startsub database
+
+skinparam database {
+	$primary_scheme()
+	FontColor $DARK
+}
+
+!endsub
+
+!startsub class
+
+skinparam class {
+	$primary_scheme()
+	HeaderBackgroundColor $PRIMARY_LIGHT-$PRIMARY_DARK
+	StereotypeFontColor $DARK
+	BorderThickness 1
+	AttributeFontColor $DARK
+	AttributeFontSize 9
+}
+
+!endsub
+
+!startsub object
+
+skinparam object {
+	$primary_scheme()
+	StereotypeFontColor $LIGHT
+	BorderThickness 1
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+
+!endsub
+
+!startsub usecase
+
+skinparam usecase {
+	$primary_scheme()
+	BorderThickness 2
+	StereotypeFontColor $PRIMARY
+}
+
+!endsub
+
+!startsub rectangle
+
+skinparam rectangle {
+	$primary_scheme()
+	BackgroundColor $PRIMARY_LIGHT
+	BorderThickness 2
+	StereotypeFontColor $PRIMARY
+}
+
+!endsub
+
+!startsub package
+
+skinparam package {
+	$primary_scheme()
+	BorderThickness 2
+}
+
+!endsub
+
+!startsub folder
+
+skinparam folder {
+	BackgroundColor $PRIMARY-$PRIMARY_DARK
+  	BorderColor $WARNING
+	FontColor $WARNING
+	BorderThickness 2
+}
+
+!endsub
+
+!startsub frame
+
+skinparam frame {
+	BackgroundColor $PRIMARY-$PRIMARY_DARK
+  	BorderColor $INFO
+	FontColor $INFO
+	BorderThickness 2
+}
+
+!endsub
+
+!startsub state
+
+skinparam state {
+	$primary_scheme()
+	StartColor $INFO
+	EndColor $INFO
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+
+!endsub
+
+!startsub queue
+
+skinparam queue {
+	$primary_scheme()
+}
+
+!endsub
+
+!startsub card
+
+skinparam card {
+	BackgroundColor $INFO_LIGHT-$INFO
+	BorderColor $INFO
+	FontColor $INFO_TEXT
+}
+
+!endsub
+
+!startsub file
+
+skinparam file {
+	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
+	BorderColor $LIGHT
+	FontColor $LIGHT
+
+}
+
+!endsub
+
+!startsub stack
+
+skinparam stack {
+	$primary_scheme()
+}
+
+!endsub
+
+!if %variable_exists("$THEME")
+title Usecase Diagram - $THEME theme
+!else
+title Usecase Diagram
+!endif
+
+legend
+This is my legend
+endlegend
+
+'skinparam BackgroundColor transparent
+
+left to right direction
+actor customer
+actor clerk
+rectangle checkout {
+  customer - - (checkout)
+  (checkout) .> (payment) : include
+  (help) .> (checkout) : extends
+  (checkout) - - clerk
+}
+@enduml
+
 @startuml
 
 
 
 skinparam backgroundColor transparent
+skinparam useBetaStyle false
 
 
 
@@ -379,13 +837,11 @@ rectangle checkout {
 }
 @enduml
 
-PlantUML version 1.2020.08(Sun Apr 26 07:08:22 PDT 2020)
+PlantUML version 1.2021.01(Mon Feb 01 23:55:08 PST 2021)
 (GPL source distribution)
-Java Runtime: Java(TM) SE Runtime Environment
-JVM: Java HotSpot(TM) 64-Bit Server VM
-Java Version: 1.8.0_251-b32
-Operating System: Windows 10
-Default Encoding: Cp1252
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
 Language: en
 Country: US
 --></g></svg>

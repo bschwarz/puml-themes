@@ -10,6 +10,7 @@
 !endif
 
 skinparam backgroundColor $BGCOLOR
+skinparam useBetaStyle false
 
 ''
 '' Colors taken from the _default_colors.scss file

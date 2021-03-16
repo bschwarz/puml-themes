@@ -1,9 +1,83 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="339px" preserveAspectRatio="none" style="width:537px;height:339px;background:#00000000;" version="1.1" viewBox="0 0 537 339" width="537px" zoomAndPan="magnify"><defs/><g><rect fill="none" height="32.6406" rx="5" ry="5" style="stroke: none; stroke-width: 1.0;" width="425" x="45.25" y="15"/><text fill="#000000" font-family="sans-serif" font-size="18" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="415" x="50.25" y="38.6855">Work Breakdown Diagram - resume-light theme</text><rect fill="#F9F9F9" height="40.125" rx="5" ry="5" style="stroke: #F0F0F0; stroke-width: 1.5;" width="87" x="214.75" y="53.6406"/><text fill="#6A9FB5" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="67" x="224.75" y="80.25">New Job</text><line style="stroke: #F0F0F0; stroke-width: 1.5;" x1="258.25" x2="258.25" y1="93.7656" y2="113.7656"/><line style="stroke: #F0F0F0; stroke-width: 1.5;" x1="135.5" x2="135.5" y1="113.7656" y2="133.7656"/><rect fill="#F9F9F9" height="27.6094" rx="5" ry="5" style="stroke: #F0F0F0; stroke-width: 1.5;" width="214" x="28.5" y="133.7656"/><text fill="#6A9FB5" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="204" x="33.5" y="153.2988">Decide on Job Requirements</text><line style="stroke: #F0F0F0; stroke-width: 1.5;" x1="125.5" x2="135.5" y1="186.9219" y2="186.9219"/><rect fill="#F9F9F9" height="21.0938" rx="5" ry="5" style="stroke: #F0F0F0; stroke-width: 1.5;" width="57" x="68.5" y="176.375"/><text fill="#6A9FB5" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="51" x="71.5" y="191.832">Checklist</text><line style="stroke: #F0F0F0; stroke-width: 1.5;" x1="87" x2="97" y1="220.7578" y2="220.7578"/><rect fill="#F9F9F9" height="16.5781" rx="5" ry="5" style="stroke: #F0F0F0; stroke-width: 1.5;" width="77" x="10" y="212.4688"/><text fill="#6A9FB5" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="73" x="12" y="224.8496">Responsibilities</text><line style="stroke: #F0F0F0; stroke-width: 1.5;" x1="87" x2="97" y1="252.3359" y2="252.3359"/><rect fill="#F9F9F9" height="16.5781" rx="5" ry="5" style="stroke: #F0F0F0; stroke-width: 1.5;" width="46" x="41" y="244.0469"/><text fill="#6A9FB5" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="42" x="43" y="256.4277">Location</text><line style="stroke: #F0F0F0; stroke-width: 1.5;" x1="97" x2="97" y1="197.4688" y2="252.3359"/><line style="stroke: #F0F0F0; stroke-width: 1.5;" x1="135.5" x2="145.5" y1="186.9219" y2="186.9219"/><rect fill="#F9F9F9" height="21.0938" rx="5" ry="5" style="stroke: #F0F0F0; stroke-width: 1.5;" width="75" x="145.5" y="176.375"/><text fill="#6A9FB5" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="69" x="148.5" y="191.832">Identity gaps</text><line style="stroke: #F0F0F0; stroke-width: 1.5;" x1="135.5" x2="145.5" y1="223.0156" y2="223.0156"/><rect fill="#F9F9F9" height="21.0938" rx="5" ry="5" style="stroke: #F0F0F0; stroke-width: 1.5;" width="71" x="145.5" y="212.4688"/><text fill="#6A9FB5" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="65" x="148.5" y="227.9258">Review JDs</text><line style="stroke: #F0F0F0; stroke-width: 1.5;" x1="181" x2="191" y1="256.8516" y2="256.8516"/><rect fill="#F9F9F9" height="16.5781" rx="5" ry="5" style="stroke: #F0F0F0; stroke-width: 1.5;" width="95" x="191" y="248.5625"/><text fill="#6A9FB5" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="91" x="193" y="260.9434">Sign-Up for courses</text><line style="stroke: #F0F0F0; stroke-width: 1.5;" x1="181" x2="191" y1="288.4297" y2="288.4297"/><rect fill="#F9F9F9" height="16.5781" rx="5" ry="5" style="stroke: #F0F0F0; stroke-width: 1.5;" width="50" x="191" y="280.1406"/><text fill="#6A9FB5" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="46" x="193" y="292.5215">Volunteer</text><line style="stroke: #F0F0F0; stroke-width: 1.5;" x1="181" x2="191" y1="320.0078" y2="320.0078"/><rect fill="#F9F9F9" height="16.5781" rx="5" ry="5" style="stroke: #F0F0F0; stroke-width: 1.5;" width="44" x="191" y="311.7188"/><text fill="#6A9FB5" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="40" x="193" y="324.0996">Reading</text><line style="stroke: #F0F0F0; stroke-width: 1.5;" x1="181" x2="181" y1="233.5625" y2="320.0078"/><line style="stroke: #F0F0F0; stroke-width: 1.5;" x1="135.5" x2="135.5" y1="161.375" y2="223.0156"/><line style="stroke: #F0F0F0; stroke-width: 1.5;" x1="367.5" x2="367.5" y1="113.7656" y2="133.7656"/><rect fill="#F9F9F9" height="27.6094" rx="5" ry="5" style="stroke: #F0F0F0; stroke-width: 1.5;" width="123" x="306" y="133.7656"/><text fill="#6A9FB5" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="113" x="311" y="153.2988">CV Upload Done</text><line style="stroke: #F0F0F0; stroke-width: 1.5;" x1="367.5" x2="379.5" y1="186.9219" y2="186.9219"/><rect fill="#F9F9F9" height="21.0938" rx="5" ry="5" style="stroke: #F0F0F0; stroke-width: 1.5;" width="72" x="379.5" y="176.375"/><text fill="#6A9FB5" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="66" x="382.5" y="191.832">CV Updated</text><line style="stroke: #F0F0F0; stroke-width: 1.5;" x1="405.5" x2="415.5" y1="220.7578" y2="220.7578"/><rect fill="#F9F9F9" height="16.5781" rx="5" ry="5" style="stroke: #F0F0F0; stroke-width: 1.5;" width="28" x="377.5" y="212.4688"/><text fill="#6A9FB5" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="24" x="379.5" y="224.8496">Skills</text><line style="stroke: #F0F0F0; stroke-width: 1.5;" x1="415.5" x2="425.5" y1="220.7578" y2="220.7578"/><rect fill="#F9F9F9" height="16.5781" rx="5" ry="5" style="stroke: #F0F0F0; stroke-width: 1.5;" width="101" x="425.5" y="212.4688"/><text fill="#6A9FB5" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="97" x="427.5" y="224.8496">Spelling &amp; Grammar</text><line style="stroke: #F0F0F0; stroke-width: 1.5;" x1="415.5" x2="425.5" y1="252.3359" y2="252.3359"/><rect fill="#F9F9F9" height="16.5781" rx="5" ry="5" style="stroke: #F0F0F0; stroke-width: 1.5;" width="61" x="425.5" y="244.0469"/><text fill="#6A9FB5" font-family="sans-serif" font-size="10" lengthAdjust="spacingAndGlyphs" textLength="57" x="427.5" y="256.4277">Check dates</text><line style="stroke: #F0F0F0; stroke-width: 1.5;" x1="415.5" x2="415.5" y1="197.4688" y2="252.3359"/><line style="stroke: #F0F0F0; stroke-width: 1.5;" x1="367.5" x2="377.5" y1="286.1719" y2="286.1719"/><rect fill="#F9F9F9" height="21.0938" rx="5" ry="5" style="stroke: #F0F0F0; stroke-width: 1.5;" width="147" x="377.5" y="275.625"/><text fill="#6A9FB5" font-family="sans-serif" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="141" x="380.5" y="291.082">Recruitment sites chosen</text><line style="stroke: #F0F0F0; stroke-width: 1.5;" x1="367.5" x2="367.5" y1="161.375" y2="286.1719"/><line style="stroke: #F0F0F0; stroke-width: 1.5;" x1="135.5" x2="367.5" y1="113.7656" y2="113.7656"/><!--MD5=[eb25b123d9948fa2f2362f88a84b8f13]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="333px" preserveAspectRatio="none" style="width:576px;height:333px;background:#00000000;" version="1.1" viewBox="0 0 576 333" width="576px" zoomAndPan="magnify"><defs><filter height="300%" id="f1qw858u0ia371" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="none" height="26.2969" style="stroke:none;stroke-width:1.0;" width="385" x="80.5" y="15"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="375" x="85.5" y="32.9951">Work Breakdown Diagram - resume-light theme</text><rect fill="#F9F9F9" filter="url(#f1qw858u0ia371)" height="38.625" style="stroke:#F0F0F0;stroke-width:1.5;" width="93" x="227" y="47.2969"/><text fill="#6A9FB5" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="73" x="237" y="72.1484">New Job</text><line style="stroke:#F0F0F0;stroke-width:1.5;" x1="273.5" x2="273.5" y1="85.9219" y2="105.9219"/><line style="stroke:#F0F0F0;stroke-width:1.5;" x1="137" x2="137" y1="105.9219" y2="125.9219"/><rect fill="#F9F9F9" filter="url(#f1qw858u0ia371)" height="26.2969" style="stroke:#F0F0F0;stroke-width:1.5;" width="233" x="20.5" y="125.9219"/><text fill="#6A9FB5" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="223" x="25.5" y="143.917">Decide on Job Requirements</text><line style="stroke:#F0F0F0;stroke-width:1.5;" x1="127" x2="137" y1="177.2031" y2="177.2031"/><rect fill="#F9F9F9" filter="url(#f1qw858u0ia371)" height="19.9688" style="stroke:#F0F0F0;stroke-width:1.5;" width="62" x="65" y="167.2188"/><text fill="#6A9FB5" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="56" x="68" y="181.3574">Checklist</text><line style="stroke:#F0F0F0;stroke-width:1.5;" x1="86" x2="96" y1="210.0078" y2="210.0078"/><rect fill="#F9F9F9" filter="url(#f1qw858u0ia371)" height="15.6406" style="stroke:#F0F0F0;stroke-width:1.5;" width="76" x="10" y="202.1875"/><text fill="#6A9FB5" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="72" x="12" y="213.4697">Responsibilities</text><line style="stroke:#F0F0F0;stroke-width:1.5;" x1="86" x2="96" y1="240.6484" y2="240.6484"/><rect fill="#F9F9F9" filter="url(#f1qw858u0ia371)" height="15.6406" style="stroke:#F0F0F0;stroke-width:1.5;" width="45" x="41" y="232.8281"/><text fill="#6A9FB5" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="41" x="43" y="244.1104">Location</text><line style="stroke:#F0F0F0;stroke-width:1.5;" x1="96" x2="96" y1="187.1875" y2="240.6484"/><line style="stroke:#F0F0F0;stroke-width:1.5;" x1="137" x2="147" y1="177.2031" y2="177.2031"/><rect fill="#F9F9F9" filter="url(#f1qw858u0ia371)" height="19.9688" style="stroke:#F0F0F0;stroke-width:1.5;" width="87" x="147" y="167.2188"/><text fill="#6A9FB5" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="81" x="150" y="181.3574">Identity gaps</text><line style="stroke:#F0F0F0;stroke-width:1.5;" x1="137" x2="147" y1="212.1719" y2="212.1719"/><rect fill="#F9F9F9" filter="url(#f1qw858u0ia371)" height="19.9688" style="stroke:#F0F0F0;stroke-width:1.5;" width="71" x="147" y="202.1875"/><text fill="#6A9FB5" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="65" x="150" y="216.3262">Review JDs</text><line style="stroke:#F0F0F0;stroke-width:1.5;" x1="182.5" x2="192.5" y1="244.9766" y2="244.9766"/><rect fill="#F9F9F9" filter="url(#f1qw858u0ia371)" height="15.6406" style="stroke:#F0F0F0;stroke-width:1.5;" width="100" x="192.5" y="237.1563"/><text fill="#6A9FB5" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="96" x="194.5" y="248.4385">Sign-Up for courses</text><line style="stroke:#F0F0F0;stroke-width:1.5;" x1="182.5" x2="192.5" y1="275.6172" y2="275.6172"/><rect fill="#F9F9F9" filter="url(#f1qw858u0ia371)" height="15.6406" style="stroke:#F0F0F0;stroke-width:1.5;" width="51" x="192.5" y="267.7969"/><text fill="#6A9FB5" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="47" x="194.5" y="279.0791">Volunteer</text><line style="stroke:#F0F0F0;stroke-width:1.5;" x1="182.5" x2="192.5" y1="306.2578" y2="306.2578"/><rect fill="#F9F9F9" filter="url(#f1qw858u0ia371)" height="15.6406" style="stroke:#F0F0F0;stroke-width:1.5;" width="43" x="192.5" y="298.4375"/><text fill="#6A9FB5" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="39" x="194.5" y="309.7197">Reading</text><line style="stroke:#F0F0F0;stroke-width:1.5;" x1="182.5" x2="182.5" y1="222.1563" y2="306.2578"/><line style="stroke:#F0F0F0;stroke-width:1.5;" x1="137" x2="137" y1="152.2188" y2="212.1719"/><line style="stroke:#F0F0F0;stroke-width:1.5;" x1="381" x2="381" y1="105.9219" y2="125.9219"/><rect fill="#F9F9F9" filter="url(#f1qw858u0ia371)" height="26.2969" style="stroke:#F0F0F0;stroke-width:1.5;" width="137" x="312.5" y="125.9219"/><text fill="#6A9FB5" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="127" x="317.5" y="143.917">CV Upload Done</text><line style="stroke:#F0F0F0;stroke-width:1.5;" x1="381" x2="391" y1="177.2031" y2="177.2031"/><rect fill="#F9F9F9" filter="url(#f1qw858u0ia371)" height="19.9688" style="stroke:#F0F0F0;stroke-width:1.5;" width="80" x="391" y="167.2188"/><text fill="#6A9FB5" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="74" x="394" y="181.3574">CV Updated</text><line style="stroke:#F0F0F0;stroke-width:1.5;" x1="421" x2="431" y1="210.0078" y2="210.0078"/><rect fill="#F9F9F9" filter="url(#f1qw858u0ia371)" height="15.6406" style="stroke:#F0F0F0;stroke-width:1.5;" width="27" x="394" y="202.1875"/><text fill="#6A9FB5" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="23" x="396" y="213.4697">Skills</text><line style="stroke:#F0F0F0;stroke-width:1.5;" x1="431" x2="441" y1="210.0078" y2="210.0078"/><rect fill="#F9F9F9" filter="url(#f1qw858u0ia371)" height="15.6406" style="stroke:#F0F0F0;stroke-width:1.5;" width="104" x="441" y="202.1875"/><text fill="#6A9FB5" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="100" x="443" y="213.4697">Spelling &amp; Grammar</text><line style="stroke:#F0F0F0;stroke-width:1.5;" x1="431" x2="441" y1="240.6484" y2="240.6484"/><rect fill="#F9F9F9" filter="url(#f1qw858u0ia371)" height="15.6406" style="stroke:#F0F0F0;stroke-width:1.5;" width="64" x="441" y="232.8281"/><text fill="#6A9FB5" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="60" x="443" y="244.1104">Check dates</text><line style="stroke:#F0F0F0;stroke-width:1.5;" x1="431" x2="431" y1="187.1875" y2="240.6484"/><line style="stroke:#F0F0F0;stroke-width:1.5;" x1="381" x2="391" y1="273.4531" y2="273.4531"/><rect fill="#F9F9F9" filter="url(#f1qw858u0ia371)" height="19.9688" style="stroke:#F0F0F0;stroke-width:1.5;" width="166" x="391" y="263.4688"/><text fill="#6A9FB5" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="160" x="394" y="277.6074">Recruitment sites chosen</text><line style="stroke:#F0F0F0;stroke-width:1.5;" x1="381" x2="381" y1="152.2188" y2="273.4531"/><line style="stroke:#F0F0F0;stroke-width:1.5;" x1="137" x2="381" y1="105.9219" y2="105.9219"/><!--MD5=[be61c0af5254a21fbf09c340068b021f]
+@startwbs
+
+!$THEME = "resume-light"
+
+!if %not(%variable_exists("$BGCOLOR"))
+!$BGCOLOR = "transparent"
+!endif
+
+skinparam backgroundColor $BGCOLOR
+skinparam useBetaStyle false
+
+
+skinparam  {
+    skinparam defaultFontName   "Verdana"
+    skinparam defaultFontSize   12
+    defaultTextAlignment        center
+    shadowing                   false
+    RoundCorner                 10
+    TitleFontSize               18
+}
+<style>
+    wbsDiagram {
+        LineColor #f0f0f0
+        BorderThickness 3
+        BackgroundColor #f9f9f9
+        FontColor #6a9fb5
+        :depth(0) {
+            fontSize 16
+            fontStyle bold
+        }
+        :depth(1) {
+            fontSize 14
+            padding 5
+            fontStyle bold
+        }
+        :depth(2) {
+            fontSize 12
+            padding 3
+        }
+        :depth(3) {
+            fontSize 10
+            padding 2
+        }
+
+    }
+</style>
+
+!if %variable_exists("$THEME")
+title Work Breakdown Diagram - $THEME theme
+!else
+title Work Breakdown Diagram
+!endif
+
+!$DIAGRAM = "wbs"
+
++ New Job
+++ Decide on Job Requirements
++++ Identity gaps
++++ Review JDs
+++++ Sign-Up for courses
+++++ Volunteer
+++++ Reading
+++- Checklist
++++- Responsibilities
++++- Location
+++ CV Upload Done
++++ CV Updated
+++++ Spelling & Grammar
+++++ Check dates
+- - - - Skills
++++ Recruitment sites chosen
+@endwbs
+
 @startwbs
 
 
 
 skinparam backgroundColor transparent
+skinparam useBetaStyle false
 
 
 skinparam  {
@@ -62,13 +136,11 @@ title Work Breakdown Diagram - resume-light theme
 +++ Recruitment sites chosen
 @endwbs
 
-PlantUML version 1.2020.08(Sun Apr 26 07:08:22 PDT 2020)
+PlantUML version 1.2021.01(Mon Feb 01 23:55:08 PST 2021)
 (GPL source distribution)
-Java Runtime: Java(TM) SE Runtime Environment
-JVM: Java HotSpot(TM) 64-Bit Server VM
-Java Version: 1.8.0_251-b32
-Operating System: Windows 10
-Default Encoding: Cp1252
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
 Language: en
 Country: US
 --></g></svg>

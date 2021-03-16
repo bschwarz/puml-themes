@@ -12,6 +12,7 @@
 !endif
 
 skinparam backgroundColor $BGCOLOR
+skinparam useBetaStyle false
 skinparam handwritten true
 skinparam shadowing false
 

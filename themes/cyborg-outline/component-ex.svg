@@ -36,7 +36,7 @@ link MyCollection2 to My Queue--><!--MD5=[0babb46f3d0f67f91c828a5eda35ab7d]
 link My Queue to My Interface--><!--MD5=[9bfee3aea78949ae207e8bd3b67fed50]
 link My Interface to My Card--><!--MD5=[afe9315598834b0b9f57a7a5b2c7ee2a]
 link My Queue to My File--><!--MD5=[f6296be58d13482500ae3b999db2843f]
-link My File to My Stack--><!--MD5=[b416ee0b6cca7c0c7e83fc2921cf482b]
+link My File to My Stack--><!--MD5=[b2bde24f629ad66309e180f195056766]
 @startuml
 
 !$THEME = "cyborg-outline"
@@ -46,6 +46,7 @@ link My File to My Stack--><!--MD5=[b416ee0b6cca7c0c7e83fc2921cf482b]
 !endif
 
 skinparam backgroundColor $BGCOLOR
+skinparam useBetaStyle false
 
 !$BLUE = "#2A9FD6"
 !$INDIGO = "#6610f2"
@@ -515,6 +516,7 @@ stack "My Stack"
 
 
 skinparam backgroundColor transparent
+skinparam useBetaStyle false
 
 
 

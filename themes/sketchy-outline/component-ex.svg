@@ -36,7 +36,7 @@ link MyCollection2 to My Queue--><!--MD5=[0babb46f3d0f67f91c828a5eda35ab7d]
 link My Queue to My Interface--><!--MD5=[9bfee3aea78949ae207e8bd3b67fed50]
 link My Interface to My Card--><!--MD5=[afe9315598834b0b9f57a7a5b2c7ee2a]
 link My Queue to My File--><!--MD5=[f6296be58d13482500ae3b999db2843f]
-link My File to My Stack--><!--MD5=[684dbd8c920611cbcc18dd20151e6dea]
+link My File to My Stack--><!--MD5=[738b225829de0639d0383e8bcea5c768]
 @startuml
 
 !$THEME = "sketchy-outline"
@@ -46,6 +46,7 @@ link My File to My Stack--><!--MD5=[684dbd8c920611cbcc18dd20151e6dea]
 !endif
 
 skinparam backgroundColor $BGCOLOR
+skinparam useBetaStyle false
 skinparam handwritten true
 skinparam shadowing false
 
@@ -510,6 +511,7 @@ stack "My Stack"
 
 
 skinparam backgroundColor transparent
+skinparam useBetaStyle false
 skinparam handwritten true
 skinparam shadowing false
 

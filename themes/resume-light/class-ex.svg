@@ -1,9 +1,104 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="555px" preserveAspectRatio="none" style="width:291px;height:555px;background:#000000;" version="1.1" viewBox="0 0 291 555" width="291px" zoomAndPan="magnify"><defs/><g><rect fill="#130F16" height="1" style="stroke: #130F16; stroke-width: 1.0;" width="1" x="0" y="0"/><rect fill="#33FF02" height="22.6094" style="stroke: #33FF02; stroke-width: 1.0;" width="284" x="5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="210" x="6" y="20">[From class-ex.puml (line 11) ]</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="9" y="41.6094"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="71" x="5" y="59.2188">@startuml</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="9" y="76.8281"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="9" y="94.4375"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="9" y="112.0469"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="284" x="5" y="129.6563">skinparam backgroundColor transparent</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="12" x="5" y="147.2656">...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="152" x="5" y="164.875">... ( skipping 21 lines )</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="12" x="5" y="182.4844">...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="77" x="53" y="200.0938">fontSize 14</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="69" x="53" y="217.7031">padding 5</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="97" x="53" y="235.3125">fontStyle bold</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="5" x="37" y="252.9219">}</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="72" x="37" y="270.5313">:depth(2) {</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="77" x="53" y="288.1406">fontSize 12</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="69" x="53" y="305.75">padding 3</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="5" x="37" y="323.3594">}</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="72" x="37" y="340.9688">:depth(3) {</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="77" x="53" y="358.5781">fontSize 10</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="69" x="53" y="376.1875">padding 2</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="5" x="37" y="393.7969">}</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="9" y="411.4063"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="5" x="21" y="429.0156">}</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="53" x="5" y="446.625">&lt;/style&gt;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="9" y="464.2344"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="280" x="5" y="481.8438">title Class Diagram - resume-light theme</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="9" y="499.4531"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="9" y="517.0625"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="184" x="5" y="534.6719">abstract class AbstractList</text><text fill="#FF0000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="95" x="9" y="552.2813">Syntax Error?</text><!--MD5=[9851456ee2b784b64b33046bec8f84b4]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="391px" preserveAspectRatio="none" style="width:595px;height:391px;" version="1.1" viewBox="0 0 595 391" width="595px" zoomAndPan="magnify"><defs/><g><rect fill="none" height="26.2969" style="stroke:none;stroke-width:1.0;" width="292" x="147.25" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="282" x="152.25" y="22.9951">Class Diagram - resume-light theme</text><!--MD5=[b4fa10df80476353258f72a232547d63]
+class AbstractList--><rect codeLine="10" fill="#FEFECE" height="48" id="AbstractList" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="112" x="199.5" y="201.2969"/><ellipse cx="214.5" cy="217.2969" fill="#A9DCDF" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M214.6094,212.6406 L213.4531,217.7188 L215.7813,217.7188 L214.6094,212.6406 Z M213.125,210.4063 L216.1094,210.4063 L219.4688,222.7969 L217.0156,222.7969 L216.25,219.7344 L212.9688,219.7344 L212.2188,222.7969 L209.7813,222.7969 L213.125,210.4063 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="80" x="228.5" y="222.1436">AbstractList</text><line style="stroke:#A80036;stroke-width:1.5;" x1="200.5" x2="310.5" y1="233.2969" y2="233.2969"/><line style="stroke:#A80036;stroke-width:1.5;" x1="200.5" x2="310.5" y1="241.2969" y2="241.2969"/><!--MD5=[8e34b16d8d8f96f4a11290cd523ed859]
+class AbstractCollection--><rect codeLine="11" fill="#FEFECE" height="48" id="AbstractCollection" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="157" x="7" y="201.2969"/><ellipse cx="22" cy="217.2969" fill="#A9DCDF" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M22.1094,212.6406 L20.9531,217.7188 L23.2813,217.7188 L22.1094,212.6406 Z M20.625,210.4063 L23.6094,210.4063 L26.9688,222.7969 L24.5156,222.7969 L23.75,219.7344 L20.4688,219.7344 L19.7188,222.7969 L17.2813,222.7969 L20.625,210.4063 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="125" x="36" y="222.1436">AbstractCollection</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="163" y1="233.2969" y2="233.2969"/><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="163" y1="241.2969" y2="241.2969"/><!--MD5=[3d4177ac58b4411586d067f34e84928f]
+class List--><rect codeLine="12" fill="#FEFECE" height="48" id="List" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="55" x="213" y="68.7969"/><ellipse cx="228" cy="84.7969" fill="#B4A7E5" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M223.9219,80.5625 L223.9219,78.4063 L231.3125,78.4063 L231.3125,80.5625 L228.8438,80.5625 L228.8438,88.6406 L231.3125,88.6406 L231.3125,90.7969 L223.9219,90.7969 L223.9219,88.6406 L226.3906,88.6406 L226.3906,80.5625 L223.9219,80.5625 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="23" x="242" y="89.6436">List</text><line style="stroke:#A80036;stroke-width:1.5;" x1="214" x2="267" y1="100.7969" y2="100.7969"/><line style="stroke:#A80036;stroke-width:1.5;" x1="214" x2="267" y1="108.7969" y2="108.7969"/><!--MD5=[c160724f8e3bb89ca8141a12554ac2e3]
+class Collection--><rect codeLine="13" fill="#FEFECE" height="48" id="Collection" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="100" x="63.5" y="68.7969"/><ellipse cx="78.5" cy="84.7969" fill="#B4A7E5" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M74.4219,80.5625 L74.4219,78.4063 L81.8125,78.4063 L81.8125,80.5625 L79.3438,80.5625 L79.3438,88.6406 L81.8125,88.6406 L81.8125,90.7969 L74.4219,90.7969 L74.4219,88.6406 L76.8906,88.6406 L76.8906,80.5625 L74.4219,80.5625 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="68" x="92.5" y="89.6436">Collection</text><line style="stroke:#A80036;stroke-width:1.5;" x1="64.5" x2="162.5" y1="100.7969" y2="100.7969"/><line style="stroke:#A80036;stroke-width:1.5;" x1="64.5" x2="162.5" y1="108.7969" y2="108.7969"/><!--MD5=[ab8871ed637f40707b866ba6597734bc]
+class ArrayList--><rect codeLine="22" fill="#FEFECE" height="80.5938" id="ArrayList" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="160" x="175.5" y="309.2969"/><ellipse cx="222.75" cy="325.2969" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M225.7188,330.9375 Q225.1406,331.2344 224.5,331.375 Q223.8594,331.5313 223.1563,331.5313 Q220.6563,331.5313 219.3281,329.8906 Q218.0156,328.2344 218.0156,325.1094 Q218.0156,321.9844 219.3281,320.3281 Q220.6563,318.6719 223.1563,318.6719 Q223.8594,318.6719 224.5,318.8281 Q225.1563,318.9844 225.7188,319.2813 L225.7188,322 Q225.0938,321.4219 224.5,321.1563 Q223.9063,320.875 223.2813,320.875 Q221.9375,320.875 221.25,321.9531 Q220.5625,323.0156 220.5625,325.1094 Q220.5625,327.2031 221.25,328.2813 Q221.9375,329.3438 223.2813,329.3438 Q223.9063,329.3438 224.5,329.0781 Q225.0938,328.7969 225.7188,328.2188 L225.7188,330.9375 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="57" x="243.25" y="330.1436">ArrayList</text><line style="stroke:#A80036;stroke-width:1.5;" x1="176.5" x2="334.5" y1="341.2969" y2="341.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="148" x="181.5" y="358.292">Object[] elementData</text><line style="stroke:#A80036;stroke-width:1.5;" x1="176.5" x2="334.5" y1="365.5938" y2="365.5938"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="181.5" y="382.5889">size()</text><!--MD5=[15b68e006199004da79ea2a4d117d8e9]
+class TimeUnit--><rect codeLine="27" fill="#FEFECE" height="96.8906" id="TimeUnit" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="93" x="303" y="44.2969"/><ellipse cx="318" cy="60.2969" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M322.1094,66.2969 L314.3906,66.2969 L314.3906,53.9063 L322.1094,53.9063 L322.1094,56.0625 L316.8438,56.0625 L316.8438,58.7344 L321.6094,58.7344 L321.6094,60.8906 L316.8438,60.8906 L316.8438,64.1406 L322.1094,64.1406 L322.1094,66.2969 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="61" x="332" y="65.1436">TimeUnit</text><line style="stroke:#A80036;stroke-width:1.5;" x1="304" x2="395" y1="76.2969" y2="76.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="309" y="93.292">DAYS</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50" x="309" y="109.5889">HOURS</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="309" y="125.8857">MINUTES</text><line style="stroke:#A80036;stroke-width:1.5;" x1="304" x2="395" y1="133.1875" y2="133.1875"/><!--MD5=[0c8287f799745f7b534bf75518604c1e]
+class SuppressWarnings--><rect codeLine="33" fill="#FEFECE" height="48" id="SuppressWarnings" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="162" x="431.5" y="68.7969"/><ellipse cx="446.5" cy="84.7969" fill="#E3664A" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M448.5781,85.2656 Q448.5781,84.3281 448.1563,83.7969 Q447.7344,83.2656 446.9844,83.2656 Q446.25,83.2656 445.8281,83.7969 Q445.4219,84.3281 445.4219,85.2656 Q445.4219,86.2188 445.8281,86.75 Q446.25,87.2813 446.9844,87.2813 Q447.7344,87.2813 448.1563,86.75 Q448.5781,86.2188 448.5781,85.2656 Z M450.125,88.6719 L448.5,88.6719 L448.5,88 Q448.1719,88.4375 447.75,88.6406 Q447.3281,88.8438 446.7188,88.8438 Q445.3594,88.8438 444.5313,87.875 Q443.7031,86.8906 443.7031,85.2656 Q443.7031,83.6719 444.5313,82.7031 Q445.3594,81.7188 446.7188,81.7188 Q447.3125,81.7188 447.7656,81.9219 Q448.2188,82.125 448.5,82.5156 L448.5,82.1719 Q448.5,81.0469 447.875,80.4375 Q447.25,79.8125 446.1094,79.8125 Q444.3906,79.8125 443.2969,81.3438 Q442.2031,82.8594 442.2031,85.2969 Q442.2031,87.8438 443.4531,89.3438 Q444.7188,90.8438 446.8281,90.8438 Q447.4844,90.8438 448.1094,90.6563 Q448.7344,90.4688 449.3125,90.0781 L450.0781,91.5313 Q449.4063,91.9844 448.6094,92.2031 Q447.8125,92.4375 446.9063,92.4375 Q444,92.4375 442.2656,90.5 Q440.5469,88.5781 440.5469,85.2969 Q440.5469,82.0781 442.0938,80.1563 Q443.6563,78.2188 446.2188,78.2188 Q448.0156,78.2188 449.0625,79.3125 Q450.125,80.4063 450.125,82.2813 L450.125,88.6719 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="130" x="460.5" y="89.6436">SuppressWarnings</text><line style="stroke:#A80036;stroke-width:1.5;" x1="432.5" x2="592.5" y1="100.7969" y2="100.7969"/><line style="stroke:#A80036;stroke-width:1.5;" x1="432.5" x2="592.5" y1="108.7969" y2="108.7969"/><!--MD5=[00308d07b6a5721fb0cf5861877e6652]
+reverse link List to AbstractList--><path codeLine="15" d="M245.46,136.9769 C247.92,158.3569 250.79,183.3169 252.83,201.0569 " fill="none" id="List-backto-AbstractList" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="none" points="238.48,137.4969,243.15,116.8269,252.39,135.8969,238.48,137.4969" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[1822909749df1453bdd84de7a60a3406]
+reverse link Collection to AbstractCollection--><path codeLine="16" d="M104.31,136.6469 C99.7,158.0969 94.31,183.2169 90.49,201.0569 " fill="none" id="Collection-backto-AbstractCollection" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="none" points="97.52,134.9169,108.56,116.8269,111.21,137.8469,97.52,134.9169" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[0159284274f96a472eb2618ad803aaca]
+reverse link Collection to List--><path codeLine="18" d="M183.62,92.7969 C193.37,92.7969 203.12,92.7969 212.87,92.7969 " fill="none" id="Collection-backto-List" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="none" points="183.61,99.7969,163.61,92.7969,183.61,85.7969,183.61,99.7969" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[7a3a52e8f65ef1a8d8d29530ea5cd870]
+reverse link AbstractCollection to AbstractList--><path codeLine="19" d="M184.4,225.2969 C189.31,225.2969 194.23,225.2969 199.15,225.2969 " fill="none" id="AbstractCollection-backto-AbstractList" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="none" points="184.19,232.2969,164.19,225.2969,184.19,218.2969,184.19,232.2969" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[40e4bb1af59cca28d4643aaff05088cc]
+reverse link AbstractList to ArrayList--><path codeLine="20" d="M255.5,269.4369 C255.5,282.2969 255.5,296.3369 255.5,308.9869 " fill="none" id="AbstractList-backto-ArrayList" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="none" points="248.5,269.3369,255.5,249.3369,262.5,269.3369,248.5,269.3369" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[a2449a481028c94cbc7a755cd4e2482d]
+@startuml
+
+!$THEME = "resume-light"
+
+!if %not(%variable_exists("$BGCOLOR"))
+!$BGCOLOR = "transparent"
+!endif
+
+skinparam backgroundColor $BGCOLOR
+skinparam useBetaStyle false
+
+
+skinparam  {
+    skinparam defaultFontName   "Verdana"
+    skinparam defaultFontSize   12
+    defaultTextAlignment        center
+    shadowing                   false
+    RoundCorner                 10
+    TitleFontSize               18
+}
+<style>
+    wbsDiagram {
+        LineColor #f0f0f0
+        BorderThickness 3
+        BackgroundColor #f9f9f9
+        FontColor #6a9fb5
+        :depth(0) {
+            fontSize 16
+            fontStyle bold
+        }
+        :depth(1) {
+            fontSize 14
+            padding 5
+            fontStyle bold
+        }
+        :depth(2) {
+            fontSize 12
+            padding 3
+        }
+        :depth(3) {
+            fontSize 10
+            padding 2
+        }
+
+    }
+</style>
+
+!if %variable_exists("$THEME")
+title Class Diagram - $THEME theme
+!else
+title Class Diagram
+!endif
+
+'skinparam BackgroundColor transparent
+
+abstract class AbstractList
+abstract AbstractCollection
+interface List
+interface Collection
+
+List <|- - AbstractList
+Collection <|- - AbstractCollection
+
+Collection <|- List
+AbstractCollection <|- AbstractList
+AbstractList <|- - ArrayList
+
+class ArrayList {
+  Object[] elementData
+  size()
+}
+
+enum TimeUnit {
+  DAYS
+  HOURS
+  MINUTES
+}
+
+annotation SuppressWarnings
+
+@enduml
+
 @startuml
 
 
 
 skinparam backgroundColor transparent
+skinparam useBetaStyle false
 
 
 skinparam  {
@@ -71,13 +166,11 @@ annotation SuppressWarnings
 
 @enduml
 
-PlantUML version 1.2020.08(Sun Apr 26 07:08:22 PDT 2020)
+PlantUML version 1.2021.01(Mon Feb 01 23:55:08 PST 2021)
 (GPL source distribution)
-Java Runtime: Java(TM) SE Runtime Environment
-JVM: Java HotSpot(TM) 64-Bit Server VM
-Java Version: 1.8.0_251-b32
-Operating System: Windows 10
-Default Encoding: Cp1252
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
 Language: en
 Country: US
 --></g></svg>
