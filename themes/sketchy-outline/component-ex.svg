@@ -36,7 +36,7 @@ link MyCollection2 to My Queue--><!--MD5=[0babb46f3d0f67f91c828a5eda35ab7d]
 link My Queue to My Interface--><!--MD5=[9bfee3aea78949ae207e8bd3b67fed50]
 link My Interface to My Card--><!--MD5=[afe9315598834b0b9f57a7a5b2c7ee2a]
 link My Queue to My File--><!--MD5=[f6296be58d13482500ae3b999db2843f]
-link My File to My Stack--><!--MD5=[1883cef9cf351a7cf61276d08857059e]
+link My File to My Stack--><!--MD5=[684dbd8c920611cbcc18dd20151e6dea]
 @startuml
 
 !$THEME = "sketchy-outline"
@@ -345,7 +345,6 @@ skinparam database {
 
 skinparam class {
 	$primary_scheme()
-	FontColor $LIGHT
 	HeaderBackgroundColor $BGCOLOR
 	StereotypeFontColor $DARK
 	BorderThickness 1
@@ -731,7 +730,6 @@ skinparam class {
 		FontColor #2e2e2e
 	BorderColor #333333
 	BackgroundColor transparent
-	FontColor #ffffff
 	HeaderBackgroundColor transparent
 	StereotypeFontColor #555555
 	BorderThickness 1
