@@ -7,6 +7,7 @@ title Sequence Diagram
 !endif
 
 'skinparam BackgroundColor transparent
+skinparam responseMessageBelowArrow true
 
 autonumber "<b>[000]"
 
@@ -45,7 +46,7 @@ Foo1 -> Foo6 : To collections
 Foo6 --> Foo4: $success("success")
 
 
-alt successful case
+group alt [successful case]
 
 Foo1 -> Alice: Authentication Accepted
 Alice --> Foo1: success
