@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="470.8333px" preserveAspectRatio="none" style="width:618px;height:470px;background:#00000000;" version="1.1" viewBox="0 0 618 470" width="618.75px" zoomAndPan="magnify"><defs><linearGradient id="gdahiaczwmks70" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#3E4A56"/><stop offset="100%" stop-color="#4E5D6C"/></linearGradient></defs><g><rect fill="url(#gdahiaczwmks70)" height="46.1528" rx="4.1667" ry="4.1667" style="stroke:#717D89;stroke-width:1.0416666666666667;" width="381.25" x="111.4583" y="2.0833"/><text fill="#DF691A" font-family="Verdana" font-size="20.8333" lengthAdjust="spacing" textLength="354.1667" x="125" y="33.4452">Class Diagram - superhero theme</text><!--MD5=[b4fa10df80476353258f72a232547d63]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="470.8333px" preserveAspectRatio="none" style="width:618px;height:470px;background:#00000000;" version="1.1" viewBox="0 0 618 470" width="618.75px" zoomAndPan="magnify"><defs><linearGradient id="g6hgwx9ta8zn80" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#3E4A56"/><stop offset="100%" stop-color="#4E5D6C"/></linearGradient></defs><g><rect fill="url(#g6hgwx9ta8zn80)" height="46.1528" rx="4.1667" ry="4.1667" style="stroke:#717D89;stroke-width:1.0416666666666667;" width="381.25" x="111.4583" y="2.0833"/><text fill="#DF691A" font-family="Verdana" font-size="20.8333" lengthAdjust="spacing" textLength="354.1667" x="125" y="33.4452">Class Diagram - superhero theme</text><!--MD5=[b4fa10df80476353258f72a232547d63]
 class AbstractList--><rect codeLine="10" fill="#DF691A" height="52.6917" id="AbstractList" rx="4.1667" ry="4.1667" style="stroke:#E58748;stroke-width:1.0416666666666667;" width="116.6667" x="197.3958" y="247.1944"/><rect fill="#B25415" height="36.025" rx="4.1667" ry="4.1667" style="stroke:#B25415;stroke-width:1.0416666666666667;" width="116.6667" x="197.3958" y="247.1944"/><rect fill="#B25415" height="4.1667" style="stroke:#B25415;stroke-width:1.0416666666666667;" width="116.6667" x="197.3958" y="279.0527"/><rect codeLine="10" fill="none" height="52.6917" id="AbstractList" rx="4.1667" ry="4.1667" style="stroke:#E58748;stroke-width:1.0416666666666667;" width="116.6667" x="197.3958" y="247.1944"/><ellipse cx="211.9792" cy="265.2069" fill="#5F8F00" rx="10.4167" ry="10.4167" style="stroke:#4A934A;stroke-width:1.0416666666666667;"/><path d="M211.5723,262.1633 L210.7259,265.8905 L212.4349,265.8905 L211.5723,262.1633 Z M210.4818,260.5194 L212.679,260.5194 L215.1367,269.634 L213.3301,269.634 L212.7767,267.3879 L210.3678,267.3879 L209.8145,269.634 L208.0078,269.634 L210.4818,260.5194 Z " fill="#000000"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-style="italic" lengthAdjust="spacing" textLength="75" x="230.7292" y="270.1782">AbstractList</text><line style="stroke:#E58748;stroke-width:1.0416666666666667;" x1="198.4375" x2="313.0208" y1="283.2194" y2="283.2194"/><line style="stroke:#E58748;stroke-width:1.0416666666666667;" x1="198.4375" x2="313.0208" y1="291.5527" y2="291.5527"/><!--MD5=[8e34b16d8d8f96f4a11290cd523ed859]
 class AbstractCollection--><rect codeLine="11" fill="#DF691A" height="52.6917" id="AbstractCollection" rx="4.1667" ry="4.1667" style="stroke:#E58748;stroke-width:1.0416666666666667;" width="153.125" x="7.2917" y="247.1944"/><rect fill="#B25415" height="36.025" rx="4.1667" ry="4.1667" style="stroke:#B25415;stroke-width:1.0416666666666667;" width="153.125" x="7.2917" y="247.1944"/><rect fill="#B25415" height="4.1667" style="stroke:#B25415;stroke-width:1.0416666666666667;" width="153.125" x="7.2917" y="279.0527"/><rect codeLine="11" fill="none" height="52.6917" id="AbstractCollection" rx="4.1667" ry="4.1667" style="stroke:#E58748;stroke-width:1.0416666666666667;" width="153.125" x="7.2917" y="247.1944"/><ellipse cx="21.875" cy="265.2069" fill="#5F8F00" rx="10.4167" ry="10.4167" style="stroke:#4A934A;stroke-width:1.0416666666666667;"/><path d="M21.4681,262.1633 L20.6217,265.8905 L22.3307,265.8905 L21.4681,262.1633 Z M20.3776,260.5194 L22.5749,260.5194 L25.0326,269.634 L23.2259,269.634 L22.6725,267.3879 L20.2637,267.3879 L19.7103,269.634 L17.9036,269.634 L20.3776,260.5194 Z " fill="#000000"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-style="italic" lengthAdjust="spacing" textLength="111.4583" x="40.625" y="270.1782">AbstractCollection</text><line style="stroke:#E58748;stroke-width:1.0416666666666667;" x1="8.3333" x2="159.375" y1="283.2194" y2="283.2194"/><line style="stroke:#E58748;stroke-width:1.0416666666666667;" x1="8.3333" x2="159.375" y1="291.5527" y2="291.5527"/><!--MD5=[3d4177ac58b4411586d067f34e84928f]
 class List--><rect codeLine="12" fill="#DF691A" height="52.6917" id="List" rx="4.1667" ry="4.1667" style="stroke:#E58748;stroke-width:1.0416666666666667;" width="64.5833" x="209.8958" y="95.1111"/><rect fill="#B25415" height="36.025" rx="4.1667" ry="4.1667" style="stroke:#B25415;stroke-width:1.0416666666666667;" width="64.5833" x="209.8958" y="95.1111"/><rect fill="#B25415" height="4.1667" style="stroke:#B25415;stroke-width:1.0416666666666667;" width="64.5833" x="209.8958" y="126.9694"/><rect codeLine="12" fill="none" height="52.6917" id="List" rx="4.1667" ry="4.1667" style="stroke:#E58748;stroke-width:1.0416666666666667;" width="64.5833" x="209.8958" y="95.1111"/><ellipse cx="224.4792" cy="113.1236" fill="#AE423F" rx="10.4167" ry="10.4167" style="stroke:#E17572;stroke-width:1.0416666666666667;"/><path d="M221.3704,110.2915 L221.3704,108.6965 L226.7904,108.6965 L226.7904,110.2915 L224.9837,110.2915 L224.9837,116.216 L226.7904,116.216 L226.7904,117.8111 L221.3704,117.8111 L221.3704,116.216 L223.1771,116.216 L223.1771,110.2915 L221.3704,110.2915 Z " fill="#000000"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-style="italic" lengthAdjust="spacing" textLength="22.9167" x="243.2292" y="118.0949">List</text><line style="stroke:#E58748;stroke-width:1.0416666666666667;" x1="210.9375" x2="273.4375" y1="131.1361" y2="131.1361"/><line style="stroke:#E58748;stroke-width:1.0416666666666667;" x1="210.9375" x2="273.4375" y1="139.4694" y2="139.4694"/><!--MD5=[c160724f8e3bb89ca8141a12554ac2e3]
@@ -10,7 +10,7 @@ reverse link List to AbstractList--><path codeLine="15" d="M246.4271,169.6215 C2
 reverse link Collection to AbstractCollection--><path codeLine="16" d="M101.8229,169.2361 C97.3854,194.7673 92.0625,225.4653 88.3646,246.7673 " fill="none" id="Collection-backto-AbstractCollection" style="stroke:#DF691A;stroke-width:3.125;"/><polygon fill="none" points="94.6667,167.7778,105.4167,148.4965,109.0417,170.2778,94.6667,167.7778" style="stroke:#DF691A;stroke-width:3.125;"/><!--MD5=[0159284274f96a472eb2618ad803aaca]
 reverse link Collection to List--><path codeLine="18" d="M181.6458,121.6736 C190.9792,121.6736 200.3229,121.6736 209.6563,121.6736 " fill="none" id="Collection-backto-List" style="stroke:#DF691A;stroke-width:3.125;"/><polygon fill="none" points="181.375,128.9653,160.5417,121.6736,181.375,114.3819,181.375,128.9653" style="stroke:#DF691A;stroke-width:3.125;"/><!--MD5=[7a3a52e8f65ef1a8d8d29530ea5cd870]
 reverse link AbstractCollection to AbstractList--><path codeLine="19" d="M181.75,273.7569 C186.8646,273.7569 191.9792,273.7569 197.0938,273.7569 " fill="none" id="AbstractCollection-backto-AbstractList" style="stroke:#DF691A;stroke-width:3.125;"/><polygon fill="none" points="181.5625,281.0486,160.7292,273.7569,181.5625,266.4653,181.5625,281.0486" style="stroke:#DF691A;stroke-width:3.125;"/><!--MD5=[40e4bb1af59cca28d4643aaff05088cc]
-reverse link AbstractList to ArrayList--><path codeLine="20" d="M255.7292,321.1944 C255.7292,334.5382 255.7292,349.1423 255.7292,362.6736 " fill="none" id="AbstractList-backto-ArrayList" style="stroke:#DF691A;stroke-width:3.125;"/><polygon fill="none" points="248.4375,321.1736,255.7292,300.3403,263.0208,321.1736,248.4375,321.1736" style="stroke:#DF691A;stroke-width:3.125;"/><!--MD5=[121fbce8411afbd513240f006da33d1e]
+reverse link AbstractList to ArrayList--><path codeLine="20" d="M255.7292,321.1944 C255.7292,334.5382 255.7292,349.1423 255.7292,362.6736 " fill="none" id="AbstractList-backto-ArrayList" style="stroke:#DF691A;stroke-width:3.125;"/><polygon fill="none" points="248.4375,321.1736,255.7292,300.3403,263.0208,321.1736,248.4375,321.1736" style="stroke:#DF691A;stroke-width:3.125;"/><!--MD5=[9bd1022ac073cf93bfb3455f61799a34]
 @startuml
 
 !$THEME = "superhero"
@@ -148,7 +148,7 @@ skinparam activity {
 
 skinparam participant {
 	$primary_scheme()
-	ParticipantBorderThickness 2
+	BorderThickness 2
 }
 !endsub
 
@@ -182,10 +182,10 @@ skinparam sequence {
 	LifeLineBorderColor $SECONDARY
 	LifeLineBorderThickness 2
 	LifeLineBackgroundColor $SECONDARY_DARK
+	GroupBackgroundColor $SECONDARY
 	GroupBorderColor $DARK
 	GroupFontColor $DARK
 	GroupHeaderFontColor $INFO
-	GroupBackgroundColor $SECONDARY
 	GroupHeaderBackgroundColor $BGCOLOR
 	DividerBackgroundColor $DARK
     DividerBorderColor $DARK
@@ -538,7 +538,7 @@ skinparam participant {
 		FontColor #FFF
 	BorderColor #e58748
 	BackgroundColor #DF691A
-	ParticipantBorderThickness 2
+	BorderThickness 2
 }
 
 
@@ -568,10 +568,10 @@ skinparam sequence {
 	LifeLineBorderColor #4E5D6C
 	LifeLineBorderThickness 2
 	LifeLineBackgroundColor #717d89
+	GroupBackgroundColor #4E5D6C
 	GroupBorderColor #4E5D6C
 	GroupFontColor #4E5D6C
 	GroupHeaderFontColor #5bc0de
-	GroupBackgroundColor #4E5D6C
 	GroupHeaderBackgroundColor transparent
 	DividerBackgroundColor #4E5D6C
     DividerBorderColor #4E5D6C
