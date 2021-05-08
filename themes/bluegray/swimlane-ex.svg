@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="477.0833px" preserveAspectRatio="none" style="width:627px;height:477px;background:#00000000;" version="1.1" viewBox="0 0 627 477" width="627.0833px" zoomAndPan="magnify"><defs><linearGradient id="g189psnoxziqmm0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#F5F5F5"/><stop offset="100%" stop-color="#F2F2F2"/></linearGradient><linearGradient id="g189psnoxziqmm1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#33B2E2"/><stop offset="100%" stop-color="#009FDB"/></linearGradient></defs><g><rect fill="url(#g189psnoxziqmm0)" height="52.4028" rx="4.1667" ry="4.1667" style="stroke:#C2C2C2;stroke-width:1.0416666666666667;" width="420.8333" x="101.5625" y="12.5"/><text fill="#009FDB" font-family="Verdana" font-size="20.8333" lengthAdjust="spacing" textLength="387.5" x="118.2292" y="46.9869">Swimlane Diagram - bluegray theme</text><rect fill="url(#g189psnoxziqmm0)" height="31.8583" style="stroke:url(#g189psnoxziqmm0);stroke-width:1.0416666666666667;" width="592.7083" x="15.625" y="69.0694"/><ellipse cx="109.8958" cy="116.5527" fill="#0568AE" rx="10.4167" ry="10.4167" style="stroke:none;stroke-width:1.0416666666666667;"/><rect fill="url(#g189psnoxziqmm1)" height="52.6917" rx="13.0208" ry="13.0208" style="stroke:#009FDB;stroke-width:1.5625;" width="176.0417" x="21.875" y="147.8027"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="138.5417" x="40.625" y="179.1199">Do something in First</text><rect fill="url(#g189psnoxziqmm1)" height="52.6917" rx="13.0208" ry="13.0208" style="stroke:#009FDB;stroke-width:1.5625;" width="159.375" x="30.2083" y="221.3277"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="121.875" x="48.9583" y="252.6449">Do something else</text><line style="stroke:#0568AE;stroke-width:2.0833333333333335;" x1="15.625" x2="15.625" y1="69.0694" y2="464.8193"/><rect fill="url(#g189psnoxziqmm1)" height="52.6917" rx="13.0208" ry="13.0208" style="stroke:#009FDB;stroke-width:1.5625;" width="195.8333" x="208.3333" y="294.8527"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="158.3333" x="227.0833" y="326.1698">Do something in Second</text><line style="stroke:#0568AE;stroke-width:2.0833333333333335;" x1="202.0833" x2="202.0833" y1="69.0694" y2="464.8193"/><rect fill="url(#g189psnoxziqmm1)" height="52.6917" rx="13.0208" ry="13.0208" style="stroke:#009FDB;stroke-width:1.5625;" width="180.2083" x="414.5833" y="368.3777"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="142.7083" x="433.3333" y="399.6948">Do something in Third</text><ellipse cx="504.6875" cy="453.361" rx="11.4583" ry="11.4583" style="stroke:#0568AE;stroke-width:1.0416666666666667;fill:none;"/><ellipse cx="504.6875" cy="453.361" fill="#0568AE" rx="6.25" ry="6.25" style="stroke:#023457;stroke-width:1.0416666666666667;"/><line style="stroke:#0568AE;stroke-width:2.0833333333333335;" x1="408.3333" x2="408.3333" y1="69.0694" y2="464.8193"/><line style="stroke:#0568AE;stroke-width:2.0833333333333335;" x1="598.9583" x2="598.9583" y1="69.0694" y2="464.8193"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="109.8958" x2="109.8958" y1="126.9694" y2="147.8027"/><polygon fill="#009FDB" points="105.7292,137.3861,109.8958,147.8027,114.0625,137.3861,109.8958,141.5527" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="109.8958" x2="109.8958" y1="200.4944" y2="221.3277"/><polygon fill="#009FDB" points="105.7292,210.9111,109.8958,221.3277,114.0625,210.9111,109.8958,215.0777" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="504.6875" x2="504.6875" y1="421.0693" y2="441.9027"/><polygon fill="#009FDB" points="500.5208,431.486,504.6875,441.9027,508.8542,431.486,504.6875,435.6527" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="109.8958" x2="109.8958" y1="274.0194" y2="279.2277"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="109.8958" x2="306.25" y1="279.2277" y2="279.2277"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="306.25" x2="306.25" y1="279.2277" y2="294.8527"/><polygon fill="#009FDB" points="302.0833,284.436,306.25,294.8527,310.4167,284.436,306.25,288.6027" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="306.25" x2="306.25" y1="347.5444" y2="352.7527"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="306.25" x2="504.6875" y1="352.7527" y2="352.7527"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="504.6875" x2="504.6875" y1="352.7527" y2="368.3777"/><polygon fill="#009FDB" points="500.5208,357.961,504.6875,368.3777,508.8542,357.961,504.6875,362.1277" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><text fill="#009FDB" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="94.7917" x="61.4583" y="89.9699">First Swimlane</text><text fill="#009FDB" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="114.5833" x="247.9167" y="89.9699">Second Swimlane</text><text fill="#009FDB" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="98.9583" x="454.1667" y="89.9699">Third Swimlane</text><!--MD5=[9340295745b37c4cc8e2bcda185d5448]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="493.75px" preserveAspectRatio="none" style="width:582px;height:493px;background:#00000000;" version="1.1" viewBox="0 0 582 493" width="582.2917px" zoomAndPan="magnify"><defs><linearGradient id="g7o1pi0v5of6m0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#6D6D6D"/><stop offset="100%" stop-color="#484848"/></linearGradient><linearGradient id="g7o1pi0v5of6m1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#6D6D6D"/><stop offset="100%" stop-color="#3A3A3A"/></linearGradient><linearGradient id="g7o1pi0v5of6m2" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#595959"/><stop offset="100%" stop-color="#262626"/></linearGradient></defs><g><rect fill="url(#g7o1pi0v5of6m0)" height="25.6083" style="stroke:url(#g7o1pi0v5of6m0);stroke-width:1.0416666666666667;" width="548.6979" x="15.625" y="11.4583"/><ellipse cx="138.8021" cy="52.6917" fill="#0060A8" rx="10.4167" ry="10.4167" style="stroke:none;stroke-width:1.0416666666666667;"/><polygon fill="url(#g7o1pi0v5of6m1)" points="114.3229,83.9417,163.2813,83.9417,175.7813,96.7458,163.2813,109.55,114.3229,109.55,101.8229,96.7458,114.3229,83.9417" style="stroke:#3A3A3A;stroke-width:1.5625;"/><text fill="#FEFEFE" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="38.5417" x="119.5313" y="101.7171">color?</text><text fill="#5A5A5A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="21.875" x="74.7396" y="88.913">red</text><text fill="#5A5A5A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="47.9167" x="180.9896" y="88.913">not red</text><rect fill="#FF0000" height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#262626;stroke-width:1.5625;" width="100" x="21.875" y="130.3833"/><text fill="#FFF200" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="68.75" x="37.5" y="158.5754">action red</text><rect fill="url(#g7o1pi0v5of6m2)" height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#262626;stroke-width:1.5625;" width="60.4167" x="41.6667" y="197.6583"/><text fill="#FFF200" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="29.1667" x="57.2917" y="225.8504">foo1</text><polygon fill="url(#g7o1pi0v5of6m1)" points="138.8021,254.5166,151.3021,267.0166,138.8021,279.5166,126.3021,267.0166,138.8021,254.5166" style="stroke:#3A3A3A;stroke-width:1.5625;"/><line style="stroke:#0060A8;stroke-width:2.0833333333333335;" x1="15.625" x2="15.625" y1="11.4583" y2="481.3416"/><rect fill="#00FF00" height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#262626;stroke-width:1.5625;" width="126.0417" x="241.4063" y="130.3833"/><text fill="#FFF200" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="94.7917" x="257.0313" y="158.5754">action not red</text><rect fill="url(#g7o1pi0v5of6m2)" height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#262626;stroke-width:1.5625;" width="60.4167" x="274.2188" y="197.6583"/><text fill="#FFF200" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="29.1667" x="289.8438" y="225.8504">foo2</text><line style="stroke:#0060A8;stroke-width:2.0833333333333335;" x1="234.1146" x2="234.1146" y1="11.4583" y2="481.3416"/><rect fill="#0060A8" height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#262626;stroke-width:1.5625;" width="60.4167" x="389.8438" y="300.3499"/><text fill="#FFF200" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="29.1667" x="405.4688" y="328.5421">foo3</text><rect fill="url(#g7o1pi0v5of6m2)" height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#262626;stroke-width:1.5625;" width="60.4167" x="389.8438" y="367.6249"/><text fill="#FFF200" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="29.1667" x="405.4688" y="395.8171">foo4</text><line style="stroke:#0060A8;stroke-width:2.0833333333333335;" x1="372.6563" x2="372.6563" y1="11.4583" y2="481.3416"/><rect fill="#FF8000" height="46.4417" rx="13.0208" ry="13.0208" style="stroke:#262626;stroke-width:1.5625;" width="60.4167" x="482.5521" y="434.8999"/><text fill="#FFF200" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="29.1667" x="498.1771" y="463.092">stop</text><line style="stroke:#0060A8;stroke-width:2.0833333333333335;" x1="465.3646" x2="465.3646" y1="11.4583" y2="481.3416"/><line style="stroke:#0060A8;stroke-width:2.0833333333333335;" x1="558.0729" x2="558.0729" y1="11.4583" y2="481.3416"/><line style="stroke:#303030;stroke-width:1.5625;" x1="71.875" x2="71.875" y1="176.825" y2="197.6583"/><polygon fill="#303030" points="67.7083,187.2416,71.875,197.6583,76.0417,187.2416,71.875,191.4083" style="stroke:#303030;stroke-width:1.0416666666666667;"/><line style="stroke:#303030;stroke-width:1.5625;" x1="101.8229" x2="71.875" y1="96.7458" y2="96.7458"/><line style="stroke:#303030;stroke-width:1.5625;" x1="71.875" x2="71.875" y1="96.7458" y2="130.3833"/><polygon fill="#303030" points="67.7083,119.9666,71.875,130.3833,76.0417,119.9666,71.875,124.1333" style="stroke:#303030;stroke-width:1.0416666666666667;"/><line style="stroke:#303030;stroke-width:1.5625;" x1="71.875" x2="71.875" y1="244.0999" y2="267.0166"/><line style="stroke:#303030;stroke-width:1.5625;" x1="71.875" x2="126.3021" y1="267.0166" y2="267.0166"/><polygon fill="#303030" points="115.8854,262.8499,126.3021,267.0166,115.8854,271.1833,120.0521,267.0166" style="stroke:#303030;stroke-width:1.0416666666666667;"/><line style="stroke:#303030;stroke-width:1.5625;" x1="138.8021" x2="138.8021" y1="63.1083" y2="83.9417"/><polygon fill="#303030" points="134.6354,73.525,138.8021,83.9417,142.9688,73.525,138.8021,77.6917" style="stroke:#303030;stroke-width:1.0416666666666667;"/><line style="stroke:#303030;stroke-width:1.5625;" x1="304.4271" x2="304.4271" y1="176.825" y2="197.6583"/><polygon fill="#303030" points="300.2604,187.2416,304.4271,197.6583,308.5938,187.2416,304.4271,191.4083" style="stroke:#303030;stroke-width:1.0416666666666667;"/><line style="stroke:#303030;stroke-width:1.5625;" x1="420.0521" x2="420.0521" y1="346.7916" y2="367.6249"/><polygon fill="#303030" points="415.8854,357.2083,420.0521,367.6249,424.2188,357.2083,420.0521,361.3749" style="stroke:#303030;stroke-width:1.0416666666666667;"/><line style="stroke:#303030;stroke-width:1.5625;" x1="175.7813" x2="304.4271" y1="96.7458" y2="96.7458"/><line style="stroke:#303030;stroke-width:1.5625;" x1="304.4271" x2="304.4271" y1="96.7458" y2="130.3833"/><polygon fill="#303030" points="300.2604,119.9666,304.4271,130.3833,308.5938,119.9666,304.4271,124.1333" style="stroke:#303030;stroke-width:1.0416666666666667;"/><line style="stroke:#303030;stroke-width:1.5625;" x1="304.4271" x2="304.4271" y1="244.0999" y2="267.0166"/><line style="stroke:#303030;stroke-width:1.5625;" x1="304.4271" x2="151.3021" y1="267.0166" y2="267.0166"/><polygon fill="#303030" points="161.7188,262.8499,151.3021,267.0166,161.7188,271.1833,157.5521,267.0166" style="stroke:#303030;stroke-width:1.0416666666666667;"/><line style="stroke:#303030;stroke-width:1.5625;" x1="138.8021" x2="138.8021" y1="279.5166" y2="284.7249"/><line style="stroke:#303030;stroke-width:1.5625;" x1="138.8021" x2="420.0521" y1="284.7249" y2="284.7249"/><line style="stroke:#303030;stroke-width:1.5625;" x1="420.0521" x2="420.0521" y1="284.7249" y2="300.3499"/><polygon fill="#303030" points="415.8854,289.9333,420.0521,300.3499,424.2188,289.9333,420.0521,294.0999" style="stroke:#303030;stroke-width:1.0416666666666667;"/><line style="stroke:#303030;stroke-width:1.5625;" x1="420.0521" x2="420.0521" y1="414.0666" y2="419.2749"/><line style="stroke:#303030;stroke-width:1.5625;" x1="420.0521" x2="512.7604" y1="419.2749" y2="419.2749"/><line style="stroke:#303030;stroke-width:1.5625;" x1="512.7604" x2="512.7604" y1="419.2749" y2="434.8999"/><polygon fill="#303030" points="508.5938,424.4832,512.7604,434.8999,516.9271,424.4832,512.7604,428.6499" style="stroke:#303030;stroke-width:1.0416666666666667;"/><text fill="#303030" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="92.7083" x="78.5156" y="29.2338">Actor_For_red</text><text fill="#303030" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="117.7083" x="244.5313" y="29.2338">Actor_For_no_red</text><text fill="#303030" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="71.875" x="383.0729" y="29.2338">Next_Actor</text><text fill="#303030" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="71.875" x="475.7813" y="29.2338">Final_Actor</text><!--MD5=[a88ca181731dff6e7daea33e70d1829b]
 @startuml
 
 !$THEME = "bluegray"
@@ -417,24 +417,23 @@ skinparam stack {
 	$primary_scheme()
 }
 !endsub
+!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/black-knight/puml-theme-black-knight.puml
 
-!if %variable_exists("$THEME")
-title Swimlane Diagram - $THEME theme
-!else
-title Swimlane Diagram
-!endif
-
-'skinparam BackgroundColor transparent
-
-|First Swimlane|
+|Actor_For_red|
 start
-    :Do something in First;
-    :Do something else;
-    |Second Swimlane|
-    :Do something in Second;
-        |Third Swimlane|
-        :Do something in Third;
-stop
+if (color?) is (red) then
+$DANGER:**action red**;
+:foo1;
+else (not red)
+|Actor_For_no_red|
+$SUCCESS:**action not red**;
+:foo2;
+endif
+|Next_Actor|
+$INFO:foo3;
+:foo4;
+|Final_Actor|
+$WARNING:stop;
 @enduml
 
 @startuml
@@ -795,18 +794,354 @@ skinparam stack {
 
 }
 
-title Swimlane Diagram - bluegray theme
 
 
-|First Swimlane|
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+skinparam  {
+    defaultFontName   "Verdana"
+    defaultFontSize   12
+    defaultTextAlignment center
+    shadowing false
+    RoundCorner 10
+    TitleFontSize 18
+}
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #484848
+skinparam stereotype {
+    CBackgroundColor #3a3a3a
+    CBorderColor #6d6d6d
+    ABackgroundColor #33ff33
+    ABorderColor #00cc00
+    IBackgroundColor #ff3333
+    IBorderColor #cc0000
+    EBackgroundColor #ff9933
+    EBorderColor #cc6600
+    NBackgroundColor #3380b9
+    NBorderColor #004d86
+}
+skinparam title {
+	FontColor	                 #fefefe
+	BorderColor	                 #3a3a3a
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #6d6d6d-#484848
+}
+
+
+skinparam legend {
+	BackgroundColor #303030
+	BorderColor #262626
+	FontColor #fff200
+}
+
+	skinparam swimlane {
+	BorderColor #0060a8
+	BorderThickness 2
+	TitleBackgroundColor  #6d6d6d-#484848
+	TitleFontColor #303030
+}
+
+skinparam activity {
+		FontColor #fff200
+	BorderColor #262626
+	BackgroundColor #595959-#262626
+	BarColor #00FF00
+	StartColor #0060a8
+	EndColor #0060a8
+	DiamondBackgroundColor #6d6d6d-#3a3a3a
+  	DiamondBorderColor #3a3a3a
+  	DiamondFontColor #fefefe
+}
+
+
+skinparam participant {
+		FontColor #fff200
+	BorderColor #262626
+	BackgroundColor #595959-#262626
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #fff200
+	BorderColor #262626
+	BackgroundColor #595959-#262626
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #303030
+	FontColor #5a5a5a
+}
+
+
+
+skinparam sequence {
+	BorderColor #303030
+	TitleFontColor #303030
+	BackgroundColor transparent
+	StartColor #303030
+	EndColor #303030
+	BoxBackgroundColor transparent
+	BoxBorderColor #484848
+	BoxFontColor #484848
+	LifeLineBorderColor #484848
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #3a3a3a
+	GroupBorderColor #484848
+	GroupFontColor #484848
+	GroupHeaderFontColor #0060a8
+	GroupBackgroundColor #484848
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor #484848
+    DividerBorderColor #484848
+    DividerBorderThickness 2
+    DividerFontColor #fff200
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #484848
+	ReferenceFontColor #fefefe
+	ReferenceHeaderBackgroundColor #484848
+}
+
+
+skinparam partition {
+	BorderColor #303030
+	FontColor #595959
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #fff200
+	BorderColor #262626
+	BackgroundColor #595959-#262626
+}
+
+
+skinparam control {
+		FontColor #fff200
+	BorderColor #262626
+	BackgroundColor #595959-#262626
+}
+
+
+skinparam entity {
+		FontColor #fff200
+	BorderColor #262626
+	BackgroundColor #595959-#262626
+}
+
+
+skinparam boundary {
+		FontColor #fff200
+	BorderColor #262626
+	BackgroundColor #595959-#262626
+}
+
+
+skinparam agent {
+	BackgroundColor #ff8000
+	BorderColor #ff9933
+	FontColor #484848
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #0060a8
+	BorderColor #004d86
+	FontColor #fff
+}
+
+
+skinparam artifact {
+	BackgroundColor #484848
+	BorderColor $DARK_DARK
+	FontColor #fff200
+}
+
+
+skinparam component {
+		FontColor #fff200
+	BorderColor #262626
+	BackgroundColor #595959-#262626
+}
+
+
+skinparam interface {
+	BackgroundColor  #cc0000
+	BorderColor  #ff0000
+	FontColor #484848
+}
+
+
+skinparam storage {
+	BackgroundColor #ff8000
+  	BorderColor #cc6600
+	FontColor #222222
+}
+
+
+skinparam node {
+	BackgroundColor transparent
+	BorderColor #595959
+	FontColor #fff200
+}
+
+
+skinparam cloud {
+	BackgroundColor #484848-black
+	BorderColor #484848
+	FontColor #fff200
+}
+
+
+skinparam database {
+		FontColor #fff200
+	BorderColor #262626
+	BackgroundColor #595959-#262626
+	BackgroundColor  transparent
+}
+
+
+skinparam class {
+		FontColor #fff200
+	BorderColor #262626
+	BackgroundColor #595959-#262626
+	HeaderBackgroundColor #595959
+	StereotypeFontColor #484848
+	BorderThickness 1
+	AttributeFontColor #fff200
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #fff200
+	BorderColor #262626
+	BackgroundColor #595959-#262626
+	StereotypeFontColor #484848
+	BorderThickness 1
+	AttributeFontColor #fefefe
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #fff200
+	BorderColor #262626
+	BackgroundColor #595959-#262626
+	BorderThickness 2
+	StereotypeFontColor #303030
+}
+
+
+skinparam rectangle {
+		FontColor #fff200
+	BorderColor #262626
+	BackgroundColor #595959-#262626
+	BackgroundColor transparent
+	BorderThickness 2
+	StereotypeFontColor #303030
+}
+
+
+skinparam package {
+		FontColor #fff200
+	BorderColor #262626
+	BackgroundColor #595959-#262626
+	BackgroundColor transparent
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #6d6d6d
+  	BorderColor #ff8000
+	FontColor #ff8000
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #6d6d6d
+  	BorderColor #0060a8
+	FontColor #0060a8
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #fff200
+	BorderColor #262626
+	BackgroundColor #595959-#262626
+	StartColor #0060a8
+	EndColor #0060a8
+	AttributeFontColor #fefefe
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #fff200
+	BorderColor #262626
+	BackgroundColor #595959-#262626
+}
+
+
+skinparam card {
+	BackgroundColor #0060a8
+	BorderColor #004d86
+	FontColor #fff
+}
+
+
+skinparam file {
+	BackgroundColor #6d6d6d-#484848
+	BorderColor #0060a8
+	FontColor #fefefe
+}
+
+
+skinparam stack {
+		FontColor #fff200
+	BorderColor #262626
+	BackgroundColor #595959-#262626
+}
+
+
+|Actor_For_red|
 start
-    :Do something in First;
-    :Do something else;
-    |Second Swimlane|
-    :Do something in Second;
-        |Third Swimlane|
-        :Do something in Third;
-stop
+if (color?) is (red) then
+#ff0000:**action red**;
+:foo1;
+else (not red)
+|Actor_For_no_red|
+#00FF00:**action not red**;
+:foo2;
+endif
+|Next_Actor|
+#0060a8:foo3;
+:foo4;
+|Final_Actor|
+#ff8000:stop;
 @enduml
 
 PlantUML version 1.2021.01(Mon Feb 01 23:55:08 PST 2021)
