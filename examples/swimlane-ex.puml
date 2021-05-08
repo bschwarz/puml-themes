@@ -1,20 +1,19 @@
 @startuml
+!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/black-knight/puml-theme-black-knight.puml
 
-!if %variable_exists("$THEME")
-title Swimlane Diagram - $THEME theme
-!else
-title Swimlane Diagram
-!endif
-
-'skinparam BackgroundColor transparent
-
-|First Swimlane|
+|Actor_For_red|
 start
-    :Do something in First;
-    :Do something else;
-    |Second Swimlane|
-    :Do something in Second;
-        |Third Swimlane|
-        :Do something in Third;
-stop
+if (color?) is (red) then
+$DANGER:**action red**;
+:foo1;
+else (not red)
+|Actor_For_no_red|
+$SUCCESS:**action not red**;
+:foo2;
+endif
+|Next_Actor|
+$INFO:foo3;
+:foo4;
+|Final_Actor|
+$WARNING:stop;
 @enduml

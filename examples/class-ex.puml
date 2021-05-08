@@ -13,7 +13,7 @@ abstract AbstractCollection
 interface List
 interface Collection
 
-List <|-- AbstractList
+List <|-- AbstractList: this is a message
 Collection <|-- AbstractCollection
 
 Collection <|- List

@@ -44,7 +44,7 @@ card "My Card"
 file "My File"
 stack "My Stack"
 
-[Another Component] --> [Example 1]
+[Another Component] --> [Example 1]: some message
 [Example 1] --> [Folder 3]
 [Folder 3] --> [Frame 4]
 

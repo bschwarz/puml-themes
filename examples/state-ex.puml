@@ -14,7 +14,7 @@ fork_state --> State2
 fork_state --> State3
 
 state join_state <<join>>
-State2 --> join_state
+State2 --> join_state: some message
 State3 --> join_state
 join_state --> State4
 State4 --> Active
