@@ -1,5 +1,4 @@
 @startuml
-!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/black-knight/puml-theme-black-knight.puml
 
 |Actor_For_red|
 start
