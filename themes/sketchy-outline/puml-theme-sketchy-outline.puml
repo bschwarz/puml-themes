@@ -313,7 +313,7 @@ skinparam node {
 !startsub cloud
 
 skinparam cloud {
-	BackgroundColor $BGCOLOR
+	BackgroundColor transparent
 	BorderColor #F2FCFE
 	FontColor $PRIMARY_TEXT
 }
