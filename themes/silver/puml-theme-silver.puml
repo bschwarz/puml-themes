@@ -170,7 +170,7 @@ skinparam sequence {
 	StartColor $PRIMARY
 	EndColor $PRIMARY
 	''
-	BoxBackgroundColor $LIGHT
+	BoxBackgroundColor $BGCOLOR
 	BoxBorderColor $GRAY
 	BoxFontColor $DARK
 	''
@@ -181,6 +181,9 @@ skinparam sequence {
 	GroupBorderColor $GRAY
 	GroupFontColor $DARK
 	GroupHeaderFontColor $INFO
+	GroupBackgroundColor $BGCOLOR
+	GroupBodyBackgroundColor $BGCOLOR
+	GroupHeaderBackgroundColor $BGCOLOR
 	''
 	DividerBackgroundColor $WHITE-$LIGHT
     DividerBorderColor $GRAY

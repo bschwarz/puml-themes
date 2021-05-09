@@ -165,7 +165,7 @@ skinparam sequence {
 	StartColor $PRIMARY
 	EndColor $PRIMARY
 	''
-	BoxBackgroundColor $LIGHT
+	BoxBackgroundColor $BGCOLOR
 	BoxBorderColor $GRAY
 	BoxFontColor $DARK
 	''
@@ -173,9 +173,12 @@ skinparam sequence {
 	LifeLineBorderThickness 2
 	LifeLineBackgroundColor $SECONDARY_LIGHT
 	''
-	GroupBorderColor $GRAY
+	GroupBorderColor $DARK
 	GroupFontColor $DARK
-	GroupHeaderFontColor $INFO
+	GroupHeaderFontColor $INFO_TEXT
+	GroupBackgroundColor $BGCOLOR
+	GroupBodyBackgroundColor $BGCOLOR
+	GroupHeaderBackgroundColor $BGCOLOR
 	''
 	DividerBackgroundColor $WHITE-$LIGHT
     DividerBorderColor $GRAY

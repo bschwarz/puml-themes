@@ -191,6 +191,7 @@ skinparam sequence {
 	LifeLineBackgroundColor $SECONDARY_DARK
 	''
 	GroupBackgroundColor $SECONDARY
+	GroupBodyBackgroundColor $BGCOLOR
 	GroupBorderColor $DARK
 	GroupFontColor $DARK
 	GroupHeaderFontColor $INFO

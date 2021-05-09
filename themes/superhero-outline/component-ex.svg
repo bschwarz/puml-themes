@@ -36,7 +36,7 @@ link MyCollection2 to My Queue--><!--MD5=[0babb46f3d0f67f91c828a5eda35ab7d]
 link My Queue to My Interface--><!--MD5=[9bfee3aea78949ae207e8bd3b67fed50]
 link My Interface to My Card--><!--MD5=[afe9315598834b0b9f57a7a5b2c7ee2a]
 link My Queue to My File--><!--MD5=[f6296be58d13482500ae3b999db2843f]
-link My File to My Stack--><!--MD5=[24da09ab3c9d0136c776a8fc87ac78a6]
+link My File to My Stack--><!--MD5=[38658ed14f406b968786257af964c6e8]
 @startuml
 
 !$THEME = "superhero-outline"
@@ -217,6 +217,7 @@ skinparam sequence {
 	GroupFontColor $DARK
 	GroupHeaderFontColor $INFO
 	GroupBackgroundColor $BGCOLOR
+	GroupBodyBackgroundColor $BGCOLOR
 	GroupHeaderBackgroundColor $BGCOLOR
 	DividerBackgroundColor $BGCOLOR
     DividerBorderColor $DARK
@@ -624,6 +625,7 @@ skinparam sequence {
 	GroupFontColor #4E5D6C
 	GroupHeaderFontColor #5bc0de
 	GroupBackgroundColor transparent
+	GroupBodyBackgroundColor transparent
 	GroupHeaderBackgroundColor transparent
 	DividerBackgroundColor transparent
     DividerBorderColor #4E5D6C

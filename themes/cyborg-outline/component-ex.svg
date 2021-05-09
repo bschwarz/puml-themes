@@ -36,7 +36,7 @@ link MyCollection2 to My Queue--><!--MD5=[0babb46f3d0f67f91c828a5eda35ab7d]
 link My Queue to My Interface--><!--MD5=[9bfee3aea78949ae207e8bd3b67fed50]
 link My Interface to My Card--><!--MD5=[afe9315598834b0b9f57a7a5b2c7ee2a]
 link My Queue to My File--><!--MD5=[f6296be58d13482500ae3b999db2843f]
-link My File to My Stack--><!--MD5=[74be229851be32ee1d73d51988fba93c]
+link My File to My Stack--><!--MD5=[873b6c3829403deacc5b9c472f47a529]
 @startuml
 
 !$THEME = "cyborg-outline"
@@ -213,6 +213,7 @@ skinparam sequence {
 	GroupFontColor $DARK
 	GroupHeaderFontColor $INFO_TEXT
 	GroupBackgroundColor $BGCOLOR
+	GroupBodyBackgroundColor $BGCOLOR
 	GroupHeaderBackgroundColor $BGCOLOR
 	DividerBackgroundColor $BGCOLOR
     DividerBorderColor $DARK
@@ -620,6 +621,7 @@ skinparam sequence {
 	GroupFontColor #ADAFAE
 	GroupHeaderFontColor #9933CC
 	GroupBackgroundColor transparent
+	GroupBodyBackgroundColor transparent
 	GroupHeaderBackgroundColor transparent
 	DividerBackgroundColor transparent
     DividerBorderColor #ADAFAE
