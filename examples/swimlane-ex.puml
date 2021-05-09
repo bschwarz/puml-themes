@@ -3,16 +3,16 @@
 |Actor_For_red|
 start
 if (color?) is (red) then
-$DANGER:**action red**;
+:**action red**;
 :foo1;
 else (not red)
 |Actor_For_no_red|
-$SUCCESS:**action not red**;
+:**action not red**;
 :foo2;
 endif
 |Next_Actor|
-$INFO:foo3;
+:foo3;
 :foo4;
 |Final_Actor|
-$WARNING:stop;
+:stop;
 @enduml
