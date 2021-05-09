@@ -294,7 +294,7 @@ skinparam node {
 !startsub cloud
 
 skinparam cloud {
-	BackgroundColor $DARK-black
+	BackgroundColor transparent
 	BorderColor $DARK
 	FontColor $LIGHT
 }
