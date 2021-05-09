@@ -14,7 +14,7 @@ link fork_state to State3--><path d="M243.2292,150.3298 C249.3021,159.4965 267.5
 link State2 to join_state--><path d="M171.9792,271.3923 C165.1563,289.2153 160.5104,312.1736 171.3542,329.4861 C181.7188,346.0382 202.5729,354.8194 218.9792,359.3507 " fill="none" id="State2-to-join_state" style="stroke:#DF691A;stroke-width:3.125;"/><polygon fill="#DF691A" points="224.3542,360.7257,216.3092,354.3593,219.3093,359.431,214.2377,362.4311,224.3542,360.7257" style="stroke:#DF691A;stroke-width:3.125;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="98.9583" x="177.6042" y="321.2199">some message</text><!--MD5=[183fde86cac17ac230b97143534e47db]
 link State3 to join_state--><path d="M303.2292,271.2986 C301.8125,289.0903 297.7708,312.0382 286.9792,329.4861 C278.9167,342.5278 263.9896,352.4653 253.5938,358.2257 " fill="none" id="State3-to-join_state" style="stroke:#DF691A;stroke-width:3.125;"/><polygon fill="#DF691A" points="248.8958,360.7048,259.1311,360.0039,253.4996,358.2693,255.2342,352.6378,248.8958,360.7048" style="stroke:#DF691A;stroke-width:3.125;"/><!--MD5=[1e473d623208eebf6d5ebd6e9bc5a11d]
 link join_state to State4--><path d="M242.1875,369.0798 C242.1875,378.1319 242.1875,405.0694 242.1875,427.3194 " fill="none" id="join_state-to-State4" style="stroke:#DF691A;stroke-width:3.125;"/><polygon fill="#DF691A" points="242.1875,432.5798,246.3542,423.2048,242.1875,427.3715,238.0208,423.2048,242.1875,432.5798" style="stroke:#DF691A;stroke-width:3.125;"/><!--MD5=[0a70b1a7cf318979336334b4227eefe4]
-link State4 to Active--><path d="M242.1875,490.1111 C242.1875,504.934 242.1875,524.8507 242.1875,547.809 " fill="none" id="State4-to-Active" style="stroke:#DF691A;stroke-width:3.125;"/><polygon fill="#DF691A" points="242.1875,553.059,246.3542,543.684,242.1875,547.8507,238.0208,543.684,242.1875,553.059" style="stroke:#DF691A;stroke-width:3.125;"/><!--MD5=[62a64cbd5870aaebb394f56454eeec9e]
+link State4 to Active--><path d="M242.1875,490.1111 C242.1875,504.934 242.1875,524.8507 242.1875,547.809 " fill="none" id="State4-to-Active" style="stroke:#DF691A;stroke-width:3.125;"/><polygon fill="#DF691A" points="242.1875,553.059,246.3542,543.684,242.1875,547.8507,238.0208,543.684,242.1875,553.059" style="stroke:#DF691A;stroke-width:3.125;"/><!--MD5=[2c8112eba45e51620224976a6bcacbe9]
 @startuml
 
 !$THEME = "superhero-outline"
@@ -311,7 +311,7 @@ skinparam node {
 !startsub cloud
 
 skinparam cloud {
-	BackgroundColor $BGCOLOR
+	BackgroundColor transparent
 	BorderColor #F2FCFE
 	FontColor $DARK
 }

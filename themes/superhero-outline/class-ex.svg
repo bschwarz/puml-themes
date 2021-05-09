@@ -10,7 +10,7 @@ reverse link List to AbstractList--><path codeLine="15" d="M250.3646,169.6423 C2
 reverse link Collection to AbstractCollection--><path codeLine="16" d="M112.2917,169.1632 C105,202.6423 95.4375,246.6007 89.4688,274.0173 " fill="none" id="Collection-backto-AbstractCollection" style="stroke:#DF691A;stroke-width:3.125;"/><polygon fill="none" points="105.2396,167.2673,116.7917,148.4653,119.4896,170.3715,105.2396,167.2673" style="stroke:#DF691A;stroke-width:3.125;"/><!--MD5=[0159284274f96a472eb2618ad803aaca]
 reverse link Collection to List--><path codeLine="18" d="M194.25,121.6736 C201.5208,121.6736 208.8021,121.6736 216.0729,121.6736 " fill="none" id="Collection-backto-List" style="stroke:#DF691A;stroke-width:3.125;"/><polygon fill="none" points="193.9375,128.9653,173.1042,121.6736,193.9375,114.3819,193.9375,128.9653" style="stroke:#DF691A;stroke-width:3.125;"/><!--MD5=[7a3a52e8f65ef1a8d8d29530ea5cd870]
 reverse link AbstractCollection to AbstractList--><path codeLine="19" d="M181.75,300.8403 C186.8646,300.8403 191.9792,300.8403 197.0938,300.8403 " fill="none" id="AbstractCollection-backto-AbstractList" style="stroke:#DF691A;stroke-width:3.125;"/><polygon fill="none" points="181.5625,308.1319,160.7292,300.8403,181.5625,293.5486,181.5625,308.1319" style="stroke:#DF691A;stroke-width:3.125;"/><!--MD5=[40e4bb1af59cca28d4643aaff05088cc]
-reverse link AbstractList to ArrayList--><path codeLine="20" d="M255.7292,348.7257 C255.7292,362.2361 255.7292,377.0278 255.7292,390.7048 " fill="none" id="AbstractList-backto-ArrayList" style="stroke:#DF691A;stroke-width:3.125;"/><polygon fill="none" points="248.4375,348.4444,255.7292,327.6111,263.0208,348.4444,248.4375,348.4444" style="stroke:#DF691A;stroke-width:3.125;"/><!--MD5=[37ee382aace9b0c0d8f3927398a477d3]
+reverse link AbstractList to ArrayList--><path codeLine="20" d="M255.7292,348.7257 C255.7292,362.2361 255.7292,377.0278 255.7292,390.7048 " fill="none" id="AbstractList-backto-ArrayList" style="stroke:#DF691A;stroke-width:3.125;"/><polygon fill="none" points="248.4375,348.4444,255.7292,327.6111,263.0208,348.4444,248.4375,348.4444" style="stroke:#DF691A;stroke-width:3.125;"/><!--MD5=[156e26d817779f7eaa2d887a52cc2f3b]
 @startuml
 
 !$THEME = "superhero-outline"
@@ -307,7 +307,7 @@ skinparam node {
 !startsub cloud
 
 skinparam cloud {
-	BackgroundColor $BGCOLOR
+	BackgroundColor transparent
 	BorderColor #F2FCFE
 	FontColor $DARK
 }

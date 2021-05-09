@@ -5,7 +5,7 @@ entity clerk--><ellipse cx="409.375" cy="196.1528" fill="none" rx="8.3333" ry="8
 link customer to checkout--><path d="M137.1875,231.5694 C156.2292,231.5694 180.3958,231.5694 202.375,231.5694 " fill="none" id="customer-checkout" style="stroke:#2FA4E7;stroke-width:3.125;"/><!--MD5=[3ad5c6d5c608bfd6b87dc9c07c40a15f]
 link checkout to payment--><path d="M263.0208,210.0694 C263.0208,193.3611 263.0208,170.1007 263.0208,152.1632 " fill="none" id="checkout-to-payment" style="stroke:#2FA4E7;stroke-width:3.125;stroke-dasharray:7.0,7.0;"/><polygon fill="#2FA4E7" points="263.0208,146.7882,258.8542,156.1632,263.0208,151.9965,267.1875,156.1632,263.0208,146.7882" style="stroke:#2FA4E7;stroke-width:3.125;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="45.8333" x="223.4375" y="183.7199">include</text><!--MD5=[739e7928149c8fe27c2b5850560351c7]
 link help to checkout--><path d="M263.0208,316.3194 C263.0208,299.6111 263.0208,276.3507 263.0208,258.4132 " fill="none" id="help-to-checkout" style="stroke:#2FA4E7;stroke-width:3.125;stroke-dasharray:7.0,7.0;"/><polygon fill="#2FA4E7" points="263.0208,253.0382,258.8542,262.4132,263.0208,258.2465,267.1875,262.4132,263.0208,253.0382" style="stroke:#2FA4E7;stroke-width:3.125;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="53.125" x="219.7917" y="289.9699">extends</text><!--MD5=[b4c4ee8f2d94c159d2b9e04bd372cbe0]
-link checkout to clerk--><path d="M323.5729,231.5694 C346.8646,231.5694 371.9583,231.5694 388.75,231.5694 " fill="none" id="checkout-clerk" style="stroke:#2FA4E7;stroke-width:3.125;"/><rect height="36.025" rx="5.2083" ry="5.2083" style="stroke:#BABDBF;stroke-width:1.0416666666666667;fill:none;" width="135.4167" x="173.4375" y="389.9028"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="112.5" x="184.8958" y="412.8866">This is my legend</text><!--MD5=[596f82cc7ba374027cb39f62fd9c610e]
+link checkout to clerk--><path d="M323.5729,231.5694 C346.8646,231.5694 371.9583,231.5694 388.75,231.5694 " fill="none" id="checkout-clerk" style="stroke:#2FA4E7;stroke-width:3.125;"/><rect height="36.025" rx="5.2083" ry="5.2083" style="stroke:#BABDBF;stroke-width:1.0416666666666667;fill:none;" width="135.4167" x="173.4375" y="389.9028"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="112.5" x="184.8958" y="412.8866">This is my legend</text><!--MD5=[3e44a0ce870b5fb4e0fec709d36e18d3]
 @startuml
 
 !$THEME = "cerulean-outline"
@@ -288,7 +288,7 @@ skinparam node {
 !startsub cloud
 
 skinparam cloud {
-	BackgroundColor #F2FCFE-#eeeeee
+	BackgroundColor transparent
 	BorderColor #F2FCFE
 	FontColor $DARK
 }
@@ -679,7 +679,7 @@ skinparam node {
 
 
 skinparam cloud {
-	BackgroundColor #F2FCFE-#eeeeee
+	BackgroundColor transparent
 	BorderColor #F2FCFE
 	FontColor #343A40
 }

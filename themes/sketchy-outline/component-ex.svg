@@ -36,7 +36,7 @@ link MyCollection2 to My Queue--><!--MD5=[0babb46f3d0f67f91c828a5eda35ab7d]
 link My Queue to My Interface--><!--MD5=[9bfee3aea78949ae207e8bd3b67fed50]
 link My Interface to My Card--><!--MD5=[afe9315598834b0b9f57a7a5b2c7ee2a]
 link My Queue to My File--><!--MD5=[f6296be58d13482500ae3b999db2843f]
-link My File to My Stack--><!--MD5=[74682bf6ca4c6a3164b4a0cc5d74f113]
+link My File to My Stack--><!--MD5=[415423d8fb4c047a70e9aead47fd417a]
 @startuml
 
 !$THEME = "sketchy-outline"
@@ -329,7 +329,7 @@ skinparam node {
 !startsub cloud
 
 skinparam cloud {
-	BackgroundColor $BGCOLOR
+	BackgroundColor transparent
 	BorderColor #F2FCFE
 	FontColor $PRIMARY_TEXT
 }
