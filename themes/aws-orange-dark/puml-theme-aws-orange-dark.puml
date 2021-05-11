@@ -1,0 +1,393 @@
+''
+'' superhero theme based off of the bootstrap theme of the same name
+'' https://bootswatch.com/superhero/
+''
+'' Author: Brett Schwarz
+'' Copyright (c) 2019 by Brett Schwarz
+
+!include %getenv("THEME_HOME")/common.puml
+
+!$THEME = "AWS Orange Dark"
+
+!if %not(%variable_exists("$BGCOLOR"))
+!$BGCOLOR = "black"
+!endif
+
+skinparam backgroundColor $BGCOLOR
+
+!$WHITE = "#FFF"
+!$GRAY_LIGHT = "#222"
+!$GRAY = "#868e96"
+!$PRIMARY = "#EC7211"
+!$SECONDARY = "#2a2e33"
+!$SUCCESS = "#6aaf35"
+!$INFO = "#44b9d6"
+'!$WARNING = "#879596"
+!$WARNING = "#EC7211"
+!$DANGER = "#ff5d64"
+!$LIGHT = "#abb6c2"
+!$DARK = "#4E5D6C"
+
+'' *_DARK = tint (lighter) of the main color of 80%
+''          where TINT is calculated by clr + (255-clr) * tint_factor
+'' *_LIGHT = shade (darker) of the main color of 80%
+''          and SHADE is calculated by clr * (1 - shade_factor)
+''
+!$FGCOLOR = $WHITE
+!$PRIMARY_DARK = "#f08e41"
+!$PRIMARY_LIGHT = "#bd5b0e"
+!$PRIMARY_TEXT = $WHITE
+!$SECONDARY_DARK = "#55585c"
+!$SECONDARY_LIGHT = "#222529"
+!$SECONDARY_TEXT = $WHITE
+!$INFO_DARK = "#69c7de"
+!$INFO_LIGHT = "#3694ab"
+!$INFO_TEXT = $WHITE
+!$SUCCESS_DARK = "#88bf5d"
+!$SUCCESS_LIGHT = "#558c2a"
+!$SUCCESS_TEXT = $WHITE
+!$WARNING_DARK = "#f08e41"
+!$WARNING_LIGHT = "#bd5b0e"
+!$WARNING_TEXT = $WHITE
+!$DANGER_DARK = "#ff7d83"
+!$DANGER_LIGHT = "#cc4a50"
+!$DANGER_TEXT = $WHITE
+!$DARK_DARK = "#717d89"
+!$DARK_LIGHT = "#3e4a56"
+!$LIGHT_DARK = "#bcc5ce"
+!$LIGHT_LIGHT = "#89929b"
+
+!procedure $primary_scheme()
+	FontColor $PRIMARY_TEXT
+	BorderColor $PRIMARY
+	BackgroundColor $PRIMARY_DARK-$PRIMARY
+!endprocedure
+
+''
+'' Global Default Values
+''
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            $DARK
+skinparam stereotype {
+    CBackgroundColor $SECONDARY_LIGHT
+    CBorderColor $SECONDARY_DARK
+    ABackgroundColor $SUCCESS_LIGHT
+    ABorderColor $SUCCESS_DARK
+    IBackgroundColor $DANGER_LIGHT
+    IBorderColor $DANGER_DARK
+    EBackgroundColor $WARNING_LIGHT
+    EBorderColor $WARNING_DARK
+    NBackgroundColor $INFO_LIGHT
+    NBorderColor $INFO_DARK
+}
+skinparam title {
+	FontColor	                 $PRIMARY_TEXT
+	BorderColor	                 $SECONDARY
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              $SECONDARY_DARK-$SECONDARY
+}
+
+skinparam legend {
+	BackgroundColor $SECONDARY
+	BorderColor $SECONDARY_DARK
+	FontColor $LIGHT
+}
+
+<style> 
+mindmapDiagram {
+	Padding 15
+	Margin 10
+	FontSize 12
+	FontName Verdana
+	Shadowing 0.0
+	'FontStyle bold
+	LineThickness 1.5
+	FontColor $PRIMARY_TEXT
+	LineColor $PRIMARY_DARK
+	BackGroundColor $PRIMARY_LIGHT-$PRIMARY
+	$primary_scheme()
+}
+</style>
+
+!startsub activity
+skinparam activity {
+	$primary_scheme()
+	BarColor $SUCCESS
+	StartColor $INFO
+	EndColor $INFO
+	''
+	DiamondBackgroundColor $SECONDARY_LIGHT
+  	DiamondBorderColor $SECONDARY_DARK
+  	DiamondFontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub participant
+skinparam participant {
+	$primary_scheme()
+	ParticipantBorderThickness 2
+}
+!endsub
+
+!startsub actor
+skinparam actor {
+	$primary_scheme()
+}
+!endsub
+
+!startsub arrow
+skinparam arrow {
+	Thickness 3
+	Color $PRIMARY
+	FontColor $FGCOLOR
+}
+!endsub
+
+!startsub sequence
+skinparam sequence {
+	BorderColor $PRIMARY
+	' For some reason sequence title font color does not pick up from global
+	TitleFontColor $PRIMARY
+	BackgroundColor $BGCOLOR
+	StartColor $PRIMARY
+	EndColor $PRIMARY
+	''
+	BoxBackgroundColor $BGCOLOR
+	BoxBorderColor $DARK
+	BoxFontColor $DARk
+	''
+	LifeLineBorderColor $SECONDARY
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor $SECONDARY_DARK
+	''
+	GroupBorderColor $DARK
+	GroupFontColor $DARK
+	GroupHeaderFontColor $INFO
+	GroupBackgroundColor $SECONDARY
+	GroupHeaderBackgroundColor $BGCOLOR
+	''
+	DividerBackgroundColor $DARK
+    DividerBorderColor $DARK
+    DividerBorderThickness 2
+    DividerFontColor $LIGHT
+	''
+	ReferenceBackgroundColor $BGCOLOR
+	ReferenceBorderColor $DARK
+	ReferenceFontColor $DARK
+	ReferenceHeaderFontColor $INFO
+	ReferenceHeaderBackgroundColor $SECONDARY
+}
+!endsub
+
+!startsub partition
+skinparam partition {
+	BorderColor $PRIMARY
+	FontColor $PRIMARY
+	BackgroundColor $BGCOLOR
+}
+!endsub
+
+!startsub collections
+skinparam collections {
+	$primary_scheme()
+}
+!endsub
+
+!startsub control
+skinparam control {
+	$primary_scheme()
+}
+!endsub
+
+!startsub entity
+skinparam entity {
+	$primary_scheme()
+}
+!endsub
+
+!startsub boundary
+skinparam boundary {
+	$primary_scheme()
+}
+!endsub
+
+!startsub agent
+skinparam agent {
+	BackgroundColor $WARNING
+	BorderColor $WARNING_LIGHT
+	FontColor $DARK
+}
+!endsub
+
+!startsub note
+skinparam note {
+	BorderThickness 1
+	BackgroundColor $INFO
+	BorderColor $INFO_DARK
+	FontColor $WHITE
+}
+!endsub
+
+!startsub artifact
+skinparam artifact {
+	BackgroundColor $DARK
+	BorderColor $DARK_DARK
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub component
+skinparam component {
+	$primary_scheme()
+}
+!endsub
+
+!startsub interface
+skinparam interface {
+	BackgroundColor  $DANGER_DARK
+	BorderColor  $DANGER
+	FontColor $DARK
+}
+!endsub
+
+!startsub storage
+skinparam storage {
+	BackgroundColor $WARNING
+  	BorderColor $WARNING_DARK
+	FontColor $WARNING_TEXT
+}
+!endsub
+
+!startsub node
+skinparam node {
+	BackgroundColor  $SECONDARY
+	BorderColor $LIGHT
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub cloud
+skinparam cloud {
+	BackgroundColor $DARK
+	BorderColor $DARK
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub database
+skinparam database {
+	$primary_scheme()
+}
+!endsub
+
+!startsub class
+skinparam class {
+	$primary_scheme()
+	HeaderBackgroundColor $PRIMARY_LIGHT
+	StereotypeFontColor $DARK
+	BorderThickness 1
+	AttributeFontColor $DARK
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub object
+skinparam object {
+	$primary_scheme()
+	StereotypeFontColor $DARK
+	BorderThickness 1
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub usecase
+skinparam usecase {
+	$primary_scheme()
+	BorderThickness 2
+	StereotypeFontColor $PRIMARY
+}
+!endsub
+
+!startsub rectangle
+skinparam rectangle {
+	$primary_scheme()
+	BackgroundColor $SECONDARY_LIGHT
+	BorderThickness 2
+	StereotypeFontColor $PRIMARY
+}
+!endsub
+
+!startsub package
+skinparam package {
+	BackgroundColor $SECONDARY
+  	BorderColor $PRIMARY
+	FontColor $PRIMARY
+	BorderThickness 2
+}
+!endsub
+
+!startsub folder
+skinparam folder {
+	BackgroundColor $SECONDARY_LIGHT
+  	BorderColor $WARNING
+	FontColor $WARNING
+	BorderThickness 2
+}
+!endsub
+
+!startsub frame
+skinparam frame {
+	BackgroundColor $SECONDARY_LIGHT
+  	BorderColor $INFO
+	FontColor $INFO
+	BorderThickness 2
+}
+!endsub
+
+!startsub state
+skinparam state {
+	$primary_scheme()
+	StartColor $INFO
+	EndColor $INFO
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub queue
+skinparam queue {
+	$primary_scheme()
+}
+!endsub
+
+!startsub card
+skinparam card {
+	BackgroundColor $INFO
+	BorderColor $INFO_DARK
+	FontColor $INFO_TEXT
+}
+!endsub
+
+!startsub file
+skinparam file {
+	BackgroundColor $SECONDARY_DARK
+	BorderColor $LIGHT
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub stack
+skinparam stack {
+	$primary_scheme()
+}
+!endsub
