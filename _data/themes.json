@@ -1,6 +1,18 @@
 {
   "themes": [
     {
+      "name": "aws-orange-light",
+      "description": "Colors from Amazon Web Services - light background",
+      "url": "https://bschwarz.github.io/puml-themes/themes/aws-orange-light/",
+      "background": "white"
+    },
+    {
+      "name": "aws-orange-dark",
+      "description": "Colors from Amazon Web Services - dark background",
+      "url": "https://bschwarz.github.io/puml-themes/themes/aws-orange-dark/",
+      "background": "black"
+    },
+    {
       "name": "black-knight",
       "description": "Hacker theme based off of Black Knight colors",
       "url": "https://bschwarz.github.io/puml-themes/themes/black-knight/",
