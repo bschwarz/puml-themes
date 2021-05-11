@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="512.5px" preserveAspectRatio="none" style="width:660px;height:512px;" version="1.1" viewBox="0 0 660 512" width="660.4167px" zoomAndPan="magnify"><defs/><g><rect fill="none" height="37.8092" style="stroke:none;stroke-width:1.0416666666666667;" width="356.25" x="147.6563" y="5.2083"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" font-weight="bold" lengthAdjust="spacing" textLength="335.4167" x="158.0729" y="29.1616">Class Diagram - AWS Orange Dark theme</text><!--MD5=[b4fa10df80476353258f72a232547d63]
-class AbstractList--><rect codeLine="10" fill="#FEFECE" height="54.4759" id="AbstractList" rx="4.1667" ry="4.1667" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="125" x="216.1458" y="283.6426"/><ellipse cx="230.7292" cy="302.5472" fill="#558C2A" rx="10.4167" ry="10.4167" style="stroke:#88BF5D;stroke-width:1.0416666666666667;"/><path d="M230.3223,299.5036 L229.4759,303.2308 L231.1849,303.2308 L230.3223,299.5036 Z M229.2318,297.8597 L231.429,297.8597 L233.8867,306.9743 L232.0801,306.9743 L231.5267,304.7282 L229.1178,304.7282 L228.5645,306.9743 L226.7578,306.9743 L229.2318,297.8597 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" font-style="italic" lengthAdjust="spacing" textLength="83.3333" x="249.4792" y="307.5958">AbstractList</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="217.1875" x2="340.1042" y1="321.4518" y2="321.4518"/><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="217.1875" x2="340.1042" y1="329.7852" y2="329.7852"/><!--MD5=[8e34b16d8d8f96f4a11290cd523ed859]
-class AbstractCollection--><rect codeLine="11" fill="#FEFECE" height="54.4759" id="AbstractCollection" rx="4.1667" ry="4.1667" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="171.875" x="7.2917" y="283.6426"/><ellipse cx="21.875" cy="302.5472" fill="#558C2A" rx="10.4167" ry="10.4167" style="stroke:#88BF5D;stroke-width:1.0416666666666667;"/><path d="M21.4681,299.5036 L20.6217,303.2308 L22.3307,303.2308 L21.4681,299.5036 Z M20.3776,297.8597 L22.5749,297.8597 L25.0326,306.9743 L23.2259,306.9743 L22.6725,304.7282 L20.2637,304.7282 L19.7103,306.9743 L17.9036,306.9743 L20.3776,297.8597 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" font-style="italic" lengthAdjust="spacing" textLength="130.2083" x="40.625" y="307.5958">AbstractCollection</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="8.3333" x2="178.125" y1="321.4518" y2="321.4518"/><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="8.3333" x2="178.125" y1="329.7852" y2="329.7852"/><!--MD5=[3d4177ac58b4411586d067f34e84928f]
-class List--><rect codeLine="12" fill="#FEFECE" height="54.4759" id="List" rx="4.1667" ry="4.1667" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="65.625" x="237.5" y="97.7051"/><ellipse cx="252.0833" cy="116.6097" fill="#CC4A50" rx="10.4167" ry="10.4167" style="stroke:#FF7D83;stroke-width:1.0416666666666667;"/><path d="M248.9746,113.7777 L248.9746,112.1826 L254.3945,112.1826 L254.3945,113.7777 L252.5879,113.7777 L252.5879,119.7021 L254.3945,119.7021 L254.3945,121.2972 L248.9746,121.2972 L248.9746,119.7021 L250.7813,119.7021 L250.7813,113.7777 L248.9746,113.7777 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" font-style="italic" lengthAdjust="spacing" textLength="23.9583" x="270.8333" y="121.6583">List</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="238.5417" x2="302.0833" y1="135.5143" y2="135.5143"/><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="238.5417" x2="302.0833" y1="143.8477" y2="143.8477"/><!--MD5=[c160724f8e3bb89ca8141a12554ac2e3]
-class Collection--><rect codeLine="13" fill="#FEFECE" height="54.4759" id="Collection" rx="4.1667" ry="4.1667" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="112.5" x="80.7292" y="97.7051"/><ellipse cx="95.3125" cy="116.6097" fill="#CC4A50" rx="10.4167" ry="10.4167" style="stroke:#FF7D83;stroke-width:1.0416666666666667;"/><path d="M92.2038,113.7777 L92.2038,112.1826 L97.6237,112.1826 L97.6237,113.7777 L95.8171,113.7777 L95.8171,119.7021 L97.6237,119.7021 L97.6237,121.2972 L92.2038,121.2972 L92.2038,119.7021 L94.0104,119.7021 L94.0104,113.7777 L92.2038,113.7777 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" font-style="italic" lengthAdjust="spacing" textLength="70.8333" x="114.0625" y="121.6583">Collection</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="81.7708" x2="192.1875" y1="135.5143" y2="135.5143"/><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="81.7708" x2="192.1875" y1="143.8477" y2="143.8477"/><!--MD5=[ab8871ed637f40707b866ba6597734bc]
-class ArrayList--><rect codeLine="22" fill="#FEFECE" height="109.2611" id="ArrayList" rx="4.1667" ry="4.1667" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="177.0833" x="190.1042" y="401.3509"/><ellipse cx="239.5833" cy="420.2555" fill="#222529" rx="10.4167" ry="10.4167" style="stroke:#55585C;stroke-width:1.0416666666666667;"/><path d="M241.4876,424.6826 Q241.0645,424.8942 240.5924,425.0081 Q240.1204,425.1221 239.6159,425.1221 Q237.7604,425.1221 236.7839,423.9176 Q235.8236,422.6969 235.8236,420.402 Q235.8236,418.0908 236.7839,416.8864 Q237.7604,415.6657 239.6159,415.6657 Q240.1204,415.6657 240.5924,415.7796 Q241.0807,415.8773 241.4876,416.1051 L241.4876,418.1071 Q241.0319,417.6839 240.5924,417.4886 Q240.153,417.277 239.6973,417.277 Q238.7044,417.277 238.1999,418.0745 Q237.6953,418.8558 237.6953,420.402 Q237.6953,421.932 238.1999,422.7132 Q238.7044,423.4945 239.6973,423.4945 Q240.153,423.4945 240.5924,423.2992 Q241.0319,423.1038 241.4876,422.6807 L241.4876,424.6826 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="59.375" x="264.5833" y="425.3042">ArrayList</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="191.1458" x2="366.1458" y1="439.1602" y2="439.1602"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="154.1667" x="201.5625" y="462.0717">Object[] elementData</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="191.1458" x2="366.1458" y1="474.8861" y2="474.8861"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="39.5833" x="201.5625" y="497.7976">size()</text><!--MD5=[15b68e006199004da79ea2a4d117d8e9]
-class TimeUnit--><rect codeLine="27" fill="#FEFECE" height="136.6536" id="TimeUnit" rx="4.1667" ry="4.1667" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="105.2083" x="339.5833" y="56.5592"/><ellipse cx="354.1667" cy="75.4639" fill="#BD5B0E" rx="10.4167" ry="10.4167" style="stroke:#F08E41;stroke-width:1.0416666666666667;"/><path d="M356.7057,80.1514 L351.0254,80.1514 L351.0254,71.0368 L356.7057,71.0368 L356.7057,72.6318 L352.832,72.6318 L352.832,74.585 L356.3314,74.585 L356.3314,76.18 L352.832,76.18 L352.832,78.5563 L356.7057,78.5563 L356.7057,80.1514 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="63.5417" x="372.9167" y="80.5125">TimeUnit</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="340.625" x2="443.75" y1="94.3685" y2="94.3685"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="39.5833" x="351.0417" y="117.2801">DAYS</text><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="52.0833" x="351.0417" y="144.6726">HOURS</text><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="64.5833" x="351.0417" y="172.0652">MINUTES</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="340.625" x2="443.75" y1="184.8796" y2="184.8796"/><!--MD5=[0c8287f799745f7b534bf75518604c1e]
-class SuppressWarnings--><rect codeLine="33" fill="#FEFECE" height="54.4759" id="SuppressWarnings" rx="4.1667" ry="4.1667" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="177.0833" x="481.7708" y="97.7051"/><ellipse cx="496.3542" cy="116.6097" fill="#3694AB" rx="10.4167" ry="10.4167" style="stroke:#69C7DE;stroke-width:1.0416666666666667;"/><path d="M497.6074,116.4144 Q497.6074,115.7145 497.2982,115.3239 Q496.9889,114.9333 496.4355,114.9333 Q495.8984,114.9333 495.5892,115.3239 Q495.2799,115.7145 495.2799,116.4144 Q495.2799,117.098 495.5892,117.4886 Q495.8984,117.8792 496.4355,117.8792 Q496.9889,117.8792 497.2982,117.4886 Q497.6074,117.098 497.6074,116.4144 Z M498.7467,118.9046 L497.5423,118.9046 L497.5423,118.4163 Q497.3145,118.7256 496.9889,118.8883 Q496.6797,119.0348 496.2402,119.0348 Q495.2474,119.0348 494.6289,118.3187 Q494.0104,117.5863 494.0104,116.4144 Q494.0104,115.2262 494.6126,114.5101 Q495.2311,113.7939 496.2402,113.7939 Q496.6797,113.7939 497.0052,113.9404 Q497.3307,114.0869 497.5423,114.3799 L497.5423,114.1357 Q497.5423,113.3057 497.0866,112.8499 Q496.6309,112.3942 495.8008,112.3942 Q494.5313,112.3942 493.7174,113.5173 Q492.9199,114.624 492.9199,116.4144 Q492.9199,118.2861 493.8477,119.4092 Q494.7754,120.516 496.3216,120.516 Q496.8099,120.516 497.2656,120.3695 Q497.7214,120.223 498.1445,119.93 L498.6979,121.0042 Q498.2096,121.346 497.6237,121.5088 Q497.0378,121.6878 496.3867,121.6878 Q494.2383,121.6878 492.9688,120.2555 Q491.6992,118.8395 491.6992,116.4144 Q491.6992,114.0544 492.8385,112.6383 Q493.9941,111.2223 495.8659,111.2223 Q497.2005,111.2223 497.9655,112.0199 Q498.7467,112.8174 498.7467,114.2171 L498.7467,118.9046 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="135.4167" x="515.1042" y="121.6583">SuppressWarnings</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="482.8125" x2="657.8125" y1="135.5143" y2="135.5143"/><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="482.8125" x2="657.8125" y1="143.8477" y2="143.8477"/><!--MD5=[00308d07b6a5721fb0cf5861877e6652]
-reverse link List to AbstractList--><path codeLine="15" d="M272.4583,173.2676 C274.0521,208.3197 276.1563,254.7363 277.4583,283.3926 " fill="none" id="List-backto-AbstractList" style="stroke:#EC7211;stroke-width:3.125;"/><polygon fill="none" points="265.1667,173.3092,271.5104,152.1738,279.7292,172.653,265.1667,173.3092" style="stroke:#EC7211;stroke-width:3.125;"/><text fill="#FFFFFF" font-family="sans-serif" font-size="13.5417" lengthAdjust="spacing" textLength="116.6667" x="281.7708" y="243.0873">this is a message</text><!--MD5=[1822909749df1453bdd84de7a60a3406]
+class AbstractList--><rect codeLine="10" fill="#FEFECE" height="54.4759" id="AbstractList" rx="4.1667" ry="4.1667" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="125" x="216.1458" y="283.6426"/><ellipse cx="230.7292" cy="302.5472" fill="#4A9A35" rx="10.4167" ry="10.4167" style="stroke:#176702;stroke-width:1.0416666666666667;"/><path d="M230.3223,299.5036 L229.4759,303.2308 L231.1849,303.2308 L230.3223,299.5036 Z M229.2318,297.8597 L231.429,297.8597 L233.8867,306.9743 L232.0801,306.9743 L231.5267,304.7282 L229.1178,304.7282 L228.5645,306.9743 L226.7578,306.9743 L229.2318,297.8597 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" font-style="italic" lengthAdjust="spacing" textLength="83.3333" x="249.4792" y="307.5958">AbstractList</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="217.1875" x2="340.1042" y1="321.4518" y2="321.4518"/><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="217.1875" x2="340.1042" y1="329.7852" y2="329.7852"/><!--MD5=[8e34b16d8d8f96f4a11290cd523ed859]
+class AbstractCollection--><rect codeLine="11" fill="#FEFECE" height="54.4759" id="AbstractCollection" rx="4.1667" ry="4.1667" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="171.875" x="7.2917" y="283.6426"/><ellipse cx="21.875" cy="302.5472" fill="#4A9A35" rx="10.4167" ry="10.4167" style="stroke:#176702;stroke-width:1.0416666666666667;"/><path d="M21.4681,299.5036 L20.6217,303.2308 L22.3307,303.2308 L21.4681,299.5036 Z M20.3776,297.8597 L22.5749,297.8597 L25.0326,306.9743 L23.2259,306.9743 L22.6725,304.7282 L20.2637,304.7282 L19.7103,306.9743 L17.9036,306.9743 L20.3776,297.8597 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" font-style="italic" lengthAdjust="spacing" textLength="130.2083" x="40.625" y="307.5958">AbstractCollection</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="8.3333" x2="178.125" y1="321.4518" y2="321.4518"/><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="8.3333" x2="178.125" y1="329.7852" y2="329.7852"/><!--MD5=[3d4177ac58b4411586d067f34e84928f]
+class List--><rect codeLine="12" fill="#FEFECE" height="54.4759" id="List" rx="4.1667" ry="4.1667" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="65.625" x="237.5" y="97.7051"/><ellipse cx="252.0833" cy="116.6097" fill="#DA5B41" rx="10.4167" ry="10.4167" style="stroke:#A7280E;stroke-width:1.0416666666666667;"/><path d="M248.9746,113.7777 L248.9746,112.1826 L254.3945,112.1826 L254.3945,113.7777 L252.5879,113.7777 L252.5879,119.7021 L254.3945,119.7021 L254.3945,121.2972 L248.9746,121.2972 L248.9746,119.7021 L250.7813,119.7021 L250.7813,113.7777 L248.9746,113.7777 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" font-style="italic" lengthAdjust="spacing" textLength="23.9583" x="270.8333" y="121.6583">List</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="238.5417" x2="302.0833" y1="135.5143" y2="135.5143"/><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="238.5417" x2="302.0833" y1="143.8477" y2="143.8477"/><!--MD5=[c160724f8e3bb89ca8141a12554ac2e3]
+class Collection--><rect codeLine="13" fill="#FEFECE" height="54.4759" id="Collection" rx="4.1667" ry="4.1667" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="112.5" x="80.7292" y="97.7051"/><ellipse cx="95.3125" cy="116.6097" fill="#DA5B41" rx="10.4167" ry="10.4167" style="stroke:#A7280E;stroke-width:1.0416666666666667;"/><path d="M92.2038,113.7777 L92.2038,112.1826 L97.6237,112.1826 L97.6237,113.7777 L95.8171,113.7777 L95.8171,119.7021 L97.6237,119.7021 L97.6237,121.2972 L92.2038,121.2972 L92.2038,119.7021 L94.0104,119.7021 L94.0104,113.7777 L92.2038,113.7777 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" font-style="italic" lengthAdjust="spacing" textLength="70.8333" x="114.0625" y="121.6583">Collection</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="81.7708" x2="192.1875" y1="135.5143" y2="135.5143"/><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="81.7708" x2="192.1875" y1="143.8477" y2="143.8477"/><!--MD5=[ab8871ed637f40707b866ba6597734bc]
+class ArrayList--><rect codeLine="22" fill="#FEFECE" height="109.2611" id="ArrayList" rx="4.1667" ry="4.1667" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="177.0833" x="190.1042" y="401.3509"/><ellipse cx="239.5833" cy="420.2555" fill="#FFFFFF" rx="10.4167" ry="10.4167" style="stroke:#CCCCCC;stroke-width:1.0416666666666667;"/><path d="M241.4876,424.6826 Q241.0645,424.8942 240.5924,425.0081 Q240.1204,425.1221 239.6159,425.1221 Q237.7604,425.1221 236.7839,423.9176 Q235.8236,422.6969 235.8236,420.402 Q235.8236,418.0908 236.7839,416.8864 Q237.7604,415.6657 239.6159,415.6657 Q240.1204,415.6657 240.5924,415.7796 Q241.0807,415.8773 241.4876,416.1051 L241.4876,418.1071 Q241.0319,417.6839 240.5924,417.4886 Q240.153,417.277 239.6973,417.277 Q238.7044,417.277 238.1999,418.0745 Q237.6953,418.8558 237.6953,420.402 Q237.6953,421.932 238.1999,422.7132 Q238.7044,423.4945 239.6973,423.4945 Q240.153,423.4945 240.5924,423.2992 Q241.0319,423.1038 241.4876,422.6807 L241.4876,424.6826 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="59.375" x="264.5833" y="425.3042">ArrayList</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="191.1458" x2="366.1458" y1="439.1602" y2="439.1602"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="154.1667" x="201.5625" y="462.0717">Object[] elementData</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="191.1458" x2="366.1458" y1="474.8861" y2="474.8861"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="39.5833" x="201.5625" y="497.7976">size()</text><!--MD5=[15b68e006199004da79ea2a4d117d8e9]
+class TimeUnit--><rect codeLine="27" fill="#FEFECE" height="136.6536" id="TimeUnit" rx="4.1667" ry="4.1667" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="105.2083" x="339.5833" y="56.5592"/><ellipse cx="354.1667" cy="75.4639" fill="#F08E41" rx="10.4167" ry="10.4167" style="stroke:#BD5B0E;stroke-width:1.0416666666666667;"/><path d="M356.7057,80.1514 L351.0254,80.1514 L351.0254,71.0368 L356.7057,71.0368 L356.7057,72.6318 L352.832,72.6318 L352.832,74.585 L356.3314,74.585 L356.3314,76.18 L352.832,76.18 L352.832,78.5563 L356.7057,78.5563 L356.7057,80.1514 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="63.5417" x="372.9167" y="80.5125">TimeUnit</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="340.625" x2="443.75" y1="94.3685" y2="94.3685"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="39.5833" x="351.0417" y="117.2801">DAYS</text><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="52.0833" x="351.0417" y="144.6726">HOURS</text><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="64.5833" x="351.0417" y="172.0652">MINUTES</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="340.625" x2="443.75" y1="184.8796" y2="184.8796"/><!--MD5=[0c8287f799745f7b534bf75518604c1e]
+class SuppressWarnings--><rect codeLine="33" fill="#FEFECE" height="54.4759" id="SuppressWarnings" rx="4.1667" ry="4.1667" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="177.0833" x="481.7708" y="97.7051"/><ellipse cx="496.3542" cy="116.6097" fill="#338FC9" rx="10.4167" ry="10.4167" style="stroke:#005C96;stroke-width:1.0416666666666667;"/><path d="M497.6074,116.4144 Q497.6074,115.7145 497.2982,115.3239 Q496.9889,114.9333 496.4355,114.9333 Q495.8984,114.9333 495.5892,115.3239 Q495.2799,115.7145 495.2799,116.4144 Q495.2799,117.098 495.5892,117.4886 Q495.8984,117.8792 496.4355,117.8792 Q496.9889,117.8792 497.2982,117.4886 Q497.6074,117.098 497.6074,116.4144 Z M498.7467,118.9046 L497.5423,118.9046 L497.5423,118.4163 Q497.3145,118.7256 496.9889,118.8883 Q496.6797,119.0348 496.2402,119.0348 Q495.2474,119.0348 494.6289,118.3187 Q494.0104,117.5863 494.0104,116.4144 Q494.0104,115.2262 494.6126,114.5101 Q495.2311,113.7939 496.2402,113.7939 Q496.6797,113.7939 497.0052,113.9404 Q497.3307,114.0869 497.5423,114.3799 L497.5423,114.1357 Q497.5423,113.3057 497.0866,112.8499 Q496.6309,112.3942 495.8008,112.3942 Q494.5313,112.3942 493.7174,113.5173 Q492.9199,114.624 492.9199,116.4144 Q492.9199,118.2861 493.8477,119.4092 Q494.7754,120.516 496.3216,120.516 Q496.8099,120.516 497.2656,120.3695 Q497.7214,120.223 498.1445,119.93 L498.6979,121.0042 Q498.2096,121.346 497.6237,121.5088 Q497.0378,121.6878 496.3867,121.6878 Q494.2383,121.6878 492.9688,120.2555 Q491.6992,118.8395 491.6992,116.4144 Q491.6992,114.0544 492.8385,112.6383 Q493.9941,111.2223 495.8659,111.2223 Q497.2005,111.2223 497.9655,112.0199 Q498.7467,112.8174 498.7467,114.2171 L498.7467,118.9046 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="135.4167" x="515.1042" y="121.6583">SuppressWarnings</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="482.8125" x2="657.8125" y1="135.5143" y2="135.5143"/><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="482.8125" x2="657.8125" y1="143.8477" y2="143.8477"/><!--MD5=[00308d07b6a5721fb0cf5861877e6652]
+reverse link List to AbstractList--><path codeLine="15" d="M272.4583,173.2676 C274.0521,208.3197 276.1563,254.7363 277.4583,283.3926 " fill="none" id="List-backto-AbstractList" style="stroke:#EC7211;stroke-width:3.125;"/><polygon fill="none" points="265.1667,173.3092,271.5104,152.1738,279.7292,172.653,265.1667,173.3092" style="stroke:#EC7211;stroke-width:3.125;"/><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" lengthAdjust="spacing" textLength="116.6667" x="281.7708" y="243.0873">this is a message</text><!--MD5=[1822909749df1453bdd84de7a60a3406]
 reverse link Collection to AbstractCollection--><path codeLine="16" d="M125.8125,172.7676 C117.4583,207.8717 106.3333,254.6009 99.4896,283.3926 " fill="none" id="Collection-backto-AbstractCollection" style="stroke:#EC7211;stroke-width:3.125;"/><polygon fill="none" points="118.7917,170.7467,130.7083,152.1738,132.9792,174.1322,118.7917,170.7467" style="stroke:#EC7211;stroke-width:3.125;"/><!--MD5=[0159284274f96a472eb2618ad803aaca]
 reverse link Collection to List--><path codeLine="18" d="M214.3229,124.7884 C222.0417,124.7884 229.7708,124.7884 237.4896,124.7884 " fill="none" id="Collection-backto-List" style="stroke:#EC7211;stroke-width:3.125;"/><polygon fill="none" points="214.0625,132.0801,193.2292,124.7884,214.0625,117.4967,214.0625,132.0801" style="stroke:#EC7211;stroke-width:3.125;"/><!--MD5=[7a3a52e8f65ef1a8d8d29530ea5cd870]
 reverse link AbstractCollection to AbstractList--><path codeLine="19" d="M200.4792,310.7259 C205.6042,310.7259 210.7292,310.7259 215.8542,310.7259 " fill="none" id="AbstractCollection-backto-AbstractList" style="stroke:#EC7211;stroke-width:3.125;"/><polygon fill="none" points="200.25,318.0176,179.4167,310.7259,200.25,303.4342,200.25,318.0176" style="stroke:#EC7211;stroke-width:3.125;"/><!--MD5=[40e4bb1af59cca28d4643aaff05088cc]
-reverse link AbstractList to ArrayList--><path codeLine="20" d="M278.6458,359.1322 C278.6458,372.6426 278.6458,387.4551 278.6458,401.2988 " fill="none" id="AbstractList-backto-ArrayList" style="stroke:#EC7211;stroke-width:3.125;"/><polygon fill="none" points="271.3542,358.8717,278.6458,338.0384,285.9375,358.8717,271.3542,358.8717" style="stroke:#EC7211;stroke-width:3.125;"/><!--MD5=[7d817800b3576a809fd690ef1d3602b3]
+reverse link AbstractList to ArrayList--><path codeLine="20" d="M278.6458,359.1322 C278.6458,372.6426 278.6458,387.4551 278.6458,401.2988 " fill="none" id="AbstractList-backto-ArrayList" style="stroke:#EC7211;stroke-width:3.125;"/><polygon fill="none" points="271.3542,358.8717,278.6458,338.0384,285.9375,358.8717,271.3542,358.8717" style="stroke:#EC7211;stroke-width:3.125;"/><!--MD5=[abb3ff6bcc747a804b8cede40a451815]
 @startuml
 
 !$THEME = "AWS Orange Dark"
@@ -21,36 +21,38 @@ reverse link AbstractList to ArrayList--><path codeLine="20" d="M278.6458,359.13
 
 skinparam backgroundColor $BGCOLOR
 
+
+
 !$WHITE = "#FFF"
 !$GRAY_LIGHT = "#222"
 !$GRAY = "#868e96"
 !$PRIMARY = "#EC7211"
-!$SECONDARY = "#2a2e33"
-!$SUCCESS = "#6aaf35"
-!$INFO = "#44b9d6"
+!$SECONDARY = "#FFFFFF"
+!$SUCCESS = "#1D8102"
+!$INFO = "#0073bb"
 !$WARNING = "#EC7211"
-!$DANGER = "#ff5d64"
+!$DANGER = "#d13212"
 !$LIGHT = "#abb6c2"
 !$DARK = "#4E5D6C"
 
-!$FGCOLOR = $WHITE
-!$PRIMARY_DARK = "#f08e41"
-!$PRIMARY_LIGHT = "#bd5b0e"
+!$FGCOLOR = $DARK
+!$PRIMARY_DARK = "#bd5b0e"
+!$PRIMARY_LIGHT = "#f08e41"
 !$PRIMARY_TEXT = $WHITE
-!$SECONDARY_DARK = "#55585c"
-!$SECONDARY_LIGHT = "#222529"
-!$SECONDARY_TEXT = $WHITE
-!$INFO_DARK = "#69c7de"
-!$INFO_LIGHT = "#3694ab"
+!$SECONDARY_DARK = "#cccccc"
+!$SECONDARY_LIGHT = "#ffffff"
+!$SECONDARY_TEXT = $DARK
+!$INFO_DARK = "#005c96"
+!$INFO_LIGHT = "#338fc9"
 !$INFO_TEXT = $WHITE
-!$SUCCESS_DARK = "#88bf5d"
-!$SUCCESS_LIGHT = "#558c2a"
+!$SUCCESS_DARK = "#176702"
+!$SUCCESS_LIGHT = "#4a9a35"
 !$SUCCESS_TEXT = $WHITE
-!$WARNING_DARK = "#f08e41"
-!$WARNING_LIGHT = "#bd5b0e"
+!$WARNING_DARK = "#bd5b0e"
+!$WARNING_LIGHT = "#f08e41"
 !$WARNING_TEXT = $WHITE
-!$DANGER_DARK = "#ff7d83"
-!$DANGER_LIGHT = "#cc4a50"
+!$DANGER_DARK = "#a7280e"
+!$DANGER_LIGHT = "#da5b41"
 !$DANGER_TEXT = $WHITE
 !$DARK_DARK = "#717d89"
 !$DARK_LIGHT = "#3e4a56"
@@ -72,7 +74,7 @@ skinparam backgroundColor $BGCOLOR
 !procedure $primary_scheme()
 	FontColor $PRIMARY_TEXT
 	BorderColor $PRIMARY
-	BackgroundColor $PRIMARY_DARK-$PRIMARY
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
 !endprocedure
 
 skinparam defaultFontName       "Verdana"
@@ -97,12 +99,12 @@ skinparam stereotype {
     NBorderColor $INFO_DARK
 }
 skinparam title {
-	FontColor	                 $PRIMARY_TEXT
+	FontColor	                 $DARK
 	BorderColor	                 $SECONDARY
 	FontSize	    	         20
 	BorderRoundCorner            8
 	BorderThickness 	         1
-	BackgroundColor              $SECONDARY_DARK-$SECONDARY
+	BackgroundColor              $SECONDARY-$SECONDARY_DARK
 }
 
 skinparam legend {
@@ -169,9 +171,9 @@ skinparam sequence {
 	BoxBackgroundColor $BGCOLOR
 	BoxBorderColor $DARK
 	BoxFontColor $DARk
-	LifeLineBorderColor $SECONDARY
+	LifeLineBorderColor $LIGHT
 	LifeLineBorderThickness 2
-	LifeLineBackgroundColor $SECONDARY_DARK
+	LifeLineBackgroundColor $LIGHT_DARK
 	GroupBorderColor $DARK
 	GroupFontColor $DARK
 	GroupHeaderFontColor $INFO
@@ -287,6 +289,7 @@ skinparam cloud {
 !startsub database
 skinparam database {
 	$primary_scheme()
+	FontColor $DARK
 }
 !endsub
 
@@ -440,6 +443,8 @@ skinparam backgroundColor undefined
 
 
 
+
+
 skinparam defaultFontName       "Verdana"
 skinparam defaultFontSize       12
 skinparam dpi                   100
@@ -450,29 +455,29 @@ skinparam BoxPadding            40
 skinparam Padding               5
 skinparam ArrowColor            #4E5D6C
 skinparam stereotype {
-    CBackgroundColor #222529
-    CBorderColor #55585c
-    ABackgroundColor #558c2a
-    ABorderColor #88bf5d
-    IBackgroundColor #cc4a50
-    IBorderColor #ff7d83
-    EBackgroundColor #bd5b0e
-    EBorderColor #f08e41
-    NBackgroundColor #3694ab
-    NBorderColor #69c7de
+    CBackgroundColor #ffffff
+    CBorderColor #cccccc
+    ABackgroundColor #4a9a35
+    ABorderColor #176702
+    IBackgroundColor #da5b41
+    IBorderColor #a7280e
+    EBackgroundColor #f08e41
+    EBorderColor #bd5b0e
+    NBackgroundColor #338fc9
+    NBorderColor #005c96
 }
 skinparam title {
-	FontColor	                 #FFF
-	BorderColor	                 #2a2e33
+	FontColor	                 #4E5D6C
+	BorderColor	                 #FFFFFF
 	FontSize	    	         20
 	BorderRoundCorner            8
 	BorderThickness 	         1
-	BackgroundColor              #55585c-#2a2e33
+	BackgroundColor              #FFFFFF-#cccccc
 }
 
 skinparam legend {
-	BackgroundColor #2a2e33
-	BorderColor #55585c
+	BackgroundColor #FFFFFF
+	BorderColor #cccccc
 	FontColor #abb6c2
 }
 
@@ -485,8 +490,8 @@ mindmapDiagram {
 	Shadowing 0.0
 	LineThickness 1.5
 	FontColor #FFF
-	LineColor #f08e41
-	BackGroundColor #bd5b0e-#EC7211
+	LineColor #bd5b0e
+	BackGroundColor #f08e41-#EC7211
 		FontColor #FFF
 	BorderColor #EC7211
 	BackgroundColor #f08e41-#EC7211
@@ -497,12 +502,12 @@ skinparam activity {
 		FontColor #FFF
 	BorderColor #EC7211
 	BackgroundColor #f08e41-#EC7211
-	BarColor #6aaf35
-	StartColor #44b9d6
-	EndColor #44b9d6
-	DiamondBackgroundColor #222529
-  	DiamondBorderColor #55585c
-  	DiamondFontColor #FFF
+	BarColor #1D8102
+	StartColor #0073bb
+	EndColor #0073bb
+	DiamondBackgroundColor #ffffff
+  	DiamondBorderColor #cccccc
+  	DiamondFontColor #4E5D6C
 }
 
 skinparam participant {
@@ -521,7 +526,7 @@ skinparam actor {
 skinparam arrow {
 	Thickness 3
 	Color #EC7211
-	FontColor #FFF
+	FontColor #4E5D6C
 }
 
 skinparam sequence {
@@ -533,13 +538,13 @@ skinparam sequence {
 	BoxBackgroundColor undefined
 	BoxBorderColor #4E5D6C
 	BoxFontColor $DARk
-	LifeLineBorderColor #2a2e33
+	LifeLineBorderColor #abb6c2
 	LifeLineBorderThickness 2
-	LifeLineBackgroundColor #55585c
+	LifeLineBackgroundColor #bcc5ce
 	GroupBorderColor #4E5D6C
 	GroupFontColor #4E5D6C
-	GroupHeaderFontColor #44b9d6
-	GroupBackgroundColor #2a2e33
+	GroupHeaderFontColor #0073bb
+	GroupBackgroundColor #FFFFFF
 	GroupHeaderBackgroundColor undefined
 	DividerBackgroundColor #4E5D6C
     DividerBorderColor #4E5D6C
@@ -548,8 +553,8 @@ skinparam sequence {
 	ReferenceBackgroundColor undefined
 	ReferenceBorderColor #4E5D6C
 	ReferenceFontColor #4E5D6C
-	ReferenceHeaderFontColor #44b9d6
-	ReferenceHeaderBackgroundColor #2a2e33
+	ReferenceHeaderFontColor #0073bb
+	ReferenceHeaderBackgroundColor #FFFFFF
 }
 
 skinparam partition {
@@ -584,14 +589,14 @@ skinparam boundary {
 
 skinparam agent {
 	BackgroundColor #EC7211
-	BorderColor #bd5b0e
+	BorderColor #f08e41
 	FontColor #4E5D6C
 }
 
 skinparam note {
 	BorderThickness 1
-	BackgroundColor #44b9d6
-	BorderColor #69c7de
+	BackgroundColor #0073bb
+	BorderColor #005c96
 	FontColor #FFF
 }
 
@@ -608,19 +613,19 @@ skinparam component {
 }
 
 skinparam interface {
-	BackgroundColor  #ff7d83
-	BorderColor  #ff5d64
+	BackgroundColor  #a7280e
+	BorderColor  #d13212
 	FontColor #4E5D6C
 }
 
 skinparam storage {
 	BackgroundColor #EC7211
-  	BorderColor #f08e41
+  	BorderColor #bd5b0e
 	FontColor #FFF
 }
 
 skinparam node {
-	BackgroundColor  #2a2e33
+	BackgroundColor  #FFFFFF
 	BorderColor #abb6c2
 	FontColor #abb6c2
 }
@@ -635,13 +640,14 @@ skinparam database {
 		FontColor #FFF
 	BorderColor #EC7211
 	BackgroundColor #f08e41-#EC7211
+	FontColor #4E5D6C
 }
 
 skinparam class {
 		FontColor #FFF
 	BorderColor #EC7211
 	BackgroundColor #f08e41-#EC7211
-	HeaderBackgroundColor #bd5b0e
+	HeaderBackgroundColor #f08e41
 	StereotypeFontColor #4E5D6C
 	BorderThickness 1
 	AttributeFontColor #4E5D6C
@@ -654,7 +660,7 @@ skinparam object {
 	BackgroundColor #f08e41-#EC7211
 	StereotypeFontColor #4E5D6C
 	BorderThickness 1
-	AttributeFontColor #FFF
+	AttributeFontColor #4E5D6C
 	AttributeFontSize 11
 }
 
@@ -670,29 +676,29 @@ skinparam rectangle {
 		FontColor #FFF
 	BorderColor #EC7211
 	BackgroundColor #f08e41-#EC7211
-	BackgroundColor #222529
+	BackgroundColor #ffffff
 	BorderThickness 2
 	StereotypeFontColor #EC7211
 }
 
 skinparam package {
-	BackgroundColor #2a2e33
+	BackgroundColor #FFFFFF
   	BorderColor #EC7211
 	FontColor #EC7211
 	BorderThickness 2
 }
 
 skinparam folder {
-	BackgroundColor #222529
+	BackgroundColor #ffffff
   	BorderColor #EC7211
 	FontColor #EC7211
 	BorderThickness 2
 }
 
 skinparam frame {
-	BackgroundColor #222529
-  	BorderColor #44b9d6
-	FontColor #44b9d6
+	BackgroundColor #ffffff
+  	BorderColor #0073bb
+	FontColor #0073bb
 	BorderThickness 2
 }
 
@@ -700,9 +706,9 @@ skinparam state {
 		FontColor #FFF
 	BorderColor #EC7211
 	BackgroundColor #f08e41-#EC7211
-	StartColor #44b9d6
-	EndColor #44b9d6
-	AttributeFontColor #FFF
+	StartColor #0073bb
+	EndColor #0073bb
+	AttributeFontColor #4E5D6C
 	AttributeFontSize 11
 }
 
@@ -713,13 +719,13 @@ skinparam queue {
 }
 
 skinparam card {
-	BackgroundColor #44b9d6
-	BorderColor #69c7de
+	BackgroundColor #0073bb
+	BorderColor #005c96
 	FontColor #FFF
 }
 
 skinparam file {
-	BackgroundColor #55585c
+	BackgroundColor #cccccc
 	BorderColor #abb6c2
 	FontColor #abb6c2
 }

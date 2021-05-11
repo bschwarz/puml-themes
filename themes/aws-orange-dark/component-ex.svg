@@ -1,8 +1,820 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="529px" preserveAspectRatio="none" style="width:603px;height:529px;background:#000000;" version="1.1" viewBox="0 0 603 529" width="603px" zoomAndPan="magnify"><defs/><g><rect fill="#0C1725" height="1" style="stroke:#0C1725;stroke-width:1.0;" width="1" x="0" y="0"/><rect fill="#F6C914" height="73" style="stroke:#F6C914;stroke-width:1.0;" width="602" x="0" y="0"/><image height="58" width="454" x="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcYAAAA6CAMAAAAdmwnNAAADAFBMVEX2yRQ4AADTyRQ4cREAAAT2yRGKLQAAAAAZFxpikBT2yQ7TcQRiAAAALQuKrRT2kAiwUQAAUQ6wyRT2rQsAAAgYFhoYFxkZFhn2yRMYFxr2yBP2yBRiLQAALQj1yRM4UQ4ZFhqwrRT2rQ4KChoODhkVFBqwUQT/0xQICRn1yRTTkAgAAhgALQQREBr3yhP/0RMAABYMDRoCAxr/1hMCBBj90BPTkAsFBxr1yBT/3Rj/1xJicQ+KkBH/2BQAARQQDhn6zBMYFRlikBD8zhMTExkGCBn/3BT5yxMTEhn+0RMDBho4UQnTyQ//3xf1yBP/1ROKUQTTcQg4cQ44LQBicQsLCxf/2xP/2BAGBxv/1BP/1Rr4yRUAABgWExwEBxcYFRwDBBawcQTTrRQ4AAQtJxn4yhOPdhn/0BdoVxnrvxj4yxPkuxb/0hL/3xO2lhb6zhLgthYPDRWKchkpIxv/2Rn7zRL/2hb/3hQAABrxxhjDoBhiUQT2rRGwcQj/2g8mHxf/0xHDnhX5zBISEBwkHxn/4BUxKxoVEhi7lxX2yRJaShtwXhhjVBiliBj6zBRjUhcYFxf6zho6Mhj/2RJMQBpfTxocGBU+NhkQEBeHcBoXFBbRqRdRQxkDAhR9ahmKrQ+KcQQ4LQj/1hjYsBi+mRiihRcVEhv+0Rr3yxmtjxhQRBr1yhL+zxJnVBnFoxjIoxh6Yhn/1xf5yxcKDRnmvhaafhewkBdjUhz/1BFJPRmVexlzYRgXFhj0yRefhBn/4xOJchmfgRiCahq0khb3zRNyXRnitxjxxBeykxv+0RLbsxY1LRogGxz/2hP/5Rm+nBSoiRcAUQiwkBGKkBQ4cQv2kAuwkAiKkAsKBhZFPBdtWReCbxpUSBn7zxLzxhmOdBg0Lh3swhpBNxyqihZbThzowRuoixfYtBknIxWtixiDbRj/3xusjxy5mx1+ZRyVdx3uwRnovxgTEBX4zBXMpRZaTxemhBb2yRzGoRf/5x/zyRXMohJgUR1iLQSwrQ7TrQ4qcmSgAAARg0lEQVR4Xu2ceXQUx5nAq++e7jkkDZIGSSAsbowhMcYxYIIJR7xrTIyJca6Nsf3y3nodx5tsTPyyYZP12vuy+5y3MUt8bMza8e6+HE7igPG12Dy/GOGQmAVzI8CS0IEOmNHMaKanp6+tqj5mpqWZFhCttMr8/lBXV9X31Tf1dVVXdfcnAMqUKTM+oNwZQ7jpoZbGz1Vtb79JIMRBd2GZ8QHhznAzN+WrWqbq137p5LyNH3a7S8uMD7xG49z48i/vuGffmT2vvtx9/8tJd7En4bAsqIY7t8wfGS830o3L092/qTqTvf6Ogb83LtuNgp4EGqO6s4vA0NDlQm2aU+fF/LK7tBBc1535JwvpznBB/fmD/9mTfD9Onjfe07rcpZ4QiurPujOLIqApXumbzDBn3UVDwHWHg2Er3VnjnD+CxV5uNN6XNXSM9WZSl+fFDfcfBYwSCIH7fO6iYqggrQMl25Fg2AraXYj4zlZtI8fRt5FW3eEIKir6URUB/NPCBJxvmvzmCWhqQKL30sF8gTHHsrgIIWIE/VfsmraZWr347UQCgEDNPz35rruwFAxBkJJAMjF3QQkqJFLCiXDUnxrGSaGMlWBTulPXTSijwgtPIHk9Cs9EFZ6FoyyuLJBKQI9iy9xSY4lpcTGK/tB8SlwGmCzbMA3dPyseeu6Uu8wDjQG+VMKdWwImHfDBGSZQBdO07cV5BNdoV0gb2g1flOV6RvLjulBkFjcFVc+DACz860vJA+iMQX9UFvDoyGayMJdhNZw7csQhw3eYds1sgstfbYQ4H5wB0A/IpYZiWjwEUxmTHom1Hm6M3Pm5U2fhpRLkVw94VHXBsL5BQWZpjrMmfqGh0vw12DVTrkET3p0FNwaGxZ3MoX5PoBlwUhWYdY4FXXmdePTfAejIVtC4LhBq20EfWQXESVXMHRycOQU/J4HpBFepsvacC7tI1dZRsNNF6Q7z8iicsb0NA1QKFqGJeZbpCLvdPFFEWG1HDsmJqyAbau0HPb68lNNKCM73MMlZFlsqHFlLGepHS30JvHyjSb0roBeF9Ok+d1FpfCla96VgosaaMJj+BPpdEBG6pi9ZBZ21s2CpgkTgHw1NhiwIt/bLA6H2mrr8PkcOaKolUlFcl1H7I2vgcpVRBn5AvAGyBLyxwkpnrr0hbi2O8bXMKBX/kJRAOK3uQZeHPVBtvA2D5oTOsVkOiO34mrLbzRNFwKv2NgUuJXLiDNiQ8MMfkM1L5bUCoFYsiSw2dTiytjL8Qz3xcCP5wZyLb0BTeyqjDe6y0qABdSkESLnDmlcJTTQTITVQpxuwX3GOCuwbnjkGVTaDeyYcpZYleS2Qqk4HLA1ouF7curGrZ5lk1mUJoX0vHpYVBAGXxEHoRoqpEY8164w9UUHHQ7EtDC/IfnuDUtgx3oYx2tNaYAvICoTgo5S8dh1RjC8l/Bppzhd/1Z9qxTOCk3JaYbRjiUAdza4xLTZ1OLK2MtwfnnjsG1fW/MW7pwHg2I+/03LBXVgSWqdVwMu8vf1jVD5lwBUH7G9C7dd5XaFRDlx1OFWwCI3ORfnDJ/2TDwEh23jDe/V9dvcHE+CJ5pM3dnxk1hVIEUisykkU0fjjQJrgDLiTFLIGWlVZLfM0bUhCljsiDK7rItO4BdZg8nvG2zBGDX16p/qBqjMyrepErl1H1ByQBCc3JA1ToSnOqwEyDavTkpNSc60Y3X36BSXba1qcMwbLWsryu7AEHm7kNj98Gs4DXOTRumMXAagLVvqa5lZX3xWf1DB/dc+1evHnASJsHv5+wl5l8TQD57UBwAspn2QAVqcpmMMYusHYZuL+ELPwnNeepYx+5Kzo1Eybs8tnDfZ3T2sd6BzVFbJ0LJygmAxP91cACegivM3QuoY6lUdqkOOppIGyOP0kOYCNgjWk/OcG3obhqyTpHzyywxcXVMXIa9cSNSsqDXwfWNKBck1xRiXSadhoOp1LVdqt6ATZoqL+syx2jDFlLWWAF50uLIHHpMoFFqBpIzHnrf0JEIn8YkP1grUfW/fl9W+u2PIgebPUvT7ilnCAs4+5DjGB90nm3kG4H1RZOKcJRMAHl7FNtfo382XQzQzNgmlwe1aBqwEaCG+0GmgdgYF7xQV586EKEjdGDzNYdyoKFGFARRMgXtgpFLovgwxsjFFgVvwR1Z6azTnOYSSGnaHQDX6RgkZxsKBdU9Sq9lHnwsgHBeIay8ySWHTV2CmnFZjHYvdbFmPyZE1lIH4RLRW8KD0a666/+0dxaHuldmvqhFi56bPh5X/12Pn4O7team3fG7t9pbKySx1+HcWgSSqYYBX7woeTBHF4+XnOMOA4WtxOqEmCA8k0fVCX7So8LKEIiZLhVHgkqBsrWv2DOkU/ToWsi4FFc2KuLquTvb5zbSxtGCwaYBTQgppqMPUrejPBQfKWVjDvAqDlylQVvKB/C5BRpKGigTzrkx/R9sM8b8N4WvfHgSBRsBVoERw+VrtZW9QZL/e2xBXDEeehZUS8RkuDvJTdCkUQMromGctiLF/QNFIGzfSPYDSWpH7u352/dRrP829v3vLFqXOXPv+xOTNmVk+unVYzuXpaTfV11//jroXr3UIWaK8l2E9PcAZcZaMMuCeAoMtnAzHlZrhmd+pUoNwKuB8LE5Vobc9xPrggpxsdHSJ91E6iugLLwbJZHHXcfNDR1ADbrIBiaJuHjpBPoTW80wJ6fmO2D7FzPQ0T/Eghw+Ld4yx6mdOuI4qrwa0SBJrviIeJ2wjT/Fwq14q9G7Utxtiy6yxlgj/386+U+peXrKmezPOTr9t2sH5q5Pa77vkhcqpNDb9izQOr6txSJQgh+8MNHDR1GObZPwY/QYP9hB8EDI9T1w3Sfg1KoC3ZT3BqA/5rA91x2xF315Q2zHqwNzxYFIHc+JMC+dyOMpca2opjcT5DlZWk5MO4qTM3P9UO78KRfw0903z+kQ1fiXI9+eVB8NDb39j94/ys0ozowdJYcBWGlRAVZcG6IedSo0OJywzelpe/F0MrHOmZN8+ej+yKaTr0YmUwVBmoDAXh4iaR2N6pjuwZHcM23gdCEr6zjyuuwjAvUUYZmholSi5xAgOff39ARs8w9Au9UxbSf5BlUPktQfNXBBetW3EA7kQE6dA3fukWGw6dTxyF6xO46h5nXIVhXqI87bc2C7nUKFHKjfX69H2xLHTj0lUn2pI0+ToPt3LsxsQLJ79GVE3apnAyyIgGcdAtNyzKIj0NIpfzvuP/iKswzEtUB2gDX5gaHUq5MbgpcCIKp/QQufkQ3XnDdf2X4Pjjjz7w3bYDF44/2Dj/99DDmcgPt7vlhqcroWnWg8PxxVUYVlpU17K2F53UKFHq3rjozaUaFQIhnX312x2R2FYNbXN9k/jWlg+Pdv/0yB5sWeZZl1SZMaCUGw/7B1Q9DuLz5enPdwH6MbT1DqXkrsWgp1v7L3rxQlRpYGRzaplRpZQbs3UEAaeMyrWf7X4tQq2uJXQA4gvXNu+Eo7KH6FvdhmtdKhQqMxaUcuPCp87jt1M7Ot8jwGeW7RyAPg208fsNtAkJZoIBVJj/pqbMWFHKjT2n2k7Agx5emaJA89scfhxP362GTsJEgv8P/HojFS6QKTMmlHIjPeMDtIohZx6OAGraFPyhokrpG5EXwZTZ881t77/lBMqMFSXcGAk/9xg8hPxL330rS0lKLcqs+NKTT+PStj3ma+mFT+YkyowVxd0YWXXvOw+jB4GGQazvqZj0C7wkNaiD+LHq3Dl/+xR6fRRpuzZfqMzYUNyNPRs0DpXq9NzrdwFu9gKUGTI+cQm9KZ67Obn0+3B1E0mHL+cNR5lRorgb6/2pqegJBS386hiIzFiJngmG4vwrt1IATE3snX33L2GOTMwdwZciZUab4m40noj3oa8n1AW+aIT85vFTaGE6Ze2Bn3eBOnDLo59qfQM6matbeBnvqcqMFsOGSmDoTUYUf/iiNwOy++d9+JbIT+82ABlaeVf81ykCgEqpYtPOQjEHsSo1kq9ISsEQ3HAxACOgUPLK9fx/ofij8ZA+oJ6BRy72bCLxinqwDy5MOfKeXcF7Ul/oJX72B4AGo//x135/0S2JYfQkZX8gSAfRotY6DIcY4s33OE4CE9Ao51ueAkqoMslJIo1F9UwYio9GMC0KInAIkp949iuBbeJpdDkLjPoDYGTlg6da6Bhc4DDr6N8UeavNkLw9AIJRldSdwzCEMjL+ji2XMCkeNVVUlYUjiTUW1TNhKD4afekHXonBLb/c0bJv+r9cWnJgEPpG+u2e119XdlWf1uFuI/I8/zdbW4sEkuMvRM0ka+BPwKzDUASgG/j1uJOwEFXnS7hCiqqysSVNjUX1TBiKL3F6Vt2o4LGaIDr3E8eb0WQXIy91Xujcmzqlwxl1CfPiI+vuK/YxD/4e08SKGDIPw4QWsYpqzqQ4kavgFTWVwx3yZElaGvHZMO1OIIqPxqk12sH6BLq9yUu/H9l6CE+emayckeVMRgaVLOn7y692vkUVeW1K6xI9Y7COJjhCBTP6OZrGh6CiK8FeGQyyaki7pRXVDGUE8zMIM0E7FXhagwNaqO4GKZ6X4E1OXd+KosotjUExc+dJ8zbJAtmYdzGgGmDWYEMcfTSBJG2N+CynNt/KiUJxN8Z7pm3bP6MT+jFITqNfci1kgh+nnl/x9ahBnS/Md2AVkbsIUpqqw/EanbMslkaHprOC+pnD/lpJV4wvHG9FXS0AEeDBaCVEp0IwIcChZKQjS85xhqpL23efBZphAFNj01nGOGnAxQyTQd8hi/2UxqhiDMT9MsCSjkZ8llNbaOfEoLgbQbLlv7/zEjU/xv+Z9s+1P8KDMcDx7KIEx9bW82trel+4YHQVGYvQG0LzdjU4qKsaR08C7ScS+NBh8GqLLxVD338f1nCPijKOZHASuQqsIRnAZwg9nXA4kUTo07uhwlBGNzV2GD5ZRBEZmgpFn3tN/OtmxUfCkWegaBscpmFpxGc5tTkbJw4l3Aiv4t1L72Q+f7pmdvVr+5EbA+d+Nm+hD/i/PXURV/36oe7u4pE4jNr4PRTkJGTsGCc71MkJMjIrilnV/B8PdiJXwSNqKhd95A55MmOzHI1mcJer3YlFKTcmxUjrPrn38e5NLx89jfZpNcTkmzemmr7+05YLTzyQlYqsUTFmkBNDwF63IobMQy60yKwXTvjMr43sRF4Fj6ipXPSRO+TJjM1yVKMzd7sTjFJuBElVyvYNynvf/NY2GboxJC469D/TXzmcfr+968XuePGhCPB+A01oug7vV2aEnnmgCJ0lZlxkYQeLBqcyWcJ83+Uk8iqgqBW4Ulp87vCLVMZUqAcSFAp/RKqCiew1vuSWZuTGKKBlQdoB3cur/gyWdDRaIT6O2olISTeCwWQy2RszjOABKQtCpBh45rs7znbv74XZ7qouSEJAXqwY9FsxTtbBcEKLGJ1UDJ+hm13tJHKxR55RU3mRS4UhTwaSdDRiPXlqJyLF940OsUurlxPQJ8bqhztnFtsmumnUcMj/JSOmCJTctVuzDr7U6qwW6YoCoAg1IYHAsX8o2t1KgFwFSBbAhWkktbsumdqfVdE+tLZas1Wl12RrFktKtQB/A2otwWiEDi7N1G5CkjmNWE+B2j9J6hdIn6zmeX7yis6l9e7CEWBFDJmHvNAiVHS/HUNlJ/IreEdN2bhDnqBkTiPWU9juhKP0pIoJzJx+SuxED7tvGnjHXTgCpISWGLAPOLQ/V3TIOnES+RX69SLvMi2NOTKuWx6UzGnEegrbnXCMYFKl2d+dRl/IAepXTejN/9XgGVrkWeHKGCW144YRuDErna41gsFgxUPfUwrCG6+AYv8MzsGzwpUxSmrHDd4/LrLqxheS6MviUNVX29Gbq6tBIYj8N1FD8axwZYyS2nGDtxup2a1fOwbWg12P7rt4/iq9CBT0b5pK4VnhyhglteOGEWwg6ue3mYkGcVdBQZkyZcqUKTMR+V+pob+zxZO21wAAAABJRU5ErkJggg==" y="7.5"/><image height="62" width="62" x="454" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAA+CAYAAABzwahEAAACqklEQVR4Xu3PQQ4TQRBD0dz/0rBhNk983JMEIZF8yQuXXdUzjx8fysPBp/D98U/j++OfRv744/F4SrVfVO7ce6cqMvHAqWq/qNy5905VZLIW5W7/ovac6xern8lalLv9i9pzrl+sfiYuXl6Zl3d+Kvf0yrzIxEUfqLy881O5p1fmRSYu+kDl+prrlTi3X3mRiYs+ULm+5nolzu1XXmTiog9Uri8929Mr8yITF32gcn3p2Z5emReZrEWp/por8/KL1c9kLUr111yZl1+sfiZ+0Kncf7e/qyITD5zK/Xf7uyo6eRN+gF5OP/xV/t7lX/gDevnnP+4HKHGuP8V36o65Pb1k4kElzvWn+E7dMbenl0w8uA5d2F97K5fVX/lFNvzw44O/2fnT3spl9Vd+MRse8oeUvcXqVV7zU+amD/ijyt5i9Sqv+Slzs36sWH1zJWuuTpnNu4dX31zJmqtTjpseLl+yp3e+8vKq6AQ8VL5kT+985eVV0Ql4qB54dX5XxcwdFB6qD3h1flfFzB2IB3y4VP2am7/aW8yGh3ygVP2am7/aW2TDA8vfneudVy7Vq/lFJi4uf3eud165VK/mF50MPLw+uPLy71LRycDD68HKy79LRScv4gf4Ic4rL17OHbwLf8gPcV558XLu4MIPOpWYq8K8/FKRiQdOJeaqMC+/VGSyFqX69SHlVVH58b6Di7Uo1a8PKa+Kyo/3HVy46MHKxbn75qunpOaSDQ/4YOXi3H3z1VNSc8mGB3ywcr3z0/zCnlq9IhMXPVi53vlpfmFPrV6RiYserFx/KvfE/tIiGx7wcOX6U7kn9pcW2Tg9cGF/+cKevub6RTZvHxofoi/s6WuuX2TzOnRX7j/rxXdOVWTigVO5/6wX3zlV0cl/zvfHP43vj38aH/vjPwHXxSZFmC+/QgAAAABJRU5ErkJggg==" y="5.5"/><rect fill="#FFFFFF" height="205.5625" style="stroke:#FFFFFF;stroke-width:1.0;" width="602" x="0" y="73"/><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="159" x="5" y="89.1387">Welcome to PlantUML!</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="0" x="9" y="103.1074"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="293" x="5" y="117.0762">If you use this software, you accept its license.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="107" x="5" y="131.0449">(details by typing</text><text fill="#000000" font-family="monospace" font-size="12" lengthAdjust="spacing" textLength="49" x="116" y="131.0449">license</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="56" x="169" y="131.0449">keyword)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="0" x="9" y="145.0137"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="283" x="5" y="158.9824">You can start with a simple UML Diagram like:</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="0" x="9" y="172.9512"/><text fill="#000000" font-family="monospace" font-size="12" lengthAdjust="spacing" textLength="119" x="5" y="186.9199">Bob-&gt;Alice: Hello</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="0" x="9" y="200.8887"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="14" x="5" y="214.8574">Or</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="0" x="9" y="228.8262"/><text fill="#000000" font-family="monospace" font-size="12" lengthAdjust="spacing" textLength="91" x="5" y="242.7949">class Example</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="0" x="9" y="256.7637"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="349" x="5" y="270.7324">You will find more information about PlantUML syntax on</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" text-decoration="underline" textLength="129" x="358" y="270.7324">https://plantuml.com</text><image height="71" width="80" x="516" xlink:href="data:image/png;base64,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" y="79"/><rect fill="#000000" height="176.6563" style="stroke:#000000;stroke-width:1.0;" width="602" x="0" y="278.5625"/><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="135" x="5" y="295.5625">PlantUML 1.2021.01</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="0" x="9" y="309.5313"/><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="391" x="5" y="323.5">&lt;b&gt;This version of PlantUML is 97 days old, so you should</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="408" x="5" y="337.4688">&lt;b&gt;consider upgrading from https://plantuml.com/download</text><rect fill="#33FF02" height="21.2969" style="stroke:#33FF02;stroke-width:1.0;" width="281" x="5" y="347.4375"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="279" x="6" y="362.4375">[From component-ex.puml (line 1) ]</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="0" x="10" y="382.7344"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="79" x="5" y="399.0313">@startuml</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="0" x="10" y="415.3281"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="382" x="5" y="431.625">!include %getenv("THEME_HOME")/common.puml</text><text fill="#FF0000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="236" x="10" y="447.9219">cannot include /common.puml</text><rect fill="#F6C914" height="73" style="stroke:#F6C914;stroke-width:1.0;" width="602" x="0" y="455.2188"/><image height="58" width="454" x="1" xlink:href="data:image/png;base64,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" y="462.7188"/><image height="62" width="62" x="454" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAA+CAYAAABzwahEAAACqklEQVR4Xu3PQQ4TQRBD0dz/0rBhNk983JMEIZF8yQuXXdUzjx8fysPBp/D98U/j++OfRv744/F4SrVfVO7ce6cqMvHAqWq/qNy5905VZLIW5W7/ovac6xern8lalLv9i9pzrl+sfiYuXl6Zl3d+Kvf0yrzIxEUfqLy881O5p1fmRSYu+kDl+prrlTi3X3mRiYs+ULm+5nolzu1XXmTiog9Uri8929Mr8yITF32gcn3p2Z5emReZrEWp/por8/KL1c9kLUr111yZl1+sfiZ+0Kncf7e/qyITD5zK/Xf7uyo6eRN+gF5OP/xV/t7lX/gDevnnP+4HKHGuP8V36o65Pb1k4kElzvWn+E7dMbenl0w8uA5d2F97K5fVX/lFNvzw44O/2fnT3spl9Vd+MRse8oeUvcXqVV7zU+amD/ijyt5i9Sqv+Slzs36sWH1zJWuuTpnNu4dX31zJmqtTjpseLl+yp3e+8vKq6AQ8VL5kT+985eVV0Ql4qB54dX5XxcwdFB6qD3h1flfFzB2IB3y4VP2am7/aW8yGh3ygVP2am7/aW2TDA8vfneudVy7Vq/lFJi4uf3eud165VK/mF50MPLw+uPLy71LRycDD68HKy79LRScv4gf4Ic4rL17OHbwLf8gPcV558XLu4MIPOpWYq8K8/FKRiQdOJeaqMC+/VGSyFqX69SHlVVH58b6Di7Uo1a8PKa+Kyo/3HVy46MHKxbn75qunpOaSDQ/4YOXi3H3z1VNSc8mGB3ywcr3z0/zCnlq9IhMXPVi53vlpfmFPrV6RiYserFx/KvfE/tIiGx7wcOX6U7kn9pcW2Tg9cGF/+cKevub6RTZvHxofoi/s6WuuX2TzOnRX7j/rxXdOVWTigVO5/6wX3zlV0cl/zvfHP43vj38aH/vjPwHXxSZFmC+/QgAAAABJRU5ErkJggg==" y="460.7188"/><!--MD5=[d02d09bb66998ad43845309216c8186a]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="785.4167px" preserveAspectRatio="none" style="width:1298px;height:785px;" version="1.1" viewBox="0 0 1298 785" width="1298.9583px" zoomAndPan="magnify"><defs><filter height="300%" id="fytlhppaozo93" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0833333333333335"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.166666666666667" dy="4.166666666666667" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter><linearGradient id="gytlhppaozo930" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#F08E41"/><stop offset="100%" stop-color="#EC7211"/></linearGradient></defs><g><rect fill="none" height="37.8092" style="stroke:none;stroke-width:1.0416666666666667;" width="407.2917" x="441.4063" y="5.2083"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" font-weight="bold" lengthAdjust="spacing" textLength="386.4583" x="451.8229" y="29.1616">Component Diagram - AWS Orange Dark theme</text><!--MD5=[98956307d0c47524864de5bf9cdc747b]
+cluster My Package--><path d="M10.4167,55.5176 L101.0417,55.5176 A6.25,6.25 0 0 1 105.2083,59.6842 L112.5,87.3759 L837.5,87.3759 A4.1667,4.1667 0 0 1 841.6667,91.5426 L841.6667,171.1426 A4.1667,4.1667 0 0 1 837.5,175.3092 L10.4167,175.3092 A4.1667,4.1667 0 0 1 6.25,171.1426 L6.25,59.6842 A4.1667,4.1667 0 0 1 10.4167,55.5176 " fill="#2A2E33" filter="url(#fytlhppaozo93)" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><line style="stroke:#EC7211;stroke-width:2.0833333333333335;" x1="6.25" x2="112.5" y1="87.3759" y2="87.3759"/><text fill="#EC7211" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="82.2917" x="15.625" y="75.3764">My Package</text><!--MD5=[994b84a7865cf3a30290d65f6358d5f5]
+cluster My Node--><polygon fill="#2A2E33" filter="url(#fytlhppaozo93)" points="178.125,247.1842,188.5417,236.7676,634.375,236.7676,634.375,351.3509,623.9583,361.7676,178.125,361.7676,178.125,247.1842" style="stroke:#ABB6C2;stroke-width:2.0833333333333335;"/><line style="stroke:#ABB6C2;stroke-width:2.0833333333333335;" x1="623.9583" x2="634.375" y1="247.1842" y2="236.7676"/><line style="stroke:#ABB6C2;stroke-width:2.0833333333333335;" x1="178.125" x2="623.9583" y1="247.1842" y2="247.1842"/><line style="stroke:#ABB6C2;stroke-width:2.0833333333333335;" x1="623.9583" x2="623.9583" y1="247.1842" y2="361.7676"/><text fill="#ABB6C2" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="59.375" x="372.3958" y="268.0847">My Node</text><!--MD5=[8f762177cf9f076b8ea6eac76c5df33e]
+cluster My Cloud--><path d="M675.1194,250.8312 C679.9177,243.0109 684.6265,244.6842 689.6494,250.5935 C691.5967,243.0836 697.5366,242.8308 702.1859,247.9009 C703.9422,240.6377 709.1562,239.7677 714.2838,244.501 C717.7613,238.0962 724.5046,237.019 728.8971,243.4601 C731.8176,237.412 736.6114,236.7291 741.2179,241.5486 C745.8265,236.8613 750.7794,237.8145 753.3761,243.8333 C758.8042,237.7728 762.9182,240.1287 766.1809,246.1317 C771.348,240.6605 776.6688,241.4782 780.0656,248.155 C783.7576,243.0678 788.9441,243.6383 791.6815,249.1966 C801.0783,242.5139 810.4358,244.5773 811.4583,257.6009 C812.3297,256.9478 813.0333,257.3827 813.1379,258.3809 C820.4551,263.2066 822.2223,268.1564 814.2064,274.0291 C822.7696,275.9629 823.4804,281.5251 818.4721,287.6952 C826.0871,291.8712 828.3517,296.5302 821.2172,303.3007 C827.0935,309.4782 824.6578,314.9094 817.1779,317.2075 C823.7081,322.0916 822.7743,328.8245 815.9459,332.6422 C823.5897,344.2796 815.6288,352.6209 804.1667,353.4342 C804.4964,353.3599 804.6939,353.5502 804.6523,353.8802 C802.2315,361.6412 795.8217,360.9812 791.4721,355.8527 C788.7671,360.9265 783.6102,361.178 780.4128,356.4058 C777.913,364.1364 771.514,364.79 766.7711,358.6048 C763.6305,364.8927 757.444,366.3634 753.3879,359.5392 C750.665,366.3596 746.675,365.7739 741.8012,361.8611 C736.4932,367.1318 730.7844,367.2364 727.272,359.807 C723.396,365.7934 717.8959,364.8104 714.7788,359.0031 C709.1732,365.3383 704.3253,364.3444 700.9439,356.788 C697.0262,361.274 691.9586,361.5584 689.132,355.5588 C678.0547,361.8425 669.8083,360.284 667.7083,346.1426 C668.7206,345.4076 669.6029,345.8648 669.7108,347.074 C662.9758,344.5131 661.4855,337.8877 666.9423,332.9389 C660.2636,329.0408 660.1032,323.0044 665.8339,318.1747 C659.2219,315.6824 657.7618,308.8688 662.9116,303.9587 C656.2497,298.5194 656.4359,291.0293 664.7484,287.2347 C659.2623,281.5226 658.9347,276.1932 666.922,272.4638 C658.6942,262.5517 663.8771,253.1656 675,250.3092 C675.2893,250.401 675.3064,250.6305 675.1194,250.8312 " fill="#4E5D6C" filter="url(#fytlhppaozo93)" style="stroke:#4E5D6C;stroke-width:2.0833333333333335;"/><text fill="#ABB6C2" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="62.5" x="708.3333" y="273.2931">My Cloud</text><!--MD5=[5435dd1da01795d79a1d1bdb7811705f]
+cluster My Database--><path d="M642.7083,415.9342 C642.7083,405.5176 739.5833,405.5176 739.5833,405.5176 C739.5833,405.5176 836.4583,405.5176 836.4583,415.9342 L836.4583,762.8092 C836.4583,773.2259 739.5833,773.2259 739.5833,773.2259 C739.5833,773.2259 642.7083,773.2259 642.7083,762.8092 L642.7083,415.9342 " fill="url(#gytlhppaozo930)" filter="url(#fytlhppaozo93)" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><path d="M642.7083,415.9342 C642.7083,426.3509 739.5833,426.3509 739.5833,426.3509 C739.5833,426.3509 836.4583,426.3509 836.4583,415.9342 " fill="none" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="88.5417" x="695.3125" y="446.2097">My Database</text><!--MD5=[db3eb734e65e00defc1adec42c70b029]
+cluster My folder--><path d="M671.875,474.2676 L744.7917,474.2676 A6.25,6.25 0 0 1 748.9583,478.4342 L756.25,506.1259 L807.2917,506.1259 A4.1667,4.1667 0 0 1 811.4583,510.2926 L811.4583,589.8926 A4.1667,4.1667 0 0 1 807.2917,594.0592 L671.875,594.0592 A4.1667,4.1667 0 0 1 667.7083,589.8926 L667.7083,478.4342 A4.1667,4.1667 0 0 1 671.875,474.2676 " fill="#222529" filter="url(#fytlhppaozo93)" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><line style="stroke:#EC7211;stroke-width:2.0833333333333335;" x1="667.7083" x2="756.25" y1="506.1259" y2="506.1259"/><text fill="#EC7211" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="64.5833" x="677.0833" y="494.1264">My folder</text><!--MD5=[2f95c9c104e26437854e71862f3d840e]
+cluster My Frame--><rect fill="#222529" filter="url(#fytlhppaozo93)" height="119.7917" rx="4.1667" ry="4.1667" style="stroke:#44B9D6;stroke-width:2.0833333333333335;" width="143.75" x="667.7083" y="628.4342"/><path d="M756.25,628.4342 L756.25,646.7509 L745.8333,657.1676 L667.7083,657.1676 " fill="none" style="stroke:#44B9D6;stroke-width:2.0833333333333335;"/><text fill="#44B9D6" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="67.7083" x="676.0417" y="647.2514">My Frame</text><!--MD5=[96f7e1299d4a43069e6ed32352fcac20]
+entity HTTP--><ellipse cx="579.1667" cy="129.4759" fill="#FEFECE" filter="url(#fytlhppaozo93)" rx="8.3333" ry="8.3333" style="stroke:#A80036;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="38.5417" x="559.8958" y="165.9292">HTTP</text><!--MD5=[cbd7cda55f2530e2efe43ec72c097853]
+entity First Component--><rect fill="#FEFECE" filter="url(#fytlhppaozo93)" height="58.6426" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="171.875" x="360.9375" y="100.3092"/><rect fill="#FEFECE" height="10.4167" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="15.625" x="511.9792" y="105.5176"/><rect fill="#FEFECE" height="2.0833" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="4.1667" x="509.8958" y="107.6009"/><rect fill="#FEFECE" height="2.0833" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="4.1667" x="509.8958" y="111.7676"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="119.7917" x="381.7708" y="139.8875">First Component</text><!--MD5=[b9d11f23832c1491231c5b33e55ab8c6]
+entity Another Component--><rect fill="#FEFECE" filter="url(#fytlhppaozo93)" height="58.6426" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="198.9583" x="625.5208" y="100.3092"/><rect fill="#FEFECE" height="10.4167" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="15.625" x="803.6458" y="105.5176"/><rect fill="#FEFECE" height="2.0833" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="4.1667" x="801.5625" y="107.6009"/><rect fill="#FEFECE" height="2.0833" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="4.1667" x="801.5625" y="111.7676"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="146.875" x="646.3542" y="139.8875">Another Component</text><!--MD5=[aa625683a8c1a6d60f4cb888c4297339]
+entity MyRectangle1--><rect fill="#FEFECE" filter="url(#fytlhppaozo93)" height="48.2259" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="133.3333" x="190.625" y="105.5176"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="102.0833" x="206.25" y="134.6792">MyRectangle1</text><!--MD5=[deed3d4321eb4f26fdbc8b688b847966]
+entity MyCollection1--><rect fill="url(#gytlhppaozo930)" filter="url(#fytlhppaozo93)" height="44.0592" style="stroke:#EC7211;stroke-width:1.5625;" width="127.0833" x="27.0833" y="109.6842"/><rect fill="url(#gytlhppaozo930)" height="44.0592" style="stroke:#EC7211;stroke-width:1.5625;" width="127.0833" x="22.9167" y="105.5176"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="100" x="36.4583" y="132.5958">MyCollection1</text><!--MD5=[76af18d92d7d7c0f7ebd8f4f605ac5aa]
+entity FTP--><ellipse cx="373.9583" cy="315.9342" fill="#FEFECE" filter="url(#fytlhppaozo93)" rx="8.3333" ry="8.3333" style="stroke:#A80036;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="27.0833" x="360.4167" y="352.3875">FTP</text><!--MD5=[0e2cc1aee2c7f52697e111b4fb84546c]
+entity Second Component--><rect fill="#FEFECE" filter="url(#fytlhppaozo93)" height="58.6426" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="196.875" x="420.3125" y="286.7676"/><rect fill="#FEFECE" height="10.4167" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="15.625" x="596.3542" y="291.9759"/><rect fill="#FEFECE" height="2.0833" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="4.1667" x="594.2708" y="294.0592"/><rect fill="#FEFECE" height="2.0833" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="4.1667" x="594.2708" y="298.2259"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="144.7917" x="441.1458" y="326.3458">Second Component</text><!--MD5=[b8d85f5d3810694767e38854f60c8b6e]
+entity MyRectangle2--><rect fill="#FEFECE" filter="url(#fytlhppaozo93)" height="48.2259" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="133.3333" x="194.7917" y="291.9759"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="102.0833" x="210.4167" y="321.1375">MyRectangle2</text><!--MD5=[243c1e580c31013c48b02624e18b25a7]
+entity Example 1--><rect fill="#FEFECE" filter="url(#fytlhppaozo93)" height="58.6426" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="126.0417" x="676.5625" y="286.7676"/><rect fill="#FEFECE" height="10.4167" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="15.625" x="781.7708" y="291.9759"/><rect fill="#FEFECE" height="2.0833" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="4.1667" x="779.6875" y="294.0592"/><rect fill="#FEFECE" height="2.0833" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="4.1667" x="779.6875" y="298.2259"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="73.9583" x="697.3958" y="326.3458">Example 1</text><!--MD5=[3e0e08c92570480402984701ab5a6d2d]
+entity Folder 3--><rect fill="#FEFECE" filter="url(#fytlhppaozo93)" height="58.6426" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="110.4167" x="684.375" y="519.0592"/><rect fill="#FEFECE" height="10.4167" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="15.625" x="773.9583" y="524.2676"/><rect fill="#FEFECE" height="2.0833" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="4.1667" x="771.875" y="526.3509"/><rect fill="#FEFECE" height="2.0833" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="4.1667" x="771.875" y="530.5176"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="58.3333" x="705.2083" y="558.6375">Folder 3</text><!--MD5=[63877ed85df621d134a6c80fb52dad56]
+entity Frame 4--><rect fill="#FEFECE" filter="url(#fytlhppaozo93)" height="58.6426" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="110.4167" x="684.375" y="673.2259"/><rect fill="#FEFECE" height="10.4167" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="15.625" x="773.9583" y="678.4342"/><rect fill="#FEFECE" height="2.0833" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="4.1667" x="771.875" y="680.5176"/><rect fill="#FEFECE" height="2.0833" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="4.1667" x="771.875" y="684.6842"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="58.3333" x="705.2083" y="712.8042">Frame 4</text><!--MD5=[bb0325ec99f4f4d58c3e33c6fae3b543]
+entity MyCollection2--><rect fill="url(#gytlhppaozo930)" filter="url(#fytlhppaozo93)" height="44.0592" style="stroke:#EC7211;stroke-width:1.5625;" width="127.0833" x="865.625" y="109.6842"/><rect fill="url(#gytlhppaozo930)" height="44.0592" style="stroke:#EC7211;stroke-width:1.5625;" width="127.0833" x="861.4583" y="105.5176"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="100" x="875" y="132.5958">MyCollection2</text><!--MD5=[4d6c9a8b502f46c0f85d26a51e5d57ce]
+entity My Artifact--><rect fill="#FEFECE" filter="url(#fytlhppaozo93)" height="51.3509" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="114.5833" x="1029.1667" y="103.9551"/><polygon fill="#FEFECE" points="1126.0417,109.1634,1126.0417,123.7467,1138.5417,123.7467,1138.5417,115.4134,1132.2917,109.1634,1126.0417,109.1634" style="stroke:#A80036;stroke-width:1.0416666666666667;"/><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="1132.2917" x2="1132.2917" y1="109.1634" y2="115.4134"/><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="1138.5417" x2="1132.2917" y1="115.4134" y2="115.4134"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="72.9167" x="1044.7917" y="136.2417">My Artifact</text><!--MD5=[6013850653c05993d855a7b82b2ebd6f]
+entity My Storage--><rect fill="#FEFECE" filter="url(#fytlhppaozo93)" height="48.2259" rx="36.4583" ry="36.4583" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="111.4583" x="1180.7292" y="105.5176"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="80.2083" x="1196.3542" y="134.6792">My Storage</text><!--MD5=[decf897d207c1b699121f5d4005ef96e]
+entity My Queue--><path d="M880.2083,297.1842 L973.9583,297.1842 C979.1667,297.1842 979.1667,316.0889 979.1667,316.0889 C979.1667,316.0889 979.1667,334.9935 973.9583,334.9935 L880.2083,334.9935 C875,334.9935 875,316.0889 875,316.0889 C875,316.0889 875,297.1842 880.2083,297.1842 " fill="#FEFECE" filter="url(#fytlhppaozo93)" style="stroke:#A80036;stroke-width:2.0833333333333335;"/><path d="M973.9583,297.1842 C968.75,297.1842 968.75,316.0889 968.75,316.0889 C968.75,334.9935 973.9583,334.9935 973.9583,334.9935 " fill="none" style="stroke:#A80036;stroke-width:2.0833333333333335;"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="72.9167" x="885.4167" y="321.1375">My Queue</text><!--MD5=[db0b4290d55c456da6f1e605315daa68]
+entity My Interface--><ellipse cx="1071.875" cy="315.9342" fill="#FEFECE" filter="url(#fytlhppaozo93)" rx="8.3333" ry="8.3333" style="stroke:#A80036;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="86.4583" x="1028.6458" y="352.3875">My Interface</text><!--MD5=[c42dbb279bb2c76edeffd08640135261]
+entity My Card--><rect fill="#FEFECE" filter="url(#fytlhppaozo93)" height="33.6426" style="stroke:#A80036;stroke-width:1.0416666666666667;" width="88.5417" x="1165.1042" y="299.2676"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="57.2917" x="1180.7292" y="321.1375">My Card</text><!--MD5=[4552e0ab931d4db86ba1ccdf7169c968]
+entity My File--><polygon fill="#FEFECE" filter="url(#fytlhppaozo93)" points="887.5,524.2676,887.5,572.4935,966.6667,572.4935,966.6667,534.6842,956.25,524.2676,887.5,524.2676" style="stroke:#A80036;stroke-width:1.0416666666666667;"/><path d="M956.25,524.2676 L956.25,534.6842 L966.6667,534.6842 " fill="#FEFECE" style="stroke:#A80036;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="47.9167" x="903.125" y="553.4292">My File</text><!--MD5=[5a51615613d2b2569e36ac803df4b251]
+entity My Stack--><rect fill="#FEFECE" height="48.2259" style="stroke:none;stroke-width:1.0416666666666667;" width="94.7917" x="1019.2708" y="524.2676"/><path d="M1003.6458,524.2676 L1019.2708,524.2676 L1019.2708,572.4935 L1114.0625,572.4935 L1114.0625,524.2676 L1129.6875,524.2676 " fill="none" filter="url(#fytlhppaozo93)" style="stroke:#A80036;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="63.5417" x="1034.8958" y="553.4292">My Stack</text><!--MD5=[46d996859f59e5baf77956ce93023cee]
+link HTTP to First Component--><path d="M569.4688,129.4759 C557.3646,129.4759 545.2708,129.4759 533.1771,129.4759 " fill="none" id="HTTP-First Component" style="stroke:#EC7211;stroke-width:3.125;"/><!--MD5=[1966a42bb49d59057147dbda06282f4b]
+link FTP to Second Component--><path d="M383.5729,315.9342 C395.8021,315.9342 408.0417,315.9342 420.2708,315.9342 " fill="none" id="FTP-Second Component" style="stroke:#EC7211;stroke-width:3.125;"/><!--MD5=[d3aefbd8005e27b21e7ce98ddd948193]
+link First Component to FTP--><path d="M432.8646,158.8509 C423.5625,178.2051 411.3854,204.5697 402.0833,228.4342 C392.2917,253.5384 383.0521,283.6009 377.9896,300.8509 " fill="none" id="First Component-to-FTP" style="stroke:#EC7211;stroke-width:3.125;"/><polygon fill="#EC7211" points="376.4271,306.1842,383.0521,298.3509,377.8854,301.1842,375.0521,296.0176,376.4271,306.1842" style="stroke:#EC7211;stroke-width:3.125;"/><!--MD5=[efc1ffe8b578a0fb156c7bce303319bb]
+link Another Component to Example 1--><path d="M727.25,158.9238 C729.8542,191.903 734.1563,246.2572 736.9271,281.3092 " fill="none" id="Another Component-to-Example 1" style="stroke:#EC7211;stroke-width:3.125;"/><polygon fill="#EC7211" points="737.3542,286.7572,740.7853,277.0887,736.9524,281.5643,732.4768,277.7315,737.3542,286.7572" style="stroke:#EC7211;stroke-width:3.125;"/><text fill="#FFFFFF" font-family="sans-serif" font-size="13.5417" lengthAdjust="spacing" textLength="103.125" x="737.5" y="210.7956">some message</text><!--MD5=[7ec8393a78a133520e8846dd05a7857a]
+link Example 1 to Folder 3--><path d="M739.5833,345.2051 C739.5833,387.6634 739.5833,467.8197 739.5833,513.3509 " fill="none" id="Example 1-to-Folder 3" style="stroke:#EC7211;stroke-width:3.125;"/><polygon fill="#EC7211" points="739.5833,518.7259,743.75,509.3509,739.5833,513.5176,735.4167,509.3509,739.5833,518.7259" style="stroke:#EC7211;stroke-width:3.125;"/><!--MD5=[b96c7096199393c1414a8b4e9ed2c30f]
+link Folder 3 to Frame 4--><path d="M739.5833,577.5176 C739.5833,602.9655 739.5833,640.4238 739.5833,667.4759 " fill="none" id="Folder 3-to-Frame 4" style="stroke:#EC7211;stroke-width:3.125;"/><polygon fill="#EC7211" points="739.5833,672.7363,743.75,663.3613,739.5833,667.528,735.4167,663.3613,739.5833,672.7363" style="stroke:#EC7211;stroke-width:3.125;"/><!--MD5=[83be288af14fde8a86007c2b011fac4a]
+link MyCollection2 to My Artifact--><!--MD5=[b21a3c93c2a22c7ef4934ace81b9a2fe]
+link My Artifact to My Storage--><!--MD5=[6ba35b42f782a962813221ea03178716]
+link MyCollection2 to My Queue--><!--MD5=[0babb46f3d0f67f91c828a5eda35ab7d]
+link My Queue to My Interface--><!--MD5=[9bfee3aea78949ae207e8bd3b67fed50]
+link My Interface to My Card--><!--MD5=[afe9315598834b0b9f57a7a5b2c7ee2a]
+link My Queue to My File--><!--MD5=[f6296be58d13482500ae3b999db2843f]
+link My File to My Stack--><!--MD5=[bfe8bb7337c09fe02fbf61285a0bc92f]
+@startuml
+
+!$THEME = "AWS Orange Dark"
+
+!if %not(%variable_exists("$BGCOLOR"))
+!$BGCOLOR = transparent
+!endif
+
+skinparam backgroundColor $BGCOLOR
+
+!$WHITE = "#FFF"
+!$GRAY_LIGHT = "#222"
+!$GRAY = "#868e96"
+!$PRIMARY = "#EC7211"
+!$SECONDARY = "#2a2e33"
+!$SUCCESS = "#6aaf35"
+!$INFO = "#44b9d6"
+!$WARNING = "#EC7211"
+!$DANGER = "#ff5d64"
+!$LIGHT = "#abb6c2"
+!$DARK = "#4E5D6C"
+
+!$FGCOLOR = $WHITE
+!$PRIMARY_DARK = "#f08e41"
+!$PRIMARY_LIGHT = "#bd5b0e"
+!$PRIMARY_TEXT = $WHITE
+!$SECONDARY_DARK = "#55585c"
+!$SECONDARY_LIGHT = "#222529"
+!$SECONDARY_TEXT = $WHITE
+!$INFO_DARK = "#69c7de"
+!$INFO_LIGHT = "#3694ab"
+!$INFO_TEXT = $WHITE
+!$SUCCESS_DARK = "#88bf5d"
+!$SUCCESS_LIGHT = "#558c2a"
+!$SUCCESS_TEXT = $WHITE
+!$WARNING_DARK = "#f08e41"
+!$WARNING_LIGHT = "#bd5b0e"
+!$WARNING_TEXT = $WHITE
+!$DANGER_DARK = "#ff7d83"
+!$DANGER_LIGHT = "#cc4a50"
+!$DANGER_TEXT = $WHITE
+!$DARK_DARK = "#717d89"
+!$DARK_LIGHT = "#3e4a56"
+!$LIGHT_DARK = "#bcc5ce"
+!$LIGHT_LIGHT = "#89929b"
+
+!procedure $success($msg)
+  <font color=$SUCCESS><b>$msg
+!endprocedure
+
+!procedure $failure($msg)
+  <font color=$DANGER><b>$msg
+!endprocedure
+
+!procedure $warning($msg)
+  <font color=$WARNING><b>$msg
+!endprocedure
+
+!procedure $primary_scheme()
+	FontColor $PRIMARY_TEXT
+	BorderColor $PRIMARY
+	BackgroundColor $PRIMARY_DARK-$PRIMARY
+!endprocedure
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            $DARK
+skinparam stereotype {
+    CBackgroundColor $SECONDARY_LIGHT
+    CBorderColor $SECONDARY_DARK
+    ABackgroundColor $SUCCESS_LIGHT
+    ABorderColor $SUCCESS_DARK
+    IBackgroundColor $DANGER_LIGHT
+    IBorderColor $DANGER_DARK
+    EBackgroundColor $WARNING_LIGHT
+    EBorderColor $WARNING_DARK
+    NBackgroundColor $INFO_LIGHT
+    NBorderColor $INFO_DARK
+}
+skinparam title {
+	FontColor	                 $PRIMARY_TEXT
+	BorderColor	                 $SECONDARY
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              $SECONDARY_DARK-$SECONDARY
+}
+
+skinparam legend {
+	BackgroundColor $SECONDARY
+	BorderColor $SECONDARY_DARK
+	FontColor $LIGHT
+}
+
+<style> 
+mindmapDiagram {
+	Padding 15
+	Margin 10
+	FontSize 12
+	FontName Verdana
+	Shadowing 0.0
+	LineThickness 1.5
+	FontColor $PRIMARY_TEXT
+	LineColor $PRIMARY_DARK
+	BackGroundColor $PRIMARY_LIGHT-$PRIMARY
+	$primary_scheme()
+}
+</style>
+
+!startsub activity
+skinparam activity {
+	$primary_scheme()
+	BarColor $SUCCESS
+	StartColor $INFO
+	EndColor $INFO
+	DiamondBackgroundColor $SECONDARY_LIGHT
+  	DiamondBorderColor $SECONDARY_DARK
+  	DiamondFontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub participant
+skinparam participant {
+	$primary_scheme()
+	ParticipantBorderThickness 2
+}
+!endsub
+
+!startsub actor
+skinparam actor {
+	$primary_scheme()
+}
+!endsub
+
+!startsub arrow
+skinparam arrow {
+	Thickness 3
+	Color $PRIMARY
+	FontColor $FGCOLOR
+}
+!endsub
+
+!startsub sequence
+skinparam sequence {
+	BorderColor $PRIMARY
+	TitleFontColor $PRIMARY
+	BackgroundColor $BGCOLOR
+	StartColor $PRIMARY
+	EndColor $PRIMARY
+	BoxBackgroundColor $BGCOLOR
+	BoxBorderColor $DARK
+	BoxFontColor $DARk
+	LifeLineBorderColor $SECONDARY
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor $SECONDARY_DARK
+	GroupBorderColor $DARK
+	GroupFontColor $DARK
+	GroupHeaderFontColor $INFO
+	GroupBackgroundColor $SECONDARY
+	GroupHeaderBackgroundColor $BGCOLOR
+	DividerBackgroundColor $DARK
+    DividerBorderColor $DARK
+    DividerBorderThickness 2
+    DividerFontColor $LIGHT
+	ReferenceBackgroundColor $BGCOLOR
+	ReferenceBorderColor $DARK
+	ReferenceFontColor $DARK
+	ReferenceHeaderFontColor $INFO
+	ReferenceHeaderBackgroundColor $SECONDARY
+}
+!endsub
+
+!startsub partition
+skinparam partition {
+	BorderColor $PRIMARY
+	FontColor $PRIMARY
+	BackgroundColor $BGCOLOR
+}
+!endsub
+
+!startsub collections
+skinparam collections {
+	$primary_scheme()
+}
+!endsub
+
+!startsub control
+skinparam control {
+	$primary_scheme()
+}
+!endsub
+
+!startsub entity
+skinparam entity {
+	$primary_scheme()
+}
+!endsub
+
+!startsub boundary
+skinparam boundary {
+	$primary_scheme()
+}
+!endsub
+
+!startsub agent
+skinparam agent {
+	BackgroundColor $WARNING
+	BorderColor $WARNING_LIGHT
+	FontColor $DARK
+}
+!endsub
+
+!startsub note
+skinparam note {
+	BorderThickness 1
+	BackgroundColor $INFO
+	BorderColor $INFO_DARK
+	FontColor $WHITE
+}
+!endsub
+
+!startsub artifact
+skinparam artifact {
+	BackgroundColor $DARK
+	BorderColor $DARK_DARK
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub component
+skinparam component {
+	$primary_scheme()
+}
+!endsub
+
+!startsub interface
+skinparam interface {
+	BackgroundColor  $DANGER_DARK
+	BorderColor  $DANGER
+	FontColor $DARK
+}
+!endsub
+
+!startsub storage
+skinparam storage {
+	BackgroundColor $WARNING
+  	BorderColor $WARNING_DARK
+	FontColor $WARNING_TEXT
+}
+!endsub
+
+!startsub node
+skinparam node {
+	BackgroundColor  $SECONDARY
+	BorderColor $LIGHT
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub cloud
+skinparam cloud {
+	BackgroundColor $DARK
+	BorderColor $DARK
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub database
+skinparam database {
+	$primary_scheme()
+}
+!endsub
+
+!startsub class
+skinparam class {
+	$primary_scheme()
+	HeaderBackgroundColor $PRIMARY_LIGHT
+	StereotypeFontColor $DARK
+	BorderThickness 1
+	AttributeFontColor $DARK
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub object
+skinparam object {
+	$primary_scheme()
+	StereotypeFontColor $DARK
+	BorderThickness 1
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub usecase
+skinparam usecase {
+	$primary_scheme()
+	BorderThickness 2
+	StereotypeFontColor $PRIMARY
+}
+!endsub
+
+!startsub rectangle
+skinparam rectangle {
+	$primary_scheme()
+	BackgroundColor $SECONDARY_LIGHT
+	BorderThickness 2
+	StereotypeFontColor $PRIMARY
+}
+!endsub
+
+!startsub package
+skinparam package {
+	BackgroundColor $SECONDARY
+  	BorderColor $PRIMARY
+	FontColor $PRIMARY
+	BorderThickness 2
+}
+!endsub
+
+!startsub folder
+skinparam folder {
+	BackgroundColor $SECONDARY_LIGHT
+  	BorderColor $WARNING
+	FontColor $WARNING
+	BorderThickness 2
+}
+!endsub
+
+!startsub frame
+skinparam frame {
+	BackgroundColor $SECONDARY_LIGHT
+  	BorderColor $INFO
+	FontColor $INFO
+	BorderThickness 2
+}
+!endsub
+
+!startsub state
+skinparam state {
+	$primary_scheme()
+	StartColor $INFO
+	EndColor $INFO
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub queue
+skinparam queue {
+	$primary_scheme()
+}
+!endsub
+
+!startsub card
+skinparam card {
+	BackgroundColor $INFO
+	BorderColor $INFO_DARK
+	FontColor $INFO_TEXT
+}
+!endsub
+
+!startsub file
+skinparam file {
+	BackgroundColor $SECONDARY_DARK
+	BorderColor $LIGHT
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub stack
+skinparam stack {
+	$primary_scheme()
+}
+!endsub
+
+!if %variable_exists("$THEME")
+title Component Diagram - $THEME theme
+!else
+title Component Diagram
+!endif
+
+'skinparam BackgroundColor transparent
+
+package "My Package" {
+  HTTP - [First Component]
+  [Another Component]
+  rectangle MyRectangle1
+  collections MyCollection1
+}
+ 
+node "My Node" {
+  FTP - [Second Component]
+  [First Component] - -> FTP
+  rectangle MyRectangle2
+} 
+
+cloud "My Cloud" {
+  [Example 1]
+}
+
+collections MyCollection2
+
+database "My Database" {
+  folder "My folder" {
+	[Folder 3]
+  }
+  frame "My Frame" {
+	[Frame 4]
+  }
+}
+
+artifact "My Artifact"
+storage "My Storage"
+queue "My Queue"
+interface "My Interface"
+card "My Card"
+file "My File"
+stack "My Stack"
+
+[Another Component] - -> [Example 1]: some message
+[Example 1] - -> [Folder 3]
+[Folder 3] - -> [Frame 4]
+
+@enduml
 
 @startuml
 
-!include %getenv("THEME_HOME")/common.puml
+
+
+skinparam backgroundColor undefined
+
+
+
+
+
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #4E5D6C
+skinparam stereotype {
+    CBackgroundColor #222529
+    CBorderColor #55585c
+    ABackgroundColor #558c2a
+    ABorderColor #88bf5d
+    IBackgroundColor #cc4a50
+    IBorderColor #ff7d83
+    EBackgroundColor #bd5b0e
+    EBorderColor #f08e41
+    NBackgroundColor #3694ab
+    NBorderColor #69c7de
+}
+skinparam title {
+	FontColor	                 #FFF
+	BorderColor	                 #2a2e33
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #55585c-#2a2e33
+}
+
+skinparam legend {
+	BackgroundColor #2a2e33
+	BorderColor #55585c
+	FontColor #abb6c2
+}
+
+<style> 
+mindmapDiagram {
+	Padding 15
+	Margin 10
+	FontSize 12
+	FontName Verdana
+	Shadowing 0.0
+	LineThickness 1.5
+	FontColor #FFF
+	LineColor #f08e41
+	BackGroundColor #bd5b0e-#EC7211
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+</style>
+
+skinparam activity {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+	BarColor #6aaf35
+	StartColor #44b9d6
+	EndColor #44b9d6
+	DiamondBackgroundColor #222529
+  	DiamondBorderColor #55585c
+  	DiamondFontColor #FFF
+}
+
+skinparam participant {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+	ParticipantBorderThickness 2
+}
+
+skinparam actor {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+
+skinparam arrow {
+	Thickness 3
+	Color #EC7211
+	FontColor #FFF
+}
+
+skinparam sequence {
+	BorderColor #EC7211
+	TitleFontColor #EC7211
+	BackgroundColor undefined
+	StartColor #EC7211
+	EndColor #EC7211
+	BoxBackgroundColor undefined
+	BoxBorderColor #4E5D6C
+	BoxFontColor $DARk
+	LifeLineBorderColor #2a2e33
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #55585c
+	GroupBorderColor #4E5D6C
+	GroupFontColor #4E5D6C
+	GroupHeaderFontColor #44b9d6
+	GroupBackgroundColor #2a2e33
+	GroupHeaderBackgroundColor undefined
+	DividerBackgroundColor #4E5D6C
+    DividerBorderColor #4E5D6C
+    DividerBorderThickness 2
+    DividerFontColor #abb6c2
+	ReferenceBackgroundColor undefined
+	ReferenceBorderColor #4E5D6C
+	ReferenceFontColor #4E5D6C
+	ReferenceHeaderFontColor #44b9d6
+	ReferenceHeaderBackgroundColor #2a2e33
+}
+
+skinparam partition {
+	BorderColor #EC7211
+	FontColor #EC7211
+	BackgroundColor undefined
+}
+
+skinparam collections {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+
+skinparam control {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+
+skinparam entity {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+
+skinparam boundary {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+
+skinparam agent {
+	BackgroundColor #EC7211
+	BorderColor #bd5b0e
+	FontColor #4E5D6C
+}
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #44b9d6
+	BorderColor #69c7de
+	FontColor #FFF
+}
+
+skinparam artifact {
+	BackgroundColor #4E5D6C
+	BorderColor #717d89
+	FontColor #abb6c2
+}
+
+skinparam component {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+
+skinparam interface {
+	BackgroundColor  #ff7d83
+	BorderColor  #ff5d64
+	FontColor #4E5D6C
+}
+
+skinparam storage {
+	BackgroundColor #EC7211
+  	BorderColor #f08e41
+	FontColor #FFF
+}
+
+skinparam node {
+	BackgroundColor  #2a2e33
+	BorderColor #abb6c2
+	FontColor #abb6c2
+}
+
+skinparam cloud {
+	BackgroundColor #4E5D6C
+	BorderColor #4E5D6C
+	FontColor #abb6c2
+}
+
+skinparam database {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+
+skinparam class {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+	HeaderBackgroundColor #bd5b0e
+	StereotypeFontColor #4E5D6C
+	BorderThickness 1
+	AttributeFontColor #4E5D6C
+	AttributeFontSize 11
+}
+
+skinparam object {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+	StereotypeFontColor #4E5D6C
+	BorderThickness 1
+	AttributeFontColor #FFF
+	AttributeFontSize 11
+}
+
+skinparam usecase {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+	BorderThickness 2
+	StereotypeFontColor #EC7211
+}
+
+skinparam rectangle {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+	BackgroundColor #222529
+	BorderThickness 2
+	StereotypeFontColor #EC7211
+}
+
+skinparam package {
+	BackgroundColor #2a2e33
+  	BorderColor #EC7211
+	FontColor #EC7211
+	BorderThickness 2
+}
+
+skinparam folder {
+	BackgroundColor #222529
+  	BorderColor #EC7211
+	FontColor #EC7211
+	BorderThickness 2
+}
+
+skinparam frame {
+	BackgroundColor #222529
+  	BorderColor #44b9d6
+	FontColor #44b9d6
+	BorderThickness 2
+}
+
+skinparam state {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+	StartColor #44b9d6
+	EndColor #44b9d6
+	AttributeFontColor #FFF
+	AttributeFontSize 11
+}
+
+skinparam queue {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+
+skinparam card {
+	BackgroundColor #44b9d6
+	BorderColor #69c7de
+	FontColor #FFF
+}
+
+skinparam file {
+	BackgroundColor #55585c
+	BorderColor #abb6c2
+	FontColor #abb6c2
+}
+
+skinparam stack {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+
+title Component Diagram - AWS Orange Dark theme
+
+
+package "My Package" {
+  HTTP - [First Component]
+  [Another Component]
+  rectangle MyRectangle1
+  collections MyCollection1
+}
+ 
+node "My Node" {
+  FTP - [Second Component]
+  [First Component] - -> FTP
+  rectangle MyRectangle2
+} 
+
+cloud "My Cloud" {
+  [Example 1]
+}
+
+collections MyCollection2
+
+database "My Database" {
+  folder "My folder" {
+	[Folder 3]
+  }
+  frame "My Frame" {
+	[Frame 4]
+  }
+}
+
+artifact "My Artifact"
+storage "My Storage"
+queue "My Queue"
+interface "My Interface"
+card "My Card"
+file "My File"
+stack "My Stack"
+
+[Another Component] - -> [Example 1]: some message
+[Example 1] - -> [Folder 3]
+[Folder 3] - -> [Frame 4]
+
+@enduml
 
 PlantUML version 1.2021.01(Mon Feb 01 23:55:08 PST 2021)
 (GPL source distribution)

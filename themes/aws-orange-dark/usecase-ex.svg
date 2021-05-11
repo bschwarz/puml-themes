@@ -1,8 +1,735 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="529px" preserveAspectRatio="none" style="width:603px;height:529px;background:#000000;" version="1.1" viewBox="0 0 603 529" width="603px" zoomAndPan="magnify"><defs/><g><rect fill="#091D0C" height="1" style="stroke:#091D0C;stroke-width:1.0;" width="1" x="0" y="0"/><rect fill="#F6C914" height="73" style="stroke:#F6C914;stroke-width:1.0;" width="602" x="0" y="0"/><image height="58" width="454" x="1" xlink:href="data:image/png;base64,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" y="7.5"/><image height="62" width="62" x="454" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAA+CAYAAABzwahEAAACqklEQVR4Xu3PQQ4TQRBD0dz/0rBhNk983JMEIZF8yQuXXdUzjx8fysPBp/D98U/j++OfRv744/F4SrVfVO7ce6cqMvHAqWq/qNy5905VZLIW5W7/ovac6xern8lalLv9i9pzrl+sfiYuXl6Zl3d+Kvf0yrzIxEUfqLy881O5p1fmRSYu+kDl+prrlTi3X3mRiYs+ULm+5nolzu1XXmTiog9Uri8929Mr8yITF32gcn3p2Z5emReZrEWp/por8/KL1c9kLUr111yZl1+sfiZ+0Kncf7e/qyITD5zK/Xf7uyo6eRN+gF5OP/xV/t7lX/gDevnnP+4HKHGuP8V36o65Pb1k4kElzvWn+E7dMbenl0w8uA5d2F97K5fVX/lFNvzw44O/2fnT3spl9Vd+MRse8oeUvcXqVV7zU+amD/ijyt5i9Sqv+Slzs36sWH1zJWuuTpnNu4dX31zJmqtTjpseLl+yp3e+8vKq6AQ8VL5kT+985eVV0Ql4qB54dX5XxcwdFB6qD3h1flfFzB2IB3y4VP2am7/aW8yGh3ygVP2am7/aW2TDA8vfneudVy7Vq/lFJi4uf3eud165VK/mF50MPLw+uPLy71LRycDD68HKy79LRScv4gf4Ic4rL17OHbwLf8gPcV558XLu4MIPOpWYq8K8/FKRiQdOJeaqMC+/VGSyFqX69SHlVVH58b6Di7Uo1a8PKa+Kyo/3HVy46MHKxbn75qunpOaSDQ/4YOXi3H3z1VNSc8mGB3ywcr3z0/zCnlq9IhMXPVi53vlpfmFPrV6RiYserFx/KvfE/tIiGx7wcOX6U7kn9pcW2Tg9cGF/+cKevub6RTZvHxofoi/s6WuuX2TzOnRX7j/rxXdOVWTigVO5/6wX3zlV0cl/zvfHP43vj38aH/vjPwHXxSZFmC+/QgAAAABJRU5ErkJggg==" y="5.5"/><rect fill="#FFFFFF" height="205.5625" style="stroke:#FFFFFF;stroke-width:1.0;" width="602" x="0" y="73"/><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="159" x="5" y="89.1387">Welcome to PlantUML!</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="0" x="9" y="103.1074"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="293" x="5" y="117.0762">If you use this software, you accept its license.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="107" x="5" y="131.0449">(details by typing</text><text fill="#000000" font-family="monospace" font-size="12" lengthAdjust="spacing" textLength="49" x="116" y="131.0449">license</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="56" x="169" y="131.0449">keyword)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="0" x="9" y="145.0137"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="283" x="5" y="158.9824">You can start with a simple UML Diagram like:</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="0" x="9" y="172.9512"/><text fill="#000000" font-family="monospace" font-size="12" lengthAdjust="spacing" textLength="119" x="5" y="186.9199">Bob-&gt;Alice: Hello</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="0" x="9" y="200.8887"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="14" x="5" y="214.8574">Or</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="0" x="9" y="228.8262"/><text fill="#000000" font-family="monospace" font-size="12" lengthAdjust="spacing" textLength="91" x="5" y="242.7949">class Example</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="0" x="9" y="256.7637"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="349" x="5" y="270.7324">You will find more information about PlantUML syntax on</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" text-decoration="underline" textLength="129" x="358" y="270.7324">https://plantuml.com</text><image height="71" width="80" x="516" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABHCAMAAACnHDC8AAADAFBMVEX///+BpbvD3u/f7vfPz8+nz+g3ksuZEDkWADr/ujlvsdpTodLCwsOLwOEbg8T//v6pqamZETnLysvT09To5+jqLS4VATj9/f27u7vDw8MTfsK+v7/j4+SOweJprdjL4/KxsbEri8jk8PgXa57c29uUETez1utQoNJ1tNtEmc9cptWBut6ayOW/3O6YEDjY6vUfhcXBwcHs7Ozw9/v83t79uTn7+/vX19ehoaHx8fG2tLXHx8fuVlfrNTYaBjn/vUH5+fmko6WXl5f/+fn95ub+9PT+8PD3qKidmaMxIUrnqDWcFj7n5eX09PTu7u2SkpKfnZ6rq6z0lJTm4tzJrHUfDT339/eFGDn6tjcrEzOvrbBuZ3l4eomSMS7Hz9Smpqasu8SFiYuQETfa2du1m6OOM051J0NWTWL5xse4uLj6zc33r6/4vb7ydHXqLi/72dntTE3tR0ijbn5jW3C+u8NANVQrG0XFubqRVGZza4GQGT2VaS7a0NPJtI6IJj/zszrfqkXXzr/Hw8cgC0LUqltOQ2JsSC5bTGjOpFafSi2+iDGtyt14m7TJhTCPJUSwoIG/qa+ikHiIgpCRHjI9j8KXbnaQH0FLf6FGPlp0cnYyKE2rg49Wj7dFXHmcwtrp6uu+xMjvYWLvW1z97e3sPD3sP0DuUlP709PYzdDPmzqZWWySRVygfHHd1smWkZ+PgnibETqsl260q5fLuppJLC/dpj2HPFLTtHv/ujrTwJy5s6iWjIi0iD3joTTCmU3trjuvZS2zlFvjq0HSyLbYp0qRts10XGxEKC9yPVBQZIOPdlNvMk2NeYNqRlujtcCVrr3j5eY1gK9Qn9GLp7lbeJXRxrCkiZDaozyukoJ+H0B3rc+OYy+iprJkYXdhmr6ee0afs79xq9BikrGKjI3FomEiLFO0ay6nfIm4pZXRjTFuhZSZWm0zcZyJN0KNTk4eebNfdIGGlZ93h5kcED5nOVYyRWbziIk9dJ4kerE5ZYxRUnLG1d7p8PTvY2PtTk/1nZ1ycV/bAAAFx0lEQVR4Xu1Ye1BUVRg/e3dhl4csKyxqPlBJQVETF2icAY13GogkEFqizqRRpoBpTCIapaUOhWNjUdOMSBpqJYZTg4KigFKADzSIVZ4qD5VFluXhLgvbPee+r49R7v2z3+zcc77fOfPb7zvfPd85uwCIhwT4wPisANwPAuIKHnbHH1I+KwAXDA18ShDW58CneCEnXl8JGwmfHylCPSvlZ/FWxh8YIRIxTWkZAEofkTz8sNq7tAqE2gODOB6GYZobVaH20SVZ4oQcdmXV0L7c4b8OFvJHRoYwdVIoyPX3gxtFDA+V8e6mM8pBoCjij4wQiWo/ALzV/kpkifBi13p4waZuGrJEECycixcEVSbYgFwUozg4/qSraOxrP7O8Eogj2HDxyMWmzpk6823+yIjhvR7fLOpDsCuGhwC0WfbkjQq8A0MWC0EgIYzPCYMymM8Iwcvz6K4IWw8skTrgq3iPMIQnxdfKrvyedpyvbSsyBQt6zcH6OxXmjqYxg9PbgXBBveK6aRAXNEl1Ssc+hz7Bgntyohb/ggQlNrrdzfIuoYKSb79067PrRoLmGo25SeghJRn1yMrSbPTptZaoBlwtlWbBHspxiW+mW8+46ereVnMXGxbFQ+mjofiHZTrclJn5E14UEgdrO9tRVph0HDJlYlRsLv4XFA7RBA1kK5ogBb7gtn08AvxWymc2b+YzLHC3nnOCNHvdayUsZpnnwnPqGf+yGKcPKlv92vtJC209zGyRWJmgyd16sSGGT/AmM2rdKZKZHxwCz7KUodLzJOO8th4OBqxdo0c2tfUkNr3QlJkZQWWMBP0uwBHvmQQb3zRVCMnsMO6ATazf3f0kkza0HTaPCdIhpyTknqP61Te1eV2gRpr1FUn4xtxRT72pDHhj09/UnBLjiv72p4d8FEtlLibBd7Qg0xK5+XfS9q2AzxSVHPnNIMBS8BQPw8N1W4glQWj0mtp4+nSHhvKYOM4GL6vH1jGTcDQ3p1979AQPI5agXEDYwuS5awknJ73rHU56RyLAr6ACpO5iMRGvp3XykjImgs4Fgm2/7URc8dhbeD9jdhYVNon0mdFcAjTIXbmC75VrmVHcQ+JDIXbuNmYUYlZoYx6XcWjKTWavYXd1WzU9OEh9wLFfEVFza5PEhVhDAvfLx60cWM3ePMa9hyZG5DNr6DbQiCUcYU0AKGzGyYxlkf+wxnCk+wdwCbA/TkWH7Dbgoq8dcmKNssQQ3F/JmMxlIj/fzo/7s9OIwUMebbYzbh2zLfk7ehBGzIau6OeO+xzGKlBRwCGAXNaCFgYbRoKG+hMTfMff4M6h0LYxpmv/92ym9tIxc4uRzawynCEWGhum7odf9/75vh8zg0bKijX5AMxhMacsK8pBxaJihtnQqr1KG8yFMzq/dutJ2iKwNCbXA7Yamsm2Xn0XtgtowY3Xy8rpYc4NNqon8eM49k+NtzU55GtMleGAkNR6oldDMhH+e9EX0JB+UYKv4WgLZrLCjHV7wnyYlzJZvYV6A6d1w6xEph842UUyTkjGIbzwRA/JIOBJKSt88yglqND1h6TpiQqQV99wmJ7nknQcgIIHqd00EwSzgudigGYQUHE4qFMcGJb22kp7lNop8p6znStvg5S2e1TVRti56w/zj8fZzKLiDa317MqBQFbs+J3dcbSgo+H4D0kLOokJ82/NR8KZbp9eIZgllwKR8Ec1ejIX827POk/06HpYffGd5dkoZJXMqDAVXd1Nbhavlx4OyuAiPcyAF3Ick8faXAuE5WToApkMxykL1PbNRJ91SDkXOyymPFR1UMlw9GjRPKCrPsRSvUnbzbkELj2PSSRkQLiH1AvROTutlpryLHQAoCD+C2BBP4npMwd9zsIgzgaDsK+bctmVw3hetai5t9RS4PEqub4QnCvxteGzOZyQXxjscxkhHisWKMi72+T0p1dxGeGYkG0ez+eeG7In/n/oNOexC9fzIiLvPxVtKp84iza+AAAAAElFTkSuQmCC" y="79"/><rect fill="#000000" height="176.6563" style="stroke:#000000;stroke-width:1.0;" width="602" x="0" y="278.5625"/><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="135" x="5" y="295.5625">PlantUML 1.2021.01</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="0" x="9" y="309.5313"/><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="391" x="5" y="323.5">&lt;b&gt;This version of PlantUML is 97 days old, so you should</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="408" x="5" y="337.4688">&lt;b&gt;consider upgrading from https://plantuml.com/download</text><rect fill="#33FF02" height="21.2969" style="stroke:#33FF02;stroke-width:1.0;" width="258" x="5" y="347.4375"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="256" x="6" y="362.4375">[From usecase-ex.puml (line 1) ]</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="0" x="10" y="382.7344"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="79" x="5" y="399.0313">@startuml</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="0" x="10" y="415.3281"/><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="382" x="5" y="431.625">!include %getenv("THEME_HOME")/common.puml</text><text fill="#FF0000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="236" x="10" y="447.9219">cannot include /common.puml</text><rect fill="#F6C914" height="73" style="stroke:#F6C914;stroke-width:1.0;" width="602" x="0" y="455.2188"/><image height="58" width="454" x="1" xlink:href="data:image/png;base64,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" y="462.7188"/><image height="62" width="62" x="454" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAA+CAYAAABzwahEAAACqklEQVR4Xu3PQQ4TQRBD0dz/0rBhNk983JMEIZF8yQuXXdUzjx8fysPBp/D98U/j++OfRv744/F4SrVfVO7ce6cqMvHAqWq/qNy5905VZLIW5W7/ovac6xern8lalLv9i9pzrl+sfiYuXl6Zl3d+Kvf0yrzIxEUfqLy881O5p1fmRSYu+kDl+prrlTi3X3mRiYs+ULm+5nolzu1XXmTiog9Uri8929Mr8yITF32gcn3p2Z5emReZrEWp/por8/KL1c9kLUr111yZl1+sfiZ+0Kncf7e/qyITD5zK/Xf7uyo6eRN+gF5OP/xV/t7lX/gDevnnP+4HKHGuP8V36o65Pb1k4kElzvWn+E7dMbenl0w8uA5d2F97K5fVX/lFNvzw44O/2fnT3spl9Vd+MRse8oeUvcXqVV7zU+amD/ijyt5i9Sqv+Slzs36sWH1zJWuuTpnNu4dX31zJmqtTjpseLl+yp3e+8vKq6AQ8VL5kT+985eVV0Ql4qB54dX5XxcwdFB6qD3h1flfFzB2IB3y4VP2am7/aW8yGh3ygVP2am7/aW2TDA8vfneudVy7Vq/lFJi4uf3eud165VK/mF50MPLw+uPLy71LRycDD68HKy79LRScv4gf4Ic4rL17OHbwLf8gPcV558XLu4MIPOpWYq8K8/FKRiQdOJeaqMC+/VGSyFqX69SHlVVH58b6Di7Uo1a8PKa+Kyo/3HVy46MHKxbn75qunpOaSDQ/4YOXi3H3z1VNSc8mGB3ywcr3z0/zCnlq9IhMXPVi53vlpfmFPrV6RiYserFx/KvfE/tIiGx7wcOX6U7kn9pcW2Tg9cGF/+cKevub6RTZvHxofoi/s6WuuX2TzOnRX7j/rxXdOVWTigVO5/6wX3zlV0cl/zvfHP43vj38aH/vjPwHXxSZFmC+/QgAAAABJRU5ErkJggg==" y="460.7188"/><!--MD5=[d02d09bb66998ad43845309216c8186a]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="453.125px" preserveAspectRatio="none" style="width:397px;height:453px;" version="1.1" viewBox="0 0 397 453" width="397.9167px" zoomAndPan="magnify"><defs><filter height="300%" id="fqbq8yitcba1m" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0833333333333335"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.166666666666667" dy="4.166666666666667" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter><linearGradient id="gqbq8yitcba1m0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#F08E41"/><stop offset="100%" stop-color="#EC7211"/></linearGradient></defs><g><rect fill="none" height="37.8092" style="stroke:none;stroke-width:1.0416666666666667;" width="382.2917" x="5.2083" y="5.2083"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" font-weight="bold" lengthAdjust="spacing" textLength="361.4583" x="15.625" y="29.1616">Usecase Diagram - AWS Orange Dark theme</text><!--MD5=[111002b242a260edbcaabc3e471064d0]
+cluster checkout--><rect fill="#222529" filter="url(#fqbq8yitcba1m)" height="326.0417" rx="4.1667" ry="4.1667" style="stroke:#EC7211;stroke-width:2.0833333333333335;" width="167.7083" x="136.4583" y="56.5592"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="61.4583" x="189.5833" y="76.4181">checkout</text><ellipse cx="220.3316" cy="233.7412" fill="#FEFECE" rx="67.2066" ry="22.4945" style="stroke:#A80036;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="67.7083" x="186.4774" y="236.7065">checkout</text><ellipse cx="220.2945" cy="124.3662" fill="#FEFECE" rx="63.5237" ry="22.4945" style="stroke:#A80036;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="62.5" x="189.0445" y="127.3315">payment</text><ellipse cx="220.0725" cy="343.1162" fill="#FEFECE" rx="41.4266" ry="22.4945" style="stroke:#A80036;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="31.25" x="204.4475" y="346.0815">help</text><!--MD5=[92848cbaf65985a669855153c5362c37]
+entity customer--><ellipse cx="47.9167" cy="195.6217" fill="url(#gqbq8yitcba1m0)" filter="url(#fqbq8yitcba1m)" rx="8.3333" ry="8.3333" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><path d="M47.9167,203.9551 L47.9167,232.0801 M34.375,212.2884 L61.4583,212.2884 M47.9167,232.0801 L34.375,247.7051 M47.9167,232.0801 L61.4583,247.7051 " fill="none" filter="url(#fqbq8yitcba1m)" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="68.75" x="13.5417" y="273.7417">customer</text><!--MD5=[ebeabf449828f4e0b33bbb47961e644b]
+entity clerk--><ellipse cx="375.5208" cy="195.6217" fill="url(#gqbq8yitcba1m0)" filter="url(#fqbq8yitcba1m)" rx="8.3333" ry="8.3333" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><path d="M375.5208,203.9551 L375.5208,232.0801 M361.9792,212.2884 L389.0625,212.2884 M375.5208,232.0801 L361.9792,247.7051 M375.5208,232.0801 L389.0625,247.7051 " fill="none" filter="url(#fqbq8yitcba1m)" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="34.375" x="358.3333" y="273.7417">clerk</text><!--MD5=[852381a7bb976b86080137fb6d718ea9]
+link customer to checkout--><path d="M87.6042,233.6426 C106.9375,233.6426 130.8854,233.6426 153.0417,233.6426 " fill="none" id="customer-checkout" style="stroke:#EC7211;stroke-width:3.125;"/><!--MD5=[3ad5c6d5c608bfd6b87dc9c07c40a15f]
+link checkout to payment--><path d="M220.3125,211.2467 C220.3125,194.2572 220.3125,170.778 220.3125,152.5072 " fill="none" id="checkout-to-payment" style="stroke:#EC7211;stroke-width:3.125;stroke-dasharray:7.0,7.0;"/><polygon fill="#EC7211" points="220.3125,147.0072,216.1458,156.3822,220.3125,152.2155,224.4792,156.3822,220.3125,147.0072" style="stroke:#EC7211;stroke-width:3.125;"/><text fill="#FFFFFF" font-family="sans-serif" font-size="13.5417" lengthAdjust="spacing" textLength="46.875" x="179.6875" y="183.7123">include</text><!--MD5=[739e7928149c8fe27c2b5850560351c7]
+link help to checkout--><path d="M220.3125,320.6217 C220.3125,303.6322 220.3125,280.153 220.3125,261.8822 " fill="none" id="help-to-checkout" style="stroke:#EC7211;stroke-width:3.125;stroke-dasharray:7.0,7.0;"/><polygon fill="#EC7211" points="220.3125,256.3822,216.1458,265.7572,220.3125,261.5905,224.4792,265.7572,220.3125,256.3822" style="stroke:#EC7211;stroke-width:3.125;"/><text fill="#FFFFFF" font-family="sans-serif" font-size="13.5417" lengthAdjust="spacing" textLength="53.125" x="176.5625" y="293.0873">extends</text><!--MD5=[b4c4ee8f2d94c159d2b9e04bd372cbe0]
+link checkout to clerk--><path d="M287.625,233.6426 C311.0625,233.6426 335.8125,233.6426 352.875,233.6426 " fill="none" id="checkout-clerk" style="stroke:#EC7211;stroke-width:3.125;"/><rect fill="#DDDDDD" height="39.8926" rx="7.8125" ry="7.8125" style="stroke:#000000;stroke-width:1.0416666666666667;" width="147.9167" x="122.3958" y="402.3926"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="125" x="133.8542" y="427.3875">This is my legend</text><!--MD5=[75a6d57bf1f1c7a8483d2b90e34ffce9]
+@startuml
+
+!$THEME = "AWS Orange Dark"
+
+!if %not(%variable_exists("$BGCOLOR"))
+!$BGCOLOR = transparent
+!endif
+
+skinparam backgroundColor $BGCOLOR
+
+!$WHITE = "#FFF"
+!$GRAY_LIGHT = "#222"
+!$GRAY = "#868e96"
+!$PRIMARY = "#EC7211"
+!$SECONDARY = "#2a2e33"
+!$SUCCESS = "#6aaf35"
+!$INFO = "#44b9d6"
+!$WARNING = "#EC7211"
+!$DANGER = "#ff5d64"
+!$LIGHT = "#abb6c2"
+!$DARK = "#4E5D6C"
+
+!$FGCOLOR = $WHITE
+!$PRIMARY_DARK = "#f08e41"
+!$PRIMARY_LIGHT = "#bd5b0e"
+!$PRIMARY_TEXT = $WHITE
+!$SECONDARY_DARK = "#55585c"
+!$SECONDARY_LIGHT = "#222529"
+!$SECONDARY_TEXT = $WHITE
+!$INFO_DARK = "#69c7de"
+!$INFO_LIGHT = "#3694ab"
+!$INFO_TEXT = $WHITE
+!$SUCCESS_DARK = "#88bf5d"
+!$SUCCESS_LIGHT = "#558c2a"
+!$SUCCESS_TEXT = $WHITE
+!$WARNING_DARK = "#f08e41"
+!$WARNING_LIGHT = "#bd5b0e"
+!$WARNING_TEXT = $WHITE
+!$DANGER_DARK = "#ff7d83"
+!$DANGER_LIGHT = "#cc4a50"
+!$DANGER_TEXT = $WHITE
+!$DARK_DARK = "#717d89"
+!$DARK_LIGHT = "#3e4a56"
+!$LIGHT_DARK = "#bcc5ce"
+!$LIGHT_LIGHT = "#89929b"
+
+!procedure $success($msg)
+  <font color=$SUCCESS><b>$msg
+!endprocedure
+
+!procedure $failure($msg)
+  <font color=$DANGER><b>$msg
+!endprocedure
+
+!procedure $warning($msg)
+  <font color=$WARNING><b>$msg
+!endprocedure
+
+!procedure $primary_scheme()
+	FontColor $PRIMARY_TEXT
+	BorderColor $PRIMARY
+	BackgroundColor $PRIMARY_DARK-$PRIMARY
+!endprocedure
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            $DARK
+skinparam stereotype {
+    CBackgroundColor $SECONDARY_LIGHT
+    CBorderColor $SECONDARY_DARK
+    ABackgroundColor $SUCCESS_LIGHT
+    ABorderColor $SUCCESS_DARK
+    IBackgroundColor $DANGER_LIGHT
+    IBorderColor $DANGER_DARK
+    EBackgroundColor $WARNING_LIGHT
+    EBorderColor $WARNING_DARK
+    NBackgroundColor $INFO_LIGHT
+    NBorderColor $INFO_DARK
+}
+skinparam title {
+	FontColor	                 $PRIMARY_TEXT
+	BorderColor	                 $SECONDARY
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              $SECONDARY_DARK-$SECONDARY
+}
+
+skinparam legend {
+	BackgroundColor $SECONDARY
+	BorderColor $SECONDARY_DARK
+	FontColor $LIGHT
+}
+
+<style> 
+mindmapDiagram {
+	Padding 15
+	Margin 10
+	FontSize 12
+	FontName Verdana
+	Shadowing 0.0
+	LineThickness 1.5
+	FontColor $PRIMARY_TEXT
+	LineColor $PRIMARY_DARK
+	BackGroundColor $PRIMARY_LIGHT-$PRIMARY
+	$primary_scheme()
+}
+</style>
+
+!startsub activity
+skinparam activity {
+	$primary_scheme()
+	BarColor $SUCCESS
+	StartColor $INFO
+	EndColor $INFO
+	DiamondBackgroundColor $SECONDARY_LIGHT
+  	DiamondBorderColor $SECONDARY_DARK
+  	DiamondFontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub participant
+skinparam participant {
+	$primary_scheme()
+	ParticipantBorderThickness 2
+}
+!endsub
+
+!startsub actor
+skinparam actor {
+	$primary_scheme()
+}
+!endsub
+
+!startsub arrow
+skinparam arrow {
+	Thickness 3
+	Color $PRIMARY
+	FontColor $FGCOLOR
+}
+!endsub
+
+!startsub sequence
+skinparam sequence {
+	BorderColor $PRIMARY
+	TitleFontColor $PRIMARY
+	BackgroundColor $BGCOLOR
+	StartColor $PRIMARY
+	EndColor $PRIMARY
+	BoxBackgroundColor $BGCOLOR
+	BoxBorderColor $DARK
+	BoxFontColor $DARk
+	LifeLineBorderColor $SECONDARY
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor $SECONDARY_DARK
+	GroupBorderColor $DARK
+	GroupFontColor $DARK
+	GroupHeaderFontColor $INFO
+	GroupBackgroundColor $SECONDARY
+	GroupHeaderBackgroundColor $BGCOLOR
+	DividerBackgroundColor $DARK
+    DividerBorderColor $DARK
+    DividerBorderThickness 2
+    DividerFontColor $LIGHT
+	ReferenceBackgroundColor $BGCOLOR
+	ReferenceBorderColor $DARK
+	ReferenceFontColor $DARK
+	ReferenceHeaderFontColor $INFO
+	ReferenceHeaderBackgroundColor $SECONDARY
+}
+!endsub
+
+!startsub partition
+skinparam partition {
+	BorderColor $PRIMARY
+	FontColor $PRIMARY
+	BackgroundColor $BGCOLOR
+}
+!endsub
+
+!startsub collections
+skinparam collections {
+	$primary_scheme()
+}
+!endsub
+
+!startsub control
+skinparam control {
+	$primary_scheme()
+}
+!endsub
+
+!startsub entity
+skinparam entity {
+	$primary_scheme()
+}
+!endsub
+
+!startsub boundary
+skinparam boundary {
+	$primary_scheme()
+}
+!endsub
+
+!startsub agent
+skinparam agent {
+	BackgroundColor $WARNING
+	BorderColor $WARNING_LIGHT
+	FontColor $DARK
+}
+!endsub
+
+!startsub note
+skinparam note {
+	BorderThickness 1
+	BackgroundColor $INFO
+	BorderColor $INFO_DARK
+	FontColor $WHITE
+}
+!endsub
+
+!startsub artifact
+skinparam artifact {
+	BackgroundColor $DARK
+	BorderColor $DARK_DARK
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub component
+skinparam component {
+	$primary_scheme()
+}
+!endsub
+
+!startsub interface
+skinparam interface {
+	BackgroundColor  $DANGER_DARK
+	BorderColor  $DANGER
+	FontColor $DARK
+}
+!endsub
+
+!startsub storage
+skinparam storage {
+	BackgroundColor $WARNING
+  	BorderColor $WARNING_DARK
+	FontColor $WARNING_TEXT
+}
+!endsub
+
+!startsub node
+skinparam node {
+	BackgroundColor  $SECONDARY
+	BorderColor $LIGHT
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub cloud
+skinparam cloud {
+	BackgroundColor $DARK
+	BorderColor $DARK
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub database
+skinparam database {
+	$primary_scheme()
+}
+!endsub
+
+!startsub class
+skinparam class {
+	$primary_scheme()
+	HeaderBackgroundColor $PRIMARY_LIGHT
+	StereotypeFontColor $DARK
+	BorderThickness 1
+	AttributeFontColor $DARK
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub object
+skinparam object {
+	$primary_scheme()
+	StereotypeFontColor $DARK
+	BorderThickness 1
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub usecase
+skinparam usecase {
+	$primary_scheme()
+	BorderThickness 2
+	StereotypeFontColor $PRIMARY
+}
+!endsub
+
+!startsub rectangle
+skinparam rectangle {
+	$primary_scheme()
+	BackgroundColor $SECONDARY_LIGHT
+	BorderThickness 2
+	StereotypeFontColor $PRIMARY
+}
+!endsub
+
+!startsub package
+skinparam package {
+	BackgroundColor $SECONDARY
+  	BorderColor $PRIMARY
+	FontColor $PRIMARY
+	BorderThickness 2
+}
+!endsub
+
+!startsub folder
+skinparam folder {
+	BackgroundColor $SECONDARY_LIGHT
+  	BorderColor $WARNING
+	FontColor $WARNING
+	BorderThickness 2
+}
+!endsub
+
+!startsub frame
+skinparam frame {
+	BackgroundColor $SECONDARY_LIGHT
+  	BorderColor $INFO
+	FontColor $INFO
+	BorderThickness 2
+}
+!endsub
+
+!startsub state
+skinparam state {
+	$primary_scheme()
+	StartColor $INFO
+	EndColor $INFO
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub queue
+skinparam queue {
+	$primary_scheme()
+}
+!endsub
+
+!startsub card
+skinparam card {
+	BackgroundColor $INFO
+	BorderColor $INFO_DARK
+	FontColor $INFO_TEXT
+}
+!endsub
+
+!startsub file
+skinparam file {
+	BackgroundColor $SECONDARY_DARK
+	BorderColor $LIGHT
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub stack
+skinparam stack {
+	$primary_scheme()
+}
+!endsub
+
+!if %variable_exists("$THEME")
+title Usecase Diagram - $THEME theme
+!else
+title Usecase Diagram
+!endif
+
+legend
+This is my legend
+endlegend
+
+'skinparam BackgroundColor transparent
+
+left to right direction
+actor customer
+actor clerk
+rectangle checkout {
+  customer - - (checkout)
+  (checkout) .> (payment) : include
+  (help) .> (checkout) : extends
+  (checkout) - - clerk
+}
+@enduml
 
 @startuml
 
-!include %getenv("THEME_HOME")/common.puml
+
+
+skinparam backgroundColor undefined
+
+
+
+
+
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #4E5D6C
+skinparam stereotype {
+    CBackgroundColor #222529
+    CBorderColor #55585c
+    ABackgroundColor #558c2a
+    ABorderColor #88bf5d
+    IBackgroundColor #cc4a50
+    IBorderColor #ff7d83
+    EBackgroundColor #bd5b0e
+    EBorderColor #f08e41
+    NBackgroundColor #3694ab
+    NBorderColor #69c7de
+}
+skinparam title {
+	FontColor	                 #FFF
+	BorderColor	                 #2a2e33
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #55585c-#2a2e33
+}
+
+skinparam legend {
+	BackgroundColor #2a2e33
+	BorderColor #55585c
+	FontColor #abb6c2
+}
+
+<style> 
+mindmapDiagram {
+	Padding 15
+	Margin 10
+	FontSize 12
+	FontName Verdana
+	Shadowing 0.0
+	LineThickness 1.5
+	FontColor #FFF
+	LineColor #f08e41
+	BackGroundColor #bd5b0e-#EC7211
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+</style>
+
+skinparam activity {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+	BarColor #6aaf35
+	StartColor #44b9d6
+	EndColor #44b9d6
+	DiamondBackgroundColor #222529
+  	DiamondBorderColor #55585c
+  	DiamondFontColor #FFF
+}
+
+skinparam participant {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+	ParticipantBorderThickness 2
+}
+
+skinparam actor {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+
+skinparam arrow {
+	Thickness 3
+	Color #EC7211
+	FontColor #FFF
+}
+
+skinparam sequence {
+	BorderColor #EC7211
+	TitleFontColor #EC7211
+	BackgroundColor undefined
+	StartColor #EC7211
+	EndColor #EC7211
+	BoxBackgroundColor undefined
+	BoxBorderColor #4E5D6C
+	BoxFontColor $DARk
+	LifeLineBorderColor #2a2e33
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #55585c
+	GroupBorderColor #4E5D6C
+	GroupFontColor #4E5D6C
+	GroupHeaderFontColor #44b9d6
+	GroupBackgroundColor #2a2e33
+	GroupHeaderBackgroundColor undefined
+	DividerBackgroundColor #4E5D6C
+    DividerBorderColor #4E5D6C
+    DividerBorderThickness 2
+    DividerFontColor #abb6c2
+	ReferenceBackgroundColor undefined
+	ReferenceBorderColor #4E5D6C
+	ReferenceFontColor #4E5D6C
+	ReferenceHeaderFontColor #44b9d6
+	ReferenceHeaderBackgroundColor #2a2e33
+}
+
+skinparam partition {
+	BorderColor #EC7211
+	FontColor #EC7211
+	BackgroundColor undefined
+}
+
+skinparam collections {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+
+skinparam control {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+
+skinparam entity {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+
+skinparam boundary {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+
+skinparam agent {
+	BackgroundColor #EC7211
+	BorderColor #bd5b0e
+	FontColor #4E5D6C
+}
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #44b9d6
+	BorderColor #69c7de
+	FontColor #FFF
+}
+
+skinparam artifact {
+	BackgroundColor #4E5D6C
+	BorderColor #717d89
+	FontColor #abb6c2
+}
+
+skinparam component {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+
+skinparam interface {
+	BackgroundColor  #ff7d83
+	BorderColor  #ff5d64
+	FontColor #4E5D6C
+}
+
+skinparam storage {
+	BackgroundColor #EC7211
+  	BorderColor #f08e41
+	FontColor #FFF
+}
+
+skinparam node {
+	BackgroundColor  #2a2e33
+	BorderColor #abb6c2
+	FontColor #abb6c2
+}
+
+skinparam cloud {
+	BackgroundColor #4E5D6C
+	BorderColor #4E5D6C
+	FontColor #abb6c2
+}
+
+skinparam database {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+
+skinparam class {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+	HeaderBackgroundColor #bd5b0e
+	StereotypeFontColor #4E5D6C
+	BorderThickness 1
+	AttributeFontColor #4E5D6C
+	AttributeFontSize 11
+}
+
+skinparam object {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+	StereotypeFontColor #4E5D6C
+	BorderThickness 1
+	AttributeFontColor #FFF
+	AttributeFontSize 11
+}
+
+skinparam usecase {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+	BorderThickness 2
+	StereotypeFontColor #EC7211
+}
+
+skinparam rectangle {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+	BackgroundColor #222529
+	BorderThickness 2
+	StereotypeFontColor #EC7211
+}
+
+skinparam package {
+	BackgroundColor #2a2e33
+  	BorderColor #EC7211
+	FontColor #EC7211
+	BorderThickness 2
+}
+
+skinparam folder {
+	BackgroundColor #222529
+  	BorderColor #EC7211
+	FontColor #EC7211
+	BorderThickness 2
+}
+
+skinparam frame {
+	BackgroundColor #222529
+  	BorderColor #44b9d6
+	FontColor #44b9d6
+	BorderThickness 2
+}
+
+skinparam state {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+	StartColor #44b9d6
+	EndColor #44b9d6
+	AttributeFontColor #FFF
+	AttributeFontSize 11
+}
+
+skinparam queue {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+
+skinparam card {
+	BackgroundColor #44b9d6
+	BorderColor #69c7de
+	FontColor #FFF
+}
+
+skinparam file {
+	BackgroundColor #55585c
+	BorderColor #abb6c2
+	FontColor #abb6c2
+}
+
+skinparam stack {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+
+title Usecase Diagram - AWS Orange Dark theme
+
+legend
+This is my legend
+endlegend
+
+
+left to right direction
+actor customer
+actor clerk
+rectangle checkout {
+  customer - - (checkout)
+  (checkout) .> (payment) : include
+  (help) .> (checkout) : extends
+  (checkout) - - clerk
+}
+@enduml
 
 PlantUML version 1.2021.01(Mon Feb 01 23:55:08 PST 2021)
 (GPL source distribution)

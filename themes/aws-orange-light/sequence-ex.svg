@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1444.7917px" preserveAspectRatio="none" style="width:1391px;height:1444px;" version="1.1" viewBox="0 0 1391 1444" width="1391.6667px" zoomAndPan="magnify"><defs><filter height="300%" id="f1ryqghior00bz" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0833333333333335"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.166666666666667" dy="4.166666666666667" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter><linearGradient id="g1ryqghior00bz0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#F08E41"/><stop offset="100%" stop-color="#EC7211"/></linearGradient></defs><g><rect fill="none" height="37.8092" style="stroke:none;stroke-width:1.0416666666666667;" width="394.7917" x="494.2708" y="34.0007"/><text fill="#000000" font-family="sans-serif" font-size="14.5833" font-weight="bold" lengthAdjust="spacing" textLength="373.9583" x="504.6875" y="57.9539">Sequence Diagram - AWS Orange Dark theme</text><rect fill="#FFFFFF" height="1333.9681" style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" width="380.2083" x="961.4583" y="79.1016"/><text fill="#000000" font-family="sans-serif" font-size="13.5417" font-weight="bold" lengthAdjust="spacing" textLength="118.75" x="1092.1875" y="96.8796">Internal Service</text><rect fill="#BCC5CE" filter="url(#f1ryqghior00bz)" height="216.1133" style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" width="10.4167" x="392.1875" y="340.2425"/><rect fill="#FFFFFF" filter="url(#f1ryqghior00bz)" height="477.653" style="stroke:#EC7211;stroke-width:2.0833333333333335;" width="1358.3333" x="10.4167" y="734.6924"/><rect fill="#FFFFFF" height="241.9515" style="stroke:none;stroke-width:1.0416666666666667;" width="1358.3333" x="10.4167" y="903.7923"/><rect fill="#FFFFFF" filter="url(#f1ryqghior00bz)" height="120.0033" style="stroke:#EC7211;stroke-width:2.0833333333333335;" width="1337.5" x="20.8333" y="1018.4489"/><rect fill="#FFFFFF" filter="url(#f1ryqghior00bz)" height="77.1566" style="stroke:#EC7211;stroke-width:2.0833333333333335;" width="1316.6667" x="31.25" y="1054.0039"/><rect fill="#FFFFFF" height="66.6016" style="stroke:none;stroke-width:1.0416666666666667;" width="1358.3333" x="10.4167" y="1145.7438"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="67.7083" x2="67.7083" y1="175.2441" y2="592.9525"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;stroke-dasharray:1.0,4.0;" x1="67.7083" x2="67.7083" y1="592.9525" y2="645.874"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="67.7083" x2="67.7083" y1="645.874" y2="1312.7604"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="240.625" x2="240.625" y1="175.2441" y2="592.9525"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;stroke-dasharray:1.0,4.0;" x1="240.625" x2="240.625" y1="592.9525" y2="645.874"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="240.625" x2="240.625" y1="645.874" y2="1312.7604"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="396.875" x2="396.875" y1="175.2441" y2="592.9525"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;stroke-dasharray:1.0,4.0;" x1="396.875" x2="396.875" y1="592.9525" y2="645.874"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="396.875" x2="396.875" y1="645.874" y2="1312.7604"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="550" x2="550" y1="175.2441" y2="592.9525"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;stroke-dasharray:1.0,4.0;" x1="550" x2="550" y1="592.9525" y2="645.874"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="550" x2="550" y1="645.874" y2="1312.7604"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="722.9167" x2="722.9167" y1="175.2441" y2="592.9525"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;stroke-dasharray:1.0,4.0;" x1="722.9167" x2="722.9167" y1="592.9525" y2="645.874"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="722.9167" x2="722.9167" y1="645.874" y2="1312.7604"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="836.4583" x2="836.4583" y1="175.2441" y2="592.9525"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;stroke-dasharray:1.0,4.0;" x1="836.4583" x2="836.4583" y1="592.9525" y2="645.874"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="836.4583" x2="836.4583" y1="645.874" y2="1312.7604"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="1036.4583" x2="1036.4583" y1="175.2441" y2="592.9525"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;stroke-dasharray:1.0,4.0;" x1="1036.4583" x2="1036.4583" y1="592.9525" y2="645.874"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="1036.4583" x2="1036.4583" y1="645.874" y2="1312.7604"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="1227.0833" x2="1227.0833" y1="175.2441" y2="592.9525"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;stroke-dasharray:1.0,4.0;" x1="1227.0833" x2="1227.0833" y1="592.9525" y2="645.874"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="1227.0833" x2="1227.0833" y1="645.874" y2="1312.7604"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="36.4583" x="46.875" y="166.5965">Foo1</text><ellipse cx="68.2292" cy="88.4766" fill="url(#g1ryqghior00bz0)" filter="url(#f1ryqghior00bz)" rx="8.3333" ry="8.3333" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><path d="M68.2292,96.8099 L68.2292,124.9349 M54.6875,105.1432 L81.7708,105.1432 M68.2292,124.9349 L54.6875,140.5599 M68.2292,124.9349 L81.7708,140.5599 " fill="none" filter="url(#f1ryqghior00bz)" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="36.4583" x="46.875" y="1330.4637">Foo1</text><ellipse cx="68.2292" cy="1349.528" fill="url(#g1ryqghior00bz0)" filter="url(#f1ryqghior00bz)" rx="8.3333" ry="8.3333" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><path d="M68.2292,1357.8613 L68.2292,1385.9863 M54.6875,1366.1947 L81.7708,1366.1947 M68.2292,1385.9863 L54.6875,1401.6113 M68.2292,1385.9863 L81.7708,1401.6113 " fill="none" filter="url(#f1ryqghior00bz)" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="36.4583" x="219.7917" y="166.5965">Foo2</text><path d="M219.7917,118.6849 L219.7917,143.6849 M219.7917,131.1849 L237.5,131.1849 " fill="none" filter="url(#f1ryqghior00bz)" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><ellipse cx="250" cy="131.1849" fill="url(#g1ryqghior00bz0)" filter="url(#f1ryqghior00bz)" rx="12.5" ry="12.5" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="36.4583" x="219.7917" y="1330.4637">Foo2</text><path d="M219.7917,1343.278 L219.7917,1368.278 M219.7917,1355.778 L237.5,1355.778 " fill="none" filter="url(#f1ryqghior00bz)" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><ellipse cx="250" cy="1355.778" fill="url(#g1ryqghior00bz0)" filter="url(#f1ryqghior00bz)" rx="12.5" ry="12.5" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="36.4583" x="376.0417" y="166.5965">Foo3</text><ellipse cx="397.3958" cy="131.1849" fill="url(#g1ryqghior00bz0)" filter="url(#f1ryqghior00bz)" rx="12.5" ry="12.5" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><polygon fill="#EC7211" points="393.2292,118.6849,399.4792,113.4766,397.3958,118.6849,399.4792,123.8932,393.2292,118.6849" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="36.4583" x="376.0417" y="1330.4637">Foo3</text><ellipse cx="397.3958" cy="1355.778" fill="url(#g1ryqghior00bz0)" filter="url(#f1ryqghior00bz)" rx="12.5" ry="12.5" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><polygon fill="#EC7211" points="393.2292,1343.278,399.4792,1338.0697,397.3958,1343.278,399.4792,1348.4863,393.2292,1343.278" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="36.4583" x="529.1667" y="166.5965">Foo4</text><ellipse cx="550.5208" cy="131.1849" fill="url(#g1ryqghior00bz0)" filter="url(#f1ryqghior00bz)" rx="12.5" ry="12.5" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><line style="stroke:#EC7211;stroke-width:2.0833333333333335;" x1="538.0208" x2="563.0208" y1="145.7682" y2="145.7682"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="36.4583" x="529.1667" y="1330.4637">Foo4</text><ellipse cx="550.5208" cy="1355.778" fill="url(#g1ryqghior00bz0)" filter="url(#f1ryqghior00bz)" rx="12.5" ry="12.5" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><line style="stroke:#EC7211;stroke-width:2.0833333333333335;" x1="538.0208" x2="563.0208" y1="1370.3613" y2="1370.3613"/><text fill="#4E5D6C" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="36.4583" x="702.0833" y="166.5965">Foo5</text><path d="M704.6875,110.3516 C704.6875,99.9349 723.4375,99.9349 723.4375,99.9349 C723.4375,99.9349 742.1875,99.9349 742.1875,110.3516 L742.1875,137.4349 C742.1875,147.8516 723.4375,147.8516 723.4375,147.8516 C723.4375,147.8516 704.6875,147.8516 704.6875,137.4349 L704.6875,110.3516 " fill="url(#g1ryqghior00bz0)" filter="url(#f1ryqghior00bz)" style="stroke:#EC7211;stroke-width:1.5625;"/><path d="M704.6875,110.3516 C704.6875,120.7682 723.4375,120.7682 723.4375,120.7682 C723.4375,120.7682 742.1875,120.7682 742.1875,110.3516 " fill="none" style="stroke:#EC7211;stroke-width:1.5625;"/><text fill="#4E5D6C" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="36.4583" x="702.0833" y="1330.4637">Foo5</text><path d="M704.6875,1349.528 C704.6875,1339.1113 723.4375,1339.1113 723.4375,1339.1113 C723.4375,1339.1113 742.1875,1339.1113 742.1875,1349.528 L742.1875,1376.6113 C742.1875,1387.028 723.4375,1387.028 723.4375,1387.028 C723.4375,1387.028 704.6875,1387.028 704.6875,1376.6113 L704.6875,1349.528 " fill="url(#g1ryqghior00bz0)" filter="url(#f1ryqghior00bz)" style="stroke:#EC7211;stroke-width:1.5625;"/><path d="M704.6875,1349.528 C704.6875,1359.9447 723.4375,1359.9447 723.4375,1359.9447 C723.4375,1359.9447 742.1875,1359.9447 742.1875,1349.528 " fill="none" style="stroke:#EC7211;stroke-width:1.5625;"/><rect fill="url(#g1ryqghior00bz0)" filter="url(#f1ryqghior00bz)" height="41.9759" style="stroke:#EC7211;stroke-width:1.5625;" width="61.4583" x="806.25" y="123.8932"/><rect fill="url(#g1ryqghior00bz0)" filter="url(#f1ryqghior00bz)" height="41.9759" style="stroke:#EC7211;stroke-width:1.5625;" width="61.4583" x="802.0833" y="128.0599"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="36.4583" x="814.5833" y="154.0965">Foo6</text><rect fill="url(#g1ryqghior00bz0)" filter="url(#f1ryqghior00bz)" height="41.9759" style="stroke:#EC7211;stroke-width:1.5625;" width="61.4583" x="806.25" y="1311.7188"/><rect fill="url(#g1ryqghior00bz0)" filter="url(#f1ryqghior00bz)" height="41.9759" style="stroke:#EC7211;stroke-width:1.5625;" width="61.4583" x="802.0833" y="1315.8854"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="36.4583" x="814.5833" y="1341.922">Foo6</text><rect fill="url(#g1ryqghior00bz0)" filter="url(#f1ryqghior00bz)" height="41.9759" style="stroke:#EC7211;stroke-width:1.5625;" width="54.1667" x="1007.2917" y="128.0599"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="29.1667" x="1019.7917" y="154.0965">Bob</text><rect fill="url(#g1ryqghior00bz0)" filter="url(#f1ryqghior00bz)" height="41.9759" style="stroke:#EC7211;stroke-width:1.5625;" width="54.1667" x="1007.2917" y="1311.7188"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="29.1667" x="1019.7917" y="1337.7553">Bob</text><rect fill="url(#g1ryqghior00bz0)" filter="url(#f1ryqghior00bz)" height="58.9518" style="stroke:#EC7211;stroke-width:1.5625;" width="132.2917" x="1159.375" y="111.084"/><ellipse cx="1177.0833" cy="128.7923" fill="#ADD1B2" rx="10.4167" ry="10.4167" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><path d="M1178.9876,133.2194 Q1178.5645,133.431 1178.0924,133.5449 Q1177.6204,133.6589 1177.1159,133.6589 Q1175.2604,133.6589 1174.2839,132.4544 Q1173.3236,131.2337 1173.3236,128.9388 Q1173.3236,126.6276 1174.2839,125.4232 Q1175.2604,124.2025 1177.1159,124.2025 Q1177.6204,124.2025 1178.0924,124.3164 Q1178.5807,124.4141 1178.9876,124.6419 L1178.9876,126.6439 Q1178.5319,126.2207 1178.0924,126.0254 Q1177.653,125.8138 1177.1973,125.8138 Q1176.2044,125.8138 1175.6999,126.6113 Q1175.1953,127.3926 1175.1953,128.9388 Q1175.1953,130.4688 1175.6999,131.25 Q1176.2044,132.0313 1177.1973,132.0313 Q1177.653,132.0313 1178.0924,131.8359 Q1178.5319,131.6406 1178.9876,131.2174 L1178.9876,133.2194 Z " fill="#FFFFFF"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14.5833" font-style="italic" lengthAdjust="spacing" textLength="80.2083" x="1198.9583" y="137.1206">«Testable»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="33.3333" x="1222.3958" y="154.0965">Alice</text><rect fill="url(#g1ryqghior00bz0)" filter="url(#f1ryqghior00bz)" height="58.9518" style="stroke:#EC7211;stroke-width:1.5625;" width="132.2917" x="1159.375" y="1311.7188"/><ellipse cx="1177.0833" cy="1329.4271" fill="#ADD1B2" rx="10.4167" ry="10.4167" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><path d="M1178.9876,1333.8542 Q1178.5645,1334.0658 1178.0924,1334.1797 Q1177.6204,1334.2936 1177.1159,1334.2936 Q1175.2604,1334.2936 1174.2839,1333.0892 Q1173.3236,1331.8685 1173.3236,1329.5736 Q1173.3236,1327.2624 1174.2839,1326.0579 Q1175.2604,1324.8372 1177.1159,1324.8372 Q1177.6204,1324.8372 1178.0924,1324.9512 Q1178.5807,1325.0488 1178.9876,1325.2767 L1178.9876,1327.2786 Q1178.5319,1326.8555 1178.0924,1326.6602 Q1177.653,1326.4486 1177.1973,1326.4486 Q1176.2044,1326.4486 1175.6999,1327.2461 Q1175.1953,1328.0273 1175.1953,1329.5736 Q1175.1953,1331.1035 1175.6999,1331.8848 Q1176.2044,1332.666 1177.1973,1332.666 Q1177.653,1332.666 1178.0924,1332.4707 Q1178.5319,1332.2754 1178.9876,1331.8522 L1178.9876,1333.8542 Z " fill="#FFFFFF"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14.5833" font-style="italic" lengthAdjust="spacing" textLength="80.2083" x="1198.9583" y="1337.7553">«Testable»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14.5833" lengthAdjust="spacing" textLength="33.3333" x="1222.3958" y="1354.7312">Alice</text><rect fill="#BCC5CE" filter="url(#f1ryqghior00bz)" height="216.1133" style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" width="10.4167" x="392.1875" y="340.2425"/><rect fill="#4E5D6C" height="3.125" style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" width="1384.375" x="0" y="212.2925"/><line style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" x1="0" x2="1384.375" y1="212.2925" y2="212.2925"/><line style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" x1="0" x2="1384.375" y1="215.4175" y2="215.4175"/><rect fill="#4E5D6C" height="34.5133" style="stroke:#4E5D6C;stroke-width:2.0833333333333335;" width="122.9167" x="630.7292" y="196.0775"/><text fill="#ABB6C2" font-family="sans-serif" font-size="13.5417" font-weight="bold" lengthAdjust="spacing" textLength="92.7083" x="642.1875" y="218.0222">Initialization</text><polygon fill="#EC7211" points="228.6458,269.2708,239.0625,273.4375,228.6458,277.6042,232.8125,273.4375" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="68.2292" x2="234.8958" y1="273.4375" y2="273.4375"/><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="80.7292" y="262.9522">[001]</text><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" lengthAdjust="spacing" textLength="82.2917" x="135.9375" y="262.9522">To boundary</text><polygon fill="#EC7211" points="379.6875,336.0758,390.1042,340.2425,379.6875,344.4092,383.8542,340.2425" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="241.1458" x2="385.9375" y1="340.2425" y2="340.2425"/><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="253.6458" y="329.7572">[002]</text><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" lengthAdjust="spacing" textLength="65.625" x="308.8542" y="329.7572">To control</text><rect fill="#FFFFFF" filter="url(#f1ryqghior00bz)" height="76.1149" style="stroke:#4E5D6C;stroke-width:2.0833333333333335;" width="228.125" x="520.8333" y="348.5758"/><polygon fill="#FFFFFF" points="520.8333,348.5758,600,348.5758,600,366.2842,589.5833,376.7008,520.8333,376.7008,520.8333,348.5758" style="stroke:#4E5D6C;stroke-width:2.0833333333333335;"/><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" font-weight="bold" lengthAdjust="spacing" textLength="21.875" x="539.5833" y="368.4372">ref</text><text fill="#4E5D6C" font-family="sans-serif" font-size="12.5" lengthAdjust="spacing" textLength="95.8333" x="589.0625" y="397.6786">This can be on</text><text fill="#4E5D6C" font-family="sans-serif" font-size="12.5" lengthAdjust="spacing" textLength="81.25" x="596.3542" y="412.2294">several lines</text><polygon fill="#EC7211" points="538.0208,458.1624,548.4375,462.3291,538.0208,466.4958,542.1875,462.3291" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="402.6042" x2="544.2708" y1="462.3291" y2="462.3291"/><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="415.1042" y="451.8438">[003]</text><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" lengthAdjust="spacing" textLength="57.2917" x="470.3125" y="451.8438">To entity</text><polygon fill="#EC7211" points="710.9375,498.9258,721.3542,503.0924,710.9375,507.2591,715.1042,503.0924" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="550.5208" x2="717.1875" y1="503.0924" y2="503.0924"/><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="563.0208" y="492.6071">[004]</text><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" lengthAdjust="spacing" textLength="82.2917" x="618.2292" y="492.6071">To database</text><polygon fill="#EC7211" points="414.0625,511.4258,403.6458,515.5924,414.0625,519.7591,409.8958,515.5924" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="407.8125" x2="722.3958" y1="515.5924" y2="515.5924"/><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="425.5208" y="534.4121">[005]</text><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" lengthAdjust="spacing" textLength="40.625" x="480.7292" y="534.4121">return</text><polygon fill="#EC7211" points="252.6042,552.1891,242.1875,556.3558,252.6042,560.5225,248.4375,556.3558" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="246.3542" x2="396.3542" y1="556.3558" y2="556.3558"/><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="264.0625" y="575.1755">[006]</text><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" lengthAdjust="spacing" textLength="40.625" x="319.2708" y="575.1755">return</text><text fill="#000000" font-family="sans-serif" font-size="11.4583" lengthAdjust="spacing" textLength="34.375" x="598.4375" y="623.38">Some</text><text fill="#000000" font-family="sans-serif" font-size="11.4583" lengthAdjust="spacing" textLength="60.4167" x="636.9792" y="623.38">long delay</text><text fill="#000000" font-family="sans-serif" font-size="11.4583" lengthAdjust="spacing" textLength="0" x="701.5625" y="623.38"/><polygon fill="#EC7211" points="824.4792,674.1374,834.8958,678.304,824.4792,682.4707,828.6458,678.304" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="68.2292" x2="830.7292" y1="678.304" y2="678.304"/><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="80.7292" y="667.8187">[007]</text><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" lengthAdjust="spacing" textLength="89.5833" x="135.9375" y="667.8187">To collections</text><polygon fill="#EC7211" points="561.9792,686.6374,551.5625,690.804,561.9792,694.9707,557.8125,690.804" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="555.7292" x2="835.9375" y1="690.804" y2="690.804"/><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="573.4375" y="709.6237">[008]</text><text fill="#1D8102" font-family="sans-serif" font-size="13.5417" font-weight="bold" lengthAdjust="spacing" textLength="60.4167" x="628.6458" y="709.6237">success</text><path d="M10.4167,734.6924 L92.7083,734.6924 L92.7083,752.4007 L82.2917,762.8174 L10.4167,762.8174 L10.4167,734.6924 " fill="#FFFFFF" style="stroke:#4E5D6C;stroke-width:1.0416666666666667;"/><rect fill="none" height="477.653" style="stroke:#EC7211;stroke-width:2.0833333333333335;" width="1358.3333" x="10.4167" y="734.6924"/><text fill="#0073BB" font-family="sans-serif" font-size="13.5417" font-weight="bold" lengthAdjust="spacing" textLength="19.7917" x="31.25" y="753.5121">alt</text><text fill="#4E5D6C" font-family="sans-serif" font-size="11.4583" font-weight="bold" lengthAdjust="spacing" textLength="116.6667" x="113.5417" y="752.6199">[successful case]</text><polygon fill="#EC7211" points="1215.1042,799.349,1225.5208,803.5156,1215.1042,807.6823,1219.2708,803.5156" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="68.2292" x2="1221.3542" y1="803.5156" y2="803.5156"/><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="80.7292" y="793.0303">[009]</text><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" lengthAdjust="spacing" textLength="163.5417" x="135.9375" y="793.0303">Authentication Accepted</text><polygon fill="#EC7211" points="79.6875,811.849,69.2708,816.0156,79.6875,820.1823,75.5208,816.0156" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="73.4375" x2="1226.5625" y1="816.0156" y2="816.0156"/><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="91.1458" y="834.8353">[010]</text><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" lengthAdjust="spacing" textLength="53.125" x="146.3542" y="834.8353">success</text><path d="M1070.8333,857.8206 L1070.8333,894.279 L1217.7083,894.279 L1217.7083,868.2373 L1207.2917,857.8206 L1070.8333,857.8206 " fill="#0073BB" filter="url(#f1ryqghior00bz)" style="stroke:#A80036;stroke-width:1.0416666666666667;"/><path d="M1207.2917,857.8206 L1207.2917,868.2373 L1217.7083,868.2373 L1207.2917,857.8206 " fill="#0073BB" style="stroke:#A80036;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="sans-serif" font-size="13.5417" lengthAdjust="spacing" textLength="114.5833" x="1082.2917" y="880.807">this is a first note</text><line style="stroke:#EC7211;stroke-width:1.0416666666666667;stroke-dasharray:2.0,2.0;" x1="10.4167" x2="1368.75" y1="904.834" y2="904.834"/><text fill="#4E5D6C" font-family="sans-serif" font-size="11.4583" font-weight="bold" lengthAdjust="spacing" textLength="143.75" x="20.8333" y="920.6782">[some kind of failure]</text><polygon fill="#EC7211" points="1215.1042,957.8939,1225.5208,962.0605,1215.1042,966.2272,1219.2708,962.0605" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="68.2292" x2="1221.3542" y1="962.0605" y2="962.0605"/><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="80.7292" y="951.5752">[011]</text><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" lengthAdjust="spacing" textLength="144.7917" x="135.9375" y="951.5752">Authentication Failure</text><polygon fill="#EC7211" points="79.6875,970.3939,69.2708,974.5605,79.6875,978.7272,75.5208,974.5605" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="73.4375" x2="1226.5625" y1="974.5605" y2="974.5605"/><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="91.1458" y="993.3802">[012]</text><text fill="#D13212" font-family="sans-serif" font-size="13.5417" font-weight="bold" lengthAdjust="spacing" textLength="94.7917" x="146.3542" y="993.3802">Bad request</text><path d="M20.8333,1018.4489 L179.1667,1018.4489 L179.1667,1036.1572 L168.75,1046.5739 L20.8333,1046.5739 L20.8333,1018.4489 " fill="#FFFFFF" style="stroke:#4E5D6C;stroke-width:1.0416666666666667;"/><rect fill="none" height="120.0033" style="stroke:#EC7211;stroke-width:2.0833333333333335;" width="1337.5" x="20.8333" y="1018.4489"/><text fill="#0073BB" font-family="sans-serif" font-size="13.5417" font-weight="bold" lengthAdjust="spacing" textLength="101.0417" x="41.6667" y="1037.2686">My own label</text><path d="M31.25,1054.0039 L121.875,1054.0039 L121.875,1071.7122 L111.4583,1082.1289 L31.25,1082.1289 L31.25,1054.0039 " fill="#FFFFFF" style="stroke:#4E5D6C;stroke-width:1.0416666666666667;"/><rect fill="none" height="77.1566" style="stroke:#EC7211;stroke-width:2.0833333333333335;" width="1316.6667" x="31.25" y="1054.0039"/><text fill="#0073BB" font-family="sans-serif" font-size="13.5417" font-weight="bold" lengthAdjust="spacing" textLength="33.3333" x="52.0833" y="1072.8236">loop</text><text fill="#4E5D6C" font-family="sans-serif" font-size="11.4583" font-weight="bold" lengthAdjust="spacing" textLength="84.375" x="142.7083" y="1071.9315">[1000 times]</text><polygon fill="#EC7211" points="79.6875,1090.3971,69.2708,1094.5638,79.6875,1098.7305,75.5208,1094.5638" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="73.4375" x2="1226.5625" y1="1094.5638" y2="1094.5638"/><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="91.1458" y="1113.3835">[013]</text><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" lengthAdjust="spacing" textLength="77.0833" x="146.3542" y="1113.3835">DNS Attack</text><line style="stroke:#EC7211;stroke-width:1.0416666666666667;stroke-dasharray:2.0,2.0;" x1="10.4167" x2="1368.75" y1="1146.7855" y2="1146.7855"/><text fill="#4E5D6C" font-family="sans-serif" font-size="11.4583" font-weight="bold" lengthAdjust="spacing" textLength="108.3333" x="20.8333" y="1162.6297">[Just a Warning]</text><polygon fill="#EC7211" points="1215.1042,1199.8454,1225.5208,1204.012,1215.1042,1208.1787,1219.2708,1204.012" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="68.2292" x2="1221.3542" y1="1204.012" y2="1204.012"/><text fill="#4E5D6C" font-family="sans-serif" font-size="13.5417" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="80.7292" y="1193.5267">[014]</text><text fill="#EC7211" font-family="sans-serif" font-size="13.5417" font-weight="bold" lengthAdjust="spacing" textLength="107.2917" x="135.9375" y="1193.5267">Please repeat</text><path d="M43.75,1224.8454 L43.75,1292.5537 L264.5833,1292.5537 L264.5833,1235.262 L254.1667,1224.8454 L43.75,1224.8454 " fill="#0073BB" filter="url(#f1ryqghior00bz)" style="stroke:#A80036;stroke-width:1.0416666666666667;"/><path d="M254.1667,1224.8454 L254.1667,1235.262 L264.5833,1235.262 L254.1667,1224.8454 " fill="#0073BB" style="stroke:#A80036;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="sans-serif" font-size="13.5417" lengthAdjust="spacing" textLength="137.5" x="78.6458" y="1247.8317">this is a second note</text><text fill="#FFFFFF" font-family="sans-serif" font-size="13.5417" lengthAdjust="spacing" textLength="81.25" x="78.6458" y="1263.5951">that is really</text><text fill="#FFFFFF" font-family="sans-serif" font-size="13.5417" lengthAdjust="spacing" textLength="28.125" x="78.6458" y="1279.3584">long</text><rect fill="none" height="22.5423" style="stroke:none;stroke-width:1.0416666666666667;" width="77.0833" x="1306.25" y="5.2083"/><text fill="#888888" font-family="sans-serif" font-size="10.4167" lengthAdjust="spacing" textLength="66.6667" x="1311.4583" y="20.0857">Page Header</text><rect fill="none" height="22.5423" style="stroke:none;stroke-width:1.0416666666666667;" width="68.75" x="657.2917" y="1414.1113"/><text fill="#888888" font-family="sans-serif" font-size="10.4167" lengthAdjust="spacing" textLength="58.3333" x="662.5" y="1428.9886">Page 1 of 1</text><!--MD5=[650852b82b9cd17a1b3af84cf641ed36]
+@startuml
+
+!$THEME = "AWS Orange Dark"
+
+!if %not(%variable_exists("$BGCOLOR"))
+!$BGCOLOR = transparent
+!endif
+
+skinparam backgroundColor $BGCOLOR
+
+
+
+!$WHITE = "#FFF"
+!$GRAY_LIGHT = "#222"
+!$GRAY = "#868e96"
+!$PRIMARY = "#EC7211"
+!$SECONDARY = "#FFFFFF"
+!$SUCCESS = "#1D8102"
+!$INFO = "#0073bb"
+!$WARNING = "#EC7211"
+!$DANGER = "#d13212"
+!$LIGHT = "#abb6c2"
+!$DARK = "#4E5D6C"
+
+!$FGCOLOR = $DARK
+!$PRIMARY_DARK = "#bd5b0e"
+!$PRIMARY_LIGHT = "#f08e41"
+!$PRIMARY_TEXT = $WHITE
+!$SECONDARY_DARK = "#cccccc"
+!$SECONDARY_LIGHT = "#ffffff"
+!$SECONDARY_TEXT = $DARK
+!$INFO_DARK = "#005c96"
+!$INFO_LIGHT = "#338fc9"
+!$INFO_TEXT = $WHITE
+!$SUCCESS_DARK = "#176702"
+!$SUCCESS_LIGHT = "#4a9a35"
+!$SUCCESS_TEXT = $WHITE
+!$WARNING_DARK = "#bd5b0e"
+!$WARNING_LIGHT = "#f08e41"
+!$WARNING_TEXT = $WHITE
+!$DANGER_DARK = "#a7280e"
+!$DANGER_LIGHT = "#da5b41"
+!$DANGER_TEXT = $WHITE
+!$DARK_DARK = "#717d89"
+!$DARK_LIGHT = "#3e4a56"
+!$LIGHT_DARK = "#bcc5ce"
+!$LIGHT_LIGHT = "#89929b"
+
+!procedure $success($msg)
+  <font color=$SUCCESS><b>$msg
+!endprocedure
+
+!procedure $failure($msg)
+  <font color=$DANGER><b>$msg
+!endprocedure
+
+!procedure $warning($msg)
+  <font color=$WARNING><b>$msg
+!endprocedure
+
+!procedure $primary_scheme()
+	FontColor $PRIMARY_TEXT
+	BorderColor $PRIMARY
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+!endprocedure
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            $DARK
+skinparam stereotype {
+    CBackgroundColor $SECONDARY_LIGHT
+    CBorderColor $SECONDARY_DARK
+    ABackgroundColor $SUCCESS_LIGHT
+    ABorderColor $SUCCESS_DARK
+    IBackgroundColor $DANGER_LIGHT
+    IBorderColor $DANGER_DARK
+    EBackgroundColor $WARNING_LIGHT
+    EBorderColor $WARNING_DARK
+    NBackgroundColor $INFO_LIGHT
+    NBorderColor $INFO_DARK
+}
+skinparam title {
+	FontColor	                 $DARK
+	BorderColor	                 $SECONDARY
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              $SECONDARY-$SECONDARY_DARK
+}
+
+skinparam legend {
+	BackgroundColor $SECONDARY
+	BorderColor $SECONDARY_DARK
+	FontColor $LIGHT
+}
+
+<style> 
+mindmapDiagram {
+	Padding 15
+	Margin 10
+	FontSize 12
+	FontName Verdana
+	Shadowing 0.0
+	LineThickness 1.5
+	FontColor $PRIMARY_TEXT
+	LineColor $PRIMARY_DARK
+	BackGroundColor $PRIMARY_LIGHT-$PRIMARY
+	$primary_scheme()
+}
+</style>
+
+!startsub activity
+skinparam activity {
+	$primary_scheme()
+	BarColor $SUCCESS
+	StartColor $INFO
+	EndColor $INFO
+	DiamondBackgroundColor $SECONDARY_LIGHT
+  	DiamondBorderColor $SECONDARY_DARK
+  	DiamondFontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub participant
+skinparam participant {
+	$primary_scheme()
+	ParticipantBorderThickness 2
+}
+!endsub
+
+!startsub actor
+skinparam actor {
+	$primary_scheme()
+}
+!endsub
+
+!startsub arrow
+skinparam arrow {
+	Thickness 3
+	Color $PRIMARY
+	FontColor $FGCOLOR
+}
+!endsub
+
+!startsub sequence
+skinparam sequence {
+	BorderColor $PRIMARY
+	TitleFontColor $PRIMARY
+	BackgroundColor $BGCOLOR
+	StartColor $PRIMARY
+	EndColor $PRIMARY
+	BoxBackgroundColor $BGCOLOR
+	BoxBorderColor $DARK
+	BoxFontColor $DARk
+	LifeLineBorderColor $LIGHT
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor $LIGHT_DARK
+	GroupBorderColor $DARK
+	GroupFontColor $DARK
+	GroupHeaderFontColor $INFO
+	GroupBackgroundColor $SECONDARY
+	GroupHeaderBackgroundColor $BGCOLOR
+	DividerBackgroundColor $DARK
+    DividerBorderColor $DARK
+    DividerBorderThickness 2
+    DividerFontColor $LIGHT
+	ReferenceBackgroundColor $BGCOLOR
+	ReferenceBorderColor $DARK
+	ReferenceFontColor $DARK
+	ReferenceHeaderFontColor $INFO
+	ReferenceHeaderBackgroundColor $SECONDARY
+}
+!endsub
+
+!startsub partition
+skinparam partition {
+	BorderColor $PRIMARY
+	FontColor $PRIMARY
+	BackgroundColor $BGCOLOR
+}
+!endsub
+
+!startsub collections
+skinparam collections {
+	$primary_scheme()
+}
+!endsub
+
+!startsub control
+skinparam control {
+	$primary_scheme()
+}
+!endsub
+
+!startsub entity
+skinparam entity {
+	$primary_scheme()
+}
+!endsub
+
+!startsub boundary
+skinparam boundary {
+	$primary_scheme()
+}
+!endsub
+
+!startsub agent
+skinparam agent {
+	BackgroundColor $WARNING
+	BorderColor $WARNING_LIGHT
+	FontColor $DARK
+}
+!endsub
+
+!startsub note
+skinparam note {
+	BorderThickness 1
+	BackgroundColor $INFO
+	BorderColor $INFO_DARK
+	FontColor $WHITE
+}
+!endsub
+
+!startsub artifact
+skinparam artifact {
+	BackgroundColor $DARK
+	BorderColor $DARK_DARK
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub component
+skinparam component {
+	$primary_scheme()
+}
+!endsub
+
+!startsub interface
+skinparam interface {
+	BackgroundColor  $DANGER_DARK
+	BorderColor  $DANGER
+	FontColor $DARK
+}
+!endsub
+
+!startsub storage
+skinparam storage {
+	BackgroundColor $WARNING
+  	BorderColor $WARNING_DARK
+	FontColor $WARNING_TEXT
+}
+!endsub
+
+!startsub node
+skinparam node {
+	BackgroundColor  $SECONDARY
+	BorderColor $LIGHT
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub cloud
+skinparam cloud {
+	BackgroundColor $DARK
+	BorderColor $DARK
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub database
+skinparam database {
+	$primary_scheme()
+	FontColor $DARK
+}
+!endsub
+
+!startsub class
+skinparam class {
+	$primary_scheme()
+	HeaderBackgroundColor $PRIMARY_LIGHT
+	StereotypeFontColor $DARK
+	BorderThickness 1
+	AttributeFontColor $DARK
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub object
+skinparam object {
+	$primary_scheme()
+	StereotypeFontColor $DARK
+	BorderThickness 1
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub usecase
+skinparam usecase {
+	$primary_scheme()
+	BorderThickness 2
+	StereotypeFontColor $PRIMARY
+}
+!endsub
+
+!startsub rectangle
+skinparam rectangle {
+	$primary_scheme()
+	BackgroundColor $SECONDARY_LIGHT
+	BorderThickness 2
+	StereotypeFontColor $PRIMARY
+}
+!endsub
+
+!startsub package
+skinparam package {
+	BackgroundColor $SECONDARY
+  	BorderColor $PRIMARY
+	FontColor $PRIMARY
+	BorderThickness 2
+}
+!endsub
+
+!startsub folder
+skinparam folder {
+	BackgroundColor $SECONDARY_LIGHT
+  	BorderColor $WARNING
+	FontColor $WARNING
+	BorderThickness 2
+}
+!endsub
+
+!startsub frame
+skinparam frame {
+	BackgroundColor $SECONDARY_LIGHT
+  	BorderColor $INFO
+	FontColor $INFO
+	BorderThickness 2
+}
+!endsub
+
+!startsub state
+skinparam state {
+	$primary_scheme()
+	StartColor $INFO
+	EndColor $INFO
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub queue
+skinparam queue {
+	$primary_scheme()
+}
+!endsub
+
+!startsub card
+skinparam card {
+	BackgroundColor $INFO
+	BorderColor $INFO_DARK
+	FontColor $INFO_TEXT
+}
+!endsub
+
+!startsub file
+skinparam file {
+	BackgroundColor $SECONDARY_DARK
+	BorderColor $LIGHT
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub stack
+skinparam stack {
+	$primary_scheme()
+}
+!endsub
+
+!if %variable_exists("$THEME")
+title Sequence Diagram - $THEME theme
+!else
+title Sequence Diagram
+!endif
+
+'skinparam BackgroundColor transparent
+skinparam responseMessageBelowArrow true
+
+autonumber "<b>[000]"
+
+header Page Header
+footer Page %page% of %lastpage%
+
+actor Foo1
+boundary Foo2
+control Foo3
+entity Foo4
+database Foo5
+collections Foo6
+participant Bob
+participant Alice << (C,#ADD1B2) Testable >>
+
+box "Internal Service"
+	participant Bob
+	participant Alice
+end box
+
+== Initialization ==
+Foo1 -> Foo2 : To boundary
+|||
+Foo2 -> Foo3 ++: To control
+ref over Foo4, Foo5
+  This can be on
+  several lines
+end ref
+Foo3 -> Foo4 : To entity
+
+Foo4 -> Foo5 : To database
+Foo5 - -> Foo3 - - : return
+Foo3 - -> Foo2 - -: return
+... Some ~~long delay~~ ...
+Foo1 -> Foo6 : To collections
+Foo6 - -> Foo4: $success("success")
+
+
+group alt [successful case]
+
+Foo1 -> Alice: Authentication Accepted
+Alice - -> Foo1: success
+
+note left of Alice: this is a first note
+
+else some kind of failure
+
+	Foo1 -> Alice: Authentication Failure
+    Alice - -> Foo1: $failure("Bad request")
+	group My own label
+	    loop 1000 times
+	        Alice -> Foo1: DNS Attack
+	    end
+	end
+	
+else Just a Warning
+
+   Foo1 -> Alice: $warning("Please repeat")
+   
+end
+
+note over Foo1, Foo2
+this is a second note
+that is really
+long
+end note
+
+@enduml
+
+@startuml
+
+
+
+skinparam backgroundColor undefined
+
+
+
+
+
+
+
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #4E5D6C
+skinparam stereotype {
+    CBackgroundColor #ffffff
+    CBorderColor #cccccc
+    ABackgroundColor #4a9a35
+    ABorderColor #176702
+    IBackgroundColor #da5b41
+    IBorderColor #a7280e
+    EBackgroundColor #f08e41
+    EBorderColor #bd5b0e
+    NBackgroundColor #338fc9
+    NBorderColor #005c96
+}
+skinparam title {
+	FontColor	                 #4E5D6C
+	BorderColor	                 #FFFFFF
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #FFFFFF-#cccccc
+}
+
+skinparam legend {
+	BackgroundColor #FFFFFF
+	BorderColor #cccccc
+	FontColor #abb6c2
+}
+
+<style> 
+mindmapDiagram {
+	Padding 15
+	Margin 10
+	FontSize 12
+	FontName Verdana
+	Shadowing 0.0
+	LineThickness 1.5
+	FontColor #FFF
+	LineColor #bd5b0e
+	BackGroundColor #f08e41-#EC7211
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+</style>
+
+skinparam activity {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+	BarColor #1D8102
+	StartColor #0073bb
+	EndColor #0073bb
+	DiamondBackgroundColor #ffffff
+  	DiamondBorderColor #cccccc
+  	DiamondFontColor #4E5D6C
+}
+
+skinparam participant {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+	ParticipantBorderThickness 2
+}
+
+skinparam actor {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+
+skinparam arrow {
+	Thickness 3
+	Color #EC7211
+	FontColor #4E5D6C
+}
+
+skinparam sequence {
+	BorderColor #EC7211
+	TitleFontColor #EC7211
+	BackgroundColor undefined
+	StartColor #EC7211
+	EndColor #EC7211
+	BoxBackgroundColor undefined
+	BoxBorderColor #4E5D6C
+	BoxFontColor $DARk
+	LifeLineBorderColor #abb6c2
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #bcc5ce
+	GroupBorderColor #4E5D6C
+	GroupFontColor #4E5D6C
+	GroupHeaderFontColor #0073bb
+	GroupBackgroundColor #FFFFFF
+	GroupHeaderBackgroundColor undefined
+	DividerBackgroundColor #4E5D6C
+    DividerBorderColor #4E5D6C
+    DividerBorderThickness 2
+    DividerFontColor #abb6c2
+	ReferenceBackgroundColor undefined
+	ReferenceBorderColor #4E5D6C
+	ReferenceFontColor #4E5D6C
+	ReferenceHeaderFontColor #0073bb
+	ReferenceHeaderBackgroundColor #FFFFFF
+}
+
+skinparam partition {
+	BorderColor #EC7211
+	FontColor #EC7211
+	BackgroundColor undefined
+}
+
+skinparam collections {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+
+skinparam control {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+
+skinparam entity {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+
+skinparam boundary {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+
+skinparam agent {
+	BackgroundColor #EC7211
+	BorderColor #f08e41
+	FontColor #4E5D6C
+}
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #0073bb
+	BorderColor #005c96
+	FontColor #FFF
+}
+
+skinparam artifact {
+	BackgroundColor #4E5D6C
+	BorderColor #717d89
+	FontColor #abb6c2
+}
+
+skinparam component {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+
+skinparam interface {
+	BackgroundColor  #a7280e
+	BorderColor  #d13212
+	FontColor #4E5D6C
+}
+
+skinparam storage {
+	BackgroundColor #EC7211
+  	BorderColor #bd5b0e
+	FontColor #FFF
+}
+
+skinparam node {
+	BackgroundColor  #FFFFFF
+	BorderColor #abb6c2
+	FontColor #abb6c2
+}
+
+skinparam cloud {
+	BackgroundColor #4E5D6C
+	BorderColor #4E5D6C
+	FontColor #abb6c2
+}
+
+skinparam database {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+	FontColor #4E5D6C
+}
+
+skinparam class {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+	HeaderBackgroundColor #f08e41
+	StereotypeFontColor #4E5D6C
+	BorderThickness 1
+	AttributeFontColor #4E5D6C
+	AttributeFontSize 11
+}
+
+skinparam object {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+	StereotypeFontColor #4E5D6C
+	BorderThickness 1
+	AttributeFontColor #4E5D6C
+	AttributeFontSize 11
+}
+
+skinparam usecase {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+	BorderThickness 2
+	StereotypeFontColor #EC7211
+}
+
+skinparam rectangle {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+	BackgroundColor #ffffff
+	BorderThickness 2
+	StereotypeFontColor #EC7211
+}
+
+skinparam package {
+	BackgroundColor #FFFFFF
+  	BorderColor #EC7211
+	FontColor #EC7211
+	BorderThickness 2
+}
+
+skinparam folder {
+	BackgroundColor #ffffff
+  	BorderColor #EC7211
+	FontColor #EC7211
+	BorderThickness 2
+}
+
+skinparam frame {
+	BackgroundColor #ffffff
+  	BorderColor #0073bb
+	FontColor #0073bb
+	BorderThickness 2
+}
+
+skinparam state {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+	StartColor #0073bb
+	EndColor #0073bb
+	AttributeFontColor #4E5D6C
+	AttributeFontSize 11
+}
+
+skinparam queue {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+
+skinparam card {
+	BackgroundColor #0073bb
+	BorderColor #005c96
+	FontColor #FFF
+}
+
+skinparam file {
+	BackgroundColor #cccccc
+	BorderColor #abb6c2
+	FontColor #abb6c2
+}
+
+skinparam stack {
+		FontColor #FFF
+	BorderColor #EC7211
+	BackgroundColor #f08e41-#EC7211
+}
+
+title Sequence Diagram - AWS Orange Dark theme
+
+skinparam responseMessageBelowArrow true
+
+autonumber "<b>[000]"
+
+header Page Header
+footer Page %page% of %lastpage%
+
+actor Foo1
+boundary Foo2
+control Foo3
+entity Foo4
+database Foo5
+collections Foo6
+participant Bob
+participant Alice << (C,#ADD1B2) Testable >>
+
+box "Internal Service"
+	participant Bob
+	participant Alice
+end box
+
+== Initialization ==
+Foo1 -> Foo2 : To boundary
+|||
+Foo2 -> Foo3 ++: To control
+ref over Foo4, Foo5
+  This can be on
+  several lines
+end ref
+Foo3 -> Foo4 : To entity
+
+Foo4 -> Foo5 : To database
+Foo5 - -> Foo3 - - : return
+Foo3 - -> Foo2 - -: return
+... Some ~~long delay~~ ...
+Foo1 -> Foo6 : To collections
+Foo6 - -> Foo4:   <font color=#1D8102><b>success
+
+
+group alt [successful case]
+
+Foo1 -> Alice: Authentication Accepted
+Alice - -> Foo1: success
+
+note left of Alice: this is a first note
+
+else some kind of failure
+
+	Foo1 -> Alice: Authentication Failure
+    Alice - -> Foo1:   <font color=#d13212><b>Bad request
+	group My own label
+	    loop 1000 times
+	        Alice -> Foo1: DNS Attack
+	    end
+	end
+	
+else Just a Warning
+
+   Foo1 -> Alice:   <font color=#EC7211><b>Please repeat
+   
+end
+
+note over Foo1, Foo2
+this is a second note
+that is really
+long
+end note
+
+@enduml
+
+PlantUML version 1.2021.01(Mon Feb 01 23:55:08 PST 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

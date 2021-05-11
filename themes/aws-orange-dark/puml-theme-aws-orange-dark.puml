@@ -5,12 +5,10 @@
 '' Author: Brett Schwarz
 '' Copyright (c) 2019 by Brett Schwarz
 
-!include %getenv("THEME_HOME")/common.puml
-
 !$THEME = "AWS Orange Dark"
 
 !if %not(%variable_exists("$BGCOLOR"))
-!$BGCOLOR = "black"
+!$BGCOLOR = transparent
 !endif
 
 skinparam backgroundColor $BGCOLOR
@@ -56,6 +54,18 @@ skinparam backgroundColor $BGCOLOR
 !$DARK_LIGHT = "#3e4a56"
 !$LIGHT_DARK = "#bcc5ce"
 !$LIGHT_LIGHT = "#89929b"
+
+!procedure $success($msg)
+  <font color=$SUCCESS><b>$msg
+!endprocedure
+
+!procedure $failure($msg)
+  <font color=$DANGER><b>$msg
+!endprocedure
+
+!procedure $warning($msg)
+  <font color=$WARNING><b>$msg
+!endprocedure
 
 !procedure $primary_scheme()
 	FontColor $PRIMARY_TEXT
