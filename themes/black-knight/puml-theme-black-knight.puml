@@ -113,7 +113,7 @@ skinparam swimlane {
 	BorderColor $INFO
 	BorderThickness 2
 	TitleBackgroundColor  $SECONDARY_LIGHT-$SECONDARY
-	TitleFontColor $PRIMARY
+	TitleFontColor $PRIMARY_TEXT
 }
 !endsub
 
@@ -299,7 +299,6 @@ skinparam cloud {
 
 skinparam database {
 	$primary_scheme()
-	BackgroundColor  $BGCOLOR
 }
 !endsub
 
