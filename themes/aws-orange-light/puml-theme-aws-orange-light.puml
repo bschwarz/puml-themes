@@ -118,7 +118,7 @@ skinparam legend {
 skinparam swimlane {
 	BorderColor $INFO
 	BorderThickness 2
-	TitleBackgroundColor  $SECONDARY_LIGHT-$SECONDARY
+	TitleBackgroundColor  $SECONDARY-$SECONDARY_DARK
 	TitleFontColor $PRIMARY
 }
 !endsub
