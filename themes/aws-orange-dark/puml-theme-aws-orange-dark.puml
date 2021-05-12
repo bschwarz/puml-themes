@@ -8,10 +8,11 @@
 !$THEME = "AWS Orange Dark"
 
 !if %not(%variable_exists("$BGCOLOR"))
-!$BGCOLOR = transparent
+!$BGCOLOR = "transparent"
 !endif
 
 skinparam backgroundColor $BGCOLOR
+skinparam useBetaStyle false
 
 !$WHITE = "#FFF"
 !$GRAY_LIGHT = "#222"
@@ -112,21 +113,14 @@ skinparam legend {
 	FontColor $LIGHT
 }
 
-<style> 
-mindmapDiagram {
-	Padding 15
-	Margin 10
-	FontSize 12
-	FontName Verdana
-	Shadowing 0.0
-	'FontStyle bold
-	LineThickness 1.5
-	FontColor $PRIMARY_TEXT
-	LineColor $PRIMARY_DARK
-	BackGroundColor $PRIMARY_LIGHT-$PRIMARY
-	$primary_scheme()
+!startsub swimlane
+skinparam swimlane {
+	BorderColor $INFO
+	BorderThickness 2
+	TitleBackgroundColor  $SECONDARY_LIGHT-$SECONDARY
+	TitleFontColor $PRIMARY
 }
-</style>
+!endsub
 
 !startsub activity
 skinparam activity {
@@ -183,6 +177,7 @@ skinparam sequence {
 	GroupFontColor $DARK
 	GroupHeaderFontColor $INFO
 	GroupBackgroundColor $SECONDARY
+	GroupBodyBackgroundColor $BGCOLOR
 	GroupHeaderBackgroundColor $BGCOLOR
 	''
 	DividerBackgroundColor $DARK
@@ -287,7 +282,7 @@ skinparam node {
 
 !startsub cloud
 skinparam cloud {
-	BackgroundColor $DARK
+	BackgroundColor transparent
 	BorderColor $DARK
 	FontColor $LIGHT
 }
@@ -305,7 +300,7 @@ skinparam class {
 	HeaderBackgroundColor $PRIMARY_LIGHT
 	StereotypeFontColor $DARK
 	BorderThickness 1
-	AttributeFontColor $DARK
+	AttributeFontColor $PRIMARY_TEXT
 	AttributeFontSize 11
 }
 !endsub
@@ -401,3 +396,27 @@ skinparam stack {
 	$primary_scheme()
 }
 !endsub
+
+
+' <style> 
+' mindmapDiagram {
+' 	Padding 6
+' 	Margin 10
+' 	FontSize 12
+' 	FontName Verdana
+' 	Shadowing 0.0
+' 	FontStyle bold
+' 	LineThickness 1.5
+' 	FontColor $PRIMARY_TEXT
+' 	LineColor  $SECONDARY_DARK
+' 	node {
+' 		LineColor $PRIMARY
+' 		RoundCorner 20
+' 		$primary_scheme()
+' 	}
+' 	arrow {
+' 		LineThickness 2.5
+' 		LineColor $SECONDARY
+' 	}
+' }
+' </style>
