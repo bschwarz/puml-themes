@@ -8,13 +8,10 @@
 !$THEME = "AWS Orange Dark"
 
 !if %not(%variable_exists("$BGCOLOR"))
-!$BGCOLOR = transparent
+!$BGCOLOR = "transparent"
 !endif
 
 skinparam backgroundColor $BGCOLOR
-
-''  NEED TO UPDATE FOR LIGHT MODE
-
 
 ''
 '' Colors taken from the css file of the BS theme
@@ -117,21 +114,21 @@ skinparam legend {
 	FontColor $LIGHT
 }
 
-<style> 
-mindmapDiagram {
-	Padding 15
-	Margin 10
-	FontSize 12
-	FontName Verdana
-	Shadowing 0.0
-	'FontStyle bold
-	LineThickness 1.5
-	FontColor $PRIMARY_TEXT
-	LineColor $PRIMARY_DARK
-	BackGroundColor $PRIMARY_LIGHT-$PRIMARY
-	$primary_scheme()
-}
-</style>
+' <style> 
+' mindmapDiagram {
+' 	Padding 15
+' 	Margin 10
+' 	FontSize 12
+' 	FontName Verdana
+' 	Shadowing 0.0
+' 	'FontStyle bold
+' 	LineThickness 1.5
+' 	FontColor $PRIMARY_TEXT
+' 	LineColor $PRIMARY_DARK
+' 	BackGroundColor $PRIMARY_LIGHT-$PRIMARY
+' 	$primary_scheme()
+' }
+' </style>
 
 !startsub activity
 skinparam activity {
@@ -188,6 +185,7 @@ skinparam sequence {
 	GroupFontColor $DARK
 	GroupHeaderFontColor $INFO
 	GroupBackgroundColor $SECONDARY
+	GroupBodyBackgroundColor $BGCOLOR
 	GroupHeaderBackgroundColor $BGCOLOR
 	''
 	DividerBackgroundColor $DARK
@@ -301,7 +299,6 @@ skinparam cloud {
 !startsub database
 skinparam database {
 	$primary_scheme()
-	FontColor $DARK
 }
 !endsub
 
