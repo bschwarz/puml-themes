@@ -117,7 +117,7 @@ skinparam legend {
 skinparam swimlane {
 	BorderColor $INFO
 	BorderThickness 2
-	TitleBackgroundColor  $SECONDARY_LIGHT-$SECONDARY
+	TitleBackgroundColor  $SECONDARY_DARK-$SECONDARY
 	TitleFontColor $PRIMARY
 }
 !endsub
@@ -274,7 +274,7 @@ skinparam storage {
 
 !startsub node
 skinparam node {
-	BackgroundColor  $SECONDARY
+	BackgroundColor $BGCOLOR
 	BorderColor $LIGHT
 	FontColor $LIGHT
 }
@@ -326,7 +326,7 @@ skinparam usecase {
 !startsub rectangle
 skinparam rectangle {
 	$primary_scheme()
-	BackgroundColor $SECONDARY_LIGHT
+	BackgroundColor $BGCOLOR
 	BorderThickness 2
 	StereotypeFontColor $PRIMARY
 }
@@ -387,7 +387,7 @@ skinparam card {
 skinparam file {
 	BackgroundColor $SECONDARY_DARK
 	BorderColor $LIGHT
-	FontColor $LIGHT
+	FontColor $PRIMARY_TEXT
 }
 !endsub
 
