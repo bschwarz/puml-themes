@@ -5,7 +5,7 @@
 '' Author: Brett Schwarz
 '' Copyright (c) 2019 by Brett Schwarz
 
-!$THEME = "AWS Orange Dark"
+!$THEME = "AWS Orange Light"
 
 !if %not(%variable_exists("$BGCOLOR"))
 !$BGCOLOR = "transparent"
@@ -114,6 +114,15 @@ skinparam legend {
 	FontColor $LIGHT
 }
 
+!startsub swimlane
+skinparam swimlane {
+	BorderColor $INFO
+	BorderThickness 2
+	TitleBackgroundColor  $SECONDARY_LIGHT-$SECONDARY
+	TitleFontColor $PRIMARY
+}
+!endsub
+
 ' <style> 
 ' mindmapDiagram {
 ' 	Padding 15
@@ -153,6 +162,7 @@ skinparam participant {
 !startsub actor
 skinparam actor {
 	$primary_scheme()
+	FontColor $DARK
 }
 !endsub
 
@@ -218,18 +228,21 @@ skinparam collections {
 !startsub control
 skinparam control {
 	$primary_scheme()
+	FontColor $DARK
 }
 !endsub
 
 !startsub entity
 skinparam entity {
 	$primary_scheme()
+	FontColor $DARK
 }
 !endsub
 
 !startsub boundary
 skinparam boundary {
 	$primary_scheme()
+	FontColor $DARK
 }
 !endsub
 
@@ -282,7 +295,7 @@ skinparam storage {
 
 !startsub node
 skinparam node {
-	BackgroundColor  $SECONDARY
+	BackgroundColor  $BGCOLOR
 	BorderColor $LIGHT
 	FontColor $LIGHT
 }
@@ -290,7 +303,7 @@ skinparam node {
 
 !startsub cloud
 skinparam cloud {
-	BackgroundColor $DARK
+	BackgroundColor transparent
 	BorderColor $DARK
 	FontColor $LIGHT
 }
@@ -299,6 +312,7 @@ skinparam cloud {
 !startsub database
 skinparam database {
 	$primary_scheme()
+	FontColor $DARK
 }
 !endsub
 
@@ -308,7 +322,7 @@ skinparam class {
 	HeaderBackgroundColor $PRIMARY_LIGHT
 	StereotypeFontColor $DARK
 	BorderThickness 1
-	AttributeFontColor $DARK
+	AttributeFontColor $PRIMARY_TEXT
 	AttributeFontSize 11
 }
 !endsub
@@ -318,7 +332,7 @@ skinparam object {
 	$primary_scheme()
 	StereotypeFontColor $DARK
 	BorderThickness 1
-	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontColor $PRIMARY_TEXT
 	AttributeFontSize 11
 }
 !endsub
@@ -334,7 +348,8 @@ skinparam usecase {
 !startsub rectangle
 skinparam rectangle {
 	$primary_scheme()
-	BackgroundColor $SECONDARY_LIGHT
+	BackgroundColor $BGCOLOR
+	FontColor $DARK
 	BorderThickness 2
 	StereotypeFontColor $PRIMARY
 }
@@ -395,7 +410,7 @@ skinparam card {
 skinparam file {
 	BackgroundColor $SECONDARY_DARK
 	BorderColor $LIGHT
-	FontColor $LIGHT
+	FontColor $DARK
 }
 !endsub
 
