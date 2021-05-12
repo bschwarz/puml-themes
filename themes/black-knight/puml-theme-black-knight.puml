@@ -58,15 +58,15 @@ skinparam useBetaStyle false
 	BackgroundColor $PRIMARY_LIGHT-$PRIMARY_DARK
 !endprocedure
 
-skinparam  {
-    defaultFontName   "Verdana"
-    defaultFontSize   12
-    defaultTextAlignment center
-    shadowing false
-    RoundCorner 10
-    TitleFontSize 18
-    ' TitleFontColor $PRIMARY_TEXT
-}
+' skinparam  {
+'     defaultFontName   "Verdana"
+'     defaultFontSize   12
+'     defaultTextAlignment center
+'     shadowing false
+'     RoundCorner 10
+'     TitleFontSize 18
+'     ' TitleFontColor $PRIMARY_TEXT
+' }
 
 ''
 '' Global Default Values
@@ -109,7 +109,7 @@ skinparam legend {
 }
 
 !startsub swimlane
-	skinparam swimlane {
+skinparam swimlane {
 	BorderColor $INFO
 	BorderThickness 2
 	TitleBackgroundColor  $SECONDARY_LIGHT-$SECONDARY
@@ -146,7 +146,6 @@ skinparam actor {
 !endsub
 
 !startsub arrow
-
 skinparam arrow {
 	Thickness 3
 	Color $PRIMARY
@@ -188,6 +187,7 @@ skinparam sequence {
 	ReferenceBackgroundColor $BGCOLOR
 	ReferenceBorderColor $DARK
 	ReferenceFontColor $SECONDARY_TEXT
+	ReferenceHeaderFontColor $INFO
 	ReferenceHeaderBackgroundColor $SECONDARY
 }
 !endsub
@@ -202,35 +202,30 @@ skinparam partition {
 !endsub
 
 !startsub collections
-
 skinparam collections {
 	$primary_scheme()
 }
 !endsub
 
 !startsub control
-
 skinparam control {
 	$primary_scheme()
 }
 !endsub
 
 !startsub entity
-
 skinparam entity {
 	$primary_scheme()
 }
 !endsub
 
 !startsub boundary
-
 skinparam boundary {
 	$primary_scheme()
 }
 !endsub
 
 !startsub agent
-
 skinparam agent {
 	BackgroundColor $WARNING
 	BorderColor $WARNING_LIGHT
