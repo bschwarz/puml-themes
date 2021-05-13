@@ -197,9 +197,9 @@ skinparam sequence {
 	BoxBorderColor $DARK
 	BoxFontColor $DARk
 	''
-	LifeLineBorderColor $SECONDARY
-	LifeLineBorderThickness 2
-	LifeLineBackgroundColor $SECONDARY_DARK
+	LifeLineBorderColor $LIGHT
+	LifeLineBorderThickness 6
+	LifeLineBackgroundColor $LIGHT
 	''
 	GroupBorderColor $DARK
 	GroupFontColor $DARK
