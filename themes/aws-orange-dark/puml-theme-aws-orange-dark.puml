@@ -74,6 +74,34 @@ skinparam useBetaStyle false
 	BackgroundColor $PRIMARY_DARK-$PRIMARY
 !endprocedure
 
+!_POST = "<color #007a3e>POST</color>"
+!_PUT = "<color #ea7400>PUT</color>"
+!_DELETE = "<color #cf2a2a>DELETE</color>"
+!_GET = "<color #009fdb>GET</color>"
+!_PATCH = "<color #b5bd00>PATCH</color>"
+!_HEAD = "<color #9012fe>HEAD</color>"
+
+' for status codes
+!procedure $OK($x)
+  <color green>$x</color>
+!endprocedure
+!procedure $ERROR($x)
+  <color red>$x</color>
+!endprocedure
+!procedure $COND($x)
+  <color orange>x</color>
+!endprocedure
+
+' For marking parameters as optionally or required
+!procedure $REDSTAR()
+  <color red>*</color>
+!endprocedure
+!procedure $REQ($x)
+  <b>x</b>
+!endprocedure
+!procedure $OPT($x)
+  <color #555>x</color>
+!endprocedure
 ''
 '' Global Default Values
 ''
