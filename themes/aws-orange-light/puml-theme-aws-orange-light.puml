@@ -5,7 +5,7 @@
 '' Author: Brett Schwarz
 '' Copyright (c) 2019 by Brett Schwarz
 
-!$THEME = "AWS Orange Light"
+!$THEME = "aws-orange-light"
 
 !if %not(%variable_exists("$BGCOLOR"))
 !$BGCOLOR = "transparent"
@@ -417,7 +417,9 @@ skinparam file {
 !endsub
 
 !startsub stack
+
 skinparam stack {
 	$primary_scheme()
 }
+
 !endsub
