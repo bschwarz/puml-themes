@@ -208,6 +208,8 @@ skinparam sequence {
 	ReferenceFontColor $DARK
 	ReferenceHeaderFontColor $INFO
 	ReferenceHeaderBackgroundColor $SECONDARY
+	''
+	StereotypeFontColor $PRIMARY_TEXT
 }
 !endsub
 
