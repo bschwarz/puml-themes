@@ -205,6 +205,7 @@ skinparam arrow {
 
 !startsub sequence
 skinparam sequence {
+	ArrowThickness 3
 	BorderColor $PRIMARY
 	' For some reason sequence title font color does not pick up from global
 	TitleFontColor $PRIMARY
@@ -238,7 +239,7 @@ skinparam sequence {
 	ReferenceHeaderFontColor $INFO
 	ReferenceHeaderBackgroundColor $SECONDARY
 	''
-	StereotypeFontColor $PRIMARY_TEXT
+	StereotypeFontColor $DARK
 }
 !endsub
 
