@@ -382,16 +382,17 @@ skinparam rectangle {
 	$primary_scheme()
 	BackgroundColor $BGCOLOR
 	FontColor $DARK
+	BorderColor $DARK
 	BorderThickness 2
-	StereotypeFontColor $PRIMARY
+	StereotypeFontColor $LIGHT
 }
 !endsub
 
 !startsub package
 skinparam package {
 	BackgroundColor $SECONDARY
-  	BorderColor $PRIMARY
-	FontColor $PRIMARY
+  	BorderColor $DARK
+	FontColor $DARK
 	BorderThickness 2
 }
 !endsub
