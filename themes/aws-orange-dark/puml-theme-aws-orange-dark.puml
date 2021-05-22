@@ -356,18 +356,19 @@ skinparam usecase {
 
 !startsub rectangle
 skinparam rectangle {
-	$primary_scheme()
+	BorderColor $DARK
+	FontColor $LIGHT
 	BackgroundColor $BGCOLOR
 	BorderThickness 2
-	StereotypeFontColor $PRIMARY
+	StereotypeFontColor $DARK
 }
 !endsub
 
 !startsub package
 skinparam package {
 	BackgroundColor $SECONDARY
-  	BorderColor $PRIMARY
-	FontColor $PRIMARY
+  	BorderColor $LIGHT
+	FontColor $LIGHT
 	BorderThickness 2
 }
 !endsub
