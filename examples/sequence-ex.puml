@@ -20,7 +20,7 @@ control Foo3
 entity Foo4
 database Foo5
 collections Foo6
-participant Bob
+participant Bob << Person >>
 participant Alice << (C,#ADD1B2) Testable >>
 
 box "Internal Service"
