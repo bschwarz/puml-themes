@@ -379,7 +379,7 @@ skinparam usecase {
 
 !startsub rectangle
 skinparam rectangle {
-	$primary_scheme()
+	' $primary_scheme()
 	BackgroundColor $BGCOLOR
 	FontColor $DARK
 	BorderColor $DARK
