@@ -4,7 +4,7 @@
 '' Author: Brett Schwarz
 ''
 !$PUML_THEME = "aws-orange"
-'!$PUML_MODE = "dark"
+!$PUML_MODE = "dark"
 !$PUML_OUTLINE = "true"
 ''
 '' User can specify the BGCOLOR via command line or set this variable before
@@ -52,6 +52,7 @@ skinparam useBetaStyle false
     !$DANGER_LIGHT = "#da5b41"
     !$SECONDARY_TEXT = $DARK
     !$FGCOLOR = $DARK
+	!$DIAMOND_BD = $SECONDARY_DARK
 !else
     !$SECONDARY = "#2a2e33"
     !$SECONDARY_DARK = "#222529"
@@ -67,6 +68,7 @@ skinparam useBetaStyle false
     !$DANGER_LIGHT = "#ff7d83"
     !$SECONDARY_TEXT = $WHITE
     !$FGCOLOR = $WHITE
+	!$DIAMOND_BD = $SECONDARY_LIGHT
 !endif
 ''
 '' *_DARK = tint (lighter) of the main color of 
@@ -123,12 +125,35 @@ skinparam useBetaStyle false
 '' Called to use the secondary color scheme
 ''
 !procedure $secondary_scheme()
-	FontColor $SECONDARY_TEXT
-	BorderColor $SECONDARY
-	' BackgroundColor $SECONDARY_LIGHT-$SECONDARY
-	BackgroundColor $BCOLOR
+	!if ($PUML_OUTLINE == "true")
+		FontColor $SECONDARY_DARK
+		BorderColor $SECONDARY_DARK
+		BackgroundColor $BGCOLOR
+	!else
+		FontColor $SECONDARY_TEXT
+		BorderColor $SECONDARY_DARK
+		BackgroundColor $SECONDARY_LIGHT-$SECONDARY
+	!endif
 !endprocedure
-
+''
+!if ($PUML_OUTLINE == "true")
+	!$HEADER_TEXT = $PRIMARY_TEXT
+	!$PRIMARY_TEXT = $PRIMARY_LIGHT
+	!$INFO_TEXT = $INFO_LIGHT
+	!$WARNING_TEXT = $WARNING_LIGHT
+	!$DARK_BG = $BGCOLOR
+	!$INFO_BG = $BGCOLOR
+	!$DANGER_BG = $BGCOLOR
+	!$WARNING_BG = $BGCOLOR
+	!$SECONDARY_BG = $BGCOLOR
+!else
+	!$DARK_BG = $DARK
+	!$INFO_BG = $INFO
+	!$DANGER_BG = $DANGER
+	!$WARNING_BG = $WARNING
+	!$SECONDARY_BG = $SECONDARY
+!endif
+''
 !_POST = "<color #007a3e>POST</color>"
 !_PUT = "<color #ea7400>PUT</color>"
 !_DELETE = "<color #cf2a2a>DELETE</color>"
@@ -183,19 +208,15 @@ skinparam stereotype {
     NBorderColor $INFO_DARK
 }
 skinparam title {
-    $secondary_scheme()
-	' FontColor	                 $FGCOLOR
-	' BorderColor	                 $SECONDARY
 	FontSize	    	         20
 	BorderRoundCorner            8
 	BorderThickness 	         1
-	' BackgroundColor              $SECONDARY_LIGHT-$SECONDARY
+	BackgroundColor  $SECONDARY_LIGHT-$SECONDARY
+	FontColor $PRIMARY
+	BorderColor $SECONDARY
 }
 
 skinparam legend {
-	' BackgroundColor $SECONDARY_LIGHT
-	' BorderColor $SECONDARY_DARK
-	' FontColor $LIGHT
     $secondary_scheme()
     BackgroundColor transparent
 }
@@ -233,8 +254,8 @@ skinparam activity {
 	StartColor $INFO
 	EndColor $INFO
 	''
-	DiamondBackgroundColor $SECONDARY_LIGHT
-  	DiamondBorderColor $SECONDARY_DARK
+	DiamondBackgroundColor $SECONDARY_BG
+  	DiamondBorderColor $DIAMOND_BD
   	DiamondFontColor $SECONDARY_TEXT
 }
 !endsub
@@ -297,7 +318,7 @@ skinparam sequence {
 	ReferenceHeaderFontColor $INFO
 	ReferenceHeaderBackgroundColor $SECONDARY
 	''
-	StereotypeFontColor $PRIMARY_TEXT
+	StereotypeFontColor $DARK
 }
 !endsub
 
@@ -347,15 +368,15 @@ skinparam agent {
 !startsub note
 skinparam note {
 	BorderThickness 1
-	BackgroundColor $INFO
+	BackgroundColor $INFO_BG
 	BorderColor $INFO_DARK
-	FontColor $WHITE
+	FontColor $INFO_TEXT
 }
 !endsub
 
 !startsub artifact
 skinparam artifact {
-	BackgroundColor $DARK
+	BackgroundColor $DARK_BG
 	BorderColor $DARK_DARK
 	FontColor $LIGHT
 }
@@ -377,7 +398,7 @@ skinparam interface {
 
 !startsub storage
 skinparam storage {
-	BackgroundColor $WARNING
+	BackgroundColor $WARNING_BG
   	BorderColor $WARNING_DARK
 	FontColor $WARNING_TEXT
 }
@@ -409,7 +430,8 @@ skinparam database {
 !startsub class
 skinparam class {
 	$primary_scheme()
-	HeaderBackgroundColor $PRIMARY_LIGHT
+	FontColor $HEADER_TEXT
+	HeaderBackgroundColor $PRIMARY_LIGHT-$PRIMARY
 	StereotypeFontColor $DARK
 	BorderThickness 1
 	AttributeFontColor $PRIMARY_TEXT
@@ -456,7 +478,7 @@ skinparam package {
 
 !startsub folder
 skinparam folder {
-	BackgroundColor $SECONDARY_LIGHT
+	BackgroundColor $SECONDARY_BG
   	BorderColor $WARNING
 	FontColor $WARNING
 	BorderThickness 2
@@ -465,7 +487,7 @@ skinparam folder {
 
 !startsub frame
 skinparam frame {
-	BackgroundColor $SECONDARY_LIGHT
+	BackgroundColor $SECONDARY_BG
   	BorderColor $INFO
 	FontColor $INFO
 	BorderThickness 2
@@ -490,7 +512,7 @@ skinparam queue {
 
 !startsub card
 skinparam card {
-	BackgroundColor $INFO
+	BackgroundColor $INFO_BG
 	BorderColor $INFO_DARK
 	FontColor $INFO_TEXT
 }
@@ -498,7 +520,7 @@ skinparam card {
 
 !startsub file
 skinparam file {
-	BackgroundColor $SECONDARY
+	BackgroundColor $SECONDARY_BG
 	BorderColor $LIGHT
 	FontColor $FGCOLOR
 }

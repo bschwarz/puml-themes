@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1427.0833px" preserveAspectRatio="none" style="width:1388px;height:1427px;background:#00000000;" version="1.1" viewBox="0 0 1388 1427" width="1388.5417px" zoomAndPan="magnify"><defs/><g><rect fill="#FFFFFF" height="46.1528" rx="4.1667" ry="4.1667" style="stroke:#CCCCCC;stroke-width:1.0416666666666667;" width="225" x="577.6042" y="32.9"/><text fill="#4E5D6C" font-family="Verdana" font-size="20.8333" lengthAdjust="spacing" textLength="197.9167" x="591.1458" y="64.2619">Sequence Diagram</text><rect fill="none" height="1311.1328" rx="4.1667" ry="4.1667" style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" width="390.625" x="947.9167" y="90.5111"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="111.4583" x="1087.5" y="108.2865">Internal Service</text><rect fill="#BCC5CE" height="215.1082" style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" width="10.4167" x="389.0625" y="343.986"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="65.625" x2="65.625" y1="180.7027" y2="595.1192"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;stroke-dasharray:1.0,4.0;" x1="65.625" x2="65.625" y1="595.1192" y2="649.8942"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="65.625" x2="65.625" y1="649.8942" y2="1307.2856"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="238.5417" x2="238.5417" y1="180.7027" y2="595.1192"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;stroke-dasharray:1.0,4.0;" x1="238.5417" x2="238.5417" y1="595.1192" y2="649.8942"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="238.5417" x2="238.5417" y1="649.8942" y2="1307.2856"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="393.75" x2="393.75" y1="180.7027" y2="595.1192"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;stroke-dasharray:1.0,4.0;" x1="393.75" x2="393.75" y1="595.1192" y2="649.8942"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="393.75" x2="393.75" y1="649.8942" y2="1307.2856"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="546.875" x2="546.875" y1="180.7027" y2="595.1192"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;stroke-dasharray:1.0,4.0;" x1="546.875" x2="546.875" y1="595.1192" y2="649.8942"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="546.875" x2="546.875" y1="649.8942" y2="1307.2856"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="719.7917" x2="719.7917" y1="180.7027" y2="595.1192"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;stroke-dasharray:1.0,4.0;" x1="719.7917" x2="719.7917" y1="595.1192" y2="649.8942"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="719.7917" x2="719.7917" y1="649.8942" y2="1307.2856"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="827.0833" x2="827.0833" y1="180.7027" y2="595.1192"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;stroke-dasharray:1.0,4.0;" x1="827.0833" x2="827.0833" y1="595.1192" y2="649.8942"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="827.0833" x2="827.0833" y1="649.8942" y2="1307.2856"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="1035.4167" x2="1035.4167" y1="180.7027" y2="595.1192"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;stroke-dasharray:1.0,4.0;" x1="1035.4167" x2="1035.4167" y1="595.1192" y2="649.8942"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="1035.4167" x2="1035.4167" y1="649.8942" y2="1307.2856"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="1232.2917" x2="1232.2917" y1="180.7027" y2="595.1192"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;stroke-dasharray:1.0,4.0;" x1="1232.2917" x2="1232.2917" y1="595.1192" y2="649.8942"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="1232.2917" x2="1232.2917" y1="649.8942" y2="1307.2856"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="32.2917" x="46.875" y="172.8699">Foo1</text><ellipse cx="66.1458" cy="99.8861" fill="none" rx="8.3333" ry="8.3333" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><path d="M66.1458,108.2194 L66.1458,136.3444 M52.6042,116.5527 L79.6875,116.5527 M66.1458,136.3444 L52.6042,151.9694 M66.1458,136.3444 L79.6875,151.9694 " fill="none" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="32.2917" x="46.875" y="1324.0194">Foo1</text><ellipse cx="66.1458" cy="1342.2689" fill="none" rx="8.3333" ry="8.3333" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><path d="M66.1458,1350.6022 L66.1458,1378.7272 M52.6042,1358.9355 L79.6875,1358.9355 M66.1458,1378.7272 L52.6042,1394.3522 M66.1458,1378.7272 L79.6875,1394.3522 " fill="none" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="32.2917" x="219.7917" y="172.8699">Foo2</text><path d="M217.7083,125.9277 L217.7083,150.9277 M217.7083,138.4277 L235.4167,138.4277 " fill="none" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><ellipse cx="247.9167" cy="138.4277" fill="none" rx="12.5" ry="12.5" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="32.2917" x="219.7917" y="1324.0194">Foo2</text><path d="M217.7083,1336.0189 L217.7083,1361.0189 M217.7083,1348.5189 L235.4167,1348.5189 " fill="none" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><ellipse cx="247.9167" cy="1348.5189" fill="none" rx="12.5" ry="12.5" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="32.2917" x="375" y="172.8699">Foo3</text><ellipse cx="394.2708" cy="138.4277" fill="none" rx="12.5" ry="12.5" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><polygon fill="#EC7211" points="390.1042,125.9277,396.3542,120.7194,394.2708,125.9277,396.3542,131.1361,390.1042,125.9277" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="32.2917" x="375" y="1324.0194">Foo3</text><ellipse cx="394.2708" cy="1348.5189" fill="none" rx="12.5" ry="12.5" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><polygon fill="#EC7211" points="390.1042,1336.0189,396.3542,1330.8105,394.2708,1336.0189,396.3542,1341.2272,390.1042,1336.0189" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="32.2917" x="528.125" y="172.8699">Foo4</text><ellipse cx="547.3958" cy="138.4277" fill="none" rx="12.5" ry="12.5" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><line style="stroke:#EC7211;stroke-width:2.0833333333333335;" x1="534.8958" x2="559.8958" y1="153.0111" y2="153.0111"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="32.2917" x="528.125" y="1324.0194">Foo4</text><ellipse cx="547.3958" cy="1348.5189" fill="none" rx="12.5" ry="12.5" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><line style="stroke:#EC7211;stroke-width:2.0833333333333335;" x1="534.8958" x2="559.8958" y1="1363.1022" y2="1363.1022"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="32.2917" x="701.0417" y="172.8699">Foo5</text><path d="M701.5625,117.5944 C701.5625,107.1777 720.3125,107.1777 720.3125,107.1777 C720.3125,107.1777 739.0625,107.1777 739.0625,117.5944 L739.0625,144.6777 C739.0625,155.0944 720.3125,155.0944 720.3125,155.0944 C720.3125,155.0944 701.5625,155.0944 701.5625,144.6777 L701.5625,117.5944 " style="stroke:#EC7211;stroke-width:1.5625;fill:none;"/><path d="M701.5625,117.5944 C701.5625,128.0111 720.3125,128.0111 720.3125,128.0111 C720.3125,128.0111 739.0625,128.0111 739.0625,117.5944 " fill="none" style="stroke:#EC7211;stroke-width:1.5625;"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="32.2917" x="701.0417" y="1324.0194">Foo5</text><path d="M701.5625,1342.2689 C701.5625,1331.8522 720.3125,1331.8522 720.3125,1331.8522 C720.3125,1331.8522 739.0625,1331.8522 739.0625,1342.2689 L739.0625,1369.3522 C739.0625,1379.7689 720.3125,1379.7689 720.3125,1379.7689 C720.3125,1379.7689 701.5625,1379.7689 701.5625,1369.3522 L701.5625,1342.2689 " style="stroke:#EC7211;stroke-width:1.5625;fill:none;"/><path d="M701.5625,1342.2689 C701.5625,1352.6855 720.3125,1352.6855 720.3125,1352.6855 C720.3125,1352.6855 739.0625,1352.6855 739.0625,1342.2689 " fill="none" style="stroke:#EC7211;stroke-width:1.5625;"/><rect height="40.1917" rx="4.1667" ry="4.1667" style="stroke:#EC7211;stroke-width:1.5625;fill:none;" width="57.2917" x="801.0417" y="135.3027"/><rect height="40.1917" rx="4.1667" ry="4.1667" style="stroke:#EC7211;stroke-width:1.5625;fill:none;" width="57.2917" x="796.875" y="139.4694"/><text fill="#EC7211" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="32.2917" x="809.375" y="164.5365">Foo6</text><rect height="40.1917" rx="4.1667" ry="4.1667" style="stroke:#EC7211;stroke-width:1.5625;fill:none;" width="57.2917" x="801.0417" y="1306.2439"/><rect height="40.1917" rx="4.1667" ry="4.1667" style="stroke:#EC7211;stroke-width:1.5625;fill:none;" width="57.2917" x="796.875" y="1310.4106"/><text fill="#EC7211" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="32.2917" x="809.375" y="1335.4777">Foo6</text><rect height="55.3833" rx="4.1667" ry="4.1667" style="stroke:#EC7211;stroke-width:1.5625;fill:none;" width="84.375" x="993.75" y="124.2778"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-style="italic" lengthAdjust="spacing" textLength="59.375" x="1006.25" y="149.3449">«Person»</text><text fill="#EC7211" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="25" x="1023.4375" y="164.5365">Bob</text><rect height="55.3833" rx="4.1667" ry="4.1667" style="stroke:#EC7211;stroke-width:1.5625;fill:none;" width="84.375" x="993.75" y="1306.2439"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-style="italic" lengthAdjust="spacing" textLength="59.375" x="1006.25" y="1331.311">«Person»</text><text fill="#EC7211" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="25" x="1023.4375" y="1346.5027">Bob</text><rect height="55.3833" rx="4.1667" ry="4.1667" style="stroke:#EC7211;stroke-width:1.5625;fill:none;" width="120.8333" x="1171.875" y="124.2778"/><ellipse cx="1189.5833" cy="141.9861" fill="#ADD1B2" rx="10.4167" ry="10.4167" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><path d="M1191.4876,146.4132 Q1191.0645,146.6248 1190.5924,146.7387 Q1190.1204,146.8526 1189.6159,146.8526 Q1187.7604,146.8526 1186.7839,145.6482 Q1185.8236,144.4275 1185.8236,142.1326 Q1185.8236,139.8214 1186.7839,138.6169 Q1187.7604,137.3962 1189.6159,137.3962 Q1190.1204,137.3962 1190.5924,137.5102 Q1191.0807,137.6078 1191.4876,137.8357 L1191.4876,139.8376 Q1191.0319,139.4145 1190.5924,139.2192 Q1190.153,139.0076 1189.6973,139.0076 Q1188.7044,139.0076 1188.1999,139.8051 Q1187.6953,140.5863 1187.6953,142.1326 Q1187.6953,143.6625 1188.1999,144.4438 Q1188.7044,145.225 1189.6973,145.225 Q1190.153,145.225 1190.5924,145.0297 Q1191.0319,144.8344 1191.4876,144.4112 L1191.4876,146.4132 Z " fill="#EC7211"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-style="italic" lengthAdjust="spacing" textLength="68.75" x="1211.4583" y="149.3449">«Testable»</text><text fill="#EC7211" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="29.1667" x="1231.25" y="164.5365">Alice</text><rect height="55.3833" rx="4.1667" ry="4.1667" style="stroke:#EC7211;stroke-width:1.5625;fill:none;" width="120.8333" x="1171.875" y="1306.2439"/><ellipse cx="1189.5833" cy="1323.9522" fill="#ADD1B2" rx="10.4167" ry="10.4167" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><path d="M1191.4876,1328.3793 Q1191.0645,1328.5909 1190.5924,1328.7048 Q1190.1204,1328.8188 1189.6159,1328.8188 Q1187.7604,1328.8188 1186.7839,1327.6143 Q1185.8236,1326.3936 1185.8236,1324.0987 Q1185.8236,1321.7875 1186.7839,1320.5831 Q1187.7604,1319.3624 1189.6159,1319.3624 Q1190.1204,1319.3624 1190.5924,1319.4763 Q1191.0807,1319.574 1191.4876,1319.8018 L1191.4876,1321.8038 Q1191.0319,1321.3806 1190.5924,1321.1853 Q1190.153,1320.9737 1189.6973,1320.9737 Q1188.7044,1320.9737 1188.1999,1321.7712 Q1187.6953,1322.5525 1187.6953,1324.0987 Q1187.6953,1325.6287 1188.1999,1326.4099 Q1188.7044,1327.1912 1189.6973,1327.1912 Q1190.153,1327.1912 1190.5924,1326.9958 Q1191.0319,1326.8005 1191.4876,1326.3774 L1191.4876,1328.3793 Z " fill="#EC7211"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-style="italic" lengthAdjust="spacing" textLength="68.75" x="1211.4583" y="1331.311">«Testable»</text><text fill="#EC7211" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="29.1667" x="1231.25" y="1346.5027">Alice</text><rect fill="#BCC5CE" height="215.1082" style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" width="10.4167" x="389.0625" y="343.986"/><rect fill="#4E5D6C" height="3.125" style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" width="1381.25" x="0" y="217.4652"/><line style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" x1="0" x2="1381.25" y1="217.4652" y2="217.4652"/><line style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" x1="0" x2="1381.25" y1="220.5902" y2="220.5902"/><rect fill="#4E5D6C" height="33.9417" style="stroke:#4E5D6C;stroke-width:2.0833333333333335;" width="115.625" x="632.8125" y="201.5361"/><text fill="#ABB6C2" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="86.4583" x="644.2708" y="223.4782">Initialization</text><polygon fill="#EC7211" points="226.5625,273.586,236.9792,277.7527,226.5625,281.9194,230.7292,277.7527" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="66.1458" x2="232.8125" y1="277.7527" y2="277.7527"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="78.6458" y="267.8365">[001]</text><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="82.2917" x="133.8542" y="267.8365">To boundary</text><polygon fill="#EC7211" points="376.5625,339.8193,386.9792,343.986,376.5625,348.1527,380.7292,343.986" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="239.0625" x2="382.8125" y1="343.986" y2="343.986"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="251.5625" y="334.0698">[002]</text><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="64.5833" x="306.7708" y="334.0698">To control</text><rect height="76.825" style="stroke:#4E5D6C;stroke-width:2.0833333333333335;fill:none;" width="228.125" x="519.7917" y="352.3193"/><polygon fill="#CCCCCC" points="519.7917,352.3193,596.875,352.3193,596.875,368.986,586.4583,379.4027,519.7917,379.4027,519.7917,352.3193" style="stroke:#4E5D6C;stroke-width:2.0833333333333335;"/><text fill="#0073BB" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="19.7917" x="538.5417" y="372.1781">ref</text><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="94.7917" x="586.4583" y="401.3448">This can be on</text><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="82.2917" x="586.4583" y="416.5365">several lines</text><polygon fill="#EC7211" points="534.8958,462.0443,545.3125,466.2109,534.8958,470.3776,539.0625,466.2109" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="399.4792" x2="541.1458" y1="466.2109" y2="466.2109"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="411.9792" y="456.2948">[003]</text><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="57.2917" x="467.1875" y="456.2948">To entity</text><polygon fill="#EC7211" points="707.8125,502.2359,718.2292,506.4026,707.8125,510.5693,711.9792,506.4026" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="547.3958" x2="714.0625" y1="506.4026" y2="506.4026"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="559.8958" y="496.4864">[004]</text><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="82.2917" x="615.1042" y="496.4864">To database</text><polygon fill="#EC7211" points="410.9375,514.7359,400.5208,518.9026,410.9375,523.0693,406.7708,518.9026" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="404.6875" x2="719.2708" y1="518.9026" y2="518.9026"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="422.3958" y="537.7197">[005]</text><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="40.625" x="477.6042" y="537.7197">return</text><polygon fill="#EC7211" points="250.5208,554.9276,240.1042,559.0942,250.5208,563.2609,246.3542,559.0942" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="244.2708" x2="393.2292" y1="559.0942" y2="559.0942"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="261.9792" y="577.9114">[006]</text><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="40.625" x="317.1875" y="577.9114">return</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="36.4583" x="595.0521" y="627.478">Some</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="67.7083" x="635.6771" y="627.478">long delay</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="0" x="707.5521" y="627.478"/><polygon fill="#EC7211" points="815.1042,677.5859,825.5208,681.7525,815.1042,685.9192,819.2708,681.7525" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="66.1458" x2="821.3542" y1="681.7525" y2="681.7525"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="78.6458" y="671.8363">[007]</text><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="87.5" x="133.8542" y="671.8363">To collections</text><polygon fill="#EC7211" points="558.8542,690.0859,548.4375,694.2525,558.8542,698.4192,554.6875,694.2525" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="552.6042" x2="826.5625" y1="694.2525" y2="694.2525"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="570.3125" y="713.0697">[008]</text><text fill="#1D8102" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="53.125" x="625.5208" y="713.0697">success</text><path d="M14.5833,737.5692 L89.5833,737.5692 L89.5833,754.2358 L79.1667,764.6525 L10.4167,764.6525 L10.4167,741.7358 " fill="#CCCCCC" style="stroke:#4E5D6C;stroke-width:1.0416666666666667;"/><rect fill="none" height="475.1831" rx="4.1667" ry="4.1667" style="stroke:#4E5D6C;stroke-width:2.0833333333333335;" width="1355.2083" x="10.4167" y="737.5692"/><text fill="#0073BB" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="17.7083" x="31.25" y="756.3863">alt</text><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="118.75" x="110.4167" y="757.428">[successful case]</text><polygon fill="#EC7211" points="1219.7917,802.9358,1230.2083,807.1025,1219.7917,811.2691,1223.9583,807.1025" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="66.1458" x2="1226.0417" y1="807.1025" y2="807.1025"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="78.6458" y="797.1863">[009]</text><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="158.3333" x="133.8542" y="797.1863">Authentication Accepted</text><polygon fill="#EC7211" points="77.6042,815.4358,67.1875,819.6025,77.6042,823.7691,73.4375,819.6025" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="71.3542" x2="1231.25" y1="819.6025" y2="819.6025"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="89.0625" y="838.4196">[010]</text><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="51.0417" x="144.2708" y="838.4196">success</text><path d="M1080.2083,865.0024 L1080.2083,892.0858 A4.1667,4.1667 0 0 0 1084.375,896.2524 L1222.9167,896.2524 A4.1667,4.1667 0 0 0 1227.0833,892.0858 L1227.0833,871.2524 L1216.6667,860.8358 L1084.375,860.8358 A4.1667,4.1667 0 0 0 1080.2083,865.0024 " fill="#0073BB" style="stroke:#005C96;stroke-width:1.0416666666666667;"/><path d="M1216.6667,860.8358 L1216.6667,869.1691 A2.0833,2.0833 0 0 0 1218.75,871.2524 L1227.0833,871.2524 L1216.6667,860.8358 " fill="#0073BB" style="stroke:#005C96;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="114.5833" x="1091.6667" y="883.8196">this is a first note</text><line style="stroke:#4E5D6C;stroke-width:1.0416666666666667;stroke-dasharray:2.0,2.0;" x1="10.4167" x2="1365.625" y1="903.1108" y2="903.1108"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="148.9583" x="20.8333" y="920.8862">[some kind of failure]</text><polygon fill="#EC7211" points="1219.7917,957.4524,1230.2083,961.6191,1219.7917,965.7857,1223.9583,961.6191" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="66.1458" x2="1226.0417" y1="961.6191" y2="961.6191"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="78.6458" y="951.7029">[011]</text><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="142.7083" x="133.8542" y="951.7029">Authentication Failure</text><polygon fill="#EC7211" points="77.6042,969.9524,67.1875,974.1191,77.6042,978.2857,73.4375,974.1191" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="71.3542" x2="1231.25" y1="974.1191" y2="974.1191"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="89.0625" y="992.9362">[012]</text><text fill="#D13212" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="82.2917" x="144.2708" y="992.9362">Bad request</text><path d="M25,1017.4357 L168.75,1017.4357 L168.75,1034.1024 L158.3333,1044.519 L20.8333,1044.519 L20.8333,1021.6024 " fill="#CCCCCC" style="stroke:#4E5D6C;stroke-width:1.0416666666666667;"/><rect fill="none" height="120.1416" rx="4.1667" ry="4.1667" style="stroke:#4E5D6C;stroke-width:2.0833333333333335;" width="1334.375" x="20.8333" y="1017.4357"/><text fill="#0073BB" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="90.625" x="41.6667" y="1036.2528">My own label</text><path d="M35.4167,1052.419 L117.7083,1052.419 L117.7083,1069.0857 L107.2917,1079.5024 L31.25,1079.5024 L31.25,1056.5857 " fill="#CCCCCC" style="stroke:#4E5D6C;stroke-width:1.0416666666666667;"/><rect fill="none" height="77.8666" rx="4.1667" ry="4.1667" style="stroke:#4E5D6C;stroke-width:2.0833333333333335;" width="1313.5417" x="31.25" y="1052.419"/><text fill="#0073BB" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="29.1667" x="52.0833" y="1071.2362">loop</text><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="91.6667" x="138.5417" y="1072.2778">[1000 times]</text><polygon fill="#EC7211" points="77.6042,1090.094,67.1875,1094.2607,77.6042,1098.4273,73.4375,1094.2607" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="71.3542" x2="1231.25" y1="1094.2607" y2="1094.2607"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="89.0625" y="1113.0778">[013]</text><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="71.875" x="144.2708" y="1113.0778">DNS Attack</text><line style="stroke:#4E5D6C;stroke-width:1.0416666666666667;stroke-dasharray:2.0,2.0;" x1="10.4167" x2="1365.625" y1="1145.9106" y2="1145.9106"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="115.625" x="20.8333" y="1163.6861">[Just a Warning]</text><polygon fill="#EC7211" points="1219.7917,1200.2523,1230.2083,1204.4189,1219.7917,1208.5856,1223.9583,1204.4189" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="66.1458" x2="1226.0417" y1="1204.4189" y2="1204.4189"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="78.6458" y="1194.5028">[014]</text><text fill="#EC7211" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="94.7917" x="133.8542" y="1194.5028">Please repeat</text><path d="M43.75,1229.4189 L43.75,1286.7106 A4.1667,4.1667 0 0 0 47.9167,1290.8773 L257.2917,1290.8773 A4.1667,4.1667 0 0 0 261.4583,1286.7106 L261.4583,1235.6689 L251.0417,1225.2523 L47.9167,1225.2523 A4.1667,4.1667 0 0 0 43.75,1229.4189 " fill="#0073BB" style="stroke:#005C96;stroke-width:1.0416666666666667;"/><path d="M251.0417,1225.2523 L251.0417,1233.5856 A2.0833,2.0833 0 0 0 253.125,1235.6689 L261.4583,1235.6689 L251.0417,1225.2523 " fill="#0073BB" style="stroke:#005C96;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="136.4583" x="79.6875" y="1248.2361">this is a second note</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="81.25" x="79.6875" y="1263.4277">that is really</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="28.125" x="79.6875" y="1278.6194">long</text><text fill="#888888" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="85.4167" x="1295.8333" y="17.7755">Page Header</text><text fill="#888888" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="75" x="653.125" y="1418.3777">Page 1 of 1</text><!--MD5=[f9456e6d7ebe6540055b2b26b736d278]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1427.0833px" preserveAspectRatio="none" style="width:1388px;height:1427px;background:#00000000;" version="1.1" viewBox="0 0 1388 1427" width="1388.5417px" zoomAndPan="magnify"><defs><linearGradient id="ggnfbtuxrzpld0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#55585C"/><stop offset="100%" stop-color="#2A2E33"/></linearGradient></defs><g><rect fill="url(#ggnfbtuxrzpld0)" height="46.1528" rx="4.1667" ry="4.1667" style="stroke:#2A2E33;stroke-width:1.0416666666666667;" width="225" x="577.6042" y="32.9"/><text fill="#EC7211" font-family="Verdana" font-size="20.8333" lengthAdjust="spacing" textLength="197.9167" x="591.1458" y="64.2619">Sequence Diagram</text><rect fill="none" height="1311.1328" rx="4.1667" ry="4.1667" style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" width="390.625" x="947.9167" y="90.5111"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="111.4583" x="1087.5" y="108.2865">Internal Service</text><rect fill="#BCC5CE" height="215.1082" style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" width="10.4167" x="389.0625" y="343.986"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="65.625" x2="65.625" y1="180.7027" y2="595.1192"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;stroke-dasharray:1.0,4.0;" x1="65.625" x2="65.625" y1="595.1192" y2="649.8942"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="65.625" x2="65.625" y1="649.8942" y2="1307.2856"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="238.5417" x2="238.5417" y1="180.7027" y2="595.1192"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;stroke-dasharray:1.0,4.0;" x1="238.5417" x2="238.5417" y1="595.1192" y2="649.8942"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="238.5417" x2="238.5417" y1="649.8942" y2="1307.2856"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="393.75" x2="393.75" y1="180.7027" y2="595.1192"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;stroke-dasharray:1.0,4.0;" x1="393.75" x2="393.75" y1="595.1192" y2="649.8942"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="393.75" x2="393.75" y1="649.8942" y2="1307.2856"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="546.875" x2="546.875" y1="180.7027" y2="595.1192"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;stroke-dasharray:1.0,4.0;" x1="546.875" x2="546.875" y1="595.1192" y2="649.8942"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="546.875" x2="546.875" y1="649.8942" y2="1307.2856"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="719.7917" x2="719.7917" y1="180.7027" y2="595.1192"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;stroke-dasharray:1.0,4.0;" x1="719.7917" x2="719.7917" y1="595.1192" y2="649.8942"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="719.7917" x2="719.7917" y1="649.8942" y2="1307.2856"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="827.0833" x2="827.0833" y1="180.7027" y2="595.1192"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;stroke-dasharray:1.0,4.0;" x1="827.0833" x2="827.0833" y1="595.1192" y2="649.8942"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="827.0833" x2="827.0833" y1="649.8942" y2="1307.2856"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="1035.4167" x2="1035.4167" y1="180.7027" y2="595.1192"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;stroke-dasharray:1.0,4.0;" x1="1035.4167" x2="1035.4167" y1="595.1192" y2="649.8942"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="1035.4167" x2="1035.4167" y1="649.8942" y2="1307.2856"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="1232.2917" x2="1232.2917" y1="180.7027" y2="595.1192"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;stroke-dasharray:1.0,4.0;" x1="1232.2917" x2="1232.2917" y1="595.1192" y2="649.8942"/><line style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" x1="1232.2917" x2="1232.2917" y1="649.8942" y2="1307.2856"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="32.2917" x="46.875" y="172.8699">Foo1</text><ellipse cx="66.1458" cy="99.8861" fill="none" rx="8.3333" ry="8.3333" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><path d="M66.1458,108.2194 L66.1458,136.3444 M52.6042,116.5527 L79.6875,116.5527 M66.1458,136.3444 L52.6042,151.9694 M66.1458,136.3444 L79.6875,151.9694 " fill="none" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="32.2917" x="46.875" y="1324.0194">Foo1</text><ellipse cx="66.1458" cy="1342.2689" fill="none" rx="8.3333" ry="8.3333" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><path d="M66.1458,1350.6022 L66.1458,1378.7272 M52.6042,1358.9355 L79.6875,1358.9355 M66.1458,1378.7272 L52.6042,1394.3522 M66.1458,1378.7272 L79.6875,1394.3522 " fill="none" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="32.2917" x="219.7917" y="172.8699">Foo2</text><path d="M217.7083,125.9277 L217.7083,150.9277 M217.7083,138.4277 L235.4167,138.4277 " fill="none" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><ellipse cx="247.9167" cy="138.4277" fill="none" rx="12.5" ry="12.5" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="32.2917" x="219.7917" y="1324.0194">Foo2</text><path d="M217.7083,1336.0189 L217.7083,1361.0189 M217.7083,1348.5189 L235.4167,1348.5189 " fill="none" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><ellipse cx="247.9167" cy="1348.5189" fill="none" rx="12.5" ry="12.5" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="32.2917" x="375" y="172.8699">Foo3</text><ellipse cx="394.2708" cy="138.4277" fill="none" rx="12.5" ry="12.5" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><polygon fill="#EC7211" points="390.1042,125.9277,396.3542,120.7194,394.2708,125.9277,396.3542,131.1361,390.1042,125.9277" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="32.2917" x="375" y="1324.0194">Foo3</text><ellipse cx="394.2708" cy="1348.5189" fill="none" rx="12.5" ry="12.5" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><polygon fill="#EC7211" points="390.1042,1336.0189,396.3542,1330.8105,394.2708,1336.0189,396.3542,1341.2272,390.1042,1336.0189" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="32.2917" x="528.125" y="172.8699">Foo4</text><ellipse cx="547.3958" cy="138.4277" fill="none" rx="12.5" ry="12.5" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><line style="stroke:#EC7211;stroke-width:2.0833333333333335;" x1="534.8958" x2="559.8958" y1="153.0111" y2="153.0111"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="32.2917" x="528.125" y="1324.0194">Foo4</text><ellipse cx="547.3958" cy="1348.5189" fill="none" rx="12.5" ry="12.5" style="stroke:#EC7211;stroke-width:2.0833333333333335;"/><line style="stroke:#EC7211;stroke-width:2.0833333333333335;" x1="534.8958" x2="559.8958" y1="1363.1022" y2="1363.1022"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="32.2917" x="701.0417" y="172.8699">Foo5</text><path d="M701.5625,117.5944 C701.5625,107.1777 720.3125,107.1777 720.3125,107.1777 C720.3125,107.1777 739.0625,107.1777 739.0625,117.5944 L739.0625,144.6777 C739.0625,155.0944 720.3125,155.0944 720.3125,155.0944 C720.3125,155.0944 701.5625,155.0944 701.5625,144.6777 L701.5625,117.5944 " style="stroke:#EC7211;stroke-width:1.5625;fill:none;"/><path d="M701.5625,117.5944 C701.5625,128.0111 720.3125,128.0111 720.3125,128.0111 C720.3125,128.0111 739.0625,128.0111 739.0625,117.5944 " fill="none" style="stroke:#EC7211;stroke-width:1.5625;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="32.2917" x="701.0417" y="1324.0194">Foo5</text><path d="M701.5625,1342.2689 C701.5625,1331.8522 720.3125,1331.8522 720.3125,1331.8522 C720.3125,1331.8522 739.0625,1331.8522 739.0625,1342.2689 L739.0625,1369.3522 C739.0625,1379.7689 720.3125,1379.7689 720.3125,1379.7689 C720.3125,1379.7689 701.5625,1379.7689 701.5625,1369.3522 L701.5625,1342.2689 " style="stroke:#EC7211;stroke-width:1.5625;fill:none;"/><path d="M701.5625,1342.2689 C701.5625,1352.6855 720.3125,1352.6855 720.3125,1352.6855 C720.3125,1352.6855 739.0625,1352.6855 739.0625,1342.2689 " fill="none" style="stroke:#EC7211;stroke-width:1.5625;"/><rect height="40.1917" rx="4.1667" ry="4.1667" style="stroke:#EC7211;stroke-width:1.5625;fill:none;" width="57.2917" x="801.0417" y="135.3027"/><rect height="40.1917" rx="4.1667" ry="4.1667" style="stroke:#EC7211;stroke-width:1.5625;fill:none;" width="57.2917" x="796.875" y="139.4694"/><text fill="#EC7211" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="32.2917" x="809.375" y="164.5365">Foo6</text><rect height="40.1917" rx="4.1667" ry="4.1667" style="stroke:#EC7211;stroke-width:1.5625;fill:none;" width="57.2917" x="801.0417" y="1306.2439"/><rect height="40.1917" rx="4.1667" ry="4.1667" style="stroke:#EC7211;stroke-width:1.5625;fill:none;" width="57.2917" x="796.875" y="1310.4106"/><text fill="#EC7211" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="32.2917" x="809.375" y="1335.4777">Foo6</text><rect height="55.3833" rx="4.1667" ry="4.1667" style="stroke:#EC7211;stroke-width:1.5625;fill:none;" width="84.375" x="993.75" y="124.2778"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" font-style="italic" lengthAdjust="spacing" textLength="59.375" x="1006.25" y="149.3449">«Person»</text><text fill="#EC7211" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="25" x="1023.4375" y="164.5365">Bob</text><rect height="55.3833" rx="4.1667" ry="4.1667" style="stroke:#EC7211;stroke-width:1.5625;fill:none;" width="84.375" x="993.75" y="1306.2439"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" font-style="italic" lengthAdjust="spacing" textLength="59.375" x="1006.25" y="1331.311">«Person»</text><text fill="#EC7211" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="25" x="1023.4375" y="1346.5027">Bob</text><rect height="55.3833" rx="4.1667" ry="4.1667" style="stroke:#EC7211;stroke-width:1.5625;fill:none;" width="120.8333" x="1171.875" y="124.2778"/><ellipse cx="1189.5833" cy="141.9861" fill="#ADD1B2" rx="10.4167" ry="10.4167" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><path d="M1191.4876,146.4132 Q1191.0645,146.6248 1190.5924,146.7387 Q1190.1204,146.8526 1189.6159,146.8526 Q1187.7604,146.8526 1186.7839,145.6482 Q1185.8236,144.4275 1185.8236,142.1326 Q1185.8236,139.8214 1186.7839,138.6169 Q1187.7604,137.3962 1189.6159,137.3962 Q1190.1204,137.3962 1190.5924,137.5102 Q1191.0807,137.6078 1191.4876,137.8357 L1191.4876,139.8376 Q1191.0319,139.4145 1190.5924,139.2192 Q1190.153,139.0076 1189.6973,139.0076 Q1188.7044,139.0076 1188.1999,139.8051 Q1187.6953,140.5863 1187.6953,142.1326 Q1187.6953,143.6625 1188.1999,144.4438 Q1188.7044,145.225 1189.6973,145.225 Q1190.153,145.225 1190.5924,145.0297 Q1191.0319,144.8344 1191.4876,144.4112 L1191.4876,146.4132 Z " fill="#EC7211"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" font-style="italic" lengthAdjust="spacing" textLength="68.75" x="1211.4583" y="149.3449">«Testable»</text><text fill="#EC7211" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="29.1667" x="1231.25" y="164.5365">Alice</text><rect height="55.3833" rx="4.1667" ry="4.1667" style="stroke:#EC7211;stroke-width:1.5625;fill:none;" width="120.8333" x="1171.875" y="1306.2439"/><ellipse cx="1189.5833" cy="1323.9522" fill="#ADD1B2" rx="10.4167" ry="10.4167" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><path d="M1191.4876,1328.3793 Q1191.0645,1328.5909 1190.5924,1328.7048 Q1190.1204,1328.8188 1189.6159,1328.8188 Q1187.7604,1328.8188 1186.7839,1327.6143 Q1185.8236,1326.3936 1185.8236,1324.0987 Q1185.8236,1321.7875 1186.7839,1320.5831 Q1187.7604,1319.3624 1189.6159,1319.3624 Q1190.1204,1319.3624 1190.5924,1319.4763 Q1191.0807,1319.574 1191.4876,1319.8018 L1191.4876,1321.8038 Q1191.0319,1321.3806 1190.5924,1321.1853 Q1190.153,1320.9737 1189.6973,1320.9737 Q1188.7044,1320.9737 1188.1999,1321.7712 Q1187.6953,1322.5525 1187.6953,1324.0987 Q1187.6953,1325.6287 1188.1999,1326.4099 Q1188.7044,1327.1912 1189.6973,1327.1912 Q1190.153,1327.1912 1190.5924,1326.9958 Q1191.0319,1326.8005 1191.4876,1326.3774 L1191.4876,1328.3793 Z " fill="#EC7211"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" font-style="italic" lengthAdjust="spacing" textLength="68.75" x="1211.4583" y="1331.311">«Testable»</text><text fill="#EC7211" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="29.1667" x="1231.25" y="1346.5027">Alice</text><rect fill="#BCC5CE" height="215.1082" style="stroke:#ABB6C2;stroke-width:1.0416666666666667;" width="10.4167" x="389.0625" y="343.986"/><rect fill="#4E5D6C" height="3.125" style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" width="1381.25" x="0" y="217.4652"/><line style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" x1="0" x2="1381.25" y1="217.4652" y2="217.4652"/><line style="stroke:#4E5D6C;stroke-width:1.0416666666666667;" x1="0" x2="1381.25" y1="220.5902" y2="220.5902"/><rect fill="#4E5D6C" height="33.9417" style="stroke:#4E5D6C;stroke-width:2.0833333333333335;" width="115.625" x="632.8125" y="201.5361"/><text fill="#ABB6C2" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="86.4583" x="644.2708" y="223.4782">Initialization</text><polygon fill="#EC7211" points="226.5625,273.586,236.9792,277.7527,226.5625,281.9194,230.7292,277.7527" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="66.1458" x2="232.8125" y1="277.7527" y2="277.7527"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="78.6458" y="267.8365">[001]</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="82.2917" x="133.8542" y="267.8365">To boundary</text><polygon fill="#EC7211" points="376.5625,339.8193,386.9792,343.986,376.5625,348.1527,380.7292,343.986" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="239.0625" x2="382.8125" y1="343.986" y2="343.986"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="251.5625" y="334.0698">[002]</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="64.5833" x="306.7708" y="334.0698">To control</text><rect height="76.825" style="stroke:#4E5D6C;stroke-width:2.0833333333333335;fill:none;" width="228.125" x="519.7917" y="352.3193"/><polygon fill="#2A2E33" points="519.7917,352.3193,596.875,352.3193,596.875,368.986,586.4583,379.4027,519.7917,379.4027,519.7917,352.3193" style="stroke:#4E5D6C;stroke-width:2.0833333333333335;"/><text fill="#44B9D6" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="19.7917" x="538.5417" y="372.1781">ref</text><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="94.7917" x="586.4583" y="401.3448">This can be on</text><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="82.2917" x="586.4583" y="416.5365">several lines</text><polygon fill="#EC7211" points="534.8958,462.0443,545.3125,466.2109,534.8958,470.3776,539.0625,466.2109" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="399.4792" x2="541.1458" y1="466.2109" y2="466.2109"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="411.9792" y="456.2948">[003]</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="57.2917" x="467.1875" y="456.2948">To entity</text><polygon fill="#EC7211" points="707.8125,502.2359,718.2292,506.4026,707.8125,510.5693,711.9792,506.4026" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="547.3958" x2="714.0625" y1="506.4026" y2="506.4026"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="559.8958" y="496.4864">[004]</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="82.2917" x="615.1042" y="496.4864">To database</text><polygon fill="#EC7211" points="410.9375,514.7359,400.5208,518.9026,410.9375,523.0693,406.7708,518.9026" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="404.6875" x2="719.2708" y1="518.9026" y2="518.9026"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="422.3958" y="537.7197">[005]</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="40.625" x="477.6042" y="537.7197">return</text><polygon fill="#EC7211" points="250.5208,554.9276,240.1042,559.0942,250.5208,563.2609,246.3542,559.0942" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="244.2708" x2="393.2292" y1="559.0942" y2="559.0942"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="261.9792" y="577.9114">[006]</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="40.625" x="317.1875" y="577.9114">return</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="36.4583" x="595.0521" y="627.478">Some</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="67.7083" x="635.6771" y="627.478">long delay</text><text fill="#000000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="0" x="707.5521" y="627.478"/><polygon fill="#EC7211" points="815.1042,677.5859,825.5208,681.7525,815.1042,685.9192,819.2708,681.7525" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="66.1458" x2="821.3542" y1="681.7525" y2="681.7525"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="78.6458" y="671.8363">[007]</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="87.5" x="133.8542" y="671.8363">To collections</text><polygon fill="#EC7211" points="558.8542,690.0859,548.4375,694.2525,558.8542,698.4192,554.6875,694.2525" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="552.6042" x2="826.5625" y1="694.2525" y2="694.2525"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="570.3125" y="713.0697">[008]</text><text fill="#6AAF35" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="53.125" x="625.5208" y="713.0697">success</text><path d="M14.5833,737.5692 L89.5833,737.5692 L89.5833,754.2358 L79.1667,764.6525 L10.4167,764.6525 L10.4167,741.7358 " fill="#2A2E33" style="stroke:#4E5D6C;stroke-width:1.0416666666666667;"/><rect fill="none" height="475.1831" rx="4.1667" ry="4.1667" style="stroke:#4E5D6C;stroke-width:2.0833333333333335;" width="1355.2083" x="10.4167" y="737.5692"/><text fill="#44B9D6" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="17.7083" x="31.25" y="756.3863">alt</text><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="118.75" x="110.4167" y="757.428">[successful case]</text><polygon fill="#EC7211" points="1219.7917,802.9358,1230.2083,807.1025,1219.7917,811.2691,1223.9583,807.1025" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="66.1458" x2="1226.0417" y1="807.1025" y2="807.1025"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="78.6458" y="797.1863">[009]</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="158.3333" x="133.8542" y="797.1863">Authentication Accepted</text><polygon fill="#EC7211" points="77.6042,815.4358,67.1875,819.6025,77.6042,823.7691,73.4375,819.6025" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="71.3542" x2="1231.25" y1="819.6025" y2="819.6025"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="89.0625" y="838.4196">[010]</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="51.0417" x="144.2708" y="838.4196">success</text><path d="M1080.2083,865.0024 L1080.2083,892.0858 A4.1667,4.1667 0 0 0 1084.375,896.2524 L1222.9167,896.2524 A4.1667,4.1667 0 0 0 1227.0833,892.0858 L1227.0833,871.2524 L1216.6667,860.8358 L1084.375,860.8358 A4.1667,4.1667 0 0 0 1080.2083,865.0024 " style="stroke:#3694AB;stroke-width:1.0416666666666667;fill:none;"/><path d="M1216.6667,860.8358 L1216.6667,869.1691 A2.0833,2.0833 0 0 0 1218.75,871.2524 L1227.0833,871.2524 L1216.6667,860.8358 " style="stroke:#3694AB;stroke-width:1.0416666666666667;fill:none;"/><text fill="#69C7DE" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="114.5833" x="1091.6667" y="883.8196">this is a first note</text><line style="stroke:#4E5D6C;stroke-width:1.0416666666666667;stroke-dasharray:2.0,2.0;" x1="10.4167" x2="1365.625" y1="903.1108" y2="903.1108"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="148.9583" x="20.8333" y="920.8862">[some kind of failure]</text><polygon fill="#EC7211" points="1219.7917,957.4524,1230.2083,961.6191,1219.7917,965.7857,1223.9583,961.6191" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="66.1458" x2="1226.0417" y1="961.6191" y2="961.6191"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="78.6458" y="951.7029">[011]</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="142.7083" x="133.8542" y="951.7029">Authentication Failure</text><polygon fill="#EC7211" points="77.6042,969.9524,67.1875,974.1191,77.6042,978.2857,73.4375,974.1191" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;stroke-dasharray:2.0,2.0;" x1="71.3542" x2="1231.25" y1="974.1191" y2="974.1191"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="89.0625" y="992.9362">[012]</text><text fill="#FF5D64" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="82.2917" x="144.2708" y="992.9362">Bad request</text><path d="M25,1017.4357 L168.75,1017.4357 L168.75,1034.1024 L158.3333,1044.519 L20.8333,1044.519 L20.8333,1021.6024 " fill="#2A2E33" style="stroke:#4E5D6C;stroke-width:1.0416666666666667;"/><rect fill="none" height="120.1416" rx="4.1667" ry="4.1667" style="stroke:#4E5D6C;stroke-width:2.0833333333333335;" width="1334.375" x="20.8333" y="1017.4357"/><text fill="#44B9D6" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="90.625" x="41.6667" y="1036.2528">My own label</text><path d="M35.4167,1052.419 L117.7083,1052.419 L117.7083,1069.0857 L107.2917,1079.5024 L31.25,1079.5024 L31.25,1056.5857 " fill="#2A2E33" style="stroke:#4E5D6C;stroke-width:1.0416666666666667;"/><rect fill="none" height="77.8666" rx="4.1667" ry="4.1667" style="stroke:#4E5D6C;stroke-width:2.0833333333333335;" width="1313.5417" x="31.25" y="1052.419"/><text fill="#44B9D6" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="29.1667" x="52.0833" y="1071.2362">loop</text><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="91.6667" x="138.5417" y="1072.2778">[1000 times]</text><polygon fill="#EC7211" points="77.6042,1090.094,67.1875,1094.2607,77.6042,1098.4273,73.4375,1094.2607" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="71.3542" x2="1231.25" y1="1094.2607" y2="1094.2607"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="89.0625" y="1113.0778">[013]</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="71.875" x="144.2708" y="1113.0778">DNS Attack</text><line style="stroke:#4E5D6C;stroke-width:1.0416666666666667;stroke-dasharray:2.0,2.0;" x1="10.4167" x2="1365.625" y1="1145.9106" y2="1145.9106"/><text fill="#4E5D6C" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="115.625" x="20.8333" y="1163.6861">[Just a Warning]</text><polygon fill="#EC7211" points="1219.7917,1200.2523,1230.2083,1204.4189,1219.7917,1208.5856,1223.9583,1204.4189" style="stroke:#EC7211;stroke-width:1.0416666666666667;"/><line style="stroke:#EC7211;stroke-width:3.125;" x1="66.1458" x2="1226.0417" y1="1204.4189" y2="1204.4189"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="40.625" x="78.6458" y="1194.5028">[014]</text><text fill="#EC7211" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="94.7917" x="133.8542" y="1194.5028">Please repeat</text><path d="M43.75,1229.4189 L43.75,1286.7106 A4.1667,4.1667 0 0 0 47.9167,1290.8773 L257.2917,1290.8773 A4.1667,4.1667 0 0 0 261.4583,1286.7106 L261.4583,1235.6689 L251.0417,1225.2523 L47.9167,1225.2523 A4.1667,4.1667 0 0 0 43.75,1229.4189 " style="stroke:#3694AB;stroke-width:1.0416666666666667;fill:none;"/><path d="M251.0417,1225.2523 L251.0417,1233.5856 A2.0833,2.0833 0 0 0 253.125,1235.6689 L261.4583,1235.6689 L251.0417,1225.2523 " style="stroke:#3694AB;stroke-width:1.0416666666666667;fill:none;"/><text fill="#69C7DE" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="136.4583" x="79.6875" y="1248.2361">this is a second note</text><text fill="#69C7DE" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="81.25" x="79.6875" y="1263.4277">that is really</text><text fill="#69C7DE" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="28.125" x="79.6875" y="1278.6194">long</text><text fill="#888888" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="85.4167" x="1295.8333" y="17.7755">Page Header</text><text fill="#888888" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="75" x="653.125" y="1418.3777">Page 1 of 1</text><!--MD5=[dd04947f73cf1edc7184b08d2cf78ecb]
 @startuml
 !$PUML_THEME = "aws-orange"
+!$PUML_MODE = "dark"
 !$PUML_OUTLINE = "true"
 !if %not(%variable_exists("$BGCOLOR"))
 !$BGCOLOR = "transparent"
@@ -32,6 +33,7 @@ skinparam useBetaStyle false
     !$DANGER_LIGHT = "#da5b41"
     !$SECONDARY_TEXT = $DARK
     !$FGCOLOR = $DARK
+	!$DIAMOND_BD = $SECONDARY_DARK
 !else
     !$SECONDARY = "#2a2e33"
     !$SECONDARY_DARK = "#222529"
@@ -47,6 +49,7 @@ skinparam useBetaStyle false
     !$DANGER_LIGHT = "#ff7d83"
     !$SECONDARY_TEXT = $WHITE
     !$FGCOLOR = $WHITE
+	!$DIAMOND_BD = $SECONDARY_LIGHT
 !endif
 !$PRIMARY_DARK = "#bd5b0e"
 !$PRIMARY_LIGHT = "#f08e41"
@@ -82,11 +85,33 @@ skinparam useBetaStyle false
 	!endif
 !endprocedure
 !procedure $secondary_scheme()
-	FontColor $SECONDARY_TEXT
-	BorderColor $SECONDARY
-	BackgroundColor $BCOLOR
+	!if ($PUML_OUTLINE == "true")
+		FontColor $SECONDARY_DARK
+		BorderColor $SECONDARY_DARK
+		BackgroundColor $BGCOLOR
+	!else
+		FontColor $SECONDARY_TEXT
+		BorderColor $SECONDARY_DARK
+		BackgroundColor $SECONDARY_LIGHT-$SECONDARY
+	!endif
 !endprocedure
-
+!if ($PUML_OUTLINE == "true")
+	!$HEADER_TEXT = $PRIMARY_TEXT
+	!$PRIMARY_TEXT = $PRIMARY_LIGHT
+	!$INFO_TEXT = $INFO_LIGHT
+	!$WARNING_TEXT = $WARNING_LIGHT
+	!$DARK_BG = $BGCOLOR
+	!$INFO_BG = $BGCOLOR
+	!$DANGER_BG = $BGCOLOR
+	!$WARNING_BG = $BGCOLOR
+	!$SECONDARY_BG = $BGCOLOR
+!else
+	!$DARK_BG = $DARK
+	!$INFO_BG = $INFO
+	!$DANGER_BG = $DANGER
+	!$WARNING_BG = $WARNING
+	!$SECONDARY_BG = $SECONDARY
+!endif
 !_POST = "<color #007a3e>POST</color>"
 !_PUT = "<color #ea7400>PUT</color>"
 !_DELETE = "<color #cf2a2a>DELETE</color>"
@@ -136,10 +161,12 @@ skinparam stereotype {
     NBorderColor $INFO_DARK
 }
 skinparam title {
-    $secondary_scheme()
 	FontSize	    	         20
 	BorderRoundCorner            8
 	BorderThickness 	         1
+	BackgroundColor  $SECONDARY_LIGHT-$SECONDARY
+	FontColor $PRIMARY
+	BorderColor $SECONDARY
 }
 
 skinparam legend {
@@ -163,8 +190,8 @@ skinparam activity {
 	BarColor $SUCCESS
 	StartColor $INFO
 	EndColor $INFO
-	DiamondBackgroundColor $SECONDARY_LIGHT
-  	DiamondBorderColor $SECONDARY_DARK
+	DiamondBackgroundColor $SECONDARY_BG
+  	DiamondBorderColor $DIAMOND_BD
   	DiamondFontColor $SECONDARY_TEXT
 }
 !endsub
@@ -220,7 +247,7 @@ skinparam sequence {
 	ReferenceFontColor $DARK
 	ReferenceHeaderFontColor $INFO
 	ReferenceHeaderBackgroundColor $SECONDARY
-	StereotypeFontColor $PRIMARY_TEXT
+	StereotypeFontColor $DARK
 }
 !endsub
 
@@ -270,15 +297,15 @@ skinparam agent {
 !startsub note
 skinparam note {
 	BorderThickness 1
-	BackgroundColor $INFO
+	BackgroundColor $INFO_BG
 	BorderColor $INFO_DARK
-	FontColor $WHITE
+	FontColor $INFO_TEXT
 }
 !endsub
 
 !startsub artifact
 skinparam artifact {
-	BackgroundColor $DARK
+	BackgroundColor $DARK_BG
 	BorderColor $DARK_DARK
 	FontColor $LIGHT
 }
@@ -300,7 +327,7 @@ skinparam interface {
 
 !startsub storage
 skinparam storage {
-	BackgroundColor $WARNING
+	BackgroundColor $WARNING_BG
   	BorderColor $WARNING_DARK
 	FontColor $WARNING_TEXT
 }
@@ -332,7 +359,8 @@ skinparam database {
 !startsub class
 skinparam class {
 	$primary_scheme()
-	HeaderBackgroundColor $PRIMARY_LIGHT
+	FontColor $HEADER_TEXT
+	HeaderBackgroundColor $PRIMARY_LIGHT-$PRIMARY
 	StereotypeFontColor $DARK
 	BorderThickness 1
 	AttributeFontColor $PRIMARY_TEXT
@@ -379,7 +407,7 @@ skinparam package {
 
 !startsub folder
 skinparam folder {
-	BackgroundColor $SECONDARY_LIGHT
+	BackgroundColor $SECONDARY_BG
   	BorderColor $WARNING
 	FontColor $WARNING
 	BorderThickness 2
@@ -388,7 +416,7 @@ skinparam folder {
 
 !startsub frame
 skinparam frame {
-	BackgroundColor $SECONDARY_LIGHT
+	BackgroundColor $SECONDARY_BG
   	BorderColor $INFO
 	FontColor $INFO
 	BorderThickness 2
@@ -413,7 +441,7 @@ skinparam queue {
 
 !startsub card
 skinparam card {
-	BackgroundColor $INFO
+	BackgroundColor $INFO_BG
 	BorderColor $INFO_DARK
 	FontColor $INFO_TEXT
 }
@@ -421,7 +449,7 @@ skinparam card {
 
 !startsub file
 skinparam file {
-	BackgroundColor $SECONDARY
+	BackgroundColor $SECONDARY_BG
 	BorderColor $LIGHT
 	FontColor $FGCOLOR
 }
@@ -519,7 +547,6 @@ skinparam useBetaStyle false
 
 
 
-
 skinparam defaultFontName       "Verdana"
 skinparam defaultFontSize       12
 skinparam dpi                   100
@@ -530,37 +557,37 @@ skinparam BoxPadding            40
 skinparam Padding               5
 skinparam ArrowColor            #4E5D6C
 skinparam stereotype {
-    CBackgroundColor #ffffff
-    CBorderColor #6f6f6f
-    ABackgroundColor #4a9a35
-    ABorderColor #176702
-    IBackgroundColor #da5b41
-    IBorderColor #a7280e
+    CBackgroundColor #55585c
+    CBorderColor #222529
+    ABackgroundColor #88bf5d
+    ABorderColor #558c2a
+    IBackgroundColor #ff7d83
+    IBorderColor #cc4a50
     EBackgroundColor #f08e41
     EBorderColor #bd5b0e
-    NBackgroundColor #338fc9
-    NBorderColor #005c96
+    NBackgroundColor #69c7de
+    NBorderColor #3694ab
 }
 skinparam title {
-    	FontColor #4E5D6C
-	BorderColor #cccccc
-	BackgroundColor $BCOLOR
 	FontSize	    	         20
 	BorderRoundCorner            8
 	BorderThickness 	         1
+	BackgroundColor  #55585c-#2a2e33
+	FontColor #EC7211
+	BorderColor #2a2e33
 }
 
 skinparam legend {
-    	FontColor #4E5D6C
-	BorderColor #cccccc
-	BackgroundColor $BCOLOR
+    		FontColor #222529
+		BorderColor #222529
+		BackgroundColor transparent
     BackgroundColor transparent
 }
 
 skinparam swimlane {
-	BorderColor #0073bb
+	BorderColor #44b9d6
 	BorderThickness 2
-	TitleBackgroundColor  #ffffff-#cccccc
+	TitleBackgroundColor  #55585c-#2a2e33
 	TitleFontColor #EC7211
 }
 
@@ -569,12 +596,12 @@ skinparam activity {
 			FontColor #EC7211
 		BorderColor #EC7211
 		BackgroundColor transparent
-	BarColor #1D8102
-	StartColor #0073bb
-	EndColor #0073bb
-	DiamondBackgroundColor #ffffff
-  	DiamondBorderColor #6f6f6f
-  	DiamondFontColor #4E5D6C
+	BarColor #6aaf35
+	StartColor #44b9d6
+	EndColor #44b9d6
+	DiamondBackgroundColor transparent
+  	DiamondBorderColor #55585c
+  	DiamondFontColor #FFF
 }
 
 skinparam participant {
@@ -588,13 +615,13 @@ skinparam actor {
 			FontColor #EC7211
 		BorderColor #EC7211
 		BackgroundColor transparent
-	FontColor #4E5D6C
+	FontColor #FFF
 }
 
 skinparam arrow {
 	Thickness 3
 	Color #EC7211
-	FontColor #4E5D6C
+	FontColor #FFF
 }
 
 skinparam sequence {
@@ -612,8 +639,8 @@ skinparam sequence {
 	LifeLineBackgroundColor #bcc5ce
 	GroupBorderColor #4E5D6C
 	GroupFontColor #4E5D6C
-	GroupHeaderFontColor #0073bb
-	GroupBackgroundColor #cccccc
+	GroupHeaderFontColor #44b9d6
+	GroupBackgroundColor #2a2e33
 	GroupBodyBackgroundColor transparent
 	GroupHeaderBackgroundColor transparent
 	DividerBackgroundColor #4E5D6C
@@ -623,9 +650,9 @@ skinparam sequence {
 	ReferenceBackgroundColor transparent
 	ReferenceBorderColor #4E5D6C
 	ReferenceFontColor #4E5D6C
-	ReferenceHeaderFontColor #0073bb
-	ReferenceHeaderBackgroundColor #cccccc
-	StereotypeFontColor $PRIMARY_TEXT
+	ReferenceHeaderFontColor #44b9d6
+	ReferenceHeaderBackgroundColor #2a2e33
+	StereotypeFontColor #4E5D6C
 }
 
 skinparam partition {
@@ -669,13 +696,13 @@ skinparam agent {
 
 skinparam note {
 	BorderThickness 1
-	BackgroundColor #0073bb
-	BorderColor #005c96
-	FontColor #FFF
+	BackgroundColor transparent
+	BorderColor #3694ab
+	FontColor #69c7de
 }
 
 skinparam artifact {
-	BackgroundColor #4E5D6C
+	BackgroundColor transparent
 	BorderColor #717d89
 	FontColor #abb6c2
 }
@@ -687,15 +714,15 @@ skinparam component {
 }
 
 skinparam interface {
-	BackgroundColor  #a7280e
-	BorderColor  #d13212
+	BackgroundColor  #cc4a50
+	BorderColor  #ff5d64
 	FontColor #4E5D6C
 }
 
 skinparam storage {
-	BackgroundColor #EC7211
+	BackgroundColor transparent
   	BorderColor #bd5b0e
-	FontColor #FFF
+	FontColor #f08e41
 }
 
 skinparam node {
@@ -707,24 +734,25 @@ skinparam node {
 skinparam cloud {
 	BackgroundColor transparent
 	BorderColor #4E5D6C
-	FontColor #4E5D6C
+	FontColor #FFF
 }
 
 skinparam database {
 			FontColor #EC7211
 		BorderColor #EC7211
 		BackgroundColor transparent
-	FontColor #4E5D6C
+	FontColor #FFF
 }
 
 skinparam class {
 			FontColor #EC7211
 		BorderColor #EC7211
 		BackgroundColor transparent
-	HeaderBackgroundColor #f08e41
+	FontColor undefined
+	HeaderBackgroundColor #f08e41-#EC7211
 	StereotypeFontColor #4E5D6C
 	BorderThickness 1
-	AttributeFontColor $PRIMARY_TEXT
+	AttributeFontColor #f08e41
 	AttributeFontSize 11
 }
 
@@ -734,7 +762,7 @@ skinparam object {
 		BackgroundColor transparent
 	StereotypeFontColor #4E5D6C
 	BorderThickness 1
-	AttributeFontColor $PRIMARY_TEXT
+	AttributeFontColor #f08e41
 	AttributeFontSize 11
 }
 
@@ -748,30 +776,30 @@ skinparam usecase {
 
 skinparam rectangle {
 	BackgroundColor transparent
-	FontColor #4E5D6C
-	BorderColor #4E5D6C
+	FontColor #FFF
+	BorderColor #FFF
 	BorderThickness 2
 	StereotypeFontColor #EC7211
 }
 
 skinparam package {
 	BackgroundColor transparent
-  	BorderColor #4E5D6C
-	FontColor #4E5D6C
+  	BorderColor #FFF
+	FontColor #FFF
 	BorderThickness 2
 }
 
 skinparam folder {
-	BackgroundColor #ffffff
+	BackgroundColor transparent
   	BorderColor #EC7211
 	FontColor #EC7211
 	BorderThickness 2
 }
 
 skinparam frame {
-	BackgroundColor #ffffff
-  	BorderColor #0073bb
-	FontColor #0073bb
+	BackgroundColor transparent
+  	BorderColor #44b9d6
+	FontColor #44b9d6
 	BorderThickness 2
 }
 
@@ -779,9 +807,9 @@ skinparam state {
 			FontColor #EC7211
 		BorderColor #EC7211
 		BackgroundColor transparent
-	StartColor #0073bb
-	EndColor #0073bb
-	AttributeFontColor #4E5D6C
+	StartColor #44b9d6
+	EndColor #44b9d6
+	AttributeFontColor #FFF
 	AttributeFontSize 11
 }
 
@@ -792,15 +820,15 @@ skinparam queue {
 }
 
 skinparam card {
-	BackgroundColor #0073bb
-	BorderColor #005c96
-	FontColor #FFF
+	BackgroundColor transparent
+	BorderColor #3694ab
+	FontColor #69c7de
 }
 
 skinparam file {
-	BackgroundColor #cccccc
+	BackgroundColor transparent
 	BorderColor #abb6c2
-	FontColor #4E5D6C
+	FontColor #FFF
 }
 
 
@@ -849,7 +877,7 @@ Foo5 - -> Foo3 - - : return
 Foo3 - -> Foo2 - -: return
 ... Some ~~long delay~~ ...
 Foo1 -> Foo6 : To collections
-Foo6 - -> Foo4:   <font color=#1D8102><b>success
+Foo6 - -> Foo4:   <font color=#6aaf35><b>success
 
 
 group alt [successful case]
@@ -862,7 +890,7 @@ note left of Alice: this is a first note
 else some kind of failure
 
 	Foo1 -> Alice: Authentication Failure
-    Alice - -> Foo1:   <font color=#d13212><b>Bad request
+    Alice - -> Foo1:   <font color=#ff5d64><b>Bad request
 	group My own label
 	    loop 1000 times
 	        Alice -> Foo1: DNS Attack
