@@ -20,6 +20,13 @@
 !$PUML_MODE = "light"
 !endif
 ''
+'' User can specify the PUML_OUTLINE via command line or set this variable before
+'' loading this theme file. PUML_OUTLINE is either 'true' or 'false'.
+''
+!if %not(%variable_exists("$PUML_OUTLINE"))
+!$PUML_OUTLINE = "false"
+!endif
+''
 skinparam BackgroundColor $BGCOLOR
 skinparam useBetaStyle false
 ''
