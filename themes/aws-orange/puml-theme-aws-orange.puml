@@ -4,8 +4,6 @@
 '' Author: Brett Schwarz
 ''
 !$PUML_THEME = "aws-orange"
-!$PUML_MODE = "dark"
-!$PUML_OUTLINE = "true"
 ''
 '' User can specify the BGCOLOR via command line or set this variable before
 '' loading this theme file. BGCOLOR is the background color of the image that is 
