@@ -43,8 +43,8 @@ skinparam useBetaStyle false
 '' different colors based on PUML_MODE
 ''
 !if ($PUML_MODE == "light")
-    !$SECONDARY = "#cccccc"
-    !$SECONDARY_DARK = "#6f6f6f"
+    !$SECONDARY = "#dddddd"
+    !$SECONDARY_DARK = "#858585"
     !$SECONDARY_LIGHT = "#ffffff"
     !$SUCCESS = "#1D8102"
     !$SUCCESS_DARK = "#176702"
