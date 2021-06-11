@@ -300,7 +300,8 @@ skinparam sequence {
 	ReferenceHeaderFontColor $INFO
 	ReferenceHeaderBackgroundColor $SECONDARY
 	''
-	StereotypeFontColor $DARK
+	StereotypeFontColor $PRIMARY_TEXT
+	StereotypeFontSize 12
 }
 !endsub
 
