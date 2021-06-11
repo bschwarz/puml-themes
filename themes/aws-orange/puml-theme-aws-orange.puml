@@ -407,6 +407,7 @@ skinparam cloud {
 skinparam database {
 	$primary_scheme()
 	FontColor $FGCOLOR
+	StereotypeFontColor $FGCOLOR
 }
 !endsub
 
