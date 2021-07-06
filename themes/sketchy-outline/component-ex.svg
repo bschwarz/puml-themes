@@ -36,7 +36,7 @@ link MyCollection2 to My Queue--><!--MD5=[0babb46f3d0f67f91c828a5eda35ab7d]
 link My Queue to My Interface--><!--MD5=[9bfee3aea78949ae207e8bd3b67fed50]
 link My Interface to My Card--><!--MD5=[afe9315598834b0b9f57a7a5b2c7ee2a]
 link My Queue to My File--><!--MD5=[f6296be58d13482500ae3b999db2843f]
-link My File to My Stack--><!--MD5=[415423d8fb4c047a70e9aead47fd417a]
+link My File to My Stack--><!--MD5=[60b134e9228b49dd4eb41c792a079bd1]
 @startuml
 
 !$THEME = "sketchy-outline"
@@ -207,6 +207,7 @@ skinparam sequence {
 	BoxBackgroundColor $BGCOLOR
 	BoxBorderColor $DARK
 	BoxFontColor $DARK
+	DelayFontColor $DARK
 	LifeLineBorderColor $SECONDARY
 	LifeLineBorderThickness 2
 	LifeLineBackgroundColor $SECONDARY_DARK
@@ -224,6 +225,7 @@ skinparam sequence {
 	ReferenceFontColor $DARK
 	ReferenceHeaderFontColor $INFO
 	ReferenceHeaderBackgroundColor $SECONDARY
+	StereotypeFontColor $PRIMARY_TEXT
 }
 !endsub
 
@@ -609,6 +611,7 @@ skinparam sequence {
 	BoxBackgroundColor transparent
 	BoxBorderColor #555555
 	BoxFontColor #555555
+	DelayFontColor #555555
 	LifeLineBorderColor #555555
 	LifeLineBorderThickness 2
 	LifeLineBackgroundColor #4d4d4d
@@ -626,6 +629,7 @@ skinparam sequence {
 	ReferenceFontColor #555555
 	ReferenceHeaderFontColor #17a2b8
 	ReferenceHeaderBackgroundColor #555555
+	StereotypeFontColor #2e2e2e
 }
 
 

@@ -2,7 +2,7 @@
 reverse link Object01 to Object02--><path d="M48.9583,124.7721 L49.2503,124.7721 L48.3829,135.6107 L49.2268,146.4492 L49.5134,157.2878 L47.9675,168.1263 L48.8504,178.9648 L48.366,189.8034 L48.4257,200.6419 L48.9583,211.4805 " fill="none" style="stroke:#333333;stroke-width:3.125;"/><polygon fill="none" points="41.6667,124.4909,41.7355,124.515,42.9892,120.2767,44.6467,116.1797,46.1727,112.0367,47.2662,107.7424,48.9583,103.6576,48.9329,103.6486,50.2769,107.7753,51.7493,111.9469,53.311,116.1497,54.5651,120.2449,56.25,124.4909,56.25,124.6831,53.3333,124.272,50.4167,124.4222,47.5,124.6409,44.5833,124.4611,41.6667,124.4909" style="stroke:#333333;stroke-width:3.125;"/><!--MD5=[d21c20b16b3ff22abbc2c8af84931b60]
 reverse link Object03 to Object04--><path d="M168.75,117.3659 L169.0419,117.3659 L168.1746,127.8231 L169.0185,138.2802 L169.3051,148.7374 L167.7592,159.1946 L168.6421,169.6518 L168.1576,180.1089 L168.2174,190.5661 L168.6553,201.0233 L168.75,211.4805 " fill="none" style="stroke:#333333;stroke-width:3.125;"/><polygon fill="#333333" points="168.75,103.6576,168.8107,103.698,167.797,104.8278,167.1392,106.1948,166.3655,107.4845,165.2106,108.5201,164.5833,109.9076,164.5609,109.8926,165.2934,111.0754,166.1392,112.3337,167.0636,113.6444,167.7169,114.7744,168.75,116.1576,168.91,116.2642,169.4012,114.7862,170.3595,113.6195,171.3748,112.4907,172.0586,111.141,172.9167,109.9076,172.9364,109.9207,172.0741,108.6514,171.3016,107.4419,170.4858,106.2036,169.7525,105.0204,168.75,103.6576" style="stroke:#333333;stroke-width:3.125;"/><!--MD5=[ade907096602ef8d7fe19339b46bff0e]
 reverse link Object05 to Object06--><path d="M288.5417,117.3659 L288.8336,117.3659 L287.9662,127.8231 L288.8101,138.2802 L289.0968,148.7374 L287.5508,159.1946 L288.4337,169.6518 L287.9493,180.1089 L288.009,190.5661 L288.447,201.0233 L288.5417,211.4805 " fill="none" style="stroke:#333333;stroke-width:3.125;"/><polygon points="288.5417,103.6576,288.6024,103.698,287.5886,104.8278,286.9308,106.1948,286.1571,107.4845,285.0022,108.5201,284.375,109.9076,284.3525,109.8926,285.0851,111.0754,285.9309,112.3337,286.8553,113.6444,287.5086,114.7744,288.5417,116.1576,288.7016,116.2642,289.1929,114.7862,290.1512,113.6195,291.1665,112.4907,291.8502,111.141,292.7083,109.9076,292.728,109.9207,291.8658,108.6514,291.0932,107.4419,290.2774,106.2036,289.5442,105.0204,288.5417,103.6576" style="stroke:#333333;stroke-width:3.125;fill:none;"/><text fill="#2E2E2E" font-family="Segoe Print" font-size="12.5" lengthAdjust="spacing" textLength="8.3333" x="272.5977" y="195.4553">4</text><!--MD5=[17488501a7bed181c851ca0c615fb4f2]
-link Object07 to Object08--><path d="M431.25,103.6576 L431.5419,103.6576 L430.6746,114.6576 L431.5185,125.6576 L431.8051,136.6576 L430.2592,147.6576 L431.1421,158.6576 L430.6576,169.6576 L430.7174,180.6576 L431.25,191.6576 " fill="none" style="stroke:#333333;stroke-width:3.125;stroke-dasharray:7.0,7.0;"/><text fill="#2E2E2E" font-family="Segoe Print" font-size="12.5" lengthAdjust="spacing" textLength="78.125" x="437.5" y="152.5208">some labels</text><!--MD5=[ed97a56a69e5818fb18c496ee9d7fd95]
+link Object07 to Object08--><path d="M431.25,103.6576 L431.5419,103.6576 L430.6746,114.6576 L431.5185,125.6576 L431.8051,136.6576 L430.2592,147.6576 L431.1421,158.6576 L430.6576,169.6576 L430.7174,180.6576 L431.25,191.6576 " fill="none" style="stroke:#333333;stroke-width:3.125;stroke-dasharray:7.0,7.0;"/><text fill="#2E2E2E" font-family="Segoe Print" font-size="12.5" lengthAdjust="spacing" textLength="78.125" x="437.5" y="152.5208">some labels</text><!--MD5=[de6720359e2b8aa298d8d5c06aada7fd]
 @startuml
 
 !$THEME = "sketchy-outline"
@@ -173,6 +173,7 @@ skinparam sequence {
 	BoxBackgroundColor $BGCOLOR
 	BoxBorderColor $DARK
 	BoxFontColor $DARK
+	DelayFontColor $DARK
 	LifeLineBorderColor $SECONDARY
 	LifeLineBorderThickness 2
 	LifeLineBackgroundColor $SECONDARY_DARK
@@ -190,6 +191,7 @@ skinparam sequence {
 	ReferenceFontColor $DARK
 	ReferenceHeaderFontColor $INFO
 	ReferenceHeaderBackgroundColor $SECONDARY
+	StereotypeFontColor $PRIMARY_TEXT
 }
 !endsub
 
@@ -551,6 +553,7 @@ skinparam sequence {
 	BoxBackgroundColor transparent
 	BoxBorderColor #555555
 	BoxFontColor #555555
+	DelayFontColor #555555
 	LifeLineBorderColor #555555
 	LifeLineBorderThickness 2
 	LifeLineBackgroundColor #4d4d4d
@@ -568,6 +571,7 @@ skinparam sequence {
 	ReferenceFontColor #555555
 	ReferenceHeaderFontColor #17a2b8
 	ReferenceHeaderBackgroundColor #555555
+	StereotypeFontColor #2e2e2e
 }
 
 

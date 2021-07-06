@@ -5,7 +5,7 @@ entity clerk--><ellipse cx="417.1875" cy="196.1528" fill="none" rx="8.3333" ry="
 link customer to checkout--><path d="M145,231.5694 C164.0417,231.5694 188.2083,231.5694 210.1875,231.5694 " fill="none" id="customer-checkout" style="stroke:#DF691A;stroke-width:3.125;"/><!--MD5=[3ad5c6d5c608bfd6b87dc9c07c40a15f]
 link checkout to payment--><path d="M270.8333,210.0694 C270.8333,193.3611 270.8333,170.1007 270.8333,152.1632 " fill="none" id="checkout-to-payment" style="stroke:#DF691A;stroke-width:3.125;stroke-dasharray:7.0,7.0;"/><polygon fill="#DF691A" points="270.8333,146.7882,266.6667,156.1632,270.8333,151.9965,275,156.1632,270.8333,146.7882" style="stroke:#DF691A;stroke-width:3.125;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="45.8333" x="231.25" y="183.7199">include</text><!--MD5=[739e7928149c8fe27c2b5850560351c7]
 link help to checkout--><path d="M270.8333,316.3194 C270.8333,299.6111 270.8333,276.3507 270.8333,258.4132 " fill="none" id="help-to-checkout" style="stroke:#DF691A;stroke-width:3.125;stroke-dasharray:7.0,7.0;"/><polygon fill="#DF691A" points="270.8333,253.0382,266.6667,262.4132,270.8333,258.2465,275,262.4132,270.8333,253.0382" style="stroke:#DF691A;stroke-width:3.125;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="53.125" x="227.6042" y="289.9699">extends</text><!--MD5=[b4c4ee8f2d94c159d2b9e04bd372cbe0]
-link checkout to clerk--><path d="M331.3854,231.5694 C354.6771,231.5694 379.7708,231.5694 396.5625,231.5694 " fill="none" id="checkout-clerk" style="stroke:#DF691A;stroke-width:3.125;"/><rect height="81.5999" rx="5.2083" ry="5.2083" style="stroke:#717D89;stroke-width:1.0416666666666667;fill:none;" width="246.875" x="125.5208" y="389.9028"/><text fill="#ABB6C2" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="112.5" x="136.9792" y="412.8866">This is my legend</text><text fill="#ABB6C2" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="223.9583" x="136.9792" y="428.0782">it can have a long list of stuff here</text><text fill="#ABB6C2" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="206.25" x="136.9792" y="443.2699">and it can go on and on and on</text><text fill="#ABB6C2" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="92.7083" x="136.9792" y="458.4615">that's about it</text><!--MD5=[27b3cbe41a02385681cf2e68936e4309]
+link checkout to clerk--><path d="M331.3854,231.5694 C354.6771,231.5694 379.7708,231.5694 396.5625,231.5694 " fill="none" id="checkout-clerk" style="stroke:#DF691A;stroke-width:3.125;"/><rect height="81.5999" rx="5.2083" ry="5.2083" style="stroke:#717D89;stroke-width:1.0416666666666667;fill:none;" width="246.875" x="125.5208" y="389.9028"/><text fill="#ABB6C2" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="112.5" x="136.9792" y="412.8866">This is my legend</text><text fill="#ABB6C2" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="223.9583" x="136.9792" y="428.0782">it can have a long list of stuff here</text><text fill="#ABB6C2" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="206.25" x="136.9792" y="443.2699">and it can go on and on and on</text><text fill="#ABB6C2" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="92.7083" x="136.9792" y="458.4615">that's about it</text><!--MD5=[7a137ebe53012aeb468bd6a05625dc88]
 @startuml
 
 !$THEME = "superhero-outline"
@@ -179,6 +179,7 @@ skinparam sequence {
 	BoxBackgroundColor $BGCOLOR
 	BoxBorderColor $DARK
 	BoxFontColor $DARK
+	DelayFontColor $DARK
 	LifeLineBorderColor $SECONDARY
 	LifeLineBorderThickness 2
 	LifeLineBackgroundColor $BGCOLOR
@@ -197,6 +198,7 @@ skinparam sequence {
 	ReferenceFontColor $LIGHT
 	ReferenceHeaderFontColor $INFO
 	ReferenceHeaderBackgroundColor $BGCOLOR
+	StereotypeFontColor $PRIMARY_TEXT
 }
 !endsub
 
@@ -563,6 +565,7 @@ skinparam sequence {
 	BoxBackgroundColor transparent
 	BoxBorderColor #4E5D6C
 	BoxFontColor #4E5D6C
+	DelayFontColor #4E5D6C
 	LifeLineBorderColor #4E5D6C
 	LifeLineBorderThickness 2
 	LifeLineBackgroundColor transparent
@@ -581,6 +584,7 @@ skinparam sequence {
 	ReferenceFontColor #abb6c2
 	ReferenceHeaderFontColor #5bc0de
 	ReferenceHeaderBackgroundColor transparent
+	StereotypeFontColor #DF691A
 }
 
 

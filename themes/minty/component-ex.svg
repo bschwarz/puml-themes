@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="775px" preserveAspectRatio="none" style="width:1227px;height:775px;background:#00000000;" version="1.1" viewBox="0 0 1227 775" width="1227.0833px" zoomAndPan="magnify"><defs><linearGradient id="g19t971rdhrch40" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#F4A1A4"/><stop offset="100%" stop-color="#F3969A"/></linearGradient></defs><g><rect fill="url(#g19t971rdhrch40)" height="46.1528" rx="4.1667" ry="4.1667" style="stroke:#DB878B;stroke-width:1.0416666666666667;" width="401.0417" x="405.9896" y="2.0833"/><text fill="#6CAF9C" font-family="Verdana" font-size="20.8333" lengthAdjust="spacing" textLength="373.9583" x="419.5313" y="33.4452">Component Diagram - minty theme</text><!--MD5=[98956307d0c47524864de5bf9cdc747b]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="775px" preserveAspectRatio="none" style="width:1227px;height:775px;background:#00000000;" version="1.1" viewBox="0 0 1227 775" width="1227.0833px" zoomAndPan="magnify"><defs><linearGradient id="g190d7gkl4kbm40" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#F4A1A4"/><stop offset="100%" stop-color="#F3969A"/></linearGradient></defs><g><rect fill="url(#g190d7gkl4kbm40)" height="46.1528" rx="4.1667" ry="4.1667" style="stroke:#DB878B;stroke-width:1.0416666666666667;" width="401.0417" x="405.9896" y="2.0833"/><text fill="#6CAF9C" font-family="Verdana" font-size="20.8333" lengthAdjust="spacing" textLength="373.9583" x="419.5313" y="33.4452">Component Diagram - minty theme</text><!--MD5=[98956307d0c47524864de5bf9cdc747b]
 cluster My Package--><path d="M10.4167,57.6111 L101.0417,57.6111 A6.25,6.25 0 0 1 105.2083,61.7778 L112.5,89.4694 L788.5417,89.4694 A4.1667,4.1667 0 0 1 792.7083,93.6361 L792.7083,172.1944 A4.1667,4.1667 0 0 1 788.5417,176.3611 L10.4167,176.3611 A4.1667,4.1667 0 0 1 6.25,172.1944 L6.25,61.7778 A4.1667,4.1667 0 0 1 10.4167,57.6111 " fill="#F3969A" style="stroke:#78C2AD;stroke-width:2.0833333333333335;"/><line style="stroke:#78C2AD;stroke-width:2.0833333333333335;" x1="6.25" x2="112.5" y1="89.4694" y2="89.4694"/><text fill="#78C2AD" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="82.2917" x="15.625" y="77.4699">My Package</text><!--MD5=[994b84a7865cf3a30290d65f6358d5f5]
 cluster My Node--><polygon fill="#F3969A" points="162.5,247.1944,172.9167,236.7778,591.6667,236.7778,591.6667,350.3194,581.25,360.7361,162.5,360.7361,162.5,247.1944" style="stroke:#F8F9FA;stroke-width:1.5625;"/><line style="stroke:#F8F9FA;stroke-width:1.5625;" x1="581.25" x2="591.6667" y1="247.1944" y2="236.7778"/><line style="stroke:#F8F9FA;stroke-width:1.5625;" x1="162.5" x2="581.25" y1="247.1944" y2="247.1944"/><line style="stroke:#F8F9FA;stroke-width:1.5625;" x1="581.25" x2="581.25" y1="247.1944" y2="360.7361"/><text fill="#F8F9FA" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="59.375" x="343.2292" y="268.0949">My Node</text><!--MD5=[8f762177cf9f076b8ea6eac76c5df33e]
 cluster My Cloud--><path d="M632.8452,252.3048 C635.5616,246.3885 641.3703,245.0033 645.6912,250.4986 C648.6196,244.5729 653.8497,242.7412 658.3925,248.7855 C661.7842,242.2948 666.3319,242.7542 670.8069,247.599 C672.8056,240.605 678.7181,240.0996 683.2847,244.877 C686.4089,240.0353 690.2212,239.0011 693.9918,244.1867 C699.5524,237.1245 703.9169,239.0107 707.9586,245.7264 C711.9335,240.5167 716.267,241.4295 719.5641,246.4921 C725.1945,241.1095 729.7546,241.3823 732.7397,249.1437 C736.0808,244.5004 741.0042,243.3458 744.1028,249.4012 C754.5244,243.054 759.6988,246.8821 762.5,257.6111 C763.0379,257.2868 763.4395,257.5488 763.4195,258.1597 C772.3859,261.229 771.7275,268.5845 765.6726,273.8156 C773.3938,278.4468 773.1416,284.4836 765.0181,288.4039 C771.9756,291.4599 772.6037,296.9548 766.4716,301.4672 C773.0597,305.608 773.976,312.2498 766.6993,316.5992 C774.5789,321.3111 772.3286,327.8941 765.594,331.5237 C773.1331,342.2412 767.7994,351.6985 755.2083,352.4028 C755.5623,352.0197 756.021,351.9399 756.2533,352.5331 C754.169,358.6396 748.7728,359.7847 744.428,354.9838 C740.9431,360.0683 737.0362,360.9863 732.8844,355.7281 C728.9311,361.287 724.6223,362.4772 719.8952,356.6075 C715.993,361.9673 710.8804,362.8899 707.4539,356.1196 C704.1018,363.3128 699.3344,363.2219 694.0374,358.2675 C690.1311,362.9253 685.8482,362.7576 682.2404,357.8976 C677.7966,362.4943 673.6552,362.7278 670.0568,356.9087 C665.7581,361.7034 660.9685,359.927 658.9909,354.4163 C655.8379,360.6122 649.4734,361.5113 645.5912,355.1974 C634.876,363.7224 625.8751,356.6744 625,345.1111 C625.4289,344.5793 625.7916,344.7551 626.0953,345.2452 C619.2522,342.8533 619.6025,336.8376 624.2906,332.7766 C615.9787,329.2338 615.021,322.6337 621.3055,316.4261 C613.5469,313.3963 612.8594,307.5593 617.9757,301.6317 C611.7086,296.1648 613.839,289.7318 621.5599,287.922 C614.4608,282.5853 615.8927,277.2178 622.949,273.2185 C615.7092,261.9607 618.7627,253.1036 632.2917,250.3194 C633.5432,250.5986 633.7492,251.4246 632.8452,252.3048 " style="stroke:#F2FCFE;stroke-width:1.5625;fill:none;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="62.5" x="662.5" y="273.3032">My Cloud</text><!--MD5=[5435dd1da01795d79a1d1bdb7811705f]
@@ -36,7 +36,7 @@ link MyCollection2 to My Queue--><!--MD5=[0babb46f3d0f67f91c828a5eda35ab7d]
 link My Queue to My Interface--><!--MD5=[9bfee3aea78949ae207e8bd3b67fed50]
 link My Interface to My Card--><!--MD5=[afe9315598834b0b9f57a7a5b2c7ee2a]
 link My Queue to My File--><!--MD5=[f6296be58d13482500ae3b999db2843f]
-link My File to My Stack--><!--MD5=[3f0b4ae62b746d2b22acc2f673005158]
+link My File to My Stack--><!--MD5=[84252b47f8e1cbca78fdbf94a747ccf3]
 @startuml
 
 !$THEME = "minty"
@@ -205,6 +205,7 @@ skinparam sequence {
 	BoxBackgroundColor $BGCOLOR
 	BoxBorderColor $DARK
 	BoxFontColor $DARK
+	DelayFontColor $DARK
 	LifeLineBorderColor $SECONDARY
 	LifeLineBorderThickness 2
 	LifeLineBackgroundColor $SECONDARY_DARK
@@ -223,6 +224,7 @@ skinparam sequence {
 	ReferenceFontColor $DARK
 	ReferenceHeaderFontColor $INFO
 	ReferenceHeaderBackgroundColor $SECONDARY
+	StereotypeFontColor $PRIMARY_TEXT
 }
 !endsub
 
@@ -607,6 +609,7 @@ skinparam sequence {
 	BoxBackgroundColor transparent
 	BoxBorderColor #343a40
 	BoxFontColor #343a40
+	DelayFontColor #343a40
 	LifeLineBorderColor #f3969a
 	LifeLineBorderThickness 2
 	LifeLineBackgroundColor #db878b
@@ -625,6 +628,7 @@ skinparam sequence {
 	ReferenceFontColor #343a40
 	ReferenceHeaderFontColor #6cc3d5
 	ReferenceHeaderBackgroundColor #f3969a
+	StereotypeFontColor #fff
 }
 
 

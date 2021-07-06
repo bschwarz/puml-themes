@@ -2,7 +2,7 @@
 reverse link Object01 to Object02--><path codeLine="21" d="M49.4792,126.5278 C49.4792,155.2673 49.4792,191.7778 49.4792,214.8507 " fill="none" id="Object01-backto-Object02" style="stroke:#2FA4E7;stroke-width:3.125;"/><polygon fill="none" points="42.1875,126.3819,49.4792,105.5486,56.7708,126.3819,42.1875,126.3819" style="stroke:#2FA4E7;stroke-width:3.125;"/><!--MD5=[d21c20b16b3ff22abbc2c8af84931b60]
 reverse link Object03 to Object04--><path codeLine="22" d="M170.3125,119.4444 C170.3125,149.0173 170.3125,189.8403 170.3125,214.8507 " fill="none" id="Object03-backto-Object04" style="stroke:#2FA4E7;stroke-width:3.125;"/><polygon fill="#2FA4E7" points="170.3125,105.5486,166.1458,111.7986,170.3125,118.0486,174.4792,111.7986,170.3125,105.5486" style="stroke:#2FA4E7;stroke-width:3.125;"/><!--MD5=[ade907096602ef8d7fe19339b46bff0e]
 reverse link Object05 to Object06--><path codeLine="23" d="M291.1458,119.4444 C291.1458,149.0173 291.1458,189.8403 291.1458,214.8507 " fill="none" id="Object05-backto-Object06" style="stroke:#2FA4E7;stroke-width:3.125;"/><polygon points="291.1458,105.5486,286.9792,111.7986,291.1458,118.0486,295.3125,111.7986,291.1458,105.5486" style="stroke:#2FA4E7;stroke-width:3.125;fill:none;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="8.3333" x="275.2018" y="198.5373">4</text><!--MD5=[17488501a7bed181c851ca0c615fb4f2]
-link Object07 to Object08--><path codeLine="24" d="M435.9375,105.5486 C435.9375,128.934 435.9375,166.1423 435.9375,195.059 " fill="none" id="Object07-Object08" style="stroke:#2FA4E7;stroke-width:3.125;stroke-dasharray:7.0,7.0;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="78.125" x="442.1875" y="155.5949">some labels</text><!--MD5=[859f1939d208cb4ca9f6c64609688af2]
+link Object07 to Object08--><path codeLine="24" d="M435.9375,105.5486 C435.9375,128.934 435.9375,166.1423 435.9375,195.059 " fill="none" id="Object07-Object08" style="stroke:#2FA4E7;stroke-width:3.125;stroke-dasharray:7.0,7.0;"/><text fill="#343A40" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="78.125" x="442.1875" y="155.5949">some labels</text><!--MD5=[6d2907ad7272492312577b5c85301a0a]
 @startuml
 
 !$THEME = "cerulean-outline"
@@ -163,6 +163,7 @@ skinparam sequence {
 	BoxBackgroundColor $BGCOLOR
 	BoxBorderColor $GRAY
 	BoxFontColor $DARK
+	DelayFontColor $DARK
 	LifeLineBorderColor $SECONDARY_DARK
 	LifeLineBorderThickness 2
 	LifeLineBackgroundColor $BGCOLOR
@@ -180,6 +181,7 @@ skinparam sequence {
 	ReferenceBorderColor $GRAY
 	ReferenceFontColor $DARK
 	ReferenceHeaderFontColor $INFO_TEXT
+	StereotypeFontColor $PRIMARY_TEXT
 }
 !endsub
 
@@ -573,6 +575,7 @@ skinparam sequence {
 	BoxBackgroundColor transparent
 	BoxBorderColor #868E96
 	BoxFontColor #343A40
+	DelayFontColor #343A40
 	LifeLineBorderColor #BABDBF
 	LifeLineBorderThickness 2
 	LifeLineBackgroundColor transparent
@@ -590,6 +593,7 @@ skinparam sequence {
 	ReferenceBorderColor #868E96
 	ReferenceFontColor #343A40
 	ReferenceHeaderFontColor #033C73
+	StereotypeFontColor #2FA4E7
 }
 
 

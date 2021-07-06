@@ -36,7 +36,7 @@ link MyCollection2 to My Queue--><!--MD5=[0babb46f3d0f67f91c828a5eda35ab7d]
 link My Queue to My Interface--><!--MD5=[9bfee3aea78949ae207e8bd3b67fed50]
 link My Interface to My Card--><!--MD5=[afe9315598834b0b9f57a7a5b2c7ee2a]
 link My Queue to My File--><!--MD5=[f6296be58d13482500ae3b999db2843f]
-link My File to My Stack--><!--MD5=[e2bdadf583b05a04ba3ad8cb5949c56c]
+link My File to My Stack--><!--MD5=[43845566726114410c5a86d2f7f51c4c]
 @startuml
 
 !$THEME = "cerulean-outline"
@@ -197,6 +197,7 @@ skinparam sequence {
 	BoxBackgroundColor $BGCOLOR
 	BoxBorderColor $GRAY
 	BoxFontColor $DARK
+	DelayFontColor $DARK
 	LifeLineBorderColor $SECONDARY_DARK
 	LifeLineBorderThickness 2
 	LifeLineBackgroundColor $BGCOLOR
@@ -214,6 +215,7 @@ skinparam sequence {
 	ReferenceBorderColor $GRAY
 	ReferenceFontColor $DARK
 	ReferenceHeaderFontColor $INFO_TEXT
+	StereotypeFontColor $PRIMARY_TEXT
 }
 !endsub
 
@@ -631,6 +633,7 @@ skinparam sequence {
 	BoxBackgroundColor transparent
 	BoxBorderColor #868E96
 	BoxFontColor #343A40
+	DelayFontColor #343A40
 	LifeLineBorderColor #BABDBF
 	LifeLineBorderThickness 2
 	LifeLineBackgroundColor transparent
@@ -648,6 +651,7 @@ skinparam sequence {
 	ReferenceBorderColor #868E96
 	ReferenceFontColor #343A40
 	ReferenceHeaderFontColor #033C73
+	StereotypeFontColor #2FA4E7
 }
 
 
