@@ -157,7 +157,7 @@ skinparam sequence {
 	''
 	BoxBackgroundColor $BGCOLOR
 	BoxBorderColor $DARK
-	BoxFontColor $DARk
+	BoxFontColor $DARK
 	''
 	LifeLineBorderColor $SECONDARY
 	LifeLineBorderThickness 2

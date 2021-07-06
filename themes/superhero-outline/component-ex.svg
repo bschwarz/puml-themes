@@ -36,7 +36,7 @@ link MyCollection2 to My Queue--><!--MD5=[0babb46f3d0f67f91c828a5eda35ab7d]
 link My Queue to My Interface--><!--MD5=[9bfee3aea78949ae207e8bd3b67fed50]
 link My Interface to My Card--><!--MD5=[afe9315598834b0b9f57a7a5b2c7ee2a]
 link My Queue to My File--><!--MD5=[f6296be58d13482500ae3b999db2843f]
-link My File to My Stack--><!--MD5=[8987944f75d9aaca7740dc139584db68]
+link My File to My Stack--><!--MD5=[ea3dbd87f522622d5c86a0fb06df1fab]
 @startuml
 
 !$THEME = "superhero-outline"
@@ -209,7 +209,7 @@ skinparam sequence {
 	EndColor $PRIMARY
 	BoxBackgroundColor $BGCOLOR
 	BoxBorderColor $DARK
-	BoxFontColor $DARk
+	BoxFontColor $DARK
 	LifeLineBorderColor $SECONDARY
 	LifeLineBorderThickness 2
 	LifeLineBackgroundColor $BGCOLOR
@@ -617,7 +617,7 @@ skinparam sequence {
 	EndColor #DF691A
 	BoxBackgroundColor transparent
 	BoxBorderColor #4E5D6C
-	BoxFontColor $DARk
+	BoxFontColor #4E5D6C
 	LifeLineBorderColor #4E5D6C
 	LifeLineBorderThickness 2
 	LifeLineBackgroundColor transparent

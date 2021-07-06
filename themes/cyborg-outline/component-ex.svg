@@ -36,7 +36,7 @@ link MyCollection2 to My Queue--><!--MD5=[0babb46f3d0f67f91c828a5eda35ab7d]
 link My Queue to My Interface--><!--MD5=[9bfee3aea78949ae207e8bd3b67fed50]
 link My Interface to My Card--><!--MD5=[afe9315598834b0b9f57a7a5b2c7ee2a]
 link My Queue to My File--><!--MD5=[f6296be58d13482500ae3b999db2843f]
-link My File to My Stack--><!--MD5=[ea9be2d9f86a9840efff91f4c10a4e5c]
+link My File to My Stack--><!--MD5=[17068a5ba27246efd284b51f689aa123]
 @startuml
 
 !$THEME = "cyborg-outline"
@@ -205,7 +205,7 @@ skinparam sequence {
 	EndColor $PRIMARY
 	BoxBackgroundColor $BGCOLOR
 	BoxBorderColor $DARK
-	BoxFontColor $DARk
+	BoxFontColor $DARK
 	LifeLineBorderColor $SECONDARY
 	LifeLineBorderThickness 2
 	LifeLineBackgroundColor $BGCOLOR
@@ -613,7 +613,7 @@ skinparam sequence {
 	EndColor #2A9FD6
 	BoxBackgroundColor transparent
 	BoxBorderColor #ADAFAE
-	BoxFontColor $DARk
+	BoxFontColor #ADAFAE
 	LifeLineBorderColor #555
 	LifeLineBorderThickness 2
 	LifeLineBackgroundColor transparent

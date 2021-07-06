@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="441.6667px" preserveAspectRatio="none" style="width:506px;height:441px;background:#00000000;" version="1.1" viewBox="0 0 506 441" width="506.25px" zoomAndPan="magnify"><defs/><g><rect height="46.1528" rx="4.1667" ry="4.1667" style="stroke:#717D89;stroke-width:1.0416666666666667;fill:none;" width="493.75" x="2.0833" y="2.0833"/><text fill="#DF691A" font-family="Verdana" font-size="20.8333" lengthAdjust="spacing" textLength="466.6667" x="15.625" y="33.4452">Usecase Diagram - superhero-outline theme</text><!--MD5=[111002b242a260edbcaabc3e471064d0]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="487.5px" preserveAspectRatio="none" style="width:506px;height:487px;background:#00000000;" version="1.1" viewBox="0 0 506 487" width="506.25px" zoomAndPan="magnify"><defs/><g><rect height="46.1528" rx="4.1667" ry="4.1667" style="stroke:#717D89;stroke-width:1.0416666666666667;fill:none;" width="493.75" x="2.0833" y="2.0833"/><text fill="#DF691A" font-family="Verdana" font-size="20.8333" lengthAdjust="spacing" textLength="466.6667" x="15.625" y="33.4452">Usecase Diagram - superhero-outline theme</text><!--MD5=[111002b242a260edbcaabc3e471064d0]
 cluster checkout--><rect height="317.7083" rx="4.1667" ry="4.1667" style="stroke:#E58748;stroke-width:2.0833333333333335;fill:none;" width="154.1667" x="193.75" y="58.6528"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="61.4583" x="240.1042" y="78.5116">checkout</text><ellipse cx="270.9941" cy="231.4481" fill="none" rx="60.5774" ry="21.2328" style="stroke:#E58748;stroke-width:2.0833333333333335;"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="58.3333" x="241.8274" y="234.336">checkout</text><ellipse cx="270.7784" cy="125.1981" fill="none" rx="59.8409" ry="21.2328" style="stroke:#E58748;stroke-width:2.0833333333333335;"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="57.2917" x="242.1325" y="128.086">payment</text><ellipse cx="270.9877" cy="337.6981" fill="none" rx="39.2169" ry="21.2328" style="stroke:#E58748;stroke-width:2.0833333333333335;"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="28.125" x="256.9252" y="340.586">help</text><!--MD5=[92848cbaf65985a669855153c5362c37]
 entity customer--><ellipse cx="109.375" cy="196.1528" fill="none" rx="8.3333" ry="8.3333" style="stroke:#E58748;stroke-width:1.5625;"/><path d="M109.375,204.4861 L109.375,232.6111 M95.8333,212.8194 L122.9167,212.8194 M109.375,232.6111 L95.8333,248.2361 M109.375,232.6111 L122.9167,248.2361 " fill="none" style="stroke:#E58748;stroke-width:1.5625;"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="60.4167" x="79.1667" y="268.6157">customer</text><!--MD5=[ebeabf449828f4e0b33bbb47961e644b]
 entity clerk--><ellipse cx="417.1875" cy="196.1528" fill="none" rx="8.3333" ry="8.3333" style="stroke:#E58748;stroke-width:1.5625;"/><path d="M417.1875,204.4861 L417.1875,232.6111 M403.6458,212.8194 L430.7292,212.8194 M417.1875,232.6111 L403.6458,248.2361 M417.1875,232.6111 L430.7292,248.2361 " fill="none" style="stroke:#E58748;stroke-width:1.5625;"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="30.2083" x="402.0833" y="268.6157">clerk</text><!--MD5=[852381a7bb976b86080137fb6d718ea9]
 link customer to checkout--><path d="M145,231.5694 C164.0417,231.5694 188.2083,231.5694 210.1875,231.5694 " fill="none" id="customer-checkout" style="stroke:#DF691A;stroke-width:3.125;"/><!--MD5=[3ad5c6d5c608bfd6b87dc9c07c40a15f]
 link checkout to payment--><path d="M270.8333,210.0694 C270.8333,193.3611 270.8333,170.1007 270.8333,152.1632 " fill="none" id="checkout-to-payment" style="stroke:#DF691A;stroke-width:3.125;stroke-dasharray:7.0,7.0;"/><polygon fill="#DF691A" points="270.8333,146.7882,266.6667,156.1632,270.8333,151.9965,275,156.1632,270.8333,146.7882" style="stroke:#DF691A;stroke-width:3.125;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="45.8333" x="231.25" y="183.7199">include</text><!--MD5=[739e7928149c8fe27c2b5850560351c7]
 link help to checkout--><path d="M270.8333,316.3194 C270.8333,299.6111 270.8333,276.3507 270.8333,258.4132 " fill="none" id="help-to-checkout" style="stroke:#DF691A;stroke-width:3.125;stroke-dasharray:7.0,7.0;"/><polygon fill="#DF691A" points="270.8333,253.0382,266.6667,262.4132,270.8333,258.2465,275,262.4132,270.8333,253.0382" style="stroke:#DF691A;stroke-width:3.125;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="53.125" x="227.6042" y="289.9699">extends</text><!--MD5=[b4c4ee8f2d94c159d2b9e04bd372cbe0]
-link checkout to clerk--><path d="M331.3854,231.5694 C354.6771,231.5694 379.7708,231.5694 396.5625,231.5694 " fill="none" id="checkout-clerk" style="stroke:#DF691A;stroke-width:3.125;"/><rect height="36.025" rx="5.2083" ry="5.2083" style="stroke:#717D89;stroke-width:1.0416666666666667;fill:none;" width="135.4167" x="181.25" y="389.9028"/><text fill="#ABB6C2" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="112.5" x="192.7083" y="412.8866">This is my legend</text><!--MD5=[e307c57ca62198a2220921c28fe2967c]
+link checkout to clerk--><path d="M331.3854,231.5694 C354.6771,231.5694 379.7708,231.5694 396.5625,231.5694 " fill="none" id="checkout-clerk" style="stroke:#DF691A;stroke-width:3.125;"/><rect height="81.5999" rx="5.2083" ry="5.2083" style="stroke:#717D89;stroke-width:1.0416666666666667;fill:none;" width="246.875" x="125.5208" y="389.9028"/><text fill="#ABB6C2" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="112.5" x="136.9792" y="412.8866">This is my legend</text><text fill="#ABB6C2" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="223.9583" x="136.9792" y="428.0782">it can have a long list of stuff here</text><text fill="#ABB6C2" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="206.25" x="136.9792" y="443.2699">and it can go on and on and on</text><text fill="#ABB6C2" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="92.7083" x="136.9792" y="458.4615">that's about it</text><!--MD5=[27b3cbe41a02385681cf2e68936e4309]
 @startuml
 
 !$THEME = "superhero-outline"
@@ -178,7 +178,7 @@ skinparam sequence {
 	EndColor $PRIMARY
 	BoxBackgroundColor $BGCOLOR
 	BoxBorderColor $DARK
-	BoxFontColor $DARk
+	BoxFontColor $DARK
 	LifeLineBorderColor $SECONDARY
 	LifeLineBorderThickness 2
 	LifeLineBackgroundColor $BGCOLOR
@@ -439,6 +439,9 @@ title Usecase Diagram
 
 legend
 This is my legend
+it can have a long list of stuff here
+and it can go on and on and on
+that's about it
 endlegend
 
 'skinparam BackgroundColor transparent
@@ -559,7 +562,7 @@ skinparam sequence {
 	EndColor #DF691A
 	BoxBackgroundColor transparent
 	BoxBorderColor #4E5D6C
-	BoxFontColor $DARk
+	BoxFontColor #4E5D6C
 	LifeLineBorderColor #4E5D6C
 	LifeLineBorderThickness 2
 	LifeLineBackgroundColor transparent
@@ -789,6 +792,9 @@ title Usecase Diagram - superhero-outline theme
 
 legend
 This is my legend
+it can have a long list of stuff here
+and it can go on and on and on
+that's about it
 endlegend
 
 
