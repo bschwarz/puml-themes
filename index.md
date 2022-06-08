@@ -4,6 +4,10 @@ title: home
 published: true
 ---
 
+
+> **NOTE** Themes are now [built into plantuml](https://plantuml.com/theme), so you don't necessarily need puml-themes anymore, can use the themes directly within plantuml. The only reason why you might still use this package is if you are stuck on an old version of plantuml.
+
+
 ## Introduction
 
 <code>puml-themes</code> is a repo for some themes for the great [plantuml](https://plantuml.com) diagraming tool, which takes a markdown type text file and converts it into an image of a diagram. The reason why you might use ``plantuml`` is for several reasons:
