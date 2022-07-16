@@ -1,0 +1,1336 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="568px" preserveAspectRatio="none" style="width:490px;height:568px;background:#00000000;" version="1.1" viewBox="0 0 490 568" width="490px" zoomAndPan="magnify"><defs><linearGradient id="gri33ni1xkdg40" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#F4F4F4"/><stop offset="100%" stop-color="#F4F4F4"/></linearGradient></defs><g><rect height="58.96" rx="4" ry="4" style="stroke:#00000000;stroke-width:0.0;fill:none;" width="390" x="43.25" y="5"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="20" font-weight="bold" lengthAdjust="spacing" textLength="360" x="58.25" y="43.2">Class Diagram 2- carbon-gray theme</text><!--MD5=[f7e826e1488aa6662a4b5ddfe29b6b3b]
+class abstract--><g id="elem_abstract"><rect codeLine="8" fill="url(#gri33ni1xkdg40)" height="61.9279" id="abstract" style="stroke:#C6C6C6;stroke-width:1.0;" width="92" x="10.5" y="76.96"/><rect fill="url(#gri33ni1xkdg40)" height="45.9279" style="stroke:#C6C6C6;stroke-width:1.0;" width="92" x="10.5" y="76.96"/><ellipse cx="24.5" cy="99.9239" fill="#A9DCDF" rx="10" ry="10" style="stroke:#181818;stroke-width:1.0;"/><path d="M23.5313,99.0489 C23.7813,98.1114 24.0469,97.1114 24.2813,96.1427 L24.3438,96.1427 C24.5938,97.0958 24.8281,98.1114 25.1094,99.0489 L25.375,100.0177 L23.2656,100.0177 L23.5313,99.0489 Z M20.4531,103.6739 L22.25,103.6739 L22.875,101.3927 L25.75,101.3927 L26.375,103.6739 L28.2344,103.6739 L25.3906,94.7833 L23.2969,94.7833 L20.4531,103.6739 Z " fill="#000000"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="42" x="47.5" y="104.7199">abstract</text><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="11.5" x2="101.5" y1="122.8879" y2="122.8879"/><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="11.5" x2="101.5" y1="130.8879" y2="130.8879"/></g><!--MD5=[17df400e90568e28eeaed93acf178394]
+class abstract class--><g id="elem_abstract class"><rect codeLine="9" fill="url(#gri33ni1xkdg40)" height="61.9279" id="abstract class" style="stroke:#C6C6C6;stroke-width:1.0;" width="119" x="138" y="76.96"/><rect fill="url(#gri33ni1xkdg40)" height="45.9279" style="stroke:#C6C6C6;stroke-width:1.0;" width="119" x="138" y="76.96"/><ellipse cx="152" cy="99.9239" fill="#A9DCDF" rx="10" ry="10" style="stroke:#181818;stroke-width:1.0;"/><path d="M151.0313,99.0489 C151.2813,98.1114 151.5469,97.1114 151.7813,96.1427 L151.8438,96.1427 C152.0938,97.0958 152.3281,98.1114 152.6094,99.0489 L152.875,100.0177 L150.7656,100.0177 L151.0313,99.0489 Z M147.9531,103.6739 L149.75,103.6739 L150.375,101.3927 L153.25,101.3927 L153.875,103.6739 L155.7344,103.6739 L152.8906,94.7833 L150.7969,94.7833 L147.9531,103.6739 Z " fill="#000000"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="69" x="175" y="104.7199">abstract class</text><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="139" x2="256" y1="122.8879" y2="122.8879"/><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="139" x2="256" y1="130.8879" y2="130.8879"/></g><!--MD5=[7cb74e68c9f11cf3f5cc35e0143045f8]
+class annotation--><g id="elem_annotation"><rect codeLine="10" fill="url(#gri33ni1xkdg40)" height="61.9279" id="annotation" style="stroke:#C6C6C6;stroke-width:1.0;" width="108" x="292.5" y="76.96"/><rect fill="url(#gri33ni1xkdg40)" height="45.9279" style="stroke:#C6C6C6;stroke-width:1.0;" width="108" x="292.5" y="76.96"/><ellipse cx="306.5" cy="99.9239" fill="#E3664A" rx="10" ry="10" style="stroke:#181818;stroke-width:1.0;"/><path d="M306.2344,105.7052 C307.2031,105.7052 308.0625,105.502 308.875,105.0489 L308.4844,104.0645 C307.9063,104.377 307.1094,104.6114 306.375,104.6114 C304.2031,104.6114 302.375,103.2677 302.375,100.5958 C302.375,97.502 304.7031,95.4864 307.0469,95.4864 C309.6563,95.4864 310.7813,97.1895 310.7813,99.2052 C310.7813,100.7677 309.9219,101.752 309.0938,101.752 C308.4375,101.752 308.2344,101.3458 308.4375,100.4708 L309.0313,97.5489 L307.9375,97.5489 L307.75,98.1114 L307.7188,98.1114 C307.5,97.6427 307.1406,97.4395 306.6875,97.4395 C305.125,97.4395 303.9688,99.127 303.9688,100.7208 C303.9688,101.9708 304.6875,102.7364 305.7188,102.7364 C306.2813,102.7364 306.9688,102.3614 307.3594,101.8302 L307.3906,101.8302 C307.5156,102.502 308.1406,102.8614 308.9063,102.8614 C310.2969,102.8614 311.9063,101.6114 311.9063,99.1583 C311.9063,96.3614 310.0781,94.3927 307.1875,94.3927 C303.9375,94.3927 301.1719,96.877 301.1719,100.6427 C301.1719,104.0333 303.5313,105.7052 306.2344,105.7052 Z M306.0938,101.6114 C305.625,101.6114 305.2969,101.2989 305.2969,100.627 C305.2969,99.752 305.8594,98.5802 306.7344,98.5802 C307.0469,98.5802 307.25,98.7208 307.4375,99.0333 L307.0938,100.9552 C306.7031,101.4395 306.4063,101.6114 306.0938,101.6114 Z " fill="#000000"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="11" lengthAdjust="spacing" textLength="58" x="329.5" y="104.7199">annotation</text><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="293.5" x2="399.5" y1="122.8879" y2="122.8879"/><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="293.5" x2="399.5" y1="130.8879" y2="130.8879"/></g><!--MD5=[da456bc05ddb284180092693c9c3b3b1]
+entity circle--><g id="elem_circle"><ellipse cx="468.5" cy="107.96" fill="#C6C6C6" rx="8" ry="8" style="stroke:#C6C6C6;stroke-width:0.5;"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="30" x="453.5" y="148.8801">circle</text></g><!--MD5=[87adb442a9baea16d5e9c4faa47d2afb]
+entity circle_short_form--><g id="elem_circle_short_form"><ellipse cx="56.5" cy="267.96" fill="#C6C6C6" rx="8" ry="8" style="stroke:#C6C6C6;stroke-width:0.5;"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="101" x="6" y="308.8801">circle_short_form</text></g><!--MD5=[c4c892d05414254cdeba8adc63897f88]
+class class--><g id="elem_class"><rect codeLine="13" fill="url(#gri33ni1xkdg40)" height="61.9279" id="class" style="stroke:#C6C6C6;stroke-width:1.0;" width="75" x="160" y="236.96"/><rect fill="url(#gri33ni1xkdg40)" height="45.9279" style="stroke:#C6C6C6;stroke-width:1.0;" width="75" x="160" y="236.96"/><ellipse cx="174" cy="259.9239" fill="#ADD1B2" rx="10" ry="10" style="stroke:#181818;stroke-width:1.0;"/><path d="M173.7188,264.5958 C174.875,264.5958 175.8125,264.1427 176.5469,263.2833 L175.6094,262.1739 C175.125,262.6895 174.5469,263.0489 173.7813,263.0489 C172.375,263.0489 171.4531,261.8927 171.4531,259.9552 C171.4531,258.0489 172.4688,256.8927 173.8125,256.8927 C174.4844,256.8927 175,257.2052 175.4531,257.6427 L176.375,256.5177 C175.7969,255.9083 174.9063,255.377 173.7813,255.377 C171.5313,255.377 169.6406,257.0958 169.6406,260.0177 C169.6406,262.9864 171.4688,264.5958 173.7188,264.5958 Z " fill="#000000"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="11" lengthAdjust="spacing" textLength="25" x="197" y="264.7199">class</text><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="161" x2="234" y1="282.8879" y2="282.8879"/><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="161" x2="234" y1="290.8879" y2="290.8879"/></g><g id="elem_diamond"><polygon fill="url(#gri33ni1xkdg40)" points="282.5,255.96,294.5,267.96,282.5,279.96,270.5,267.96,282.5,255.96" style="stroke:#F4F4F4;stroke-width:0.5;"/></g><polygon fill="url(#gri33ni1xkdg40)" points="341.5,255.96,353.5,267.96,341.5,279.96,329.5,267.96,341.5,255.96" style="stroke:#F4F4F4;stroke-width:0.5;"/><!--MD5=[467568f20bbf29da492dca29e9e0779e]
+class entity--><g id="elem_entity"><rect codeLine="16" fill="url(#gri33ni1xkdg40)" height="61.9279" id="entity" style="stroke:#C6C6C6;stroke-width:1.0;" width="80" x="16.5" y="377.96"/><rect fill="url(#gri33ni1xkdg40)" height="45.9279" style="stroke:#C6C6C6;stroke-width:1.0;" width="80" x="16.5" y="377.96"/><ellipse cx="30.5" cy="400.9239" fill="#ADD1B2" rx="10" ry="10" style="stroke:#181818;stroke-width:1.0;"/><path d="M27.5938,405.4239 L33.1719,405.4239 L33.1719,403.9395 L29.375,403.9395 L29.375,401.5645 L32.4844,401.5645 L32.4844,400.0645 L29.375,400.0645 L29.375,398.0177 L33.0469,398.0177 L33.0469,396.5333 L27.5938,396.5333 L27.5938,405.4239 Z " fill="#000000"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="11" lengthAdjust="spacing" textLength="30" x="53.5" y="405.7199">entity</text><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="17.5" x2="95.5" y1="423.8879" y2="423.8879"/><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="17.5" x2="95.5" y1="431.8879" y2="431.8879"/></g><!--MD5=[b1bf79d8358773e9ea7a3730761a57e9]
+class enum--><g id="elem_enum"><rect codeLine="17" fill="url(#gri33ni1xkdg40)" height="61.9279" id="enum" style="stroke:#C6C6C6;stroke-width:1.0;" width="80" x="131.5" y="377.96"/><rect fill="url(#gri33ni1xkdg40)" height="45.9279" style="stroke:#C6C6C6;stroke-width:1.0;" width="80" x="131.5" y="377.96"/><ellipse cx="145.5" cy="400.9239" fill="#EB937F" rx="10" ry="10" style="stroke:#181818;stroke-width:1.0;"/><path d="M142.5938,405.4239 L148.1719,405.4239 L148.1719,403.9395 L144.375,403.9395 L144.375,401.5645 L147.4844,401.5645 L147.4844,400.0645 L144.375,400.0645 L144.375,398.0177 L148.0469,398.0177 L148.0469,396.5333 L142.5938,396.5333 L142.5938,405.4239 Z " fill="#000000"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="11" lengthAdjust="spacing" textLength="30" x="168.5" y="405.7199">enum</text><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="132.5" x2="210.5" y1="423.8879" y2="423.8879"/><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="132.5" x2="210.5" y1="431.8879" y2="431.8879"/></g><!--MD5=[d9847530b5dea828dbcbb50914b76f30]
+class interface--><g id="elem_interface"><rect codeLine="19" fill="url(#gri33ni1xkdg40)" height="61.9279" id="interface" style="stroke:#C6C6C6;stroke-width:1.0;" width="96" x="246.5" y="377.96"/><rect fill="url(#gri33ni1xkdg40)" height="45.9279" style="stroke:#C6C6C6;stroke-width:1.0;" width="96" x="246.5" y="377.96"/><ellipse cx="260.5" cy="400.9239" fill="#B4A7E5" rx="10" ry="10" style="stroke:#181818;stroke-width:1.0;"/><path d="M259.5938,405.4239 L261.375,405.4239 L261.375,396.5333 L259.5938,396.5333 L259.5938,405.4239 Z " fill="#000000"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="11" font-style="italic" lengthAdjust="spacing" textLength="46" x="283.5" y="405.7199">interface</text><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="247.5" x2="341.5" y1="423.8879" y2="423.8879"/><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="247.5" x2="341.5" y1="431.8879" y2="431.8879"/></g><!--MD5=[4ec6c9615f189d2f9e9ad5d8cbf333fd]
+class protocol--><g id="elem_protocol"><rect codeLine="20" fill="url(#gri33ni1xkdg40)" height="61.9279" id="protocol" style="stroke:#C6C6C6;stroke-width:1.0;" width="95" x="378" y="377.96"/><rect fill="url(#gri33ni1xkdg40)" height="45.9279" style="stroke:#C6C6C6;stroke-width:1.0;" width="95" x="378" y="377.96"/><ellipse cx="392" cy="400.9239" fill="#F1F1F1" rx="10" ry="10" style="stroke:#181818;stroke-width:1.0;"/><path d="M389.5938,405.4239 L391.375,405.4239 L391.375,402.2677 L392.5625,402.2677 C394.4688,402.2677 395.9844,401.3614 395.9844,399.3302 C395.9844,397.2208 394.4688,396.5333 392.5156,396.5333 L389.5938,396.5333 L389.5938,405.4239 Z M391.375,400.8614 L391.375,397.9552 L392.375,397.9552 C393.5938,397.9552 394.25,398.2989 394.25,399.3302 C394.25,400.3458 393.6563,400.8614 392.4375,400.8614 L391.375,400.8614 Z " fill="#000000"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="11" lengthAdjust="spacing" textLength="45" x="415" y="405.7199">protocol</text><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="379" x2="472" y1="423.8879" y2="423.8879"/><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="379" x2="472" y1="431.8879" y2="431.8879"/></g><!--MD5=[665d3b19f39a20972baf1882d2ff9505]
+class struct--><g id="elem_struct"><rect codeLine="21" fill="url(#gri33ni1xkdg40)" height="61.9279" id="struct" style="stroke:#C6C6C6;stroke-width:1.0;" width="80" x="16.5" y="499.96"/><rect fill="url(#gri33ni1xkdg40)" height="45.9279" style="stroke:#C6C6C6;stroke-width:1.0;" width="80" x="16.5" y="499.96"/><ellipse cx="30.5" cy="522.9239" fill="#F1F1F1" rx="10" ry="10" style="stroke:#181818;stroke-width:1.0;"/><path d="M30.25,527.5958 C32.2969,527.5958 33.5156,526.3614 33.5156,524.9083 C33.5156,523.627 32.7969,522.9395 31.7188,522.4864 L30.5625,522.002 C29.7969,521.7052 29.1719,521.4708 29.1719,520.8302 C29.1719,520.252 29.6719,519.8927 30.4531,519.8927 C31.1875,519.8927 31.7656,520.1583 32.3281,520.627 L33.2344,519.5177 C32.5156,518.7833 31.4844,518.377 30.4531,518.377 C28.6406,518.377 27.375,519.4864 27.375,520.9395 C27.375,522.2364 28.2813,522.9552 29.1719,523.3302 L30.3594,523.8302 C31.1563,524.1739 31.7031,524.377 31.7031,525.0333 C31.7031,525.6583 31.2031,526.0489 30.2813,526.0489 C29.5,526.0489 28.6563,525.6583 28.0313,525.0645 L27,526.2989 C27.875,527.127 29.0625,527.5958 30.25,527.5958 Z " fill="#000000"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="11" lengthAdjust="spacing" textLength="30" x="53.5" y="527.7199">struct</text><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="17.5" x2="95.5" y1="545.8879" y2="545.8879"/><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="17.5" x2="95.5" y1="553.8879" y2="553.8879"/></g><!--MD5=[a36d77d41ca3966f04e22568545be7e1]
+@startuml
+
+!$THEME = "carbon-gray"
+
+
+!if %not(%variable_exists("$BGCOLOR"))
+!$BGCOLOR = "transparent"
+!endif
+
+skinparam backgroundColor $BGCOLOR
+skinparam useBetaStyle false
+
+!$RED_80 = '#750e13'
+!$RED_70 = '#a2191f'
+!$RED_60 = '#da1e28'
+!$RED_50 = '#fa4d56'
+!$RED_40 = '#ff8389'
+!$RED_30 = '#ffb3b8'
+!$RED_20 = '#ffd7d9'
+!$RED_10 =  '#fff1f1'
+
+!$CYAN_10 = '#e5f6ff'
+!$CYAN_20 = '#bae6ff'
+!$CYAN_30 = '#82cfff'
+!$CYAN_40 = '#33b1ff'
+!$CYAN_50 = '#1192e8'
+!$CYAN_60 = '#0072c3'
+!$CYAN_70 = '#00539a'
+!$CYAN_80 = '#003a6d'
+
+
+!$PURPLE_80 ='#491d8b'
+!$PURPLE_70 = '#6929c4'
+!$PURPLE_60 = '#8a3ffc'
+!$PURPLE_50 = '#a56eff'
+!$PURPLE_40 = '#be95ff'
+!$PURPLE_30 = '#d4bbff'
+!$PURPLE_20 = '#e8daff'
+!$PURPLE_10 = '#f6f2ff'
+
+!$TEAL_10 = '#d9fbfb'
+!$TEAL_20 = '#9ef0f0'
+!$TEAL_30 = '#3ddbd9'
+!$TEAL_40 = '#08bdba'
+!$TEAL_50 = '#009d9a'
+!$TEAL_60 = '#007d79'
+!$TEAL_70 = '#005d5d'
+!$TEAL_80 = '#004144'
+
+!$GRAY_10 = '#f4f4f4'
+!$GRAY_20 = '#e0e0e0'
+!$GRAY_30 = '#c6c6c6'
+!$GRAY_40 = '#a8a8a8'
+!$GRAY_50 = '#8d8d8d'
+!$GRAY_60 = '#6f6f6f'
+!$GRAY_70 = '#525252'
+!$GRAY_80 = '#393939'
+!$GRAY_90 = '#262626'
+!$GRAY_100 = '#161616'
+!$WHITE = '#FFFFF'
+
+!$GRAY_DARK = $GRAY_100
+!$GRAY = $GRAY_30
+!$LIGHT = $GRAY_70
+!$DARK = $GRAY_90
+
+!$FGCOLOR = $DARK
+!$PRIMARY = $GRAY_10
+!$PRIMARY_LIGHT = $GRAY_10 
+!$PRIMARY_DARK = $GRAY_30
+!$PRIMARY_TEXT = $DARK
+!$SECONDARY = $GRAY_10 
+!$SECONDARY_LIGHT = $GRAY_10
+!$SECONDARY_DARK = $GRAY_30
+!$SECONDARY_TEXT = $DARK
+!$INFO = $WHITE
+!$INFO_LIGHT = $GRAY_20
+!$INFO_DARK = $GRAY_30
+!$INFO_TEXT = $DARK
+!$SUCCESS = $DARK
+!$SUCCESS_LIGHT = $DARK
+!$SUCCESS_DARK = $DARK
+!$SUCCESS_TEXT = $WHITE
+!$WARNING = $WHITE
+!$WARNING_LIGHT = $WHITE
+!$WARNING_DARK = $WHITE
+!$WARNING_TEXT = $DARK
+!$DANGER = $WHITE
+!$DANGER_LIGHT = $WHITE
+!$DANGER_DARK = $WHITE
+!$DANGER_TEXT = $DARK
+
+!$OTHER_BG = $WHITE
+!$DB_BG = $GRAY
+!$LINE_THICKNESS = 1
+!$BORDER_THICKNESS = 1
+
+!procedure $success($msg)
+  <font color=$SUCCESS><b>$msg
+!endprocedure
+
+!procedure $failure($msg)
+  <font color=$DANGER><b>$msg
+!endprocedure
+
+!procedure $warning($msg)
+  <font color=$WARNING><b>$msg
+!endprocedure
+
+!procedure $primary_scheme()
+	FontColor $PRIMARY_TEXT
+	BorderColor $PRIMARY_DARK
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	RoundCorner 0
+!endprocedure
+
+skinparam defaultFontName        IBM Plex Sans, Noto Sans, Verdana
+skinparam defaultFontSize        12
+skinparam shadowing              false
+skinparam roundcorner            0
+skinparam ParticipantPadding     30
+skinparam BoxPadding             30
+skinparam Padding                10
+skinparam ArrowColor             $GRAY
+skinparam stereotype {
+    CBackgroundColor $SECONDARY_LIGHT
+    CBorderColor $SECONDARY_DARK
+    ABackgroundColor $SUCCESS_LIGHT
+    ABorderColor $SUCCESS_DARK
+    IBackgroundColor $DANGER_LIGHT
+    IBorderColor $DANGER_DARK
+    EBackgroundColor $WARNING_LIGHT
+    EBorderColor $WARNING_DARK
+    NBackgroundColor $INFO_LIGHT
+    NBorderColor $INFO_DARK
+}
+skinparam title {
+	FontColor	                 $SECONDARY_TEXT
+	BorderColor	                 $SECONDARY
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         0
+	BackgroundColor              $BGCOLOR
+}
+
+
+skinparam legend {
+	BackgroundColor $OTHER_BG
+	BorderColor $DARK
+	FontColor $PRIMARY_TEXT
+}
+
+!startsub swimlane
+skinparam swimlane {
+	BorderColor $PRIMARY
+	BorderThickness $LINE_THICKNESS
+	TitleBackgroundColor  $PRIMARY_LIGHT-$PRIMARY
+	TitleFontColor $PRIMARY_TEXT
+	BackgroundColor $BG_COLOR
+	TitleFontStyle bold
+}
+!endsub
+
+!startsub activity
+
+skinparam activity {
+	$primary_scheme()
+	BarColor $DARK
+	StartColor $LIGHT-$DARK
+	EndColor $LIGHT-$DARK
+	DiamondBackgroundColor $SECONDARY_LIGHT-$SECONDARY
+  	DiamondBorderColor $SECONDARY
+	DiamondFontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub participant
+
+skinparam participant {
+	$primary_scheme()
+	ParticipantBorderThickness $BORDER_THICKNESS
+}
+!endsub
+
+!startsub actor
+
+skinparam actor {
+	$primary_scheme()
+}
+!endsub
+
+!startsub arrow
+
+skinparam arrow {
+	Thickness $LINE_THICKNESS
+	Color $GRAY
+	FontColor $FGCOLOR
+}
+!endsub
+
+!startsub sequence
+
+skinparam sequence {
+	BorderColor $PRIMARY_DARK
+	TitleFontColor $SECONDARY_TEXT
+	BackgroundColor $OTHER_BG
+	StartColor $PRIMARY
+	EndColor $PRIMARY
+	BoxBackgroundColor $OTHER_BG
+	BoxBorderColor $PRIMARY_DARK
+	BoxFontColor $PRIMARY_TEXT
+	DelayFontColor $PRIMARY_TEXT
+	LifeLineBorderColor $PRIMARY_DARK
+	LifeLineBorderThickness $LINE_THICKNESS
+	LifeLineBackgroundColor $PRIMARY
+	GroupBorderColor $PRIMARY_DARK
+	GroupFontColor $PRIMARY_TEXT
+	GroupFontStyle bold
+	GroupHeaderFontColor $INFO_TEXT
+	GroupBackgroundColor $PRIMARY
+	GroupBodyBackgroundColor $OTHER_BG
+	GroupHeaderBackgroundColor $PRIMARY
+	DividerBackgroundColor $PRIMARY
+    DividerBorderColor $PRIMARY_DARK
+    DividerBorderThickness $LINE_THICKNESS
+    DividerFontColor $PRIMARY_TEXT
+	ReferenceBackgroundColor $BGCOLOR
+	ReferenceHeaderBorderColor $PRIMARY_DARK
+	ReferenceHeaderBackgroundColor $PRIMARY
+	ReferenceBorderColor $PRIMARY_DARK
+	ReferenceFontColor $DARK
+	ReferenceHeaderFontColor $INFO_TEXT
+	StereotypeFontColor $PRIMARY_TEXT
+}
+!endsub
+
+!startsub partition
+
+skinparam partition {
+	BorderColor $PRIMARY
+	FontColor $PRIMARY_TEXT
+	BackgroundColor $OTHER_BG
+	fontStyle bold
+}
+!endsub
+
+!startsub collections
+
+skinparam collections {
+	$primary_scheme()
+}
+!endsub
+
+!startsub control
+
+skinparam control {
+	$primary_scheme()
+}
+!endsub
+
+!startsub entity
+
+skinparam entity {
+	$primary_scheme()
+}
+!endsub
+
+!startsub boundary
+
+skinparam boundary {
+	$primary_scheme()
+}
+!endsub
+
+!startsub agent
+
+skinparam agent {
+	BackgroundColor $PRIMARY_LIGHT
+	BorderColor $PRIMARY_DARK
+	FontColor $PRIMARY_TEXT
+	RoundCorner 0
+}
+!endsub
+
+!startsub note
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor $INFO_LIGHT-$INFO
+	BorderColor $DARK
+	FontColor $INFO_TEXT
+	RoundCorner 0
+}
+!endsub
+
+!startsub artifact
+
+skinparam artifact {
+	BackgroundColor $PRIMARY
+	BorderColor $PRIMARY_DARK
+	FontColor $DARK
+	RoundCorner 0
+}
+!endsub
+
+!startsub component
+
+skinparam component {
+	$primary_scheme()
+	BackgroundColor $PRIMARY
+	BorderColor $PRIMARY_DARK
+}
+!endsub
+
+!startsub interface
+
+skinparam interface {
+	BackgroundColor  $PRIMARY_DARK
+	BorderColor  $PRIMARY_DARK
+	FontColor $PRIMARY_TEXT
+}
+!endsub
+
+!startsub storage
+
+skinparam storage {
+	BackgroundColor $OTHER_BG
+  	BorderColor $DARK
+	FontColor $WARNING_TEXT
+}
+!endsub
+
+!startsub node
+
+skinparam node {
+	BackgroundColor $OTHER_BG
+	BorderColor $PRIMARY_DARK
+	FontColor $PRIMARY_TEXT
+	Roundcorner 0
+}
+!endsub
+
+!startsub cloud
+
+skinparam cloud {
+	BackgroundColor $OTHER_BG
+	BorderColor $PRIMARY_DARK
+	FontColor $PRIMARY_TEXT
+	Roundcorner 0
+}
+!endsub
+
+!startsub database
+
+skinparam database {
+	$primary_scheme()
+	BorderColor $PRIMARY_DARK
+	BackgroundColor  $OTHER_BG
+	Roundcorner 0
+}
+!endsub
+
+!startsub class
+
+skinparam class {
+	$primary_scheme()
+	HeaderBackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	StereotypeFontColor $PRIMARY_TEXT
+	StereotypeFontSize 9
+	BorderThickness $LINE_THICKNESS
+	AttributeFontColor $PRIMARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub object
+
+skinparam object {
+	$primary_scheme()
+	StereotypeFontColor $PRIMARY_TEXT
+	BorderThickness $BORDER_THICKNESS
+	AttributeFontColor $PRIMARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub usecase
+
+skinparam usecase {
+	$primary_scheme()
+	BorderThickness $BORDER_THICKNESS
+	StereotypeFontColor $PRIMARY_TEXT
+}
+!endsub
+
+!startsub rectangle
+
+skinparam rectangle {
+	$primary_scheme()
+	BackgroundColor $OTHER_BG
+	BorderThickness $BORDER_THICKNESS
+	StereotypeFontColor $PRIMARY_TEXT
+}
+!endsub
+
+!startsub package
+
+skinparam package {
+	$primary_scheme()
+	BackgroundColor $OTHER_BG
+	BorderThickness $BORDER_THICKNESS
+}
+!endsub
+
+!startsub folder
+
+skinparam folder {
+	BackgroundColor $OTHER_BG
+  	BorderColor $PRIMARY_DARK
+	FontColor $WARNING_TEXT
+	BorderThickness $BORDER_THICKNESS
+	Roundcorner 0
+}
+!endsub
+
+!startsub frame
+
+skinparam frame {
+	BackgroundColor $OTHER_BG
+  	BorderColor $PRIMARY_DARK
+	FontColor $DARK
+	BorderThickness $BORDER_THICKNESS
+	Roundcorner 0
+}
+!endsub
+
+!startsub state
+
+skinparam state {
+	$primary_scheme()
+	BorderColor $PRIMARY_DARK
+	StartColor $INFO
+	EndColor $INFO
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub queue
+
+skinparam queue {
+	$primary_scheme()
+	
+}
+!endsub
+
+!startsub card
+
+skinparam card {
+	BackgroundColor $OTHER_BG
+	BorderColor $PRIMARY_DARK
+	FontColor $INFO_TEXT
+	RoundCorner 0
+}
+!endsub
+
+!startsub file
+
+skinparam file {
+	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
+	BorderColor $SECONDARY_DARK
+	FontColor $SECONDARY_TEXT
+	RoundCorner 0
+
+}
+!endsub
+
+!startsub stack
+
+skinparam stack {
+	$primary_scheme()
+}
+!endsub
+
+!startsub person
+
+skinparam person {
+	$primary_scheme()
+}
+!endsub
+
+
+!if (%variable_exists("LEGACY"))
+!$LEGACY = "true"
+!endif
+
+!if (%getenv("LEGACY") == "true")
+!$LEGACY = "true"
+!endif
+
+
+skinparam useBetaStyle true
+
+!startsub mindmap
+
+<style>
+
+boardDiagram {
+	node {
+	$primary_scheme ()
+    BackGroundColor  $PRIMARY
+    LineColor $PRIMARY_DARK
+    FontName IBM Plex Sans, Noto Sans, Verdana
+    FontSize 12
+    RoundCorner 0
+    separator {
+      LineThickness $LINE_THICKNESS
+      LineColor $PRIMARY_DARK
+    }
+  }
+}
+
+ganttDiagram {
+	
+  task {
+    BackGroundColor $PRIMARY
+    LineColor $PRIMARY_DARK
+	FontStyle Bold
+	FontSize 12
+    unstarted {
+      BackGroundColor $PRIMARY_LIGHT
+      LineColor $PRIMARY_DARK
+    }
+	Padding 3
+	Margin 3
+	
+  }
+  timeline {
+	LineColor $PRIMARY
+	FontColor $WHITE
+	BackgroundColor $DARK
+    FontName Helvetica
+    FontStyle bold
+	YearFontColor $WHITE
+	QuarterFontColor $WHITE
+	MonthFontColor $WHITE
+	WeekFontColor $WHITE
+	WeekdayFontColor $WHITE
+	DayFontColor $WHITE
+  }
+  arrow {
+		FontSize 12
+		FontStyle bold
+		LineColor $PRIMARY_DARK
+	}
+
+  milestone {
+		FontColor $PRIMARY_TEXT
+		FontSize 12
+		FontStyle  bold
+		BackGroundColor $DARK
+		LineColor $DARK
+	}
+  separator {
+		BackgroundColor $PRIMARY
+		`LineStyle 8.0;3.0
+		LineColor $PRIMARY
+		LineThickness 1.0
+		FontSize 12
+		FontStyle bold
+		FontColor  $PRIMARY_TEXT
+		Margin 3
+	}
+	closed {
+		BackgroundColor $RED_20
+		FontColor $RED_20
+	}
+}
+
+jsonDiagram {
+  node {
+	$primary_scheme ()
+    BackGroundColor  $PRIMARY
+    LineColor $PRIMARY_DARK
+    FontName IBM Plex Sans, Noto Sans, Verdana
+    FontSize 12
+    RoundCorner 0
+    separator {
+      LineThickness $LINE_THICKNESS
+      LineColor $PRIMARY_DARK
+    }
+  }
+  arrow {
+    BackGroundColor $PRIMARY_DARK
+    LineColor $PRIMARY_DARK
+    LineThickness $LINE_THICKNESS
+    LineStyle 3;6
+  }
+  highlight {
+    BackGroundColor $PRIMARY_DARK
+    FontColor $PRIMARY_TEXT
+    FontStyle italic
+  }
+}
+
+
+mindmapDiagram {
+  LineThickness $LINE_THICKNESS
+  FontColor $PRIMARY_TEXT
+  LineColor $PRIMARY_DARK
+  Roundcorner 0
+  node {
+    LineColor $PRIMARY_DARK
+    LineThickness $BORDER_THICKNESS
+    BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+    RoundCorner 0
+    MaximumWidth 100
+	FontColor $DARK
+  }
+}
+
+saltDiagram {
+  BackGroundColor $BG_COLOR
+}
+
+timingDiagram {
+  document {
+    BackGroundColor $BG_COLOR
+	LineColor $PRIMARY
+	BorderColor $PRIMARY
+	FontColor $PRIMARY_TEXT
+
+  }
+  highlight {
+	 BackGroundColor $PRIMARY
+  }
+
+ constraintArrow {
+  LineThickness 2
+  LineColor $RED_80
+  FontColor $RED_80
+  FontStyle bold
+ }
+}
+
+wbsDiagram {
+  node {
+    LineColor $PRIMARY_DARK
+    LineThickness $BORDER_THICKNESS
+    BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+    RoundCorner 0
+    MaximumWidth 100
+	FontColor $PRIMARY_TEXT
+  }
+
+  arrow {
+
+    lineColor $PRIMARY_DARK
+    fontColor $PRIMARY_TEXT
+    thickness $LINE_THICKNESS
+  }
+  
+  noteBorderColor $DARK
+}
+
+wireDiagram {
+}
+
+yamlDiagram {
+  node {
+	$primary_scheme ()
+    BackGroundColor  $PRIMARY
+    LineColor $PRIMARY_DARK
+    FontName IBM Plex Sans, Noto Sans, Verdana
+    FontSize 12
+    RoundCorner 0
+    separator {
+      LineThickness $LINE_THICKNESS
+      LineColor $PRIMARY_DARK
+    }
+  }
+  arrow {
+    BackGroundColor $PRIMARY_DARK
+    LineColor $PRIMARY_DARK
+    LineThickness $LINE_THICKNESS
+    LineStyle 3;6
+  }
+  highlight {
+    BackGroundColor $PRIMARY_DARK
+    FontColor $PRIMARY_TEXT
+    FontStyle italic
+  }
+}
+</style>
+!endsub
+
+!if %variable_exists("$THEME")
+title Class Diagram 2- $THEME theme
+!else
+title Class Diagram 2
+!endif
+
+abstract        abstract
+abstract class  "abstract class"
+annotation      annotation
+circle          circle
+()              circle_short_form
+class           class
+diamond         diamond
+<>              diamond_short_form
+entity          entity
+enum            enum
+'exception       exception
+interface       interface
+protocol        protocol
+struct          struct
+@enduml
+
+@startuml
+
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam defaultFontName        IBM Plex Sans, Noto Sans, Verdana
+skinparam defaultFontSize        12
+skinparam shadowing              false
+skinparam roundcorner            0
+skinparam ParticipantPadding     30
+skinparam BoxPadding             30
+skinparam Padding                10
+skinparam ArrowColor             #c6c6c6
+skinparam stereotype {
+    CBackgroundColor #f4f4f4
+    CBorderColor #c6c6c6
+    ABackgroundColor #262626
+    ABorderColor #262626
+    IBackgroundColor #FFFFF
+    IBorderColor #FFFFF
+    EBackgroundColor #FFFFF
+    EBorderColor #FFFFF
+    NBackgroundColor #e0e0e0
+    NBorderColor #c6c6c6
+}
+skinparam title {
+	FontColor	                 #262626
+	BorderColor	                 #f4f4f4
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         0
+	BackgroundColor              transparent
+}
+
+
+skinparam legend {
+	BackgroundColor #FFFFF
+	BorderColor #262626
+	FontColor #262626
+}
+
+skinparam swimlane {
+	BorderColor #f4f4f4
+	BorderThickness 1
+	TitleBackgroundColor  #f4f4f4-#f4f4f4
+	TitleFontColor #262626
+	BackgroundColor $BG_COLOR
+	TitleFontStyle bold
+}
+
+
+skinparam activity {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+	BarColor #262626
+	StartColor #525252-#262626
+	EndColor #525252-#262626
+	DiamondBackgroundColor #f4f4f4-#f4f4f4
+  	DiamondBorderColor #f4f4f4
+	DiamondFontColor #262626
+}
+
+
+skinparam participant {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+	ParticipantBorderThickness 1
+}
+
+
+skinparam actor {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+}
+
+
+skinparam arrow {
+	Thickness 1
+	Color #c6c6c6
+	FontColor #262626
+}
+
+
+skinparam sequence {
+	BorderColor #c6c6c6
+	TitleFontColor #262626
+	BackgroundColor #FFFFF
+	StartColor #f4f4f4
+	EndColor #f4f4f4
+	BoxBackgroundColor #FFFFF
+	BoxBorderColor #c6c6c6
+	BoxFontColor #262626
+	DelayFontColor #262626
+	LifeLineBorderColor #c6c6c6
+	LifeLineBorderThickness 1
+	LifeLineBackgroundColor #f4f4f4
+	GroupBorderColor #c6c6c6
+	GroupFontColor #262626
+	GroupFontStyle bold
+	GroupHeaderFontColor #262626
+	GroupBackgroundColor #f4f4f4
+	GroupBodyBackgroundColor #FFFFF
+	GroupHeaderBackgroundColor #f4f4f4
+	DividerBackgroundColor #f4f4f4
+    DividerBorderColor #c6c6c6
+    DividerBorderThickness 1
+    DividerFontColor #262626
+	ReferenceBackgroundColor transparent
+	ReferenceHeaderBorderColor #c6c6c6
+	ReferenceHeaderBackgroundColor #f4f4f4
+	ReferenceBorderColor #c6c6c6
+	ReferenceFontColor #262626
+	ReferenceHeaderFontColor #262626
+	StereotypeFontColor #262626
+}
+
+
+skinparam partition {
+	BorderColor #f4f4f4
+	FontColor #262626
+	BackgroundColor #FFFFF
+	fontStyle bold
+}
+
+
+skinparam collections {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+}
+
+
+skinparam control {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+}
+
+
+skinparam entity {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+}
+
+
+skinparam boundary {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+}
+
+
+skinparam agent {
+	BackgroundColor #f4f4f4
+	BorderColor #c6c6c6
+	FontColor #262626
+	RoundCorner 0
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #e0e0e0-#FFFFF
+	BorderColor #262626
+	FontColor #262626
+	RoundCorner 0
+}
+
+
+skinparam artifact {
+	BackgroundColor #f4f4f4
+	BorderColor #c6c6c6
+	FontColor #262626
+	RoundCorner 0
+}
+
+
+skinparam component {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+	BackgroundColor #f4f4f4
+	BorderColor #c6c6c6
+}
+
+
+skinparam interface {
+	BackgroundColor  #c6c6c6
+	BorderColor  #c6c6c6
+	FontColor #262626
+}
+
+
+skinparam storage {
+	BackgroundColor #FFFFF
+  	BorderColor #262626
+	FontColor #262626
+}
+
+
+skinparam node {
+	BackgroundColor #FFFFF
+	BorderColor #c6c6c6
+	FontColor #262626
+	Roundcorner 0
+}
+
+
+skinparam cloud {
+	BackgroundColor #FFFFF
+	BorderColor #c6c6c6
+	FontColor #262626
+	Roundcorner 0
+}
+
+
+skinparam database {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+	BorderColor #c6c6c6
+	BackgroundColor  #FFFFF
+	Roundcorner 0
+}
+
+
+skinparam class {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+	HeaderBackgroundColor #f4f4f4-#f4f4f4
+	StereotypeFontColor #262626
+	StereotypeFontSize 9
+	BorderThickness 1
+	AttributeFontColor #262626
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+	StereotypeFontColor #262626
+	BorderThickness 1
+	AttributeFontColor #262626
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+	BorderThickness 1
+	StereotypeFontColor #262626
+}
+
+
+skinparam rectangle {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+	BackgroundColor #FFFFF
+	BorderThickness 1
+	StereotypeFontColor #262626
+}
+
+
+skinparam package {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+	BackgroundColor #FFFFF
+	BorderThickness 1
+}
+
+
+skinparam folder {
+	BackgroundColor #FFFFF
+  	BorderColor #c6c6c6
+	FontColor #262626
+	BorderThickness 1
+	Roundcorner 0
+}
+
+
+skinparam frame {
+	BackgroundColor #FFFFF
+  	BorderColor #c6c6c6
+	FontColor #262626
+	BorderThickness 1
+	Roundcorner 0
+}
+
+
+skinparam state {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+	BorderColor #c6c6c6
+	StartColor #FFFFF
+	EndColor #FFFFF
+	AttributeFontColor #262626
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+	
+}
+
+
+skinparam card {
+	BackgroundColor #FFFFF
+	BorderColor #c6c6c6
+	FontColor #262626
+	RoundCorner 0
+}
+
+
+skinparam file {
+	BackgroundColor #f4f4f4-#f4f4f4
+	BorderColor #c6c6c6
+	FontColor #262626
+	RoundCorner 0
+
+}
+
+
+skinparam stack {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+}
+
+
+skinparam person {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+}
+
+
+
+
+
+skinparam useBetaStyle true
+
+
+<style>
+
+boardDiagram {
+	node {
+	$primary_scheme ()
+    BackGroundColor  #f4f4f4
+    LineColor #c6c6c6
+    FontName IBM Plex Sans, Noto Sans, Verdana
+    FontSize 12
+    RoundCorner 0
+    separator {
+      LineThickness 1
+      LineColor #c6c6c6
+    }
+  }
+}
+
+ganttDiagram {
+	
+  task {
+    BackGroundColor #f4f4f4
+    LineColor #c6c6c6
+	FontStyle Bold
+	FontSize 12
+    unstarted {
+      BackGroundColor #f4f4f4
+      LineColor #c6c6c6
+    }
+	Padding 3
+	Margin 3
+	
+  }
+  timeline {
+	LineColor #f4f4f4
+	FontColor #FFFFF
+	BackgroundColor #262626
+    FontName Helvetica
+    FontStyle bold
+	YearFontColor #FFFFF
+	QuarterFontColor #FFFFF
+	MonthFontColor #FFFFF
+	WeekFontColor #FFFFF
+	WeekdayFontColor #FFFFF
+	DayFontColor #FFFFF
+  }
+  arrow {
+		FontSize 12
+		FontStyle bold
+		LineColor #c6c6c6
+	}
+
+  milestone {
+		FontColor #262626
+		FontSize 12
+		FontStyle  bold
+		BackGroundColor #262626
+		LineColor #262626
+	}
+  separator {
+		BackgroundColor #f4f4f4
+		`LineStyle 8.0;3.0
+		LineColor #f4f4f4
+		LineThickness 1.0
+		FontSize 12
+		FontStyle bold
+		FontColor  #262626
+		Margin 3
+	}
+	closed {
+		BackgroundColor #ffd7d9
+		FontColor #ffd7d9
+	}
+}
+
+jsonDiagram {
+  node {
+	$primary_scheme ()
+    BackGroundColor  #f4f4f4
+    LineColor #c6c6c6
+    FontName IBM Plex Sans, Noto Sans, Verdana
+    FontSize 12
+    RoundCorner 0
+    separator {
+      LineThickness 1
+      LineColor #c6c6c6
+    }
+  }
+  arrow {
+    BackGroundColor #c6c6c6
+    LineColor #c6c6c6
+    LineThickness 1
+    LineStyle 3;6
+  }
+  highlight {
+    BackGroundColor #c6c6c6
+    FontColor #262626
+    FontStyle italic
+  }
+}
+
+
+mindmapDiagram {
+  LineThickness 1
+  FontColor #262626
+  LineColor #c6c6c6
+  Roundcorner 0
+  node {
+    LineColor #c6c6c6
+    LineThickness 1
+    BackgroundColor #f4f4f4-#f4f4f4
+    RoundCorner 0
+    MaximumWidth 100
+	FontColor #262626
+  }
+}
+
+saltDiagram {
+  BackGroundColor $BG_COLOR
+}
+
+timingDiagram {
+  document {
+    BackGroundColor $BG_COLOR
+	LineColor #f4f4f4
+	BorderColor #f4f4f4
+	FontColor #262626
+
+  }
+  highlight {
+	 BackGroundColor #f4f4f4
+  }
+
+ constraintArrow {
+  LineThickness 2
+  LineColor #750e13
+  FontColor #750e13
+  FontStyle bold
+ }
+}
+
+wbsDiagram {
+  node {
+    LineColor #c6c6c6
+    LineThickness 1
+    BackgroundColor #f4f4f4-#f4f4f4
+    RoundCorner 0
+    MaximumWidth 100
+	FontColor #262626
+  }
+
+  arrow {
+
+    lineColor #c6c6c6
+    fontColor #262626
+    thickness 1
+  }
+  
+  noteBorderColor #262626
+}
+
+wireDiagram {
+}
+
+yamlDiagram {
+  node {
+	$primary_scheme ()
+    BackGroundColor  #f4f4f4
+    LineColor #c6c6c6
+    FontName IBM Plex Sans, Noto Sans, Verdana
+    FontSize 12
+    RoundCorner 0
+    separator {
+      LineThickness 1
+      LineColor #c6c6c6
+    }
+  }
+  arrow {
+    BackGroundColor #c6c6c6
+    LineColor #c6c6c6
+    LineThickness 1
+    LineStyle 3;6
+  }
+  highlight {
+    BackGroundColor #c6c6c6
+    FontColor #262626
+    FontStyle italic
+  }
+}
+</style>
+
+title Class Diagram 2- carbon-gray theme
+
+abstract        abstract
+abstract class  "abstract class"
+annotation      annotation
+circle          circle
+()              circle_short_form
+class           class
+diamond         diamond
+<>              diamond_short_form
+entity          entity
+enum            enum
+interface       interface
+protocol        protocol
+struct          struct
+@enduml
+
+PlantUML version 1.2022.6(Tue Jun 21 17:34:49 GMT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

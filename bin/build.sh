@@ -20,7 +20,7 @@ THEME=$1
 #PLANT=~/devcontent/bin/plantuml.1.2020.0.jar
 #PLANT=~/devcontent/bin/plantuml.1.2020.8.jar
 #PLANT=~/devcontent/bin/plantuml-beta.jar
-PLANT=bin/plantuml.1.2021.1.jar
+PLANT=bin/plantuml-1.2022.6.jar
 
 ##
 ## Build the examples for each type of diagram

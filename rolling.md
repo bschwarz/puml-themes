@@ -25,3 +25,47 @@ This will save the images into the theme directory.
 9. Submit a pull request for the new theme, or you can host it on your own if you want.
 
 Cheers!
+
+## Using docker to trigger image build
+
+This creates a small alpine based container with graphviz and related dependencies to run the `build.sh` or `buildall.sh` commands to generate images for your theme or for all themes
+
+First build your image
+```
+docker-compose build
+```
+
+Then Create an `.env` file in your workspace with the contents as below; set the THEME variable to the name of your theme
+
+```
+# Specify theme name to be built
+# Leave blank or set to 'all' to build all themes
+THEME=
+```
+
+Example: to build the carbon-gray theme
+
+```
+# Specify theme name to be built
+# Leave blank or set to 'all' to build all themes
+THEME=carbon-gray
+```
+
+then run
+```
+docker-compose up
+```
+
+This will generate images for your specific theme or all themes if left blank
+
+You can also do the following in lieu of creating a `.env` file
+
+```
+THEME=carbon-gray docker-compose up
+```
+
+To destroy the container
+
+```
+docker-compose down
+```
