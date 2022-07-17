@@ -1,0 +1,23 @@
+@startuml
+
+!if %variable_exists("$THEME")
+title Activity Diagram - $THEME theme
+!else
+title Activity Diagram
+!endif
+
+start
+:init;
+-> test of color;
+if (color?) is (<color:red>red) then
+  :print red;
+else 
+  :print not red;
+  note right: no color
+endif
+partition End {
+  :end;
+}
+-> this is the end;
+end
+@enduml

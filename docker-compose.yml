@@ -1,0 +1,15 @@
+version: '3.3'
+
+services:
+  puml-themes:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: puml-themes
+    working_dir: /puml-themes
+    command: ['/bin/sh', '-c', '[ -z ${THEME} ] || [ ${THEME} = "all" ] && echo "set the THEME variable to build desired theme; Building all themes" && bin/buildall.sh || bin/build.sh ${THEME}']
+    volumes:
+      - .:/puml-themes
+    stdin_open: true
+    tty: true
+    privileged: true

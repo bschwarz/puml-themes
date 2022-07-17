@@ -1,0 +1,1435 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1801px" preserveAspectRatio="none" style="width:1302px;height:1801px;background:#00000000;" version="1.1" viewBox="0 0 1302 1801" width="1302px" zoomAndPan="magnify"><defs><linearGradient id="g1gtvshfuwer8l0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#F4F4F4"/><stop offset="100%" stop-color="#F4F4F4"/></linearGradient></defs><g><rect height="58.96" rx="4" ry="4" style="stroke:#00000000;stroke-width:0.0;fill:none;" width="425" x="434.5" y="45.48"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="20" font-weight="bold" lengthAdjust="spacing" textLength="395" x="449.5" y="83.68">Sequence Diagram - carbon-gray theme</text><rect fill="#FFFFFF" height="1646.7881" style="stroke:#C6C6C6;stroke-width:0.5;" width="345" x="914" y="111.44"/><text fill="#000000" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="94" x="1039.5" y="135.3601">Internal Service</text><rect fill="#F4F4F4" height="273.2567" style="stroke:#C6C6C6;stroke-width:1.0;" width="10" x="387" y="417.6967"/><rect fill="#FFFFFF" height="635.2657" style="stroke:#C6C6C6;stroke-width:1.5;" width="1275" x="10" y="913.4579"/><rect fill="#FFFFFF" height="322.6329" style="stroke:none;stroke-width:1.0;" width="1275" x="10" y="1135.3385"/><rect fill="#FFFFFF" height="166.5045" style="stroke:#C6C6C6;stroke-width:1.5;" width="1255" x="20" y="1284.4669"/><rect fill="#FFFFFF" height="113.1284" style="stroke:#C6C6C6;stroke-width:1.5;" width="1235" x="30" y="1330.843"/><rect fill="#FFFFFF" height="90.7522" style="stroke:none;stroke-width:1.0;" width="1275" x="10" y="1457.9714"/><line style="stroke:#C6C6C6;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="67" x2="67" y1="222.5683" y2="738.3295"/><line style="stroke:#C6C6C6;stroke-width:1.0;stroke-dasharray:1.0,4.0;" x1="67" x2="67" y1="738.3295" y2="803.7057"/><line style="stroke:#C6C6C6;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="67" x2="67" y1="803.7057" y2="1657.852"/><line style="stroke:#C6C6C6;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="236" x2="236" y1="222.5683" y2="738.3295"/><line style="stroke:#C6C6C6;stroke-width:1.0;stroke-dasharray:1.0,4.0;" x1="236" x2="236" y1="738.3295" y2="803.7057"/><line style="stroke:#C6C6C6;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="236" x2="236" y1="803.7057" y2="1657.852"/><line style="stroke:#C6C6C6;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="392" x2="392" y1="222.5683" y2="738.3295"/><line style="stroke:#C6C6C6;stroke-width:1.0;stroke-dasharray:1.0,4.0;" x1="392" x2="392" y1="738.3295" y2="803.7057"/><line style="stroke:#C6C6C6;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="392" x2="392" y1="803.7057" y2="1657.852"/><line style="stroke:#C6C6C6;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="546" x2="546" y1="222.5683" y2="738.3295"/><line style="stroke:#C6C6C6;stroke-width:1.0;stroke-dasharray:1.0,4.0;" x1="546" x2="546" y1="738.3295" y2="803.7057"/><line style="stroke:#C6C6C6;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="546" x2="546" y1="803.7057" y2="1657.852"/><line style="stroke:#C6C6C6;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="715" x2="715" y1="222.5683" y2="738.3295"/><line style="stroke:#C6C6C6;stroke-width:1.0;stroke-dasharray:1.0,4.0;" x1="715" x2="715" y1="738.3295" y2="803.7057"/><line style="stroke:#C6C6C6;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="715" x2="715" y1="803.7057" y2="1657.852"/><line style="stroke:#C6C6C6;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="815" x2="815" y1="222.5683" y2="738.3295"/><line style="stroke:#C6C6C6;stroke-width:1.0;stroke-dasharray:1.0,4.0;" x1="815" x2="815" y1="738.3295" y2="803.7057"/><line style="stroke:#C6C6C6;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="815" x2="815" y1="803.7057" y2="1657.852"/><line style="stroke:#C6C6C6;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="991" x2="991" y1="222.5683" y2="738.3295"/><line style="stroke:#C6C6C6;stroke-width:1.0;stroke-dasharray:1.0,4.0;" x1="991" x2="991" y1="738.3295" y2="803.7057"/><line style="stroke:#C6C6C6;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="991" x2="991" y1="803.7057" y2="1657.852"/><line style="stroke:#C6C6C6;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="1164" x2="1164" y1="222.5683" y2="738.3295"/><line style="stroke:#C6C6C6;stroke-width:1.0;stroke-dasharray:1.0,4.0;" x1="1164" x2="1164" y1="738.3295" y2="803.7057"/><line style="stroke:#C6C6C6;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="1164" x2="1164" y1="803.7057" y2="1657.852"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="28" x="50" y="209.1123">Foo1</text><ellipse cx="67" cy="133.6922" fill="url(#g1gtvshfuwer8l0)" rx="8" ry="8" style="stroke:#C6C6C6;stroke-width:0.5;"/><path d="M67,141.6922 L67,168.6922 M54,149.6922 L80,149.6922 M67,168.6922 L54,183.6922 M67,168.6922 L80,183.6922 " fill="none" style="stroke:#C6C6C6;stroke-width:0.5;"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="28" x="50" y="1680.7721">Foo1</text><ellipse cx="67" cy="1702.7281" fill="url(#g1gtvshfuwer8l0)" rx="8" ry="8" style="stroke:#C6C6C6;stroke-width:0.5;"/><path d="M67,1710.7281 L67,1737.7281 M54,1718.7281 L80,1718.7281 M67,1737.7281 L54,1752.7281 M67,1737.7281 L80,1752.7281 " fill="none" style="stroke:#C6C6C6;stroke-width:0.5;"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="28" x="219" y="209.1123">Foo2</text><path d="M215.5,157.1922 L215.5,181.1922 M215.5,169.1922 L232.5,169.1922 " fill="none" style="stroke:#C6C6C6;stroke-width:0.5;"/><ellipse cx="244.5" cy="169.1922" fill="url(#g1gtvshfuwer8l0)" rx="12" ry="12" style="stroke:#C6C6C6;stroke-width:0.5;"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="28" x="219" y="1680.7721">Foo2</text><path d="M215.5,1698.2281 L215.5,1722.2281 M215.5,1710.2281 L232.5,1710.2281 " fill="none" style="stroke:#C6C6C6;stroke-width:0.5;"/><ellipse cx="244.5" cy="1710.2281" fill="url(#g1gtvshfuwer8l0)" rx="12" ry="12" style="stroke:#C6C6C6;stroke-width:0.5;"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="28" x="375" y="209.1123">Foo3</text><ellipse cx="392" cy="169.1922" fill="url(#g1gtvshfuwer8l0)" rx="12" ry="12" style="stroke:#C6C6C6;stroke-width:0.5;"/><polygon fill="#C6C6C6" points="388,157.1922,394,152.1922,392,157.1922,394,162.1922,388,157.1922" style="stroke:#C6C6C6;stroke-width:1.0;"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="28" x="375" y="1680.7721">Foo3</text><ellipse cx="392" cy="1710.2281" fill="url(#g1gtvshfuwer8l0)" rx="12" ry="12" style="stroke:#C6C6C6;stroke-width:0.5;"/><polygon fill="#C6C6C6" points="388,1698.2281,394,1693.2281,392,1698.2281,394,1703.2281,388,1698.2281" style="stroke:#C6C6C6;stroke-width:1.0;"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="28" x="529" y="209.1123">Foo4</text><ellipse cx="546" cy="169.1922" fill="url(#g1gtvshfuwer8l0)" rx="12" ry="12" style="stroke:#C6C6C6;stroke-width:0.5;"/><line style="stroke:#C6C6C6;stroke-width:0.5;" x1="534" x2="558" y1="183.1922" y2="183.1922"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="28" x="529" y="1680.7721">Foo4</text><ellipse cx="546" cy="1710.2281" fill="url(#g1gtvshfuwer8l0)" rx="12" ry="12" style="stroke:#C6C6C6;stroke-width:0.5;"/><line style="stroke:#C6C6C6;stroke-width:0.5;" x1="534" x2="558" y1="1724.2281" y2="1724.2281"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="28" x="698" y="209.1123">Foo5</text><path d="M697,149.1922 C697,139.1922 715,139.1922 715,139.1922 C715,139.1922 733,139.1922 733,149.1922 L733,175.1922 C733,185.1922 715,185.1922 715,185.1922 C715,185.1922 697,185.1922 697,175.1922 L697,149.1922 " fill="#FFFFFF" style="stroke:#C6C6C6;stroke-width:1.5;"/><path d="M697,149.1922 C697,159.1922 715,159.1922 715,159.1922 C715,159.1922 733,159.1922 733,149.1922 " fill="none" style="stroke:#C6C6C6;stroke-width:1.5;"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="28" x="698" y="1680.7721">Foo5</text><path d="M697,1704.2281 C697,1694.2281 715,1694.2281 715,1694.2281 C715,1694.2281 733,1694.2281 733,1704.2281 L733,1730.2281 C733,1740.2281 715,1740.2281 715,1740.2281 C715,1740.2281 697,1740.2281 697,1730.2281 L697,1704.2281 " fill="#FFFFFF" style="stroke:#C6C6C6;stroke-width:1.5;"/><path d="M697,1704.2281 C697,1714.2281 715,1714.2281 715,1714.2281 C715,1714.2281 733,1714.2281 733,1704.2281 " fill="none" style="stroke:#C6C6C6;stroke-width:1.5;"/><rect fill="url(#g1gtvshfuwer8l0)" height="51.3761" style="stroke:#C6C6C6;stroke-width:0.5;" width="62" x="786" y="166.1922"/><rect fill="url(#g1gtvshfuwer8l0)" height="51.3761" style="stroke:#C6C6C6;stroke-width:0.5;" width="62" x="782" y="170.1922"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="28" x="799" y="201.1123">Foo6</text><rect fill="url(#g1gtvshfuwer8l0)" height="51.3761" style="stroke:#C6C6C6;stroke-width:0.5;" width="62" x="786" y="1656.852"/><rect fill="url(#g1gtvshfuwer8l0)" height="51.3761" style="stroke:#C6C6C6;stroke-width:0.5;" width="62" x="782" y="1660.852"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="28" x="799" y="1691.7721">Foo6</text><rect fill="url(#g1gtvshfuwer8l0)" height="68.7522" style="stroke:#C6C6C6;stroke-width:0.5;" width="86" x="948" y="152.8161"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="52" x="965" y="183.7362">«Person»</text><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="22" x="980" y="201.1123">Bob</text><rect fill="url(#g1gtvshfuwer8l0)" height="68.7522" style="stroke:#C6C6C6;stroke-width:0.5;" width="86" x="948" y="1656.852"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="52" x="965" y="1687.7721">«Person»</text><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="22" x="980" y="1705.1482">Bob</text><rect fill="url(#g1gtvshfuwer8l0)" height="68.7522" style="stroke:#C6C6C6;stroke-width:0.5;" width="121" x="1104" y="152.8161"/><ellipse cx="1121" cy="169.8161" fill="#ADD1B2" rx="10" ry="10" style="stroke:#C6C6C6;stroke-width:1.0;"/><path d="M1120.7188,174.488 C1121.875,174.488 1122.8125,174.0348 1123.5469,173.1755 L1122.6094,172.0661 C1122.125,172.5817 1121.5469,172.9411 1120.7813,172.9411 C1119.375,172.9411 1118.4531,171.7848 1118.4531,169.8473 C1118.4531,167.9411 1119.4688,166.7848 1120.8125,166.7848 C1121.4844,166.7848 1122,167.0973 1122.4531,167.5348 L1123.375,166.4098 C1122.7969,165.8005 1121.9063,165.2692 1120.7813,165.2692 C1118.5313,165.2692 1116.6406,166.988 1116.6406,169.9098 C1116.6406,172.8786 1118.4688,174.488 1120.7188,174.488 Z " fill="#262626"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="61" x="1147" y="183.7362">«Testable»</text><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="26" x="1164.5" y="201.1123">Alice</text><rect fill="url(#g1gtvshfuwer8l0)" height="68.7522" style="stroke:#C6C6C6;stroke-width:0.5;" width="121" x="1104" y="1656.852"/><ellipse cx="1121" cy="1673.852" fill="#ADD1B2" rx="10" ry="10" style="stroke:#C6C6C6;stroke-width:1.0;"/><path d="M1120.7188,1678.5238 C1121.875,1678.5238 1122.8125,1678.0707 1123.5469,1677.2113 L1122.6094,1676.102 C1122.125,1676.6176 1121.5469,1676.977 1120.7813,1676.977 C1119.375,1676.977 1118.4531,1675.8207 1118.4531,1673.8832 C1118.4531,1671.977 1119.4688,1670.8207 1120.8125,1670.8207 C1121.4844,1670.8207 1122,1671.1332 1122.4531,1671.5707 L1123.375,1670.4457 C1122.7969,1669.8363 1121.9063,1669.3051 1120.7813,1669.3051 C1118.5313,1669.3051 1116.6406,1671.0238 1116.6406,1673.9457 C1116.6406,1676.9145 1118.4688,1678.5238 1120.7188,1678.5238 Z " fill="#262626"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="61" x="1147" y="1687.7721">«Testable»</text><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="26" x="1164.5" y="1705.1482">Alice</text><rect fill="#F4F4F4" height="273.2567" style="stroke:#C6C6C6;stroke-width:1.0;" width="10" x="387" y="417.6967"/><rect fill="#F4F4F4" height="3" style="stroke:#F4F4F4;stroke-width:1.0;" width="1295" x="0" y="264.2564"/><line style="stroke:#C6C6C6;stroke-width:0.5;" x1="0" x2="1295" y1="264.2564" y2="264.2564"/><line style="stroke:#C6C6C6;stroke-width:0.5;" x1="0" x2="1295" y1="267.2564" y2="267.2564"/><rect fill="#F4F4F4" height="45.3761" style="stroke:#C6C6C6;stroke-width:1.0;" width="115" x="590" y="242.5683"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="78" x="606" y="270.4884">Initialization</text><polygon fill="#C6C6C6" points="224,337.3206,234,341.3206,224,345.3206,228,341.3206" style="stroke:#C6C6C6;stroke-width:1.0;"/><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="67" x2="230" y1="341.3206" y2="341.3206"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="31" x="84" y="325.8645">[001]</text><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="70" x="139" y="325.8645">To boundary</text><polygon fill="#C6C6C6" points="375,413.6967,385,417.6967,375,421.6967,379,417.6967" style="stroke:#C6C6C6;stroke-width:1.0;"/><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="236" x2="381" y1="417.6967" y2="417.6967"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="31" x="253" y="402.2407">[002]</text><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="57" x="308" y="402.2407">To control</text><rect height="102.1284" style="stroke:#C6C6C6;stroke-width:1.5;fill:none;" width="229" x="516" y="425.6967"/><path d="M516,425.6967 L597,425.6967 L597,454.6967 L587,464.6967 L516,464.6967 L516,425.6967 " fill="#F4F4F4" style="stroke:#C6C6C6;stroke-width:2.0;"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="16" x="539" y="451.6168">ref</text><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="80" x="590.5" y="492.6168">This can be on</text><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="70" x="595.5" y="509.9929">several lines</text><polygon fill="#C6C6C6" points="534,572.2012,544,576.2012,534,580.2012,538,576.2012" style="stroke:#C6C6C6;stroke-width:1.0;"/><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="397" x2="540" y1="576.2012" y2="576.2012"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="31" x="414" y="560.7451">[003]</text><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="50" x="469" y="560.7451">To entity</text><polygon fill="#C6C6C6" points="703,623.5773,713,627.5773,703,631.5773,707,627.5773" style="stroke:#C6C6C6;stroke-width:1.0;"/><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="546" x2="709" y1="627.5773" y2="627.5773"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="31" x="563" y="612.1213">[004]</text><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="70" x="618" y="612.1213">To database</text><polygon fill="#C6C6C6" points="408,635.5773,398,639.5773,408,643.5773,404,639.5773" style="stroke:#C6C6C6;stroke-width:1.0;"/><line style="stroke:#C6C6C6;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="402" x2="714" y1="639.5773" y2="639.5773"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="31" x="424" y="664.4974">[005]</text><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="36" x="479" y="664.4974">return</text><polygon fill="#C6C6C6" points="247,686.9534,237,690.9534,247,694.9534,243,690.9534" style="stroke:#C6C6C6;stroke-width:1.0;"/><line style="stroke:#C6C6C6;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="241" x2="391" y1="690.9534" y2="690.9534"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="31" x="263" y="715.8735">[006]</text><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="36" x="318" y="715.8735">return</text><text fill="#000000" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="32" x="569.75" y="776.2496">Some</text><text fill="#000000" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" text-decoration="wavy underline" textLength="57" x="604.75" y="776.2496">long delay</text><text fill="#000000" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="3" x="661.75" y="776.2496"> </text><polygon fill="#C6C6C6" points="803,843.0818,813,847.0818,803,851.0818,807,847.0818" style="stroke:#C6C6C6;stroke-width:1.0;"/><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="67" x2="809" y1="847.0818" y2="847.0818"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="31" x="84" y="831.6258">[007]</text><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="77" x="139" y="831.6258">To collections</text><polygon fill="#C6C6C6" points="557,855.0818,547,859.0818,557,863.0818,553,859.0818" style="stroke:#C6C6C6;stroke-width:1.0;"/><line style="stroke:#C6C6C6;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="551" x2="814" y1="859.0818" y2="859.0818"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="31" x="573" y="884.0019">[008]</text><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="45" x="628" y="884.0019">success</text><path d="M10,913.4579 L94,913.4579 L94,942.834 L84,952.834 L10,952.834 L10,913.4579 " fill="#F4F4F4" style="stroke:#C6C6C6;stroke-width:1.5;"/><rect fill="none" height="635.2657" style="stroke:#C6C6C6;stroke-width:1.5;" width="1275" x="10" y="913.4579"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="16" x="35" y="938.378">alt</text><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="100" x="119" y="939.378">[successful case]</text><polygon fill="#C6C6C6" points="1152.5,1014.5863,1162.5,1018.5863,1152.5,1022.5863,1156.5,1018.5863" style="stroke:#C6C6C6;stroke-width:1.0;"/><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="67" x2="1158.5" y1="1018.5863" y2="1018.5863"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="31" x="84" y="1003.1302">[009]</text><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="138" x="139" y="1003.1302">Authentication Accepted</text><polygon fill="#C6C6C6" points="78,1026.5863,68,1030.5863,78,1034.5863,74,1030.5863" style="stroke:#C6C6C6;stroke-width:1.0;"/><line style="stroke:#C6C6C6;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="72" x2="1163.5" y1="1030.5863" y2="1030.5863"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="31" x="94" y="1055.5064">[010]</text><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="44" x="149" y="1055.5064">success</text><path d="M1020,1082.9624 L1020,1129.9624 L1159,1129.9624 L1159,1092.9624 L1149,1082.9624 L1020,1082.9624 " fill="#FFFFFF" style="stroke:#181818;stroke-width:1.0;"/><path d="M1149,1082.9624 L1149,1092.9624 L1159,1092.9624 L1149,1082.9624 " fill="#FFFFFF" style="stroke:#181818;stroke-width:1.0;"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="98" x="1036" y="1111.8825">this is a first note</text><line style="stroke:#C6C6C6;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="10" x2="1285" y1="1136.3385" y2="1136.3385"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="130" x="25" y="1160.2586">[some kind of failure]</text><polygon fill="#C6C6C6" points="1152.5,1214.0908,1162.5,1218.0908,1152.5,1222.0908,1156.5,1218.0908" style="stroke:#C6C6C6;stroke-width:1.0;"/><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="67" x2="1158.5" y1="1218.0908" y2="1218.0908"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="31" x="84" y="1202.6347">[011]</text><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="125" x="139" y="1202.6347">Authentication Failure</text><polygon fill="#C6C6C6" points="78,1226.0908,68,1230.0908,78,1234.0908,74,1230.0908" style="stroke:#C6C6C6;stroke-width:1.0;"/><line style="stroke:#C6C6C6;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="72" x2="1163.5" y1="1230.0908" y2="1230.0908"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="31" x="94" y="1255.0109">[012]</text><text fill="#262626" font-family="color=#FFFFF" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="72" x="149" y="1255.0109">Bad request</text><path d="M20,1284.4669 L164,1284.4669 L164,1313.843 L154,1323.843 L20,1323.843 L20,1284.4669 " fill="#F4F4F4" style="stroke:#C6C6C6;stroke-width:1.5;"/><rect fill="none" height="166.5045" style="stroke:#C6C6C6;stroke-width:1.5;" width="1255" x="20" y="1284.4669"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="79" x="45" y="1309.387">My own label</text><path d="M30,1330.843 L123,1330.843 L123,1360.2191 L113,1370.2191 L30,1370.2191 L30,1330.843 " fill="#F4F4F4" style="stroke:#C6C6C6;stroke-width:1.5;"/><rect fill="none" height="113.1284" style="stroke:#C6C6C6;stroke-width:1.5;" width="1235" x="30" y="1330.843"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="28" x="55" y="1355.7631">loop</text><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="75" x="148" y="1356.7631">[1000 times]</text><polygon fill="#C6C6C6" points="78,1392.5952,68,1396.5952,78,1400.5952,74,1396.5952" style="stroke:#C6C6C6;stroke-width:1.0;"/><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="72" x2="1163.5" y1="1396.5952" y2="1396.5952"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="31" x="94" y="1421.5153">[013]</text><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="64" x="149" y="1421.5153">DNS Attack</text><line style="stroke:#C6C6C6;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="10" x2="1285" y1="1458.9714" y2="1458.9714"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="99" x="25" y="1482.8915">[Just a Warning]</text><polygon fill="#C6C6C6" points="1152.5,1536.7236,1162.5,1540.7236,1152.5,1544.7236,1156.5,1540.7236" style="stroke:#C6C6C6;stroke-width:1.0;"/><line style="stroke:#C6C6C6;stroke-width:1.0;" x1="67" x2="1158.5" y1="1540.7236" y2="1540.7236"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="31" x="84" y="1525.2676">[014]</text><text fill="#262626" font-family="color=#FFFFF" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="81" x="139" y="1525.2676">Please repeat</text><path d="M42,1560.7236 L42,1642.7236 L260,1642.7236 L260,1570.7236 L250,1560.7236 L42,1560.7236 " fill="#FFFFFF" style="stroke:#181818;stroke-width:1.0;"/><path d="M250,1560.7236 L250,1570.7236 L260,1570.7236 L250,1560.7236 " fill="#FFFFFF" style="stroke:#181818;stroke-width:1.0;"/><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="115" x="89" y="1589.6437">this is a second note</text><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="70" x="89" y="1607.0198">that is really</text><text fill="#262626" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="12" lengthAdjust="spacing" textLength="24" x="89" y="1624.3959">long</text><rect height="34.48" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="81" x="1213" y="5"/><text fill="#888888" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="10" lengthAdjust="spacing" textLength="61" x="1223" y="26.6">Page Header</text><rect height="34.48" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="71" x="611.5" y="1759.2281"/><text fill="#888888" font-family="IBM Plex Sans, Noto Sans, Verdana" font-size="10" lengthAdjust="spacing" textLength="51" x="621.5" y="1780.8281">Page 1 of 1</text><!--MD5=[5057b4e13e4c6875ecca6c352ca4d085]
+@startuml
+
+!$THEME = "carbon-gray"
+
+
+!if %not(%variable_exists("$BGCOLOR"))
+!$BGCOLOR = "transparent"
+!endif
+
+skinparam backgroundColor $BGCOLOR
+skinparam useBetaStyle false
+
+!$RED_80 = '#750e13'
+!$RED_70 = '#a2191f'
+!$RED_60 = '#da1e28'
+!$RED_50 = '#fa4d56'
+!$RED_40 = '#ff8389'
+!$RED_30 = '#ffb3b8'
+!$RED_20 = '#ffd7d9'
+!$RED_10 =  '#fff1f1'
+
+!$CYAN_10 = '#e5f6ff'
+!$CYAN_20 = '#bae6ff'
+!$CYAN_30 = '#82cfff'
+!$CYAN_40 = '#33b1ff'
+!$CYAN_50 = '#1192e8'
+!$CYAN_60 = '#0072c3'
+!$CYAN_70 = '#00539a'
+!$CYAN_80 = '#003a6d'
+
+
+!$PURPLE_80 ='#491d8b'
+!$PURPLE_70 = '#6929c4'
+!$PURPLE_60 = '#8a3ffc'
+!$PURPLE_50 = '#a56eff'
+!$PURPLE_40 = '#be95ff'
+!$PURPLE_30 = '#d4bbff'
+!$PURPLE_20 = '#e8daff'
+!$PURPLE_10 = '#f6f2ff'
+
+!$TEAL_10 = '#d9fbfb'
+!$TEAL_20 = '#9ef0f0'
+!$TEAL_30 = '#3ddbd9'
+!$TEAL_40 = '#08bdba'
+!$TEAL_50 = '#009d9a'
+!$TEAL_60 = '#007d79'
+!$TEAL_70 = '#005d5d'
+!$TEAL_80 = '#004144'
+
+!$GRAY_10 = '#f4f4f4'
+!$GRAY_20 = '#e0e0e0'
+!$GRAY_30 = '#c6c6c6'
+!$GRAY_40 = '#a8a8a8'
+!$GRAY_50 = '#8d8d8d'
+!$GRAY_60 = '#6f6f6f'
+!$GRAY_70 = '#525252'
+!$GRAY_80 = '#393939'
+!$GRAY_90 = '#262626'
+!$GRAY_100 = '#161616'
+!$WHITE = '#FFFFF'
+
+!$GRAY_DARK = $GRAY_100
+!$GRAY = $GRAY_30
+!$LIGHT = $GRAY_70
+!$DARK = $GRAY_90
+
+!$FGCOLOR = $DARK
+!$PRIMARY = $GRAY_10
+!$PRIMARY_LIGHT = $GRAY_10 
+!$PRIMARY_DARK = $GRAY_30
+!$PRIMARY_TEXT = $DARK
+!$SECONDARY = $GRAY_10 
+!$SECONDARY_LIGHT = $GRAY_10
+!$SECONDARY_DARK = $GRAY_30
+!$SECONDARY_TEXT = $DARK
+!$INFO = $WHITE
+!$INFO_LIGHT = $GRAY_20
+!$INFO_DARK = $GRAY_30
+!$INFO_TEXT = $DARK
+!$SUCCESS = $DARK
+!$SUCCESS_LIGHT = $DARK
+!$SUCCESS_DARK = $DARK
+!$SUCCESS_TEXT = $WHITE
+!$WARNING = $WHITE
+!$WARNING_LIGHT = $WHITE
+!$WARNING_DARK = $WHITE
+!$WARNING_TEXT = $DARK
+!$DANGER = $WHITE
+!$DANGER_LIGHT = $WHITE
+!$DANGER_DARK = $WHITE
+!$DANGER_TEXT = $DARK
+
+!$OTHER_BG = $WHITE
+!$DB_BG = $GRAY
+!$LINE_THICKNESS = 1
+!$BORDER_THICKNESS = 1
+
+!procedure $success($msg)
+  <font color=$SUCCESS><b>$msg
+!endprocedure
+
+!procedure $failure($msg)
+  <font color=$DANGER><b>$msg
+!endprocedure
+
+!procedure $warning($msg)
+  <font color=$WARNING><b>$msg
+!endprocedure
+
+!procedure $primary_scheme()
+	FontColor $PRIMARY_TEXT
+	BorderColor $PRIMARY_DARK
+	BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	RoundCorner 0
+!endprocedure
+
+skinparam defaultFontName        IBM Plex Sans, Noto Sans, Verdana
+skinparam defaultFontSize        12
+skinparam shadowing              false
+skinparam roundcorner            0
+skinparam ParticipantPadding     30
+skinparam BoxPadding             30
+skinparam Padding                10
+skinparam ArrowColor             $GRAY
+skinparam stereotype {
+    CBackgroundColor $SECONDARY_LIGHT
+    CBorderColor $SECONDARY_DARK
+    ABackgroundColor $SUCCESS_LIGHT
+    ABorderColor $SUCCESS_DARK
+    IBackgroundColor $DANGER_LIGHT
+    IBorderColor $DANGER_DARK
+    EBackgroundColor $WARNING_LIGHT
+    EBorderColor $WARNING_DARK
+    NBackgroundColor $INFO_LIGHT
+    NBorderColor $INFO_DARK
+}
+skinparam title {
+	FontColor	                 $SECONDARY_TEXT
+	BorderColor	                 $SECONDARY
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         0
+	BackgroundColor              $BGCOLOR
+}
+
+
+skinparam legend {
+	BackgroundColor $OTHER_BG
+	BorderColor $DARK
+	FontColor $PRIMARY_TEXT
+}
+
+!startsub swimlane
+skinparam swimlane {
+	BorderColor $PRIMARY
+	BorderThickness $LINE_THICKNESS
+	TitleBackgroundColor  $PRIMARY_LIGHT-$PRIMARY
+	TitleFontColor $PRIMARY_TEXT
+	BackgroundColor $BG_COLOR
+	TitleFontStyle bold
+}
+!endsub
+
+!startsub activity
+
+skinparam activity {
+	$primary_scheme()
+	BarColor $DARK
+	StartColor $LIGHT-$DARK
+	EndColor $LIGHT-$DARK
+	DiamondBackgroundColor $SECONDARY_LIGHT-$SECONDARY
+  	DiamondBorderColor $SECONDARY
+	DiamondFontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub participant
+
+skinparam participant {
+	$primary_scheme()
+	ParticipantBorderThickness $BORDER_THICKNESS
+}
+!endsub
+
+!startsub actor
+
+skinparam actor {
+	$primary_scheme()
+}
+!endsub
+
+!startsub arrow
+
+skinparam arrow {
+	Thickness $LINE_THICKNESS
+	Color $GRAY
+	FontColor $FGCOLOR
+}
+!endsub
+
+!startsub sequence
+
+skinparam sequence {
+	BorderColor $PRIMARY_DARK
+	TitleFontColor $SECONDARY_TEXT
+	BackgroundColor $OTHER_BG
+	StartColor $PRIMARY
+	EndColor $PRIMARY
+	BoxBackgroundColor $OTHER_BG
+	BoxBorderColor $PRIMARY_DARK
+	BoxFontColor $PRIMARY_TEXT
+	DelayFontColor $PRIMARY_TEXT
+	LifeLineBorderColor $PRIMARY_DARK
+	LifeLineBorderThickness $LINE_THICKNESS
+	LifeLineBackgroundColor $PRIMARY
+	GroupBorderColor $PRIMARY_DARK
+	GroupFontColor $PRIMARY_TEXT
+	GroupFontStyle bold
+	GroupHeaderFontColor $INFO_TEXT
+	GroupBackgroundColor $PRIMARY
+	GroupBodyBackgroundColor $OTHER_BG
+	GroupHeaderBackgroundColor $PRIMARY
+	DividerBackgroundColor $PRIMARY
+    DividerBorderColor $PRIMARY_DARK
+    DividerBorderThickness $LINE_THICKNESS
+    DividerFontColor $PRIMARY_TEXT
+	ReferenceBackgroundColor $BGCOLOR
+	ReferenceHeaderBorderColor $PRIMARY_DARK
+	ReferenceHeaderBackgroundColor $PRIMARY
+	ReferenceBorderColor $PRIMARY_DARK
+	ReferenceFontColor $DARK
+	ReferenceHeaderFontColor $INFO_TEXT
+	StereotypeFontColor $PRIMARY_TEXT
+}
+!endsub
+
+!startsub partition
+
+skinparam partition {
+	BorderColor $PRIMARY
+	FontColor $PRIMARY_TEXT
+	BackgroundColor $OTHER_BG
+	fontStyle bold
+}
+!endsub
+
+!startsub collections
+
+skinparam collections {
+	$primary_scheme()
+}
+!endsub
+
+!startsub control
+
+skinparam control {
+	$primary_scheme()
+}
+!endsub
+
+!startsub entity
+
+skinparam entity {
+	$primary_scheme()
+}
+!endsub
+
+!startsub boundary
+
+skinparam boundary {
+	$primary_scheme()
+}
+!endsub
+
+!startsub agent
+
+skinparam agent {
+	BackgroundColor $PRIMARY_LIGHT
+	BorderColor $PRIMARY_DARK
+	FontColor $PRIMARY_TEXT
+	RoundCorner 0
+}
+!endsub
+
+!startsub note
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor $INFO_LIGHT-$INFO
+	BorderColor $DARK
+	FontColor $INFO_TEXT
+	RoundCorner 0
+}
+!endsub
+
+!startsub artifact
+
+skinparam artifact {
+	BackgroundColor $PRIMARY
+	BorderColor $PRIMARY_DARK
+	FontColor $DARK
+	RoundCorner 0
+}
+!endsub
+
+!startsub component
+
+skinparam component {
+	$primary_scheme()
+	BackgroundColor $PRIMARY
+	BorderColor $PRIMARY_DARK
+}
+!endsub
+
+!startsub interface
+
+skinparam interface {
+	BackgroundColor  $PRIMARY_DARK
+	BorderColor  $PRIMARY_DARK
+	FontColor $PRIMARY_TEXT
+}
+!endsub
+
+!startsub storage
+
+skinparam storage {
+	BackgroundColor $OTHER_BG
+  	BorderColor $DARK
+	FontColor $WARNING_TEXT
+}
+!endsub
+
+!startsub node
+
+skinparam node {
+	BackgroundColor $OTHER_BG
+	BorderColor $PRIMARY_DARK
+	FontColor $PRIMARY_TEXT
+	Roundcorner 0
+}
+!endsub
+
+!startsub cloud
+
+skinparam cloud {
+	BackgroundColor $OTHER_BG
+	BorderColor $PRIMARY_DARK
+	FontColor $PRIMARY_TEXT
+	Roundcorner 0
+}
+!endsub
+
+!startsub database
+
+skinparam database {
+	$primary_scheme()
+	BorderColor $PRIMARY_DARK
+	BackgroundColor  $OTHER_BG
+	Roundcorner 0
+}
+!endsub
+
+!startsub class
+
+skinparam class {
+	$primary_scheme()
+	HeaderBackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	StereotypeFontColor $PRIMARY_TEXT
+	StereotypeFontSize 9
+	BorderThickness $LINE_THICKNESS
+	AttributeFontColor $PRIMARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub object
+
+skinparam object {
+	$primary_scheme()
+	StereotypeFontColor $PRIMARY_TEXT
+	BorderThickness $BORDER_THICKNESS
+	AttributeFontColor $PRIMARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub usecase
+
+skinparam usecase {
+	$primary_scheme()
+	BorderThickness $BORDER_THICKNESS
+	StereotypeFontColor $PRIMARY_TEXT
+}
+!endsub
+
+!startsub rectangle
+
+skinparam rectangle {
+	$primary_scheme()
+	BackgroundColor $OTHER_BG
+	BorderThickness $BORDER_THICKNESS
+	StereotypeFontColor $PRIMARY_TEXT
+}
+!endsub
+
+!startsub package
+
+skinparam package {
+	$primary_scheme()
+	BackgroundColor $OTHER_BG
+	BorderThickness $BORDER_THICKNESS
+}
+!endsub
+
+!startsub folder
+
+skinparam folder {
+	BackgroundColor $OTHER_BG
+  	BorderColor $PRIMARY_DARK
+	FontColor $WARNING_TEXT
+	BorderThickness $BORDER_THICKNESS
+	Roundcorner 0
+}
+!endsub
+
+!startsub frame
+
+skinparam frame {
+	BackgroundColor $OTHER_BG
+  	BorderColor $PRIMARY_DARK
+	FontColor $DARK
+	BorderThickness $BORDER_THICKNESS
+	Roundcorner 0
+}
+!endsub
+
+!startsub state
+
+skinparam state {
+	$primary_scheme()
+	BorderColor $PRIMARY_DARK
+	StartColor $INFO
+	EndColor $INFO
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub queue
+
+skinparam queue {
+	$primary_scheme()
+	
+}
+!endsub
+
+!startsub card
+
+skinparam card {
+	BackgroundColor $OTHER_BG
+	BorderColor $PRIMARY_DARK
+	FontColor $INFO_TEXT
+	RoundCorner 0
+}
+!endsub
+
+!startsub file
+
+skinparam file {
+	BackgroundColor $SECONDARY_LIGHT-$SECONDARY
+	BorderColor $SECONDARY_DARK
+	FontColor $SECONDARY_TEXT
+	RoundCorner 0
+
+}
+!endsub
+
+!startsub stack
+
+skinparam stack {
+	$primary_scheme()
+}
+!endsub
+
+!startsub person
+
+skinparam person {
+	$primary_scheme()
+}
+!endsub
+
+
+!if (%variable_exists("LEGACY"))
+!$LEGACY = "true"
+!endif
+
+!if (%getenv("LEGACY") == "true")
+!$LEGACY = "true"
+!endif
+
+
+skinparam useBetaStyle true
+
+!startsub mindmap
+
+<style>
+
+boardDiagram {
+	node {
+	$primary_scheme ()
+    BackGroundColor  $PRIMARY
+    LineColor $PRIMARY_DARK
+    FontName IBM Plex Sans, Noto Sans, Verdana
+    FontSize 12
+    RoundCorner 0
+    separator {
+      LineThickness $LINE_THICKNESS
+      LineColor $PRIMARY_DARK
+    }
+  }
+}
+
+ganttDiagram {
+	
+  task {
+    BackGroundColor $PRIMARY
+    LineColor $PRIMARY_DARK
+	FontStyle Bold
+	FontSize 12
+    unstarted {
+      BackGroundColor $PRIMARY_LIGHT
+      LineColor $PRIMARY_DARK
+    }
+	Padding 3
+	Margin 3
+	
+  }
+  timeline {
+	LineColor $PRIMARY
+	FontColor $WHITE
+	BackgroundColor $DARK
+    FontName Helvetica
+    FontStyle bold
+	YearFontColor $WHITE
+	QuarterFontColor $WHITE
+	MonthFontColor $WHITE
+	WeekFontColor $WHITE
+	WeekdayFontColor $WHITE
+	DayFontColor $WHITE
+  }
+  arrow {
+		FontSize 12
+		FontStyle bold
+		LineColor $PRIMARY_DARK
+	}
+
+  milestone {
+		FontColor $PRIMARY_TEXT
+		FontSize 12
+		FontStyle  bold
+		BackGroundColor $DARK
+		LineColor $DARK
+	}
+  separator {
+		BackgroundColor $PRIMARY
+		`LineStyle 8.0;3.0
+		LineColor $PRIMARY
+		LineThickness 1.0
+		FontSize 12
+		FontStyle bold
+		FontColor  $PRIMARY_TEXT
+		Margin 3
+	}
+	closed {
+		BackgroundColor $RED_20
+		FontColor $RED_20
+	}
+}
+
+jsonDiagram {
+  node {
+	$primary_scheme ()
+    BackGroundColor  $PRIMARY
+    LineColor $PRIMARY_DARK
+    FontName IBM Plex Sans, Noto Sans, Verdana
+    FontSize 12
+    RoundCorner 0
+    separator {
+      LineThickness $LINE_THICKNESS
+      LineColor $PRIMARY_DARK
+    }
+  }
+  arrow {
+    BackGroundColor $PRIMARY_DARK
+    LineColor $PRIMARY_DARK
+    LineThickness $LINE_THICKNESS
+    LineStyle 3;6
+  }
+  highlight {
+    BackGroundColor $PRIMARY_DARK
+    FontColor $PRIMARY_TEXT
+    FontStyle italic
+  }
+}
+
+
+mindmapDiagram {
+  LineThickness $LINE_THICKNESS
+  FontColor $PRIMARY_TEXT
+  LineColor $PRIMARY_DARK
+  Roundcorner 0
+  node {
+    LineColor $PRIMARY_DARK
+    LineThickness $BORDER_THICKNESS
+    BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+    RoundCorner 0
+    MaximumWidth 100
+	FontColor $DARK
+  }
+}
+
+saltDiagram {
+  BackGroundColor $BG_COLOR
+}
+
+timingDiagram {
+  document {
+    BackGroundColor $BG_COLOR
+	LineColor $PRIMARY
+	BorderColor $PRIMARY
+	FontColor $PRIMARY_TEXT
+
+  }
+  highlight {
+	 BackGroundColor $PRIMARY
+  }
+
+ constraintArrow {
+  LineThickness 2
+  LineColor $RED_80
+  FontColor $RED_80
+  FontStyle bold
+ }
+}
+
+wbsDiagram {
+  node {
+    LineColor $PRIMARY_DARK
+    LineThickness $BORDER_THICKNESS
+    BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+    RoundCorner 0
+    MaximumWidth 100
+	FontColor $PRIMARY_TEXT
+  }
+
+  arrow {
+
+    lineColor $PRIMARY_DARK
+    fontColor $PRIMARY_TEXT
+    thickness $LINE_THICKNESS
+  }
+  
+  noteBorderColor $DARK
+}
+
+wireDiagram {
+}
+
+yamlDiagram {
+  node {
+	$primary_scheme ()
+    BackGroundColor  $PRIMARY
+    LineColor $PRIMARY_DARK
+    FontName IBM Plex Sans, Noto Sans, Verdana
+    FontSize 12
+    RoundCorner 0
+    separator {
+      LineThickness $LINE_THICKNESS
+      LineColor $PRIMARY_DARK
+    }
+  }
+  arrow {
+    BackGroundColor $PRIMARY_DARK
+    LineColor $PRIMARY_DARK
+    LineThickness $LINE_THICKNESS
+    LineStyle 3;6
+  }
+  highlight {
+    BackGroundColor $PRIMARY_DARK
+    FontColor $PRIMARY_TEXT
+    FontStyle italic
+  }
+}
+</style>
+!endsub
+
+!if %variable_exists("$THEME")
+title Sequence Diagram - $THEME theme
+!else
+title Sequence Diagram
+!endif
+
+'skinparam BackgroundColor transparent
+skinparam responseMessageBelowArrow true
+
+autonumber "<b>[000]"
+
+header Page Header
+footer Page %page% of %lastpage%
+
+actor Foo1
+boundary Foo2
+control Foo3
+entity Foo4
+database Foo5
+collections Foo6
+participant Bob << Person >>
+participant Alice << (C,#ADD1B2) Testable >>
+
+box "Internal Service"
+	participant Bob
+	participant Alice
+end box
+
+== Initialization ==
+Foo1 -> Foo2 : To boundary
+|||
+Foo2 -> Foo3 ++: To control
+ref over Foo4, Foo5
+  This can be on
+  several lines
+end ref
+Foo3 -> Foo4 : To entity
+
+Foo4 -> Foo5 : To database
+Foo5 - -> Foo3 - - : return
+Foo3 - -> Foo2 - -: return
+... Some ~~long delay~~ ...
+Foo1 -> Foo6 : To collections
+Foo6 - -> Foo4: $success("success")
+
+
+group alt [successful case]
+
+Foo1 -> Alice: Authentication Accepted
+Alice - -> Foo1: success
+
+note left of Alice: this is a first note
+
+else some kind of failure
+
+	Foo1 -> Alice: Authentication Failure
+    Alice - -> Foo1: $failure("Bad request")
+	group My own label
+	    loop 1000 times
+	        Alice -> Foo1: DNS Attack
+	    end
+	end
+	
+else Just a Warning
+
+   Foo1 -> Alice: $warning("Please repeat")
+   
+end
+
+note over Foo1, Foo2
+this is a second note
+that is really
+long
+end note
+
+@enduml
+
+@startuml
+
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam defaultFontName        IBM Plex Sans, Noto Sans, Verdana
+skinparam defaultFontSize        12
+skinparam shadowing              false
+skinparam roundcorner            0
+skinparam ParticipantPadding     30
+skinparam BoxPadding             30
+skinparam Padding                10
+skinparam ArrowColor             #c6c6c6
+skinparam stereotype {
+    CBackgroundColor #f4f4f4
+    CBorderColor #c6c6c6
+    ABackgroundColor #262626
+    ABorderColor #262626
+    IBackgroundColor #FFFFF
+    IBorderColor #FFFFF
+    EBackgroundColor #FFFFF
+    EBorderColor #FFFFF
+    NBackgroundColor #e0e0e0
+    NBorderColor #c6c6c6
+}
+skinparam title {
+	FontColor	                 #262626
+	BorderColor	                 #f4f4f4
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         0
+	BackgroundColor              transparent
+}
+
+
+skinparam legend {
+	BackgroundColor #FFFFF
+	BorderColor #262626
+	FontColor #262626
+}
+
+skinparam swimlane {
+	BorderColor #f4f4f4
+	BorderThickness 1
+	TitleBackgroundColor  #f4f4f4-#f4f4f4
+	TitleFontColor #262626
+	BackgroundColor $BG_COLOR
+	TitleFontStyle bold
+}
+
+
+skinparam activity {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+	BarColor #262626
+	StartColor #525252-#262626
+	EndColor #525252-#262626
+	DiamondBackgroundColor #f4f4f4-#f4f4f4
+  	DiamondBorderColor #f4f4f4
+	DiamondFontColor #262626
+}
+
+
+skinparam participant {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+	ParticipantBorderThickness 1
+}
+
+
+skinparam actor {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+}
+
+
+skinparam arrow {
+	Thickness 1
+	Color #c6c6c6
+	FontColor #262626
+}
+
+
+skinparam sequence {
+	BorderColor #c6c6c6
+	TitleFontColor #262626
+	BackgroundColor #FFFFF
+	StartColor #f4f4f4
+	EndColor #f4f4f4
+	BoxBackgroundColor #FFFFF
+	BoxBorderColor #c6c6c6
+	BoxFontColor #262626
+	DelayFontColor #262626
+	LifeLineBorderColor #c6c6c6
+	LifeLineBorderThickness 1
+	LifeLineBackgroundColor #f4f4f4
+	GroupBorderColor #c6c6c6
+	GroupFontColor #262626
+	GroupFontStyle bold
+	GroupHeaderFontColor #262626
+	GroupBackgroundColor #f4f4f4
+	GroupBodyBackgroundColor #FFFFF
+	GroupHeaderBackgroundColor #f4f4f4
+	DividerBackgroundColor #f4f4f4
+    DividerBorderColor #c6c6c6
+    DividerBorderThickness 1
+    DividerFontColor #262626
+	ReferenceBackgroundColor transparent
+	ReferenceHeaderBorderColor #c6c6c6
+	ReferenceHeaderBackgroundColor #f4f4f4
+	ReferenceBorderColor #c6c6c6
+	ReferenceFontColor #262626
+	ReferenceHeaderFontColor #262626
+	StereotypeFontColor #262626
+}
+
+
+skinparam partition {
+	BorderColor #f4f4f4
+	FontColor #262626
+	BackgroundColor #FFFFF
+	fontStyle bold
+}
+
+
+skinparam collections {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+}
+
+
+skinparam control {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+}
+
+
+skinparam entity {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+}
+
+
+skinparam boundary {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+}
+
+
+skinparam agent {
+	BackgroundColor #f4f4f4
+	BorderColor #c6c6c6
+	FontColor #262626
+	RoundCorner 0
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #e0e0e0-#FFFFF
+	BorderColor #262626
+	FontColor #262626
+	RoundCorner 0
+}
+
+
+skinparam artifact {
+	BackgroundColor #f4f4f4
+	BorderColor #c6c6c6
+	FontColor #262626
+	RoundCorner 0
+}
+
+
+skinparam component {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+	BackgroundColor #f4f4f4
+	BorderColor #c6c6c6
+}
+
+
+skinparam interface {
+	BackgroundColor  #c6c6c6
+	BorderColor  #c6c6c6
+	FontColor #262626
+}
+
+
+skinparam storage {
+	BackgroundColor #FFFFF
+  	BorderColor #262626
+	FontColor #262626
+}
+
+
+skinparam node {
+	BackgroundColor #FFFFF
+	BorderColor #c6c6c6
+	FontColor #262626
+	Roundcorner 0
+}
+
+
+skinparam cloud {
+	BackgroundColor #FFFFF
+	BorderColor #c6c6c6
+	FontColor #262626
+	Roundcorner 0
+}
+
+
+skinparam database {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+	BorderColor #c6c6c6
+	BackgroundColor  #FFFFF
+	Roundcorner 0
+}
+
+
+skinparam class {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+	HeaderBackgroundColor #f4f4f4-#f4f4f4
+	StereotypeFontColor #262626
+	StereotypeFontSize 9
+	BorderThickness 1
+	AttributeFontColor #262626
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+	StereotypeFontColor #262626
+	BorderThickness 1
+	AttributeFontColor #262626
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+	BorderThickness 1
+	StereotypeFontColor #262626
+}
+
+
+skinparam rectangle {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+	BackgroundColor #FFFFF
+	BorderThickness 1
+	StereotypeFontColor #262626
+}
+
+
+skinparam package {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+	BackgroundColor #FFFFF
+	BorderThickness 1
+}
+
+
+skinparam folder {
+	BackgroundColor #FFFFF
+  	BorderColor #c6c6c6
+	FontColor #262626
+	BorderThickness 1
+	Roundcorner 0
+}
+
+
+skinparam frame {
+	BackgroundColor #FFFFF
+  	BorderColor #c6c6c6
+	FontColor #262626
+	BorderThickness 1
+	Roundcorner 0
+}
+
+
+skinparam state {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+	BorderColor #c6c6c6
+	StartColor #FFFFF
+	EndColor #FFFFF
+	AttributeFontColor #262626
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+	
+}
+
+
+skinparam card {
+	BackgroundColor #FFFFF
+	BorderColor #c6c6c6
+	FontColor #262626
+	RoundCorner 0
+}
+
+
+skinparam file {
+	BackgroundColor #f4f4f4-#f4f4f4
+	BorderColor #c6c6c6
+	FontColor #262626
+	RoundCorner 0
+
+}
+
+
+skinparam stack {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+}
+
+
+skinparam person {
+		FontColor #262626
+	BorderColor #c6c6c6
+	BackgroundColor #f4f4f4-#f4f4f4
+	RoundCorner 0
+}
+
+
+
+
+
+skinparam useBetaStyle true
+
+
+<style>
+
+boardDiagram {
+	node {
+	$primary_scheme ()
+    BackGroundColor  #f4f4f4
+    LineColor #c6c6c6
+    FontName IBM Plex Sans, Noto Sans, Verdana
+    FontSize 12
+    RoundCorner 0
+    separator {
+      LineThickness 1
+      LineColor #c6c6c6
+    }
+  }
+}
+
+ganttDiagram {
+	
+  task {
+    BackGroundColor #f4f4f4
+    LineColor #c6c6c6
+	FontStyle Bold
+	FontSize 12
+    unstarted {
+      BackGroundColor #f4f4f4
+      LineColor #c6c6c6
+    }
+	Padding 3
+	Margin 3
+	
+  }
+  timeline {
+	LineColor #f4f4f4
+	FontColor #FFFFF
+	BackgroundColor #262626
+    FontName Helvetica
+    FontStyle bold
+	YearFontColor #FFFFF
+	QuarterFontColor #FFFFF
+	MonthFontColor #FFFFF
+	WeekFontColor #FFFFF
+	WeekdayFontColor #FFFFF
+	DayFontColor #FFFFF
+  }
+  arrow {
+		FontSize 12
+		FontStyle bold
+		LineColor #c6c6c6
+	}
+
+  milestone {
+		FontColor #262626
+		FontSize 12
+		FontStyle  bold
+		BackGroundColor #262626
+		LineColor #262626
+	}
+  separator {
+		BackgroundColor #f4f4f4
+		`LineStyle 8.0;3.0
+		LineColor #f4f4f4
+		LineThickness 1.0
+		FontSize 12
+		FontStyle bold
+		FontColor  #262626
+		Margin 3
+	}
+	closed {
+		BackgroundColor #ffd7d9
+		FontColor #ffd7d9
+	}
+}
+
+jsonDiagram {
+  node {
+	$primary_scheme ()
+    BackGroundColor  #f4f4f4
+    LineColor #c6c6c6
+    FontName IBM Plex Sans, Noto Sans, Verdana
+    FontSize 12
+    RoundCorner 0
+    separator {
+      LineThickness 1
+      LineColor #c6c6c6
+    }
+  }
+  arrow {
+    BackGroundColor #c6c6c6
+    LineColor #c6c6c6
+    LineThickness 1
+    LineStyle 3;6
+  }
+  highlight {
+    BackGroundColor #c6c6c6
+    FontColor #262626
+    FontStyle italic
+  }
+}
+
+
+mindmapDiagram {
+  LineThickness 1
+  FontColor #262626
+  LineColor #c6c6c6
+  Roundcorner 0
+  node {
+    LineColor #c6c6c6
+    LineThickness 1
+    BackgroundColor #f4f4f4-#f4f4f4
+    RoundCorner 0
+    MaximumWidth 100
+	FontColor #262626
+  }
+}
+
+saltDiagram {
+  BackGroundColor $BG_COLOR
+}
+
+timingDiagram {
+  document {
+    BackGroundColor $BG_COLOR
+	LineColor #f4f4f4
+	BorderColor #f4f4f4
+	FontColor #262626
+
+  }
+  highlight {
+	 BackGroundColor #f4f4f4
+  }
+
+ constraintArrow {
+  LineThickness 2
+  LineColor #750e13
+  FontColor #750e13
+  FontStyle bold
+ }
+}
+
+wbsDiagram {
+  node {
+    LineColor #c6c6c6
+    LineThickness 1
+    BackgroundColor #f4f4f4-#f4f4f4
+    RoundCorner 0
+    MaximumWidth 100
+	FontColor #262626
+  }
+
+  arrow {
+
+    lineColor #c6c6c6
+    fontColor #262626
+    thickness 1
+  }
+  
+  noteBorderColor #262626
+}
+
+wireDiagram {
+}
+
+yamlDiagram {
+  node {
+	$primary_scheme ()
+    BackGroundColor  #f4f4f4
+    LineColor #c6c6c6
+    FontName IBM Plex Sans, Noto Sans, Verdana
+    FontSize 12
+    RoundCorner 0
+    separator {
+      LineThickness 1
+      LineColor #c6c6c6
+    }
+  }
+  arrow {
+    BackGroundColor #c6c6c6
+    LineColor #c6c6c6
+    LineThickness 1
+    LineStyle 3;6
+  }
+  highlight {
+    BackGroundColor #c6c6c6
+    FontColor #262626
+    FontStyle italic
+  }
+}
+</style>
+
+title Sequence Diagram - carbon-gray theme
+
+skinparam responseMessageBelowArrow true
+
+autonumber "<b>[000]"
+
+header Page Header
+footer Page %page% of %lastpage%
+
+actor Foo1
+boundary Foo2
+control Foo3
+entity Foo4
+database Foo5
+collections Foo6
+participant Bob << Person >>
+participant Alice << (C,#ADD1B2) Testable >>
+
+box "Internal Service"
+	participant Bob
+	participant Alice
+end box
+
+== Initialization ==
+Foo1 -> Foo2 : To boundary
+|||
+Foo2 -> Foo3 ++: To control
+ref over Foo4, Foo5
+  This can be on
+  several lines
+end ref
+Foo3 -> Foo4 : To entity
+
+Foo4 -> Foo5 : To database
+Foo5 - -> Foo3 - - : return
+Foo3 - -> Foo2 - -: return
+... Some ~~long delay~~ ...
+Foo1 -> Foo6 : To collections
+Foo6 - -> Foo4:   <font color=#262626><b>success
+
+
+group alt [successful case]
+
+Foo1 -> Alice: Authentication Accepted
+Alice - -> Foo1: success
+
+note left of Alice: this is a first note
+
+else some kind of failure
+
+	Foo1 -> Alice: Authentication Failure
+    Alice - -> Foo1:   <font color=#FFFFF><b>Bad request
+	group My own label
+	    loop 1000 times
+	        Alice -> Foo1: DNS Attack
+	    end
+	end
+	
+else Just a Warning
+
+   Foo1 -> Alice:   <font color=#FFFFF><b>Please repeat
+   
+end
+
+note over Foo1, Foo2
+this is a second note
+that is really
+long
+end note
+
+@enduml
+
+PlantUML version 1.2022.6(Tue Jun 21 17:34:49 GMT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
