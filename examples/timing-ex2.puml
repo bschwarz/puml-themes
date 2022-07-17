@@ -1,0 +1,35 @@
+@startuml
+
+
+!if %variable_exists("$THEME")
+title Timing Diagram 2 - $THEME theme
+!else
+title Timing Diagram 2
+!endif
+
+concise "CDAS_FETCH_EVENT" as CDAS_FETCH_EVENT
+concise "jb_2" as jb_2
+concise "LOAD_PERSISTENT_SESSIONS" as LOAD_PERSISTENT_SESSIONS
+scale 30 as 100 pixels
+title connector.log
+0 is {hidden}
+
+@CDAS_FETCH_EVENT
+0 is 80 : db
++80 is {-}
+120 is 95 : db
++95 is {-}
+
+@jb_2
+9 is 156 : db
++156 is {-}
+@59 <-> @+96 : 96 (db_rbs)
+
+@LOAD_PERSISTENT_SESSIONS
+141 is "(n/a)" : db
+
+highlight 0 to 9 : min
+highlight 141 to 165 : 3 connects\n(max)
+highlight 80  to 120 : 1 connect (min)
+highlight 215 to 250 
+@enduml

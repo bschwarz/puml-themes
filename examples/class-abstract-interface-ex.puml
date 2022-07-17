@@ -1,0 +1,39 @@
+@startuml
+
+!if %variable_exists("$THEME")
+title Class Diagram With Abstract Interface- $THEME theme
+!else
+title Class Diagram With Abstract Interface
+!endif
+
+abstract class AbstractList
+abstract AbstractCollection
+interface List
+interface Collection
+
+List <|-- AbstractList : AList to List
+Collection <|-- AbstractCollection : AColl to Coll
+
+Collection <|- List : List to Coll
+AbstractCollection <|- AbstractList : AList to AColl
+AbstractList <|-- ArrayList : ArList to AList
+
+class ArrayList {
+  Object[] elementData
+  size()
+}
+
+enum TimeUnit {
+  DAYS
+  HOURS
+  MINUTES
+}
+
+annotation SuppressWarnings
+
+annotation Annotation {
+  annotation with members
+  String foo()
+  String bar()
+}
+@enduml

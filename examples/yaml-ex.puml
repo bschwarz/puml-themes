@@ -1,0 +1,14 @@
+@startyaml
+
+!if %variable_exists("$THEME")
+title YAML Diagram - $THEME theme
+!else
+title YAML Diagram
+!endif
+
+fruit: Apple
+size: Large
+color:
+ - Red
+ - Green
+@endyaml

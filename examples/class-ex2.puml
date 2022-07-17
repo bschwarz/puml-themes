@@ -1,0 +1,23 @@
+@startuml
+
+!if %variable_exists("$THEME")
+title Class Diagram 2- $THEME theme
+!else
+title Class Diagram 2
+!endif
+
+abstract        abstract
+abstract class  "abstract class"
+annotation      annotation
+circle          circle
+()              circle_short_form
+class           class
+diamond         diamond
+<>              diamond_short_form
+entity          entity
+enum            enum
+'exception       exception
+interface       interface
+protocol        protocol
+struct          struct
+@enduml

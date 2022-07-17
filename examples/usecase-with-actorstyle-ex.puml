@@ -1,0 +1,14 @@
+@startuml
+
+!if %variable_exists("$THEME")
+title Usecase Diagram With Actor Style- $THEME theme
+!else
+title Usecase Diagram With Actor Style
+!endif
+
+skinparam actorStyle awesome
+:User: --> (Use)
+"Main Admin" as Admin
+"Use the application" as (Use)
+Admin --> (Admin the application)
+@enduml

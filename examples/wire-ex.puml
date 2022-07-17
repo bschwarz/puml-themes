@@ -1,0 +1,22 @@
+@startwire
+
+'!if %variable_exists("$THEME")
+'title Wire Diagram - $THEME theme
+'!else
+'title Wire Diagram
+'!endif
+
+* BOX_1 [100x200]
+--
+move(100,0)
+* BOX_2 [50x175]
+
+BOX_1 ->  BOX_2 : abcd
+BOX_1 <-> BOX_2 : abcd
+BOX_1 <-  BOX_2 : abcd
+BOX_1 -   BOX_2 : abcd
+BOX_1 =>  BOX_2 : abcd
+BOX_1 <=> BOX_2 #red : abcd
+BOX_1 <=  BOX_2 : abcd
+BOX_1 =   BOX_2 : abcd
+@endwire

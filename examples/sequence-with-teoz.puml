@@ -1,0 +1,16 @@
+@startuml
+
+!if %variable_exists("$THEME")
+title Sequence Diagram With TEOZ - $THEME theme
+!else
+title Sequence Diagram With TEOZ
+!endif
+
+!pragma teoz true
+Alice -> Bob : hello
+& Bob -> Charlie : hi
+group A teoz group
+Alice -> Bob : hello
+& Bob -> Charlie : ha
+end
+@enduml

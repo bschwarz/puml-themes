@@ -1,0 +1,27 @@
+@startuml
+
+!if %variable_exists("$THEME")
+title Gantt Diagram With Calendar - $THEME theme
+!else
+title Gantt Diagram With Calendar
+!endif
+
+Project starts the 2020-12-14
+sunday are closed
+[Task1] lasts 10 days
+note bottom
+  memo1 ...
+  memo2 ...
+  explanations1 ...
+  explanations2 ...
+end note
+[Task2] lasts 4 days
+[Task1] -> [Task2]
+[Test  000] lasts 7 days and starts at [Task2]'s end and is 0% complete
+[Test  025] lasts 7 days and starts at [Task2]'s end and is 25% complete
+[Test  060] lasts 7 days and starts at [Task2]'s end and is 60% complete
+[Test  100] lasts 7 days and starts at [Task2]'s end and is 100% complete
+-- Separator title --
+[M1] happens on 5 days after [Task1]'s end
+-- end --
+@enduml

@@ -1,5 +1,11 @@
 @startuml
 
+!if %variable_exists("$THEME")
+title Swinlane Diagram - $THEME theme
+!else
+title Swinlane Diagram 
+!endif
+
 |Actor_For_red|
 start
 if (color?) is (red) then

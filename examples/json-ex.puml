@@ -1,0 +1,14 @@
+@startjson
+
+!if %variable_exists("$THEME")
+title JSON Diagram - $THEME theme
+!else
+title JSON Diagram 
+!endif
+
+{
+   "fruit":"Apple",
+   "size": "Large",
+   "color": ["Red", "Green"]
+}
+@endjson

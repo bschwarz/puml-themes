@@ -1,0 +1,15 @@
+@startyaml
+
+!if %variable_exists("$THEME")
+title YAML With Highlight - $THEME theme
+!else
+title YAML With Highlight
+!endif
+
+#highlight "color" / "0"
+fruit: Apple
+size: Large
+color:
+ - Red
+ - Green
+@endyaml
