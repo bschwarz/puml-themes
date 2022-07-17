@@ -1,0 +1,19 @@
+@startsalt
+
+!if %variable_exists("$THEME")
+title Salt Diagram - $THEME theme
+!else
+title Salt Diagram 
+!endif
+
+{+
+  Just plain text
+  [This is my button]
+  ()  Unchecked radio
+  (X) Checked radio
+  []  Unchecked box
+  [X] Checked box
+  "Enter text here   "
+  ^This is a droplist^
+}
+@endsalt

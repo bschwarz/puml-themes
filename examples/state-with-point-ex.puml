@@ -1,0 +1,22 @@
+@startuml
+
+!if %variable_exists("$THEME")
+title State Diagram With Point  - $THEME theme
+!else
+title State Diagram With Point
+!endif
+
+state Somp {
+  state entry1 <<entryPoint>>
+  state entry2 <<entryPoint>>
+  state sin
+  entry1 --> sin
+  entry2 -> sin
+  sin -> sin2
+  sin2 --> exitA <<exitPoint>>
+}
+
+[*] --> entry1
+exitA --> Foo
+Foo1 -> entry2
+@enduml

@@ -1,0 +1,17 @@
+@startwbs
+!if %variable_exists("$THEME")
+title Work Breakdown Diagram 2 - $THEME theme
+!else
+title Work Breakdown Diagram 2
+!endif
+
+* World
+** America 
+***_ Canada 
+***_ Mexico
+***_ USA
+** Europe
+***_  England
+***_  Germany
+***_  Spain
+@endwbs
