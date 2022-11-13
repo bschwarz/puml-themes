@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="530.2083px" preserveAspectRatio="none" style="width:518px;height:530px;" version="1.1" viewBox="0 0 518 530" width="518.75px" zoomAndPan="magnify"><defs><linearGradient id="gst7v9k3t72zt0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#FFFFFF"/><stop offset="100%" stop-color="#EEEEEE"/></linearGradient><linearGradient id="gst7v9k3t72zt1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#1388F5"/><stop offset="100%" stop-color="#0972D3"/></linearGradient></defs><g><rect fill="url(#gst7v9k3t72zt0)" height="49.2083" id="_title" rx="4.1667" ry="4.1667" style="stroke:#EEEEEE;stroke-width:1.0416666666666667;" width="500" x="5.2083" y="5.2083"/><text fill="#0972D3" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacing" textLength="479.1667" x="15.625" y="37.8958">Usecase Diagram 2 - cloudscape-design theme</text><!--MD5=[fb1b454ac1984f657a61539df0e47555]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="530.2083px" preserveAspectRatio="none" style="width:518px;height:530px;" version="1.1" viewBox="0 0 518 530" width="518.75px" zoomAndPan="magnify"><defs><linearGradient id="g1n7l8jobmr3n00" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#FFFFFF"/><stop offset="100%" stop-color="#EEEEEE"/></linearGradient><linearGradient id="g1n7l8jobmr3n01" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#1388F5"/><stop offset="100%" stop-color="#0972D3"/></linearGradient></defs><g><rect fill="url(#g1n7l8jobmr3n00)" height="49.2083" id="_title" rx="4.1667" ry="4.1667" style="stroke:#EEEEEE;stroke-width:1.0416666666666667;" width="500" x="5.2083" y="5.2083"/><text fill="#0972D3" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacing" textLength="479.1667" x="15.625" y="37.8958">Usecase Diagram 2 - cloudscape-design theme</text><!--MD5=[fb1b454ac1984f657a61539df0e47555]
 cluster Professional--><g id="cluster_Professional"><path d="M112.5,240.875 L197.9167,240.875 A6.25,6.25 0 0 1 202.0833,245.0416 L209.375,274.5668 L209.375,274.5668 A4.1667,4.1667 0 0 1 213.5417,278.7334 L213.5417,519 A4.1667,4.1667 0 0 1 209.375,523.1666 L112.5,523.1666 A4.1667,4.1667 0 0 1 108.3333,519 L108.3333,245.0416 A4.1667,4.1667 0 0 1 112.5,240.875 " fill="none" style="stroke:#000716;stroke-width:2.0833333333333335;"/><line style="stroke:#000716;stroke-width:2.0833333333333335;" x1="108.3333" x2="209.375" y1="274.5668" y2="274.5668"/><text fill="#000716" font-family="&quot;Verdana&quot;" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="77.0833" x="117.7083" y="261.5292">Professional</text></g><!--MD5=[bc938698130bec3721522f38f16e3aed]
 cluster Restaurant--><g id="cluster_Restaurant"><rect fill="none" height="353.125" rx="4.1667" ry="4.1667" style="stroke:#000716;stroke-width:2.0833333333333335;" width="173.9583" x="242.7083" y="67.9583"/><text fill="#000716" font-family="&quot;Verdana&quot;" font-size="12.5" font-weight="bold" lengthAdjust="spacing" textLength="68.75" x="295.3125" y="88.6126">Restaurant</text></g><!--MD5=[8e9b2d9d80e066cced8e5d90e9bdea61]
-entity c--><g id="elem_c"><ellipse cx="160.9375" cy="297.6458" fill="url(#gst7v9k3t72zt1)" rx="8.3333" ry="8.3333" style="stroke:#0972D3;stroke-width:1.0416666666666667;"/><path d="M160.9375,305.9791 L160.9375,334.1041 M147.3958,314.3125 L174.4792,314.3125 M160.9375,334.1041 L147.3958,349.7291 M160.9375,334.1041 L174.4792,349.7291 " fill="none" style="stroke:#0972D3;stroke-width:1.0416666666666667;"/><text fill="#000716" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="27.0833" x="147.3958" y="370.3834">Chef</text></g><!--MD5=[db756db308cf6ff8cfeeb51570136b75]
-entity fc--><g id="elem_fc"><ellipse cx="160.9375" cy="424.7291" fill="url(#gst7v9k3t72zt1)" rx="8.3333" ry="8.3333" style="stroke:#0972D3;stroke-width:1.0416666666666667;"/><path d="M160.9375,433.0625 L160.9375,461.1875 M147.3958,441.3958 L174.4792,441.3958 M160.9375,461.1875 L147.3958,476.8125 M160.9375,461.1875 L174.4792,476.8125 " fill="none" style="stroke:#0972D3;stroke-width:1.0416666666666667;"/><text fill="#000716" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="61.4583" x="130.2083" y="497.4667">Food Critic</text></g><g id="elem_UC1"><ellipse cx="329.6849" cy="137.8834" fill="url(#gst7v9k3t72zt1)" rx="54.6849" ry="22.5293" style="stroke:#0972D3;stroke-width:2.0833333333333335;"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="50" x="304.6849" y="140.6501">Eat Food</text></g><g id="elem_UC2"><ellipse cx="329.5278" cy="219.1334" fill="url(#gst7v9k3t72zt1)" rx="70.1528" ry="22.5293" style="stroke:#0972D3;stroke-width:2.0833333333333335;"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="71.875" x="293.5903" y="221.9001">Pay for Food</text></g><g id="elem_UC3"><ellipse cx="329.4475" cy="300.3834" fill="url(#gst7v9k3t72zt1)" rx="41.4266" ry="22.5293" style="stroke:#0972D3;stroke-width:2.0833333333333335;"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="31.25" x="313.8225" y="303.1501">Drink</text></g><g id="elem_UC4"><ellipse cx="329.8266" cy="381.6334" fill="url(#gst7v9k3t72zt1)" rx="48.0557" ry="22.5293" style="stroke:#0972D3;stroke-width:2.0833333333333335;"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="40.625" x="309.5141" y="384.4001">Review</text></g><!--MD5=[338e9af232e5abde8a6bc8ae9f528414]
-entity g--><g id="elem_g"><ellipse cx="160.9375" cy="142.4375" fill="url(#gst7v9k3t72zt1)" rx="8.3333" ry="8.3333" style="stroke:#0972D3;stroke-width:1.0416666666666667;"/><path d="M160.9375,150.7708 L160.9375,178.8958 M147.3958,159.1041 L174.4792,159.1041 M160.9375,178.8958 L147.3958,194.5208 M160.9375,178.8958 L174.4792,194.5208 " fill="none" style="stroke:#0972D3;stroke-width:1.0416666666666667;"/><text fill="#000716" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="34.375" x="143.75" y="215.1751">Guest</text></g><!--MD5=[671315809142cbf8f95afb4988884e94]
+entity c--><g id="elem_c"><ellipse cx="160.9375" cy="297.6458" fill="url(#g1n7l8jobmr3n01)" rx="8.3333" ry="8.3333" style="stroke:#0972D3;stroke-width:1.0416666666666667;"/><path d="M160.9375,305.9791 L160.9375,334.1041 M147.3958,314.3125 L174.4792,314.3125 M160.9375,334.1041 L147.3958,349.7291 M160.9375,334.1041 L174.4792,349.7291 " fill="none" style="stroke:#0972D3;stroke-width:1.0416666666666667;"/><text fill="#000716" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="27.0833" x="147.3958" y="370.3834">Chef</text></g><!--MD5=[db756db308cf6ff8cfeeb51570136b75]
+entity fc--><g id="elem_fc"><ellipse cx="160.9375" cy="424.7291" fill="url(#g1n7l8jobmr3n01)" rx="8.3333" ry="8.3333" style="stroke:#0972D3;stroke-width:1.0416666666666667;"/><path d="M160.9375,433.0625 L160.9375,461.1875 M147.3958,441.3958 L174.4792,441.3958 M160.9375,461.1875 L147.3958,476.8125 M160.9375,461.1875 L174.4792,476.8125 " fill="none" style="stroke:#0972D3;stroke-width:1.0416666666666667;"/><text fill="#000716" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="61.4583" x="130.2083" y="497.4667">Food Critic</text></g><g id="elem_UC1"><ellipse cx="329.6849" cy="137.8834" fill="url(#g1n7l8jobmr3n01)" rx="54.6849" ry="22.5293" style="stroke:#0972D3;stroke-width:2.0833333333333335;"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="50" x="304.6849" y="140.6501">Eat Food</text></g><g id="elem_UC2"><ellipse cx="329.5278" cy="219.1334" fill="url(#g1n7l8jobmr3n01)" rx="70.1528" ry="22.5293" style="stroke:#0972D3;stroke-width:2.0833333333333335;"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="71.875" x="293.5903" y="221.9001">Pay for Food</text></g><g id="elem_UC3"><ellipse cx="329.4475" cy="300.3834" fill="url(#g1n7l8jobmr3n01)" rx="41.4266" ry="22.5293" style="stroke:#0972D3;stroke-width:2.0833333333333335;"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="31.25" x="313.8225" y="303.1501">Drink</text></g><g id="elem_UC4"><ellipse cx="329.8266" cy="381.6334" fill="url(#g1n7l8jobmr3n01)" rx="48.0557" ry="22.5293" style="stroke:#0972D3;stroke-width:2.0833333333333335;"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="40.625" x="309.5141" y="384.4001">Review</text></g><!--MD5=[338e9af232e5abde8a6bc8ae9f528414]
+entity g--><g id="elem_g"><ellipse cx="160.9375" cy="142.4375" fill="url(#g1n7l8jobmr3n01)" rx="8.3333" ry="8.3333" style="stroke:#0972D3;stroke-width:1.0416666666666667;"/><path d="M160.9375,150.7708 L160.9375,178.8958 M147.3958,159.1041 L174.4792,159.1041 M160.9375,178.8958 L147.3958,194.5208 M160.9375,178.8958 L174.4792,194.5208 " fill="none" style="stroke:#0972D3;stroke-width:1.0416666666666667;"/><text fill="#000716" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="34.375" x="143.75" y="215.1751">Guest</text></g><!--MD5=[671315809142cbf8f95afb4988884e94]
 link fc to UC4--><g id="link_fc_UC4"><path d="M196.9167,444.0729 C224.3438,431.0416 262.4896,412.9271 290.6667,399.5416 " fill="none" id="fc-to-UC4" style="stroke:#A4AAB0;stroke-width:2.0833333333333335;"/><polygon fill="#A4AAB0" points="295.4583,397.2604,285.2023,397.5165,290.7532,399.4938,288.7758,405.0447,295.4583,397.2604" style="stroke:#A4AAB0;stroke-width:2.0833333333333335;"/></g><!--MD5=[e6283e10ea57013afd663a209f443892]
 link g to UC1--><g id="link_g_UC1"><path d="M183.4271,173.1458 C206.9479,167.4166 245.5313,158.0104 277.0208,150.3333 " fill="none" id="g-to-UC1" style="stroke:#A4AAB0;stroke-width:2.0833333333333335;"/><polygon fill="#A4AAB0" points="282.4167,149.0208,272.321,147.1963,277.3569,150.256,274.2973,155.2919,282.4167,149.0208" style="stroke:#A4AAB0;stroke-width:2.0833333333333335;"/></g><!--MD5=[de7f95d11870be32e701ecd3c2a76950]
 link g to UC2--><g id="link_g_UC2"><path d="M183.4271,183.6041 C204.7813,188.8125 238.5729,197.0416 268.1771,204.2604 " fill="none" id="g-to-UC2" style="stroke:#A4AAB0;stroke-width:2.0833333333333335;"/><polygon fill="#A4AAB0" points="273.2708,205.5,265.1514,199.2289,268.2111,204.2648,263.1751,207.3245,273.2708,205.5" style="stroke:#A4AAB0;stroke-width:2.0833333333333335;"/></g><!--MD5=[ea36581ba262fe67fca98703761d6744]
-link g to UC3--><g id="link_g_UC3"><path d="M183.4688,208.3854 C196.6667,225.1666 214.7604,245.4791 234.375,259.625 C250.4896,271.25 270.4375,280.4479 287.8333,287.1354 " fill="none" id="g-to-UC3" style="stroke:#A4AAB0;stroke-width:2.0833333333333335;"/><polygon fill="#A4AAB0" points="293.1458,289.1354,285.8308,281.9422,288.2691,287.3066,282.9047,289.745,293.1458,289.1354" style="stroke:#A4AAB0;stroke-width:2.0833333333333335;"/></g><!--MD5=[d2b53c060928b723361941b1b44cbf0e]
+link g to UC3--><g id="link_g_UC3"><path d="M183.4688,208.3854 C196.6667,225.1666 214.7604,245.4791 234.375,259.625 C250.4896,271.25 270.4375,280.4479 287.8333,287.1354 " fill="none" id="g-to-UC3" style="stroke:#A4AAB0;stroke-width:2.0833333333333335;"/><polygon fill="#A4AAB0" points="293.1458,289.1354,285.8308,281.9422,288.2691,287.3066,282.9047,289.745,293.1458,289.1354" style="stroke:#A4AAB0;stroke-width:2.0833333333333335;"/></g><!--MD5=[6561f8a7a35b7ebc3baf7b88b625ffaa]
 @startuml
 !$PUML_THEME = "cloudscape-design"
 !$THEME      = "cloudscape-design"
@@ -30,7 +30,7 @@ skinparam useBetaStyle false
 !$GRAY_LIGHT = "#222"
 !$GRAY       = "#868e96"
 !$PRIMARY    = "#0972d3"
-!$WARNING    = "#EC7211"
+!$WARNING    = "#ecdd00"
 !$LIGHT      = "#d1d5db"
 !$DARK       = "#000716"
 !$SECONDARY_TEXT = "#539fe5"
@@ -59,6 +59,7 @@ skinparam useBetaStyle false
     !$SUCCESS         = "#037f0c"
     !$INFO            = "#0972d3"
     !$DANGER          = "#ff5d64"
+	!$WARNING         = "#fbf8cc"
     !$SECONDARY_TEXT  = $WHITE
     !$FGCOLOR         = $WHITE
     !$DIAMOND_BD      = %lighten($SECONDARY, $PUML_GRADIENT)
@@ -297,7 +298,7 @@ skinparam boundary {
 skinparam agent {
 	BackgroundColor $WARNING
 	BorderColor $WARNING_LIGHT
-	FontColor $DARK
+	FontColor $GRAY
 }
 !endsub
 
@@ -336,7 +337,7 @@ skinparam interface {
 skinparam storage {
 	BackgroundColor $WARNING_BG
   	BorderColor $WARNING_DARK
-	FontColor $WARNING_TEXT
+	FontColor $GRAY
 }
 !endsub
 
@@ -633,8 +634,8 @@ skinparam stereotype {
     ABorderColor #02660A
     IBackgroundColor #EB3232
     IBorderColor #AE1111
-    EBackgroundColor #F18E3E
-    EBorderColor #BD5B0E
+    EBackgroundColor #FFF11C
+    EBorderColor #BDB100
     NBackgroundColor #1388F5
     NBorderColor #075BA9
 }
@@ -763,9 +764,9 @@ skinparam boundary {
 }
 
 skinparam agent {
-	BackgroundColor #EC7211
-	BorderColor #F18E3E
-	FontColor #000716
+	BackgroundColor #ecdd00
+	BorderColor #FFF11C
+	FontColor #868e96
 }
 
 skinparam note {
@@ -794,9 +795,9 @@ skinparam interface {
 }
 
 skinparam storage {
-	BackgroundColor #EC7211
-  	BorderColor #BD5B0E
-	FontColor #FFF
+	BackgroundColor #ecdd00
+  	BorderColor #BDB100
+	FontColor #868e96
 }
 
 skinparam node {
@@ -866,8 +867,8 @@ skinparam package {
 
 skinparam folder {
 	BackgroundColor #eeeeee
-  	BorderColor #EC7211
-	FontColor #EC7211
+  	BorderColor #ecdd00
+	FontColor #ecdd00
 	BorderThickness 2
 }
 
@@ -1030,7 +1031,7 @@ ganttDiagram {
     FontColor #000716
   }
   closed {
-	BackgroundColor #BD5B0E
+	BackgroundColor #BDB100
 	FontColor #FFF
   }
 }

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="230.2083px" preserveAspectRatio="none" style="width:767px;height:230px;" version="1.1" viewBox="0 0 767 230" width="767.7083px" zoomAndPan="magnify"><defs><linearGradient id="gzrdoh7piba7m0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#FFFFFF"/><stop offset="100%" stop-color="#EEEEEE"/></linearGradient><linearGradient id="gzrdoh7piba7m1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#1388F5"/><stop offset="100%" stop-color="#0972D3"/></linearGradient></defs><g><rect fill="url(#gzrdoh7piba7m0)" height="49.2083" id="_title" rx="4.1667" ry="4.1667" style="stroke:#EEEEEE;stroke-width:1.0416666666666667;" width="636.4583" x="64.0625" y="15.625"/><text fill="#0972D3" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacing" textLength="615.625" x="74.4792" y="48.3125">Mindmap Diagram With Boxless - cloudscape-design theme</text><rect fill="url(#gzrdoh7piba7m1)" height="48.2751" rx="10.4167" ry="10.4167" style="stroke:#075BA9;stroke-width:1.0416666666666667;" width="87.5" x="244.7917" y="120.7585"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="56.25" x="260.4167" y="149.7461">root node</text><rect fill="url(#gzrdoh7piba7m1)" height="48.2751" rx="10.4167" ry="10.4167" style="stroke:#075BA9;stroke-width:1.0416666666666667;" width="152.0833" x="384.375" y="120.7585"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="120.8333" x="400" y="149.7461">some first level node</text><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="104.1667" x="596.875" y="90.6959">second level node</text><path d="M536.4583,144.8961 L546.875,144.8961 C562.5,144.8961 562.5,85.8459 578.125,85.8459 L588.5417,85.8459 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="153.125" x="596.875" y="120.221">another second level node</text><path d="M536.4583,144.8961 L546.875,144.8961 C562.5,144.8961 562.5,115.371 578.125,115.371 L588.5417,115.371 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="18.75" x="596.875" y="149.7461">foo</text><path d="M536.4583,144.8961 L546.875,144.8961 C562.5,144.8961 562.5,144.8961 578.125,144.8961 L588.5417,144.8961 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="19.7917" x="596.875" y="179.2713">bar</text><path d="M536.4583,144.8961 L546.875,144.8961 C562.5,144.8961 562.5,174.4212 578.125,174.4212 L588.5417,174.4212 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="38.5417" x="596.875" y="208.7964">foobar</text><path d="M536.4583,144.8961 L546.875,144.8961 C562.5,144.8961 562.5,203.9463 578.125,203.9463 L588.5417,203.9463 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><path d="M332.2917,144.8961 L342.7083,144.8961 C358.3333,144.8961 358.3333,144.8961 373.9583,144.8961 L384.375,144.8961 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="134.375" x="392.7083" y="199.0629">another first level node</text><path d="M332.2917,144.8961 L342.7083,144.8961 C358.3333,144.8961 358.3333,194.2129 373.9583,194.2129 L384.375,194.2129 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><rect fill="url(#gzrdoh7piba7m1)" height="48.2751" rx="10.4167" ry="10.4167" style="stroke:#075BA9;stroke-width:1.0416666666666667;" width="182.2917" x="10.4167" y="105.996"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="151.0417" x="26.0417" y="134.9836">some first right level node</text><path d="M244.7917,144.8961 L234.375,144.8961 C218.75,144.8961 218.75,130.1335 203.125,130.1335 L192.7083,130.1335 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="164.5833" x="19.7917" y="184.3004">another first right level node</text><path d="M244.7917,144.8961 L234.375,144.8961 C218.75,144.8961 218.75,179.4503 203.125,179.4503 L192.7083,179.4503 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><!--MD5=[ad48cf28ee6861064bb9f07d9aa25bfa]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="230.2083px" preserveAspectRatio="none" style="width:767px;height:230px;" version="1.1" viewBox="0 0 767 230" width="767.7083px" zoomAndPan="magnify"><defs><linearGradient id="g1gofjnzl2g4i10" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#FFFFFF"/><stop offset="100%" stop-color="#EEEEEE"/></linearGradient><linearGradient id="g1gofjnzl2g4i11" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#1388F5"/><stop offset="100%" stop-color="#0972D3"/></linearGradient></defs><g><rect fill="url(#g1gofjnzl2g4i10)" height="49.2083" id="_title" rx="4.1667" ry="4.1667" style="stroke:#EEEEEE;stroke-width:1.0416666666666667;" width="636.4583" x="64.0625" y="15.625"/><text fill="#0972D3" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacing" textLength="615.625" x="74.4792" y="48.3125">Mindmap Diagram With Boxless - cloudscape-design theme</text><rect fill="url(#g1gofjnzl2g4i11)" height="48.2751" rx="10.4167" ry="10.4167" style="stroke:#075BA9;stroke-width:1.0416666666666667;" width="87.5" x="244.7917" y="120.7585"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="56.25" x="260.4167" y="149.7461">root node</text><rect fill="url(#g1gofjnzl2g4i11)" height="48.2751" rx="10.4167" ry="10.4167" style="stroke:#075BA9;stroke-width:1.0416666666666667;" width="152.0833" x="384.375" y="120.7585"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="120.8333" x="400" y="149.7461">some first level node</text><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="104.1667" x="596.875" y="90.6959">second level node</text><path d="M536.4583,144.8961 L546.875,144.8961 C562.5,144.8961 562.5,85.8459 578.125,85.8459 L588.5417,85.8459 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="153.125" x="596.875" y="120.221">another second level node</text><path d="M536.4583,144.8961 L546.875,144.8961 C562.5,144.8961 562.5,115.371 578.125,115.371 L588.5417,115.371 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="18.75" x="596.875" y="149.7461">foo</text><path d="M536.4583,144.8961 L546.875,144.8961 C562.5,144.8961 562.5,144.8961 578.125,144.8961 L588.5417,144.8961 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="19.7917" x="596.875" y="179.2713">bar</text><path d="M536.4583,144.8961 L546.875,144.8961 C562.5,144.8961 562.5,174.4212 578.125,174.4212 L588.5417,174.4212 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="38.5417" x="596.875" y="208.7964">foobar</text><path d="M536.4583,144.8961 L546.875,144.8961 C562.5,144.8961 562.5,203.9463 578.125,203.9463 L588.5417,203.9463 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><path d="M332.2917,144.8961 L342.7083,144.8961 C358.3333,144.8961 358.3333,144.8961 373.9583,144.8961 L384.375,144.8961 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="134.375" x="392.7083" y="199.0629">another first level node</text><path d="M332.2917,144.8961 L342.7083,144.8961 C358.3333,144.8961 358.3333,194.2129 373.9583,194.2129 L384.375,194.2129 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><rect fill="url(#g1gofjnzl2g4i11)" height="48.2751" rx="10.4167" ry="10.4167" style="stroke:#075BA9;stroke-width:1.0416666666666667;" width="182.2917" x="10.4167" y="105.996"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="151.0417" x="26.0417" y="134.9836">some first right level node</text><path d="M244.7917,144.8961 L234.375,144.8961 C218.75,144.8961 218.75,130.1335 203.125,130.1335 L192.7083,130.1335 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="164.5833" x="19.7917" y="184.3004">another first right level node</text><path d="M244.7917,144.8961 L234.375,144.8961 C218.75,144.8961 218.75,179.4503 203.125,179.4503 L192.7083,179.4503 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><!--MD5=[2836f305db9f22ee297916277b9ef708]
 @startmindmap
 !$PUML_THEME = "cloudscape-design"
 !$THEME      = "cloudscape-design"
@@ -21,7 +21,7 @@ skinparam useBetaStyle false
 !$GRAY_LIGHT = "#222"
 !$GRAY       = "#868e96"
 !$PRIMARY    = "#0972d3"
-!$WARNING    = "#EC7211"
+!$WARNING    = "#ecdd00"
 !$LIGHT      = "#d1d5db"
 !$DARK       = "#000716"
 !$SECONDARY_TEXT = "#539fe5"
@@ -50,6 +50,7 @@ skinparam useBetaStyle false
     !$SUCCESS         = "#037f0c"
     !$INFO            = "#0972d3"
     !$DANGER          = "#ff5d64"
+	!$WARNING         = "#fbf8cc"
     !$SECONDARY_TEXT  = $WHITE
     !$FGCOLOR         = $WHITE
     !$DIAMOND_BD      = %lighten($SECONDARY, $PUML_GRADIENT)
@@ -288,7 +289,7 @@ skinparam boundary {
 skinparam agent {
 	BackgroundColor $WARNING
 	BorderColor $WARNING_LIGHT
-	FontColor $DARK
+	FontColor $GRAY
 }
 !endsub
 
@@ -327,7 +328,7 @@ skinparam interface {
 skinparam storage {
 	BackgroundColor $WARNING_BG
   	BorderColor $WARNING_DARK
-	FontColor $WARNING_TEXT
+	FontColor $GRAY
 }
 !endsub
 
@@ -615,8 +616,8 @@ skinparam stereotype {
     ABorderColor #02660A
     IBackgroundColor #EB3232
     IBorderColor #AE1111
-    EBackgroundColor #F18E3E
-    EBorderColor #BD5B0E
+    EBackgroundColor #FFF11C
+    EBorderColor #BDB100
     NBackgroundColor #1388F5
     NBorderColor #075BA9
 }
@@ -745,9 +746,9 @@ skinparam boundary {
 }
 
 skinparam agent {
-	BackgroundColor #EC7211
-	BorderColor #F18E3E
-	FontColor #000716
+	BackgroundColor #ecdd00
+	BorderColor #FFF11C
+	FontColor #868e96
 }
 
 skinparam note {
@@ -776,9 +777,9 @@ skinparam interface {
 }
 
 skinparam storage {
-	BackgroundColor #EC7211
-  	BorderColor #BD5B0E
-	FontColor #FFF
+	BackgroundColor #ecdd00
+  	BorderColor #BDB100
+	FontColor #868e96
 }
 
 skinparam node {
@@ -848,8 +849,8 @@ skinparam package {
 
 skinparam folder {
 	BackgroundColor #eeeeee
-  	BorderColor #EC7211
-	FontColor #EC7211
+  	BorderColor #ecdd00
+	FontColor #ecdd00
 	BorderThickness 2
 }
 
@@ -1012,7 +1013,7 @@ ganttDiagram {
     FontColor #000716
   }
   closed {
-	BackgroundColor #BD5B0E
+	BackgroundColor #BDB100
 	FontColor #FFF
   }
 }
