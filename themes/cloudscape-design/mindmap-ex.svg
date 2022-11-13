@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="532.2917px" preserveAspectRatio="none" style="width:647px;height:532px;" version="1.1" viewBox="0 0 647 532" width="647.9167px" zoomAndPan="magnify"><defs><linearGradient id="gki7vkx7aha770" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#FFFFFF"/><stop offset="100%" stop-color="#EEEEEE"/></linearGradient><linearGradient id="gki7vkx7aha771" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#1388F5"/><stop offset="100%" stop-color="#0972D3"/></linearGradient></defs><g><rect fill="url(#gki7vkx7aha770)" height="49.2083" id="_title" rx="4.1667" ry="4.1667" style="stroke:#EEEEEE;stroke-width:1.0416666666666667;" width="498.9583" x="72.9167" y="15.625"/><text fill="#0972D3" font-family="&quot;Verdana&quot;" font-size="20.8333" font-weight="bold" lengthAdjust="spacing" textLength="478.125" x="83.3333" y="48.3125">Mindmap Diagram - cloudscape-design theme</text><rect fill="url(#gki7vkx7aha771)" height="48.2751" rx="10.4167" ry="10.4167" style="stroke:#075BA9;stroke-width:1.0416666666666667;" width="47.9167" x="318.75" y="271.5482"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="334.375" y="300.5358">OS</text><rect fill="url(#gki7vkx7aha771)" height="48.2751" rx="10.4167" ry="10.4167" style="stroke:#075BA9;stroke-width:1.0416666666666667;" width="73.9583" x="418.75" y="185.1627"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="42.7083" x="434.375" y="214.1502">Ubuntu</text><rect fill="url(#gki7vkx7aha771)" height="48.2751" rx="10.4167" ry="10.4167" style="stroke:#075BA9;stroke-width:1.0416666666666667;" width="90.625" x="544.7917" y="81.5"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="59.375" x="560.4167" y="110.4876">Linux Mint</text><path d="M492.7083,209.3002 L503.125,209.3002 C518.75,209.3002 518.75,105.6375 534.375,105.6375 L544.7917,105.6375 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><rect fill="url(#gki7vkx7aha771)" height="48.2751" rx="10.4167" ry="10.4167" style="stroke:#075BA9;stroke-width:1.0416666666666667;" width="79.1667" x="544.7917" y="150.6084"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="47.9167" x="560.4167" y="179.596">Kubuntu</text><path d="M492.7083,209.3002 L503.125,209.3002 C518.75,209.3002 518.75,174.746 534.375,174.746 L544.7917,174.746 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><rect fill="url(#gki7vkx7aha771)" height="48.2751" rx="10.4167" ry="10.4167" style="stroke:#075BA9;stroke-width:1.0416666666666667;" width="78.125" x="544.7917" y="219.7169"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="46.875" x="560.4167" y="248.7045">Lubuntu</text><path d="M492.7083,209.3002 L503.125,209.3002 C518.75,209.3002 518.75,243.8544 534.375,243.8544 L544.7917,243.8544 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><rect fill="url(#gki7vkx7aha771)" height="48.2751" rx="10.4167" ry="10.4167" style="stroke:#075BA9;stroke-width:1.0416666666666667;" width="89.5833" x="544.7917" y="288.8253"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="58.3333" x="560.4167" y="317.8129">KDE Neon</text><path d="M492.7083,209.3002 L503.125,209.3002 C518.75,209.3002 518.75,312.9629 534.375,312.9629 L544.7917,312.9629 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><path d="M366.6667,295.6858 L377.0833,295.6858 C392.7083,295.6858 392.7083,209.3002 408.3333,209.3002 L418.75,209.3002 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><rect fill="url(#gki7vkx7aha771)" height="48.2751" rx="10.4167" ry="10.4167" style="stroke:#075BA9;stroke-width:1.0416666666666667;" width="65.625" x="418.75" y="254.2711"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="34.375" x="434.375" y="283.2587">LMDE</text><path d="M366.6667,295.6858 L377.0833,295.6858 C392.7083,295.6858 392.7083,278.4087 408.3333,278.4087 L418.75,278.4087 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><rect fill="url(#gki7vkx7aha771)" height="48.2751" rx="10.4167" ry="10.4167" style="stroke:#075BA9;stroke-width:1.0416666666666667;" width="77.0833" x="418.75" y="323.3796"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="45.8333" x="434.375" y="352.3672">SolydXK</text><path d="M366.6667,295.6858 L377.0833,295.6858 C392.7083,295.6858 392.7083,347.5171 408.3333,347.5171 L418.75,347.5171 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><rect fill="url(#gki7vkx7aha771)" height="48.2751" rx="10.4167" ry="10.4167" style="stroke:#075BA9;stroke-width:1.0416666666666667;" width="85.4167" x="418.75" y="392.488"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="54.1667" x="434.375" y="421.4756">SteamOS</text><path d="M366.6667,295.6858 L377.0833,295.6858 C392.7083,295.6858 392.7083,416.6256 408.3333,416.6256 L418.75,416.6256 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><rect fill="url(#gki7vkx7aha771)" height="48.2751" rx="10.4167" ry="10.4167" style="stroke:#075BA9;stroke-width:1.0416666666666667;" width="84.375" x="418.75" y="461.5965"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="53.125" x="434.375" y="490.5841">Raspbian</text><path d="M366.6667,295.6858 L377.0833,295.6858 C392.7083,295.6858 392.7083,485.734 408.3333,485.734 L418.75,485.734 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><rect fill="url(#gki7vkx7aha771)" height="48.2751" rx="10.4167" ry="10.4167" style="stroke:#075BA9;stroke-width:1.0416666666666667;" width="101.0417" x="165.625" y="185.1627"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="69.7917" x="181.25" y="214.1502">Windows 95</text><path d="M318.75,295.6858 L308.3333,295.6858 C292.7083,295.6858 292.7083,209.3002 277.0833,209.3002 L266.6667,209.3002 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><rect fill="url(#gki7vkx7aha771)" height="48.2751" rx="10.4167" ry="10.4167" style="stroke:#075BA9;stroke-width:1.0416666666666667;" width="101.0417" x="165.625" y="254.2711"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="69.7917" x="181.25" y="283.2587">Windows 98</text><path d="M318.75,295.6858 L308.3333,295.6858 C292.7083,295.6858 292.7083,278.4087 277.0833,278.4087 L266.6667,278.4087 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><rect fill="url(#gki7vkx7aha771)" height="48.2751" rx="10.4167" ry="10.4167" style="stroke:#075BA9;stroke-width:1.0416666666666667;" width="103.125" x="163.5417" y="323.3796"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="71.875" x="179.1667" y="352.3672">Windows NT</text><rect fill="url(#gki7vkx7aha771)" height="48.2751" rx="10.4167" ry="10.4167" style="stroke:#075BA9;stroke-width:1.0416666666666667;" width="93.75" x="17.7083" y="288.8253"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="62.5" x="33.3333" y="317.8129">Windows 8</text><path d="M163.5417,347.5171 L153.125,347.5171 C137.5,347.5171 137.5,312.9629 121.875,312.9629 L111.4583,312.9629 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><rect fill="url(#gki7vkx7aha771)" height="48.2751" rx="10.4167" ry="10.4167" style="stroke:#075BA9;stroke-width:1.0416666666666667;" width="101.0417" x="10.4167" y="357.9338"/><text fill="#D1D5DB" font-family="&quot;Verdana&quot;" font-size="12.5" lengthAdjust="spacing" textLength="69.7917" x="26.0417" y="386.9214">Windows 10</text><path d="M163.5417,347.5171 L153.125,347.5171 C137.5,347.5171 137.5,382.0713 121.875,382.0713 L111.4583,382.0713 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><path d="M318.75,295.6858 L308.3333,295.6858 C292.7083,295.6858 292.7083,347.5171 277.0833,347.5171 L266.6667,347.5171 " fill="none" style="stroke:#075BA9;stroke-width:1.0416666666666667;"/><!--MD5=[bb56c7f57b06424951a66ef02d004bf3]
+@startmindmap
+!$PUML_THEME = "cloudscape-design"
+!$THEME      = "cloudscape-design"
+!if %not(%variable_exists("$PUML_BGCOLOR"))
+    !$PUML_BGCOLOR = "transparent"
+!endif
+!if %not(%variable_exists("$PUML_GRADIENT"))
+    !$PUML_GRADIENT = 20
+!endif
+!if %not(%variable_exists("$PUML_MODE"))
+    !$PUML_MODE = "light"
+!endif
+!if %not(%variable_exists("$PUML_OUTLINE"))
+    !$PUML_OUTLINE = "false"
+!endif
+skinparam BackgroundColor $PUML_BGCOLOR
+skinparam useBetaStyle false
+!$ALPHA = "80"
+!$WHITE      = "#FFF"
+!$GRAY_LIGHT = "#222"
+!$GRAY       = "#868e96"
+!$PRIMARY    = "#0972d3"
+!$WARNING    = "#EC7211"
+!$LIGHT      = "#d1d5db"
+!$DARK       = "#000716"
+!$SECONDARY_TEXT = "#539fe5"
+!if ($PUML_MODE == "light")
+    !$PRIMARY_TEXT    = $LIGHT
+    !$SECONDARY       = "#eeeeee"
+    !$SECONDARY_LIGHT = %lighten($SECONDARY, $PUML_GRADIENT)
+    !$SUCCESS         = "#037f0c"
+    !$INFO            = "#0972d3"
+    !$DANGER          = "#d91515"
+    !$SECONDARY_TEXT  = $DARK
+    !$FGCOLOR         = $DARK
+    !$DIAMOND_BD      = %darken($SECONDARY, $PUML_GRADIENT)
+    !$GRAY_LIGHT      = %lighten($GRAY, $PUML_GRADIENT)
+    !$GRAY_DARK       = %darken($GRAY, $PUML_GRADIENT)
+	!$MAIN_BG         = $WHITE
+    !assume transparent light
+!else
+    !$TMP             = $LIGHT
+    !$LIGHT           = $DARK
+    !$DARK            = $TMP
+    !$PRIMARY         = "#539fe5"
+    !$PRIMARY_TEXT    = $WHITE
+    !$SECONDARY       = "#2a2e33"
+    !$SECONDARY_LIGHT = %lighten($SECONDARY, $PUML_GRADIENT)
+    !$SUCCESS         = "#037f0c"
+    !$INFO            = "#0972d3"
+    !$DANGER          = "#ff5d64"
+    !$SECONDARY_TEXT  = $WHITE
+    !$FGCOLOR         = $WHITE
+    !$DIAMOND_BD      = %lighten($SECONDARY, $PUML_GRADIENT)
+    !$GRAY_LIGHT      = %darken($GRAY, $PUML_GRADIENT)
+    !$GRAY_DARK       = %lighten($GRAY, $PUML_GRADIENT)
+	!$MAIN_BG         = "#0f1b2a"
+    !assume transparent dark
+!endif
+!$PRIMARY_DARK    = %darken($PRIMARY, $PUML_GRADIENT)
+!$PRIMARY_LIGHT   = %lighten($PRIMARY, $PUML_GRADIENT)
+!$SECONDARY_DARK  = %darken($SECONDARY, $PUML_GRADIENT)
+!$SUCCESS_DARK    = %darken($SUCCESS, $PUML_GRADIENT)
+!$SUCCESS_LIGHT   = %lighten($SUCCESS, $PUML_GRADIENT)
+!$INFO_DARK       = %darken($INFO, $PUML_GRADIENT)
+!$INFO_LIGHT      = %lighten($INFO, $PUML_GRADIENT)
+!$DANGER_DARK     = %darken($DANGER, $PUML_GRADIENT)
+!$DANGER_LIGHT    = %lighten($DANGER, $PUML_GRADIENT)
+!$WARNING_DARK    = %darken($WARNING, $PUML_GRADIENT)
+!$WARNING_LIGHT   = %lighten($WARNING, $PUML_GRADIENT)
+!$DARK_DARK       = %darken($DARK, $PUML_GRADIENT)
+!$DARK_LIGHT      = %lighten($DARK, $PUML_GRADIENT)
+!$LIGHT_DARK      = %darken($LIGHT, $PUML_GRADIENT)
+!$LIGHT_LIGHT     = %lighten($LIGHT, $PUML_GRADIENT)
+!$INFO_TEXT    = $WHITE
+!$SUCCESS_TEXT = $WHITE
+!$WARNING_TEXT = $WHITE
+!$DANGER_TEXT  = $WHITE
+!$HEADER_TEXT  = $WHITE
+!if ($PUML_OUTLINE == "true")
+	!$HEADER_TEXT  = $PRIMARY_TEXT
+	!$PRIMARY_TEXT = $PRIMARY_LIGHT
+	!$INFO_TEXT    = $INFO
+	!$WARNING_TEXT = $WARNING_LIGHT
+	!$DARK_BG      = $PUML_BGCOLOR
+	!$INFO_BG      = $PUML_BGCOLOR
+	!$DANGER_BG    = $PUML_BGCOLOR
+	!$WARNING_BG   = $PUML_BGCOLOR
+	!$SECONDARY_BG = $PUML_BGCOLOR
+!else
+	!$DARK_BG      = $DARK
+	!$INFO_BG      = $INFO
+	!$DANGER_BG    = $DANGER
+	!$WARNING_BG   = $WARNING
+	!$SECONDARY_BG = $SECONDARY
+!endif
+!unquoted function $alpha($color, $alpha) !return $color + $alpha
+!procedure $success($msg)
+  <font color=$SUCCESS><b>$msg
+!endprocedure
+!procedure $failure($msg)
+  <font color=$DANGER><b>$msg
+!endprocedure
+!procedure $warning($msg)
+  <font color=$WARNING><b>$msg
+!endprocedure
+!procedure $primary_scheme()
+	!if ($PUML_OUTLINE == "true")
+		FontColor $PRIMARY
+		BorderColor $PRIMARY
+		BackgroundColor $PUML_BGCOLOR
+	!else
+		FontColor $PRIMARY_TEXT
+		BorderColor $PRIMARY
+		BackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	!endif
+!endprocedure
+!procedure $secondary_scheme()
+	!if ($PUML_OUTLINE == "true")
+		FontColor $SECONDARY_DARK
+		BorderColor $SECONDARY_DARK
+		BackgroundColor $PUML_BGCOLOR
+	!else
+		FontColor $SECONDARY_TEXT
+		BorderColor $SECONDARY_DARK
+		BackgroundColor $SECONDARY_LIGHT-$SECONDARY
+	!endif
+!endprocedure
+!_POST   = "<color #007a3e>POST</color>"
+!_PUT    = "<color #ea7400>PUT</color>"
+!_DELETE = "<color #cf2a2a>DELETE</color>"
+!_GET    = "<color #009fdb>GET</color>"
+!_PATCH  = "<color #b5bd00>PATCH</color>"
+!_HEAD   = "<color #9012fe>HEAD</color>"
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            $DARK
+skinparam stereotype {
+    CBackgroundColor $SECONDARY_LIGHT
+    CBorderColor $SECONDARY_DARK
+    ABackgroundColor $SUCCESS_LIGHT
+    ABorderColor $SUCCESS_DARK
+    IBackgroundColor $DANGER_LIGHT
+    IBorderColor $DANGER_DARK
+    EBackgroundColor $WARNING_LIGHT
+    EBorderColor $WARNING_DARK
+    NBackgroundColor $INFO_LIGHT
+    NBorderColor $INFO_DARK
+}
+skinparam title {
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor  $SECONDARY_LIGHT-$SECONDARY
+	FontColor $PRIMARY
+	BorderColor $SECONDARY
+}
+
+skinparam legend {
+    $secondary_scheme()
+    BackgroundColor transparent
+}
+
+!startsub swimlane
+skinparam swimlane {
+	BorderColor $INFO
+	BorderThickness 2
+	TitleBackgroundColor  $SECONDARY_LIGHT-$SECONDARY
+	TitleFontColor $PRIMARY
+}
+!endsub
+
+!startsub activity
+skinparam activity {
+	$primary_scheme()
+	BarColor $SUCCESS
+	StartColor $INFO
+	EndColor $INFO
+	DiamondBackgroundColor $SECONDARY_BG
+  	DiamondBorderColor $DIAMOND_BD
+  	DiamondFontColor $SECONDARY_TEXT
+}
+!endsub
+
+!startsub participant
+skinparam participant {
+	$primary_scheme()
+	ParticipantBorderThickness 2
+}
+!endsub
+
+!startsub actor
+skinparam actor {
+	$primary_scheme()
+	FontColor $FGCOLOR
+}
+!endsub
+
+!startsub arrow
+skinparam arrow {
+	Thickness 2
+	Color $GRAY_LIGHT
+	FontColor $FGCOLOR
+}
+!endsub
+
+!startsub sequence
+skinparam sequence {
+	ArrowThickness 2
+	BorderColor $PRIMARY
+	TitleFontColor $PRIMARY
+	BackgroundColor $PUML_BGCOLOR
+	StartColor $PRIMARY
+	EndColor $PRIMARY
+	BoxBackgroundColor $alpha($PUML_BGCOLOR, $ALPHA)
+	BoxBorderColor $GRAY_DARK
+	BoxFontColor $GRAY_DARK
+	DelayFontColor $LIGHT
+	LifeLineBorderColor $PRIMARY
+	LifeLineBorderThickness 0
+	LifeLineBackgroundColor $SECONDARY
+	GroupBorderColor $DARK
+	GroupBorderThickness 1
+	GroupFontColor $DARK
+	GroupHeaderFontColor $INFO
+	GroupBackgroundColor $alpha($SECONDARY, $ALPHA)
+	GroupBodyBackgroundColor $alpha($PUML_BGCOLOR, $ALPHA)
+	GroupHeaderBackgroundColor $PUML_BGCOLOR
+	DividerBackgroundColor $SECONDARY
+	DividerBorderColor $SECONDARY_LIGHT
+    	DividerBorderThickness 2
+    	DividerFontColor $DARK
+	ReferenceAlignment left
+	ReferenceBackgroundColor $alpha($PUML_BGCOLOR, $ALPHA)
+	ReferenceBorderColor $SECONDARY
+	ReferenceBorderThickness 2
+	ReferenceFontColor $DARK
+	ReferenceHeaderFontColor $INFO
+	ReferenceHeaderBackgroundColor $alpha($SECONDARY, $ALPHA)
+	StereotypeFontColor $PRIMARY_TEXT
+	StereotypeFontSize 12
+}
+!endsub
+
+!startsub partition
+skinparam partition {
+	BorderColor $PRIMARY
+	FontColor $PRIMARY
+	BackgroundColor $PUML_BGCOLOR
+}
+!endsub
+
+!startsub collections
+skinparam collections {
+	$primary_scheme()
+}
+!endsub
+
+!startsub control
+skinparam control {
+	$primary_scheme()
+	FontColor $DARK
+}
+!endsub
+
+!startsub entity
+skinparam entity {
+	$primary_scheme()
+	FontColor $DARK
+}
+!endsub
+
+!startsub boundary
+skinparam boundary {
+	$primary_scheme()
+	FontColor $DARK
+}
+!endsub
+
+!startsub agent
+skinparam agent {
+	BackgroundColor $WARNING
+	BorderColor $WARNING_LIGHT
+	FontColor $DARK
+}
+!endsub
+
+!startsub note
+skinparam note {
+	BorderThickness 1
+	BackgroundColor $INFO_BG
+	BorderColor $INFO
+	FontColor $INFO_TEXT
+}
+!endsub
+
+!startsub artifact
+skinparam artifact {
+	BackgroundColor $DARK_BG
+	BorderColor $DARK_DARK
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub component
+skinparam component {
+	$primary_scheme()
+}
+!endsub
+
+!startsub interface
+skinparam interface {
+	BackgroundColor  $DANGER_DARK
+	BorderColor  $DANGER
+	FontColor $DARK
+}
+!endsub
+
+!startsub storage
+skinparam storage {
+	BackgroundColor $WARNING_BG
+  	BorderColor $WARNING_DARK
+	FontColor $WARNING_TEXT
+}
+!endsub
+
+!startsub node
+skinparam node {
+	BackgroundColor  $PUML_BGCOLOR
+	BorderColor $LIGHT
+	FontColor $LIGHT
+}
+!endsub
+
+!startsub cloud
+skinparam cloud {
+	BackgroundColor transparent
+	BorderColor $DARK
+	FontColor $FGCOLOR
+}
+!endsub
+
+!startsub database
+skinparam database {
+	$primary_scheme()
+	FontColor $FGCOLOR
+	StereotypeFontColor $FGCOLOR
+}
+!endsub
+
+!startsub class
+skinparam class {
+	$primary_scheme()
+	FontColor $HEADER_TEXT
+	HeaderBackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	StereotypeFontColor $DARK
+	BorderThickness 1
+	AttributeFontColor $PRIMARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub object
+skinparam object {
+	$primary_scheme()
+	StereotypeFontColor $DARK
+	BorderThickness 1
+	AttributeFontColor $PRIMARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub usecase
+skinparam usecase {
+	$primary_scheme()
+	BorderThickness 2
+	StereotypeFontColor $PRIMARY
+}
+!endsub
+
+!startsub rectangle
+skinparam rectangle {
+	BackgroundColor $PUML_BGCOLOR
+	FontColor $SECONDARY_TEXT
+	BorderColor $SECONDARY_TEXT
+	BorderThickness 2
+	StereotypeFontColor $PRIMARY
+}
+!endsub
+
+!startsub package
+skinparam package {
+	BackgroundColor $PUML_BGCOLOR
+  	BorderColor $SECONDARY_TEXT
+	FontColor $SECONDARY_TEXT
+	BorderThickness 2
+}
+!endsub
+
+!startsub folder
+skinparam folder {
+	BackgroundColor $SECONDARY_BG
+  	BorderColor $WARNING
+	FontColor $WARNING
+	BorderThickness 2
+}
+!endsub
+
+!startsub frame
+skinparam frame {
+	BackgroundColor $SECONDARY_BG
+  	BorderColor $INFO
+	FontColor $INFO
+	BorderThickness 2
+}
+!endsub
+
+!startsub state
+skinparam state {
+	$primary_scheme()
+	StartColor $INFO
+	EndColor $INFO
+	AttributeFontColor $SECONDARY_TEXT
+	AttributeFontSize 11
+}
+!endsub
+
+!startsub queue
+skinparam queue {
+	$primary_scheme()
+}
+!endsub
+
+!startsub card
+skinparam card {
+	BackgroundColor $INFO_BG
+	BorderColor $INFO_DARK
+	FontColor $INFO_TEXT
+}
+!endsub
+
+!startsub file
+skinparam file {
+	BackgroundColor $SECONDARY_BG
+	BorderColor $LIGHT
+	FontColor $FGCOLOR
+}
+!endsub
+
+!startsub stack
+skinparam stack {
+	$primary_scheme()
+}
+!endsub
+
+
+!startsub map
+skinparam map {
+	$primary_scheme()
+}
+!endsub
+
+<style>
+wbsDiagram, mindmapDiagram {
+  root {
+    BackgroundColor $PUML_BGCOLOR
+    FontColor $PRIMARY_TEXT
+    HyperLinkColor $INFO_BG
+    LineColor $PRIMARY_DARK
+    LineThickness 1
+    Margin 10
+    Padding 6
+    Shadowing 0.0
+  }
+  node {
+    $primary_scheme()
+    Padding 15
+    RoundCorner 20
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  groupHeader {
+    BackgroundColor $SECONDARY_BG
+    FontColor $INFO_BG
+    FontStyle bold
+  }
+  header {
+    LineThickness 0
+  }
+  referenceHeader {
+    BackgroundColor $PUML_BGCOLOR
+    FontColor $DARK_BG
+    FontStyle bold
+  }
+  separator {
+    BackgroundColor $FGCOLOR
+    FontColor $PUML_BGCOLOR
+    FontStyle bold
+  }
+  title {
+	FontSize 20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor  $SECONDARY_LIGHT-$SECONDARY_BG
+	FontColor $PRIMARY_TEXT
+	BorderColor $SECONDARY_BG
+  }
+}
+nwdiagDiagram {
+  network {
+    $primary_scheme()    
+    LineColor $PRIMARY_BG
+    LineThickness 1.0
+    FontColor $PRIMARY_DARK
+  }
+  server {
+    $primary_scheme()
+  }
+  arrow {
+    FontColor $PRIMARY_DARK
+    LineColor $PRIMARY_DARK
+  }
+  group {
+    BackGroundColor $LIGHT_BG
+    LineColor $LIGHT_DARK
+    LineThickness 2.0
+    Margin 5
+    Padding 5
+  }
+}
+ganttDiagram {
+  task {
+    $primary_scheme()
+	LineColor $PRIMARY_BG
+    Margin 10
+    Padding 6
+  }
+  note {
+	FontColor $INFO_TEXT
+	LineColor $INFO_DARK
+    BackGroundColor $INFO_BG
+  }
+  separator {
+	LineColor $SECONDARY_BG
+    BackGroundColor $secondary_scheme()
+    FontColor $SECONDARY_TEXT
+  }
+  milestone {
+	FontColor $INFO_BG
+	FontSize 16
+	FontStyle italic
+	BackGroundColor $DIAMOND_BG
+	LineColor $SECONDARY_DARK
+  }
+  timeline {
+    BackgroundColor $SECONDARY_BG
+    FontColor $SECONDARY_TEXT
+  }
+  closed {
+	BackgroundColor $WARNING_DARK
+	FontColor $WARNING_TEXT
+  }
+}
+</style>
+
+
+!if %variable_exists("$THEME")
+title Mindmap Diagram - $THEME theme
+!else
+title Mindmap Diagram
+!endif
+
+!DIAGRAM = "mindmap"
+
++ OS
+++ Ubuntu
++++ Linux Mint
++++ Kubuntu
++++ Lubuntu
++++ KDE Neon
+++ LMDE
+++ SolydXK
+++ SteamOS
+++ Raspbian
+- - Windows 95
+- - Windows 98
+- - Windows NT
+- - - Windows 8
+- - - Windows 10
+
+@endmindmap
+
+@startmindmap
+skinparam BackgroundColor transparent
+skinparam useBetaStyle false
+    !assume transparent light
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #000716
+skinparam stereotype {
+    CBackgroundColor #FFFFFF
+    CBorderColor #BEBEBE
+    ABackgroundColor #04980E
+    ABorderColor #02660A
+    IBackgroundColor #EB3232
+    IBorderColor #AE1111
+    EBackgroundColor #F18E3E
+    EBorderColor #BD5B0E
+    NBackgroundColor #1388F5
+    NBorderColor #075BA9
+}
+skinparam title {
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor  #FFFFFF-#eeeeee
+	FontColor #0972d3
+	BorderColor #eeeeee
+}
+
+skinparam legend {
+    		FontColor #000716
+		BorderColor #BEBEBE
+		BackgroundColor #FFFFFF-#eeeeee
+    BackgroundColor transparent
+}
+
+skinparam swimlane {
+	BorderColor #0972d3
+	BorderThickness 2
+	TitleBackgroundColor  #FFFFFF-#eeeeee
+	TitleFontColor #0972d3
+}
+
+skinparam activity {
+			FontColor #d1d5db
+		BorderColor #0972d3
+		BackgroundColor #1388F5-#0972d3
+	BarColor #037f0c
+	StartColor #0972d3
+	EndColor #0972d3
+	DiamondBackgroundColor #eeeeee
+  	DiamondBorderColor #BEBEBE
+  	DiamondFontColor #000716
+}
+
+skinparam participant {
+			FontColor #d1d5db
+		BorderColor #0972d3
+		BackgroundColor #1388F5-#0972d3
+	ParticipantBorderThickness 2
+}
+
+skinparam actor {
+			FontColor #d1d5db
+		BorderColor #0972d3
+		BackgroundColor #1388F5-#0972d3
+	FontColor #000716
+}
+
+skinparam arrow {
+	Thickness 2
+	Color #A4AAB0
+	FontColor #000716
+}
+
+skinparam sequence {
+	ArrowThickness 2
+	BorderColor #0972d3
+	TitleFontColor #0972d3
+	BackgroundColor transparent
+	StartColor #0972d3
+	EndColor #0972d3
+	BoxBackgroundColor transparent80
+	BoxBorderColor #6A727A
+	BoxFontColor #6A727A
+	DelayFontColor #d1d5db
+	LifeLineBorderColor #0972d3
+	LifeLineBorderThickness 0
+	LifeLineBackgroundColor #eeeeee
+	GroupBorderColor #000716
+	GroupBorderThickness 1
+	GroupFontColor #000716
+	GroupHeaderFontColor #0972d3
+	GroupBackgroundColor #eeeeee80
+	GroupBodyBackgroundColor transparent80
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor #eeeeee
+	DividerBorderColor #FFFFFF
+    	DividerBorderThickness 2
+    	DividerFontColor #000716
+	ReferenceAlignment left
+	ReferenceBackgroundColor transparent80
+	ReferenceBorderColor #eeeeee
+	ReferenceBorderThickness 2
+	ReferenceFontColor #000716
+	ReferenceHeaderFontColor #0972d3
+	ReferenceHeaderBackgroundColor #eeeeee80
+	StereotypeFontColor #d1d5db
+	StereotypeFontSize 12
+}
+
+skinparam partition {
+	BorderColor #0972d3
+	FontColor #0972d3
+	BackgroundColor transparent
+}
+
+skinparam collections {
+			FontColor #d1d5db
+		BorderColor #0972d3
+		BackgroundColor #1388F5-#0972d3
+}
+
+skinparam control {
+			FontColor #d1d5db
+		BorderColor #0972d3
+		BackgroundColor #1388F5-#0972d3
+	FontColor #000716
+}
+
+skinparam entity {
+			FontColor #d1d5db
+		BorderColor #0972d3
+		BackgroundColor #1388F5-#0972d3
+	FontColor #000716
+}
+
+skinparam boundary {
+			FontColor #d1d5db
+		BorderColor #0972d3
+		BackgroundColor #1388F5-#0972d3
+	FontColor #000716
+}
+
+skinparam agent {
+	BackgroundColor #EC7211
+	BorderColor #F18E3E
+	FontColor #000716
+}
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #0972d3
+	BorderColor #0972d3
+	FontColor #FFF
+}
+
+skinparam artifact {
+	BackgroundColor #000716
+	BorderColor #000612
+	FontColor #d1d5db
+}
+
+skinparam component {
+			FontColor #d1d5db
+		BorderColor #0972d3
+		BackgroundColor #1388F5-#0972d3
+}
+
+skinparam interface {
+	BackgroundColor  #AE1111
+	BorderColor  #d91515
+	FontColor #000716
+}
+
+skinparam storage {
+	BackgroundColor #EC7211
+  	BorderColor #BD5B0E
+	FontColor #FFF
+}
+
+skinparam node {
+	BackgroundColor  transparent
+	BorderColor #d1d5db
+	FontColor #d1d5db
+}
+
+skinparam cloud {
+	BackgroundColor transparent
+	BorderColor #000716
+	FontColor #000716
+}
+
+skinparam database {
+			FontColor #d1d5db
+		BorderColor #0972d3
+		BackgroundColor #1388F5-#0972d3
+	FontColor #000716
+	StereotypeFontColor #000716
+}
+
+skinparam class {
+			FontColor #d1d5db
+		BorderColor #0972d3
+		BackgroundColor #1388F5-#0972d3
+	FontColor #FFF
+	HeaderBackgroundColor #1388F5-#0972d3
+	StereotypeFontColor #000716
+	BorderThickness 1
+	AttributeFontColor #d1d5db
+	AttributeFontSize 11
+}
+
+skinparam object {
+			FontColor #d1d5db
+		BorderColor #0972d3
+		BackgroundColor #1388F5-#0972d3
+	StereotypeFontColor #000716
+	BorderThickness 1
+	AttributeFontColor #d1d5db
+	AttributeFontSize 11
+}
+
+skinparam usecase {
+			FontColor #d1d5db
+		BorderColor #0972d3
+		BackgroundColor #1388F5-#0972d3
+	BorderThickness 2
+	StereotypeFontColor #0972d3
+}
+
+skinparam rectangle {
+	BackgroundColor transparent
+	FontColor #000716
+	BorderColor #000716
+	BorderThickness 2
+	StereotypeFontColor #0972d3
+}
+
+skinparam package {
+	BackgroundColor transparent
+  	BorderColor #000716
+	FontColor #000716
+	BorderThickness 2
+}
+
+skinparam folder {
+	BackgroundColor #eeeeee
+  	BorderColor #EC7211
+	FontColor #EC7211
+	BorderThickness 2
+}
+
+skinparam frame {
+	BackgroundColor #eeeeee
+  	BorderColor #0972d3
+	FontColor #0972d3
+	BorderThickness 2
+}
+
+skinparam state {
+			FontColor #d1d5db
+		BorderColor #0972d3
+		BackgroundColor #1388F5-#0972d3
+	StartColor #0972d3
+	EndColor #0972d3
+	AttributeFontColor #000716
+	AttributeFontSize 11
+}
+
+skinparam queue {
+			FontColor #d1d5db
+		BorderColor #0972d3
+		BackgroundColor #1388F5-#0972d3
+}
+
+skinparam card {
+	BackgroundColor #0972d3
+	BorderColor #075BA9
+	FontColor #FFF
+}
+
+skinparam file {
+	BackgroundColor #eeeeee
+	BorderColor #d1d5db
+	FontColor #000716
+}
+
+skinparam stack {
+			FontColor #d1d5db
+		BorderColor #0972d3
+		BackgroundColor #1388F5-#0972d3
+}
+
+
+skinparam map {
+			FontColor #d1d5db
+		BorderColor #0972d3
+		BackgroundColor #1388F5-#0972d3
+}
+
+<style>
+wbsDiagram, mindmapDiagram {
+  root {
+    BackgroundColor transparent
+    FontColor #d1d5db
+    HyperLinkColor #0972d3
+    LineColor #075BA9
+    LineThickness 1
+    Margin 10
+    Padding 6
+    Shadowing 0.0
+  }
+  node {
+    		FontColor #d1d5db
+		BorderColor #0972d3
+		BackgroundColor #1388F5-#0972d3
+    Padding 15
+    RoundCorner 20
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  groupHeader {
+    BackgroundColor #eeeeee
+    FontColor #0972d3
+    FontStyle bold
+  }
+  header {
+    LineThickness 0
+  }
+  referenceHeader {
+    BackgroundColor transparent
+    FontColor #000716
+    FontStyle bold
+  }
+  separator {
+    BackgroundColor #000716
+    FontColor transparent
+    FontStyle bold
+  }
+  title {
+	FontSize 20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor  #FFFFFF-#eeeeee
+	FontColor #d1d5db
+	BorderColor #eeeeee
+  }
+}
+nwdiagDiagram {
+  network {
+    		FontColor #d1d5db
+		BorderColor #0972d3
+		BackgroundColor #1388F5-#0972d3    
+    LineColor $PRIMARY_BG
+    LineThickness 1.0
+    FontColor #075BA9
+  }
+  server {
+    		FontColor #d1d5db
+		BorderColor #0972d3
+		BackgroundColor #1388F5-#0972d3
+  }
+  arrow {
+    FontColor #075BA9
+    LineColor #075BA9
+  }
+  group {
+    BackGroundColor $LIGHT_BG
+    LineColor #A1A9B5
+    LineThickness 2.0
+    Margin 5
+    Padding 5
+  }
+}
+ganttDiagram {
+  task {
+    		FontColor #d1d5db
+		BorderColor #0972d3
+		BackgroundColor #1388F5-#0972d3
+	LineColor $PRIMARY_BG
+    Margin 10
+    Padding 6
+  }
+  note {
+	FontColor #FFF
+	LineColor #075BA9
+    BackGroundColor #0972d3
+  }
+  separator {
+	LineColor #eeeeee
+    BackGroundColor 		FontColor #000716
+		BorderColor #BEBEBE
+		BackgroundColor #FFFFFF-#eeeeee
+    FontColor #000716
+  }
+  milestone {
+	FontColor #0972d3
+	FontSize 16
+	FontStyle italic
+	BackGroundColor $DIAMOND_BG
+	LineColor #BEBEBE
+  }
+  timeline {
+    BackgroundColor #eeeeee
+    FontColor #000716
+  }
+  closed {
+	BackgroundColor #BD5B0E
+	FontColor #FFF
+  }
+}
+</style>
+
+
+title Mindmap Diagram - cloudscape-design theme
+
+
++ OS
+++ Ubuntu
++++ Linux Mint
++++ Kubuntu
++++ Lubuntu
++++ KDE Neon
+++ LMDE
+++ SolydXK
+++ SteamOS
+++ Raspbian
+- - Windows 95
+- - Windows 98
+- - Windows NT
+- - - Windows 8
+- - - Windows 10
+
+@endmindmap
+
+PlantUML version 1.2022.12(Sun Oct 23 11:12:26 PDT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
