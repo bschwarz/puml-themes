@@ -439,7 +439,7 @@ skinparam database {
 skinparam class {
 	$primary_scheme()
 	FontColor $HEADER_TEXT
-	HeaderBackgroundColor $PRIMARY_LIGHT-$PRIMARY
+	HeaderBackgroundColor $PRIMARY_LIGHT-$PRIMARY_DARK
 	StereotypeFontColor $DARK
 	BorderThickness 1
 	AttributeFontColor $PRIMARY_TEXT
