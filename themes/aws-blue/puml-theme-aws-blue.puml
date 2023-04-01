@@ -280,7 +280,7 @@ skinparam actor {
 
 !startsub arrow
 skinparam arrow {
-	Thickness 3
+	Thickness 2
 	Color $ARROW
 	FontColor $FGCOLOR
 }
@@ -288,7 +288,7 @@ skinparam arrow {
 
 !startsub sequence
 skinparam sequence {
-	ArrowThickness 3
+	ArrowThickness 2
 	BorderColor $PRIMARY
 	' For some reason sequence title font color does not pick up from global
 	TitleFontColor $PRIMARY
