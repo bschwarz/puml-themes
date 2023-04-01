@@ -558,16 +558,20 @@ wbsDiagram, mindmapDiagram {
     BackgroundColor $PUML_BGCOLOR
     FontColor $PRIMARY_TEXT
     HyperLinkColor $INFO_BG
-    LineColor $PRIMARY_DARK
-    LineThickness 1
+    LineColor $INFO_DARK
+    LineThickness 1.5
     Margin 10
     Padding 6
+    FontSize 12
     Shadowing 0.0
   }
   node {
-    $primary_scheme()
+    BackGroundColor $INFO-$INFO_DARK
     Padding 15
     RoundCorner 20
+  }
+  LeafNode {
+	FontSize 10
   }
   caption {
     LineThickness 0
