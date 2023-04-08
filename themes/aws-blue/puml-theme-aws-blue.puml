@@ -95,6 +95,7 @@ skinparam useBetaStyle false
 !$SUCCESS_LIGHT   = %lighten($SUCCESS, $PUML_GRADIENT)
 !$INFO_DARK       = %darken($INFO, $PUML_GRADIENT)
 !$INFO_LIGHT      = %lighten($INFO, $PUML_GRADIENT)
+!$INFO_LIGHT2     = %lighten($INFO_LIGHT, $PUML_GRADIENT)
 !$DANGER_DARK     = %darken($DANGER, $PUML_GRADIENT)
 !$DANGER_LIGHT    = %lighten($DANGER, $PUML_GRADIENT)
 !$WARNING_DARK    = %darken($WARNING, $PUML_GRADIENT)
@@ -125,7 +126,7 @@ skinparam useBetaStyle false
 	!$SECONDARY_BG = $PUML_BGCOLOR
 !else
 	!$DARK_BG      = $DARK
-	!$INFO_BG      = %lighten($INFO_LIGHT, $PUML_GRADIENT)-$INFO_LIGHT
+	!$INFO_BG      = $INFO_LIGHT2-$INFO_LIGHT
 	!$DANGER_BG    = $DANGER
 	!$WARNING_BG   = $WARNING
 	!$SECONDARY_BG = $SECONDARY
