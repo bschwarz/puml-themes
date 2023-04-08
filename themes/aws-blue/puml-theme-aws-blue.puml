@@ -125,7 +125,7 @@ skinparam useBetaStyle false
 	!$SECONDARY_BG = $PUML_BGCOLOR
 !else
 	!$DARK_BG      = $DARK
-	!$INFO_BG      = $INFO
+	!$INFO_BG      = %lighten($INFO_LIGHT, $PUML_GRADIENT)-$INFO_LIGHT
 	!$DANGER_BG    = $DANGER
 	!$WARNING_BG   = $WARNING
 	!$SECONDARY_BG = $SECONDARY
