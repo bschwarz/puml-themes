@@ -55,7 +55,7 @@ skinparam useBetaStyle false
     !$SECONDARY_LIGHT = "ffffff"
     !$SUCCESS        = "#1D8102"
     !$INFO           = "#0073bb"
-    !$INFO_TEXT      = $DARK
+    !$NOTE_TEXT      = $DARK
     !$DANGER         = "#d13212"
     !$SECONDARY_TEXT = $DARK
     !$FGCOLOR        = $DARK
@@ -73,7 +73,7 @@ skinparam useBetaStyle false
     !$SECONDARY_LIGHT = %lighten($SECONDARY, $PUML_GRADIENT)
     !$SUCCESS        = "#6aaf35"
     !$INFO           = "#00a1c9"
-    !$INFO_TEXT      = $WHITE
+    !$NOTE_TEXT      = $WHITE
     !$DANGER         = "#eb6f6f"
     !$SECONDARY_TEXT = $WHITE
     !$FGCOLOR        = $WHITE
@@ -111,6 +111,7 @@ skinparam useBetaStyle false
 ''
 '' Set text colors
 ''
+!$INFO_TEXT    = $WHITE
 !$SUCCESS_TEXT = $WHITE
 !$WARNING_TEXT = $WHITE
 !$DANGER_TEXT  = $WHITE
@@ -120,6 +121,7 @@ skinparam useBetaStyle false
 !if ($PUML_OUTLINE == "true")
 	'!$HEADER_TEXT  = $PRIMARY_TEXT
 	!$PRIMARY_TEXT = $PRIMARY_LIGHT
+	!$INFO_TEXT    = $INFO_LIGHT
 	!$WARNING_TEXT = $WARNING_LIGHT
 	!$DARK_BG      = $PUML_BGCOLOR
 	!$INFO_BG      = $PUML_BGCOLOR
@@ -380,7 +382,7 @@ skinparam note {
 	BorderThickness 1
 	BackgroundColor $BOXBG
 	BorderColor $INFO_DARK
-	FontColor $INFO_TEXT
+	FontColor $NOTE_TEXT
 }
 !endsub
 
