@@ -55,11 +55,13 @@ skinparam useBetaStyle false
     !$SECONDARY_LIGHT = "ffffff"
     !$SUCCESS        = "#1D8102"
     !$INFO           = "#0073bb"
+    !$INFO_TEXT      = $DARK
     !$DANGER         = "#d13212"
     !$SECONDARY_TEXT = $DARK
     !$FGCOLOR        = $DARK
 	!$DIAMOND_BD     = %darken($SECONDARY, $PUML_GRADIENT)
     !$ARROW          = %lighten($GRAY, 40)
+    !$BOXBG          = "#EEEEEE70"
     ''
     '' Assume if the background is transparent, that the 
     '' background will be dark for this theme
@@ -71,6 +73,7 @@ skinparam useBetaStyle false
     !$SECONDARY_LIGHT = %lighten($SECONDARY, $PUML_GRADIENT)
     !$SUCCESS        = "#6aaf35"
     !$INFO           = "#00a1c9"
+    !$INFO_TEXT      = $WHITE
     !$DANGER         = "#eb6f6f"
     !$SECONDARY_TEXT = $WHITE
     !$FGCOLOR        = $WHITE
@@ -78,6 +81,7 @@ skinparam useBetaStyle false
     !$ARROW          = $GRAY_LIGHT
     !$LIGHT          = "#333333"
     !$DARK           = "#abb6c2"
+    !$BOXBG          = "#EEEEEE50"
     ''
     '' Assume if the background is transparent, that the 
     '' background will be dark for this theme
@@ -117,7 +121,6 @@ skinparam useBetaStyle false
 !if ($PUML_OUTLINE == "true")
 	'!$HEADER_TEXT  = $PRIMARY_TEXT
 	!$PRIMARY_TEXT = $PRIMARY_LIGHT
-	!$INFO_TEXT    = $INFO_LIGHT
 	!$WARNING_TEXT = $WARNING_LIGHT
 	!$DARK_BG      = $PUML_BGCOLOR
 	!$INFO_BG      = $PUML_BGCOLOR
