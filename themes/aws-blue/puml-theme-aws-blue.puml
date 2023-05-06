@@ -381,7 +381,7 @@ skinparam agent {
 
 !startsub note
 skinparam note {
-	BorderThickness 1
+	BorderThickness 3
 	BackgroundColor $NOTEBG
 	BorderColor $INFO_DARK
 	FontColor $NOTE_TEXT
