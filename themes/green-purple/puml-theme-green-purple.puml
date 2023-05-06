@@ -64,7 +64,7 @@ skinparam useBetaStyle false
     !$FGCOLOR        = $DARK
 	!$DIAMOND_BD     = %darken($SECONDARY, $PUML_GRADIENT)
     !$ARROW          = %lighten($GRAY, 40)
-	!$BOXBG          = "#EEEEEE50"
+	!$BOXBG          = "#EEEEEE30"
 	!$NOTEBG          = "#EEEEEE80"
     ''
     '' Assume if the background is transparent, that the 
@@ -203,10 +203,10 @@ skinparam defaultFontName       "Verdana"
 skinparam defaultFontSize       12
 skinparam dpi                   100
 skinparam shadowing             false
-skinparam roundcorner           8
+skinparam roundcorner           20
 skinparam ParticipantPadding    40
 skinparam BoxPadding            40
-skinparam Padding               12
+skinparam Padding               15
 skinparam ArrowColor            $DARK
 skinparam stereotype {
     CBackgroundColor $SECONDARY_LIGHT
@@ -667,6 +667,6 @@ ganttDiagram {
   }
 }
 sequenceDiagram {
-    RoundCorner 12
+    RoundCorner 20
 }
 </style>
