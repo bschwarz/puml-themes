@@ -61,7 +61,8 @@ skinparam useBetaStyle false
     !$FGCOLOR        = $DARK
 	!$DIAMOND_BD     = %darken($SECONDARY, $PUML_GRADIENT)
     !$ARROW          = %lighten($GRAY, 40)
-    !$BOXBG          = "#EEEEEE70"
+    !$BOXBG          = "#EEEEEE30"
+    !$NOTEBG          = "#EEEEEE80"
     ''
     '' Assume if the background is transparent, that the 
     '' background will be dark for this theme
@@ -81,7 +82,8 @@ skinparam useBetaStyle false
     !$ARROW          = $GRAY_LIGHT
     !$LIGHT          = "#333333"
     !$DARK           = "#abb6c2"
-    !$BOXBG          = "#EEEEEE50"
+    !$BOXBG          = "#EEEEEE30"
+    !$NOTEBG          = "#EEEEEE30"
     ''
     '' Assume if the background is transparent, that the 
     '' background will be dark for this theme
@@ -380,7 +382,7 @@ skinparam agent {
 !startsub note
 skinparam note {
 	BorderThickness 1
-	BackgroundColor $BOXBG
+	BackgroundColor $NOTEBG
 	BorderColor $INFO_DARK
 	FontColor $NOTE_TEXT
 }
