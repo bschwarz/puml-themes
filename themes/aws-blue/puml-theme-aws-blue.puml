@@ -201,7 +201,7 @@ skinparam defaultFontName       "Verdana"
 skinparam defaultFontSize       12
 skinparam dpi                   100
 skinparam shadowing             false
-skinparam roundcorner           20
+skinparam roundcorner           30
 skinparam ParticipantPadding    40
 skinparam BoxPadding            40
 skinparam Padding               14
@@ -220,7 +220,7 @@ skinparam stereotype {
 }
 skinparam title {
 	FontSize	    	         20
-	BorderRoundCorner            8
+	BorderRoundCorner            30
 	BorderThickness 	         1
 	BackgroundColor  $SECONDARY_LIGHT-$SECONDARY
 	FontColor $PRIMARY
@@ -575,7 +575,7 @@ wbsDiagram, mindmapDiagram {
   node {
     $primary_scheme()
     Padding 15
-    RoundCorner 20
+    RoundCorner 30
   }
   LeafNode {
 	FontSize 10
@@ -606,7 +606,7 @@ wbsDiagram, mindmapDiagram {
   }
   title {
 	FontSize 20
-	BorderRoundCorner            8
+	BorderRoundCorner            30
 	BorderThickness 	         1
 	BackgroundColor  $SECONDARY_LIGHT-$SECONDARY_BG
 	FontColor $PRIMARY_TEXT
@@ -669,6 +669,6 @@ ganttDiagram {
   }
 }
 sequenceDiagram {
-    RoundCorner 20
+    RoundCorner 30
 }
 </style>
