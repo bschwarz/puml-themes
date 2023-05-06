@@ -59,6 +59,7 @@ skinparam useBetaStyle false
     ' !$SECONDARY_LIGHT = "ffffff"
     !$SUCCESS        = "#66CC00"
     ' !$INFO           = "#4B286D"
+    !$NOTE_TEXT      = $DARK
     !$SECONDARY_TEXT = $DARK
     !$FGCOLOR        = $DARK
 	!$DIAMOND_BD     = %darken($SECONDARY, $PUML_GRADIENT)
