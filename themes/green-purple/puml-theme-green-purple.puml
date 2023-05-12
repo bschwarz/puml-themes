@@ -317,10 +317,10 @@ skinparam sequence {
 	''
 	GroupBorderColor $DARK
 	GroupFontColor $DARK
-	GroupHeaderFontColor $INFO
-	GroupBackgroundColor $SECONDARY
-	GroupBodyBackgroundColor $PUML_BGCOLOR
-	GroupHeaderBackgroundColor $PUML_BGCOLOR
+	GroupHeaderFontColor $SECONDARY
+	GroupBackgroundColor $NOTEBG
+	' GroupBodyBackgroundColor $PUML_BGCOLOR
+	GroupHeaderBackgroundColor $NOTEBG
 	''
 	DividerBackgroundColor $DARK
     DividerBorderColor $DARK
