@@ -50,16 +50,16 @@ skinparam useBetaStyle false
 !$SECONDARY       = "#4B286D"
 !$SECONDARY_LIGHT = %lighten($SECONDARY, $PUML_GRADIENT)
 !$DANGER          = "#C12335"
-!DARK10           = %darken($PRIMARY,10)
-!DARK20           = %darken($PRIMARY,20)
-!DARK30           = %darken($PRIMARY,30)
-!DARK40           = %darken($PRIMARY,40)
-!DARK50           = %darken($PRIMARY,50)
-!LIGHT10          = %lighten($PRIMARY,10)
-!LIGHT20          = %lighten($PRIMARY,20)
-!LIGHT30          = %lighten($PRIMARY,30)
-!LIGHT40          = %lighten($PRIMARY,40)
-!LIGHT50          = %lighten($PRIMARY,50)
+!$DARK10           = %darken($PRIMARY,10)
+!$DARK20           = %darken($PRIMARY,20)
+!$DARK30           = %darken($PRIMARY,30)
+!$DARK40           = %darken($PRIMARY,40)
+!$DARK50           = %darken($PRIMARY,50)
+!$LIGHT10          = %lighten($PRIMARY,10)
+!$LIGHT20          = %lighten($PRIMARY,20)
+!$LIGHT30          = %lighten($PRIMARY,30)
+!$LIGHT40          = %lighten($PRIMARY,40)
+!$LIGHT50          = %lighten($PRIMARY,50)
 ''
 '' define colors based on PUML_MODE
 ''
