@@ -210,13 +210,13 @@ skinparam useBetaStyle false
 ''
 skinparam SequenceBoxBackgroundColor $BOXBG
 skinparam defaultFontName       "Verdana"
-skinparam defaultFontSize       12
+skinparam defaultFontSize       20
 skinparam dpi                   100
 skinparam shadowing             false
 skinparam roundcorner           30
-skinparam ParticipantPadding    40
-skinparam BoxPadding            40
-skinparam Padding               14
+skinparam ParticipantPadding    20
+skinparam BoxPadding            20
+skinparam Padding               9
 skinparam ArrowColor            $DARK
 skinparam stereotype {
     CBackgroundColor $SECONDARY_LIGHT
@@ -231,7 +231,7 @@ skinparam stereotype {
     NBorderColor $INFO_DARK
 }
 skinparam title {
-	FontSize	    	         20
+	FontSize	    	         28
 	BorderRoundCorner            30
 	BorderThickness 	         1
 	BackgroundColor  $SECONDARY_LIGHT-$SECONDARY
@@ -330,7 +330,6 @@ skinparam sequence {
 	GroupHeaderFontColor $SECONDARY
 	GroupBackgroundColor $NOTEBG
 	' GroupBodyBackgroundColor $PUML_BGCOLOR
-	GroupHeaderBackgroundColor $NOTEBG
 	''
 	DividerBackgroundColor $DARK
     DividerBorderColor $DARK
