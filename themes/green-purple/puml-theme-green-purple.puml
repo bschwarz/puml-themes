@@ -277,9 +277,9 @@ skinparam activity {
 	StartColor $INFO
 	EndColor $INFO
 	''
-	DiamondBackgroundColor $SECONDARY_BG
-  	DiamondBorderColor $DIAMOND_BD
-  	DiamondFontColor $SECONDARY_TEXT
+	DiamondBackgroundColor $LIGHT_LIGHT-$LIGHT
+  	DiamondBorderColor $SECONDARY
+  	DiamondFontColor $SECONDARY
 }
 !endsub
 
