@@ -231,12 +231,13 @@ skinparam stereotype {
     NBorderColor $INFO_DARK
 }
 skinparam title {
-	FontSize	    	         28
+	FontSize	    	         24
 	BorderRoundCorner            30
 	BorderThickness 	         1
 	BackgroundColor  $SECONDARY_LIGHT-$SECONDARY
-	FontColor $SECONDARY
+	FontColor $WHITE
 	BorderColor $SECONDARY
+	TextAlignment center
 }
 
 skinparam legend {
