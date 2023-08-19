@@ -230,7 +230,6 @@ skinparam stereotype {
     NBackgroundColor $INFO_LIGHT
     NBorderColor $INFO_DARK
 }
-skinparam titlebackgroundColor $SECONDARY_LIGHT-$SECONDARY
 
 skinparam title {
 	FontSize	    	         24
