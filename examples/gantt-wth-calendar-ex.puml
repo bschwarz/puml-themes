@@ -1,4 +1,4 @@
-@startuml
+@startgantt
 
 !if %variable_exists("$THEME")
 title Gantt Diagram With Calendar - $THEME theme
@@ -24,4 +24,4 @@ end note
 -- Separator title --
 [M1] happens on 5 days after [Task1]'s end
 -- end --
-@enduml
+@endgantt
